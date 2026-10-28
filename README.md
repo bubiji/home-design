@@ -10,7 +10,7 @@
 | `画墙/` | 客厅画墙:打印模板、名画素材、画墙预览页、参考书目、`脚本/gen_print_*.py`(A4 打印稿生成,含 ICC 转换)。`06_打印稿/` 成品(760 MB)不入库,由脚本重新生成 |
 | `调研/` | 装备采购 2026Q4(显示器/扩展坞/硬盘)、DJI 选购(机型对比、MSDK 实验计划、二手行情)、新机选型、备选方案总表 |
 | `硬盘与照片/` | 22T 硬盘检测教程、照片迁移方案 |
-| `src/` | `art_fetch`(名画原图抓取)、`art_print`(打印)、`lyrics_ruby`(歌词注音 PDF)。煤炉比价 `price_check` 2026-10-28 已移到 claude-infra `components/home-assets/src/` |
+| `src/` | `lyrics_ruby`(歌词注音 PDF)。`art_fetch`(名画原图抓取)、`art_print`(打印)、`price_check`(煤炉比价)2026-10-28 已并入 home-assets 插件,代码在 claude-infra `components/home-assets/src/`;名画库与画墙稿件仍在本仓 |
 | `assets/` | 脚本用到的素材 |
 | `.claude/skills/drone-msdk/` | DJI MSDK 知识卡 |
 
