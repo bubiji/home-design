@@ -1,0 +1,68 @@
+{
+  "no": 403,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/birch-forest"
+  ],
+  "title_en": "Birch Forest",
+  "title_ja": "",
+  "title_zh": "白桦林",
+  "year": "1903",
+  "year_sort": 1903,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Gustav Klimt, Birch Forest, 1903 - Paul G. Allen Collection.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "110 × 110 cm",
+  "museum": "私人藏品(Paul G. Allen 旧藏,2022 年佳士得拍卖后易主)",
+  "museum_city": "未公开(私人藏家)",
+  "accession": "无(私人收藏,无馆藏编号)",
+  "museum_url": "https://commons.wikimedia.org/wiki/File:Gustav_Klimt,_Birch_Forest,_1903_-_Paul_G._Allen_Collection.jpg",
+  "hd_available": "是:Commons 有佳士得提供的高清图(见 image 字段);作者 1918 年逝世,公有领域。",
+  "exhibited_history": [
+    "2006 年之前悬挂于维也纳美景宫(Belvedere),此后归还给布洛赫-鲍尔继承人",
+    "2022 年 11 月 9 日佳士得纽约保罗·艾伦收藏拍卖会,以 1.04585 亿美元成交,创克里姆特拍卖纪录"
+  ],
+  "exhibited_future": [],
+  "future_note": "私人藏品,无公开展出安排;未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。",
+  "summary": "1903 年的方形风景画,满幅是细密的白桦树干,几乎没有天空与地平线。曾属布洛赫-鲍尔家族,经纳粹掠夺和 2006 年归还后,2022 年以 1.05 亿美元左右成交。",
+  "story": "这幅画画成于 1903 年,是克里姆特夏季在奥地利阿特湖畔度假时创作的一系列风景画之一。画面取方形构图,树干如栅栏般排布,地面铺满秋叶,几乎没有天空。作品旧属费迪南德和阿黛勒·布洛赫-鲍尔夫妇,二战中被纳粹没收,后入藏维也纳美景宫。2006 年作为被掠夺艺术品被归还给家属,随后进入保罗·艾伦收藏。2022 年 11 月,艾伦遗产在佳士得纽约的拍卖会上,它以 1.04585 亿美元成交。",
+  "technique_note": "方形布面油画,以重复竖直的白桦树干和细碎的叶斑形成近乎装饰性的平面图案,压缩了景深,有别于传统的透视风景。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/birch-forest",
+    "https://commons.wikimedia.org/wiki/File:Gustav_Klimt,_Birch_Forest,_1903_-_Paul_G._Allen_Collection.jpg",
+    "https://www.bloomberg.com/news/articles/2022-11-10/paul-allen-auction-results-klimt-painting-sets-105-million-record",
+    "https://www.wikidata.org/wiki/Q113637987"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q113637987",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AGustav_Klimt%2C_Birch_Forest%2C_1903_-_Paul_G._Allen_Collection.jpg",
+      "status": 200,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q113637987",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Gustav_Klimt%2C_Birch_Forest%2C_1903_-_Paul_G._Allen_Collection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Gustav_Klimt,_Birch_Forest,_1903_-_Paul_G._Allen_Collection.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 2048,
+    "height": 2019,
+    "bytes": 1921118,
+    "sha256": "3e142dcfe975b41b99679de130a67e0f398b013188c875fdf58e3de17100116f"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "no": 403,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-gray-tree"
+  ],
+  "title_en": "The Gray Tree",
+  "title_ja": "",
+  "title_zh": "灰树",
+  "year": "1911",
+  "year_sort": 1911,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Piet mondrian, l'albero girgio, 1911.jpg",
+    "note": "展厅实拍(CC BY)"
+  },
+  "medium": "布面油画(oil on canvas)",
+  "dimensions": "79.7 × 109.1 cm(沿用 Commons 馆藏标注;维基百科另记 78.5 × 107.5 cm)",
+  "museum": "Kunstmuseum Den Haag",
+  "museum_city": "海牙(荷兰)",
+  "accession": "0334314(Commons 记录)",
+  "museum_url": "https://www.kunstmuseum.nl/en",
+  "hd_available": "否/有限:Commons 仅有展厅实拍(4230×3102 px,CC BY 3.0,Sailko 2017),非正面翻拍高清。作品本身 1911 年创作,公有领域。",
+  "exhibited_history": [
+    "展览史未查到(馆方现有「Mondrian & De Stijl」常设性展示,是否含本作未核实)"
+  ],
+  "exhibited_future": [],
+  "future_note": "Kunstmuseum Den Haag 官网列有「Mondrian & The Road to Abstraction」为即将举办的展览,但页面未给出日期,也未列出展品,故不能当作本作的外展计划;不填入 exhibited_future。",
+  "summary": "蒙德里安 1911 年的树木系列代表作,灰色枝干像细密的网在椭圆形轮廓中盘绕,前景与后景互相交织。受立体主义影响,色彩极度克制。",
+  "story": "这幅画创作于蒙德里安刚开始尝试立体主义的阶段。树形略成椭圆,前景和背景的元素互相渗透,色调高度克制,体现了毕加索与布拉克的立体主义影响。在后来的《盛开的苹果树》(1912)里,抽象程度又进一步推进。这是蒙德里安从具象树木走向格子抽象的关键一步,现藏于海牙 Kunstmuseum(原海牙市立博物馆),该馆是世界上收藏蒙德里安最多的机构之一。",
+  "technique_note": "布面油画,色板以灰、黑、褐为主,枝干以弯曲的线条构成网状;立体主义式的浅空间。详细材料分析未查到。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/the-gray-tree",
+    "https://en.wikipedia.org/wiki/Gray_Tree",
+    "https://commons.wikimedia.org/wiki/File:Piet_mondrian,_l'albero_girgio,_1911.jpg"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5598238",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "http://www.gemeentemuseum.nl/en/collection/item/1039",
+      "status": "URLError",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.gemeentemuseum.nl/nl/collectie/de-grijze-boom",
+      "status": "URLError",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Gray_Tree",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3APiet_mondrian%2C_l%27albero_girgio%2C_1911.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q5598238",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Piet_mondrian%2C_l%27albero_girgio%2C_1911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Piet_mondrian,_l%27albero_girgio,_1911.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 4230,
+    "height": 3102,
+    "bytes": 6258877,
+    "sha256": "8866a5a6313ef6894614bcbe02f6310f3ea967c3e9cf0b039060c9bf3add2005"
+  }
+}

@@ -1,0 +1,97 @@
+{
+ "author": {
+  "name_zh": "葛饰北斋",
+  "name_en": "Katsushika Hokusai",
+  "life": "1760–1849",
+  "dir": "葛饰北斋_Katsushika.Hokusai_1760-1849",
+  "bio": "葛饰北斋(1760–1849)是江户后期的浮世绘画师,以《冨岳三十六景》(约1830–32)和《富岳百景》(1834–)等富士题材闻名,晚年仍持续创作。《神奈川冲浪里》被称为可能是艺术史上被复制最多的图像,影响过德彪西、梵高与莫奈等西方艺术家(英文维基)。"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 101,
+   "favorite": true,
+   "favorite_reason": "客厅画墙 F4(你已有实物)",
+   "title_en": "The Great Wave off Kanagawa (Thirty-six Views of Mount Fuji)",
+   "title_ja": "冨嶽三十六景 神奈川沖浪裏",
+   "title_zh": "神奈川冲浪里",
+   "year": "c.1831",
+   "year_sort": 1831,
+   "technique": "版画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Great Wave off Kanagawa2.jpg",
+    "note": ""
+   },
+   "medium": "多色木版画(锦绘,大判横幅),使用普鲁士蓝(“ベロ藍”)",
+   "dimensions": "约 26 × 38(Commons 记 LOC 数字化本尺寸 26×38 cm;英文维基记该图通行尺寸 24.6 × 36.5)",
+   "museum": "Library of Congress, Prints and Photographs Division(美国国会图书馆;Commons 上该图为 LOC 数字化后修复版)",
+   "museum_city": "Washington, D.C.",
+   "accession": "未查到:LOC 有多份《神奈川冲浪里》(检索到 FP 2 - JPD no. 2084 (B size)、no. 1682 等),未能确认哪一份对应本图",
+   "museum_url": "https://www.loc.gov/item/2008661021/",
+   "hd_available": "是:Commons 文件 8242×5640 px,LOC 用 Sinar 54H 以 600 dpi 数字化,公有领域(museum_url 为 LOC《Kanagawa oki nami ura》记录,是否即本图印本未确认)",
+   "exhibited_history": [
+    "约1831年底刊行,《冨岳三十六景》系列第一幅(商业出版,初印约1000张,估计总印数约8000张)",
+    "本 LOC 印本的展览史:未查到",
+    "约113张初版印本存世,其中35张在美国的博物馆,波士顿美术馆藏7张最多;大都会博物馆、大英博物馆、芝加哥艺术博物馆均有著名印本(英文维基,2022年数据)",
+    "2026-03-28 至 06-14 国立西洋美术馆「北斎 冨嶽三十六景 井内コレクション」展出该图(含两张异印次)——为井内藏本,非 LOC 本"
+   ],
+   "exhibited_future": [
+    "2026-10-20 至 2027-01-17 伦敦 Dulwich Picture Gallery「Hokusai: Thirty-six Views of Mount Fuji from the Iuchi Collection」,展品含一张保存良好的《神奈川冲浪里》(井内藏本,非 LOC 本;来源:https://www.dulwichpicturegallery.org.uk/whats-on/hokusai-thirty-six-views-of-mt-fuji-from-the-iuchi-collection/)"
+   ],
+   "future_note": "以上展览为井内收藏的另一印本,展期来自 Dulwich 官方页面及检索摘要;本 LOC 印本无展出信息。",
+   "summary": "《神奈川冲浪里》是《冨岳三十六景》的第一幅:三艘运鱼的押送船在巨浪下挣扎,富士山缩在远景。它靠普鲁士蓝与近大远小的构图成为最广为人知的日本版画。",
+   "story": "此图约1831年底刊行,尺寸约24.6×36.5厘米。画中是三艘押送船(押送り船,运送鲜鱼的快船)在滔天巨浪间,富士山被压缩成远处的小小一角。初次印刷约一千张,后来估计总共印了约八千张,所以存世印本极多。据英文维基,截至2022年约有113张初版存世,波士顿美术馆藏7张为最多。北斎采用了1829年后在日本流行的进口颜料普鲁士蓝(ベロ藍)。这里的图像来自美国国会图书馆的数字化印本,而知名的另一些印本在大都会博物馆、大英博物馆和芝加哥艺术博物馆。",
+   "technique_note": "锦绘多色木版,主色为进口普鲁士蓝,与传统日本审美和西方透视手法相融合(英文维基);印次早晚不同,浪线与蓝色浓度、渐变有差别,故早印本更受重视。LOC 本具体印次未核实。",
+   "sources": [
+    "https://commons.wikimedia.org/wiki/File:Great_Wave_off_Kanagawa2.jpg",
+    "https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa",
+    "https://www.loc.gov/item/2008661021/",
+    "https://www.nmwa.go.jp/en/exhibitions/2026hokusai.html",
+    "https://www.dulwichpicturegallery.org.uk/whats-on/hokusai-thirty-six-views-of-mt-fuji-from-the-iuchi-collection/"
+   ]
+  },
+  {
+   "no": 102,
+   "favorite": true,
+   "favorite_reason": "The Story of Art 收录",
+   "title_en": "Fuji seen behind a cistern (One Hundred Views of Mount Fuji)",
+   "title_ja": "富嶽百景",
+   "title_zh": "桶后望富士(富岳百景)",
+   "year": "1834",
+   "year_sort": 1834,
+   "technique": "版画",
+   "book_relation": "《The Story of Art》1951 英文初版 fig.330(第 25 章)——16 版编号未核对",
+   "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "Commons 未找到对应页的可用高清图"
+   },
+   "medium": "单色(墨与灰色版)木版画插图,书籍版面(《富岳百景》二编)",
+   "dimensions": "未查到(书籍插图,单页版面尺寸各馆不一)",
+   "museum": "未确定馆藏:本图无 Commons 高清图,亦未确认具体印本",
+   "museum_city": "未查到",
+   "accession": "未查到",
+   "museum_url": "https://www.ndl.go.jp/en/imagebank/theme/fugaku100",
+   "hd_available": "否:Commons 无可用高清图;整套《富岳百景》有多处数字化(NDL、Smithsonian、Internet Archive 等,见 sources),但本幅的日文图名与页码尚未核实",
+   "exhibited_history": [
+    "《富岳百景》初编1834年3月、二编1835年刊行(书籍出版,非展览);三编约1849年出版",
+    "英文书名《Fuji seen behind a cistern》系 Gombrich《艺术的故事》配图题(检索确认该题、1835 年);未能据此确定对应的日文图名",
+    "具体展览史:未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到。",
+   "summary": "这幅出自《富岳百景》二编(1835),Gombrich 在《艺术的故事》中用来说明北斎如何把富士山当作偶然出现在脚手架、水池之类日常物后面的风景。它是单色套印的书籍插图,不是单张彩色版画。",
+   "story": "《富岳百景》是北斎的三卷画册,初编1834年3月、二编1835年出版,三编晚至1840年代末,共约102图。前两卷以极精细的雕版和灰色渐变的单色印刷著称,被称为“单色印刷的杰作”。Gombrich 写到北斎会把富士山画成“偶然出现在脚手架后面”的样子,并附本图,英文图题为《Fuji seen behind a cistern》,注为1835年。日文图名:我未能核实。二编中有《筧の不二》(英译约为“The Flume of Fuji”,benricho 站点页面为第22图),但它是否就是 Gombrich 所指的“cistern”未经确认,请勿当作定论。",
+   "technique_note": "《富岳百景》为书籍插图,单色墨线加灰色渐变套印;“cistern/水槽”这类前景物遮挡富士的构图,体现北斎用日常物打破传统风景构图。具体到本幅的刻印细节未查到。",
+   "sources": [
+    "https://en.wikipedia.org/wiki/One_Hundred_Views_of_Mount_Fuji",
+    "https://www.ndl.go.jp/en/imagebank/theme/fugaku100",
+    "https://www.benricho.org/Unchiku/Ukiyoe_NIshikie/Hokusai-Fugakuhyakkei/02/22.html",
+    "https://archive.org/details/fugakuhyakkei00kats",
+    "https://library.si.edu/digital-library/book/fugakuhyakkeiv2kats"
+   ]
+  }
+ ]
+}

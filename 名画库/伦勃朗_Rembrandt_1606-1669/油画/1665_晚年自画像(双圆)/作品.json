@@ -1,0 +1,73 @@
+{
+  "no": 402,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/self-portrait-rembrandt"
+  ],
+  "title_en": "Self-Portrait with Two Circles",
+  "title_ja": "",
+  "title_zh": "晚年自画像(双圆)",
+  "year": "c.1665",
+  "year_sort": 1665,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Rembrandt Self-portrait (Kenwood).jpg",
+    "note": "文件名为 Kenwood 自画像;画框之外标「同系列」"
+  },
+  "medium": "布面油画(oil on canvas)",
+  "dimensions": "114.3 × 94 cm(维基百科/Wikidata;原记 114 × 94)",
+  "museum": "Kenwood House(Iveagh Bequest,英国遗产委员会 English Heritage 管理)",
+  "museum_city": "伦敦",
+  "accession": "Iveagh Bequest 编号 57(维基百科);Wikidata 另记 88028836(应为 English Heritage 编号,未核)",
+  "museum_url": "https://www.english-heritage.org.uk/visit/places/kenwood/history-stories-kenwood/rembrandt-self-portrait/",
+  "hd_available": "是:维基共享资源有大图(授权为公有领域,分辨率本次未核);English Heritage 页面未提供下载信息",
+  "exhibited_history": [
+    "首次展览:未查到",
+    "作为 Iveagh Bequest 藏品常设于 Kenwood House(据维基);历次外借展出本次未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "常设于 Kenwood House(据维基)。未查到公开来源的未来展览(本次联网检索额度用尽,未检索馆方展讯;仅核对维基/维基数据)。",
+  "summary": "《双圆自画像》约作于1665–1669年,是伦勃朗四十余幅油画自画像中最具纪念碑感的一幅,他手持调色板和画笔,背后是两个残缺的圆。它现藏伦敦肯伍德宅邸。",
+  "story": "画中伦勃朗身穿毛领长袍,头戴白帽,一手叉腰,神情带着挑战甚至倔强的意味。X光显示他起初构思的是正在画布上作画、右臂抬起的姿势,后来改为手叉腰,使形象更趋纪念碑式。背景的两个圆长期争议不断:有人说是世界地图的半球,有人说是亚里士多德的 rota,或象征乔托徒手画圆那类技艺完美的故事,也有人认为只是构图结构。画上没有签名和年份,对晚期自画像来说不寻常。乔舒亚·雷诺兹评它「非常未完成」却赞其色彩与效果,弗拉戈纳尔曾临摹它。",
+  "technique_note": "晚期即兴式笔触:脸部与帽子右侧先铺灰色中间调,再湿画湿叠加亮部与暗部,并用笔尾在湿颜料中刻出胡须、左眉、衬衫领口的线条;手、调色板与毛皮用极快的笔触完成,眼眶则以细腻透明罩染处理。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/self-portrait-rembrandt",
+    "https://en.wikipedia.org/wiki/Self-Portrait_with_Two_Circles",
+    "https://www.wikidata.org/wiki/Q2872725"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2872725",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Self-Portrait_with_Two_Circles",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3ARembrandt_Self-portrait_%28Kenwood%29.jpg",
+      "status": 200,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q2872725",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Rembrandt_Self-portrait_%28Kenwood%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Rembrandt_Self-portrait_(Kenwood).jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 3807,
+    "height": 4588,
+    "bytes": 2161347,
+    "sha256": "57732f0c27962854c3a8f24bfaf61ac84b3441fc22463beeb389e01a0ff55287"
+  }
+}

@@ -1,0 +1,55 @@
+{
+ "author": {
+  "name_zh": "保罗·高更",
+  "name_en": "Paul Gauguin",
+  "life": "1848–1903",
+  "dir": "高更_Paul.Gauguin_1848-1903",
+  "bio": "保罗·高更(1848–1903)是法国后印象派画家,早年做过证券经纪,后专心绘画,曾在阿尔勒与梵高同住。1891年起前往塔希提,以强烈色彩和平面化形体描绘波利尼西亚题材,1903年在马克萨斯群岛去世。"
+ },
+ "source_article": "https://spice.eplus.jp/articles/347404",
+ "works": [
+  {
+   "no": 101,
+   "favorite": true,
+   "favorite_reason": "奥赛东京展报道作品(SPICE)",
+   "title_en": "Arearea (Joyousness)",
+   "title_ja": "アレアレア",
+   "title_zh": "欢乐(Arearea)",
+   "year": "1892",
+   "year_sort": 1892,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Paul Gauguin - Arearea - Google Art Project.jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "75 × 94(各来源略有出入:74.5 × 93.5 / 75 × 93 / 75 × 94)",
+   "museum": "Musée d'Orsay",
+   "museum_city": "Paris",
+   "accession": "RF 1961 6(Frédéric Lung 夫妇1961年遗赠,先入卢浮宫,1986年转入奥赛)",
+   "museum_url": "https://www.musee-orsay.fr/en/artworks/arearea-291",
+   "hd_available": "是:Commons 有 File:Paul Gauguin - Arearea - Google Art Project.jpg(7441×5860);奥赛官网页本次抓取被拒 403,开放许可未核",
+   "exhibited_history": [
+    "首次展览:1893年11月巴黎杜朗-吕埃尔画廊「保罗·高更近作展」;据法语维基,该作引来嘲讽,高更自己却视之为最好之作",
+    "1895年德鲁奥拍卖会上被高更自己买回,后属沃拉尔与 Else von Guaita 收藏",
+    "1961年遗赠国家,1986年转奥赛",
+    "2026-11-14 至 2027-03-28 东京都美术馆(见 exhibited_future)"
+   ],
+   "exhibited_future": [
+    "2026-11-14 至 2027-03-28 东京都美术馆「東京都美術館開館100周年記念 オルセー美術館所蔵 いまを生きる歓び」(来源:https://spice.eplus.jp/articles/347404)"
+   ],
+   "future_note": "东京展官方页说明本展不巡回,仅东京一站;本作入展依据为 SPICE 报道(已记录)。2026-09-30 前未查到其他公开的后续借展安排。",
+   "summary": "《欢乐》(Arearea,1892)是高更第一次塔希提之行的作品,画面中央两位女子坐在树下,一人吹奏乐器,旁边有一只红狗。东京展将它放在展览尾声部分。",
+   "story": "1892年高更在塔希提第一次逗留期间画了这幅画,题名 Arearea 是塔希提语「欢乐」。画面前景两位女子坐在树下,一人吹奏 vivo(一种鼻笛式乐器),背景有三位女子敬拜一尊虚构神像,旁边有狗。1893年11月它在杜朗-吕埃尔画廊展出,据法语维基引来不少嘲讽,高更却认为它是自己最好的作品之一。1895年德鲁奥拍卖会上他自己把它买了回来,后经沃拉尔等人之手,1961年由 Lung 夫妇遗赠国家。评论者对其中的红狗有不少揣测,象征含义无定论。",
+   "technique_note": "布面油画,以大块平涂色和红色的狗、弯曲的树干切割画面,把梦与现实并置(据法语维基)。具体颜料分析未查到。",
+   "sources": [
+    "https://spice.eplus.jp/articles/347404",
+    "https://www.musee-orsay.fr/en/artworks/arearea-291",
+    "https://en.wikipedia.org/wiki/Arearea",
+    "https://fr.wikipedia.org/wiki/Arearea"
+   ]
+  }
+ ]
+}

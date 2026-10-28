@@ -1,0 +1,73 @@
+{
+  "no": 403,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/goldfish"
+  ],
+  "title_en": "Goldfish",
+  "title_ja": "",
+  "title_zh": "金鱼",
+  "year": "1912",
+  "year_sort": 1912,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:I pesci rossi.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "140 × 98 cm(原记 146 × 97,按 Wikipedia/普希金馆著录修正)",
+  "museum": "Pushkin Museum, Moscow",
+  "museum_city": "俄罗斯莫斯科",
+  "accession": "Ж-3299",
+  "museum_url": "https://www.arts-museum.ru/data/fonds/europe_and_america/j/2001_3000/6063_Krasnye_ryby_Zolotye_rybki/index.php?lang=en",
+  "hd_available": "是:Commons 有高清图(见 image 字段);作者 1954 年逝世,1912 年作品公有领域。",
+  "exhibited_history": [
+    "1912 年舒金在巴黎画室购得,陈列于其莫斯科宅邸「粉色客厅」",
+    "1948 年起藏于普希金博物馆"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。",
+  "summary": "圆形鱼缸里的金鱼静物,橙色鱼群与粉、绿的背景形成强烈的互补色对比。灵感来自摩洛哥丹吉尔之行。",
+  "story": "1912 年马蒂斯到摩洛哥丹吉尔,注意到当地人对鱼缸里游动金鱼的着迷。回到巴黎近郊伊西莱穆利诺的家后,他在温室花园里画了这一系列金鱼静物。舒金 1912 年直接从他的画室买下这一幅,放在自己宅邸的粉色客厅里。画中四条金鱼以正面与俯视两种视角呈现,后者仅以色笔触暗示。1948 年作品进入普希金博物馆。",
+  "technique_note": "明亮的橙色与较柔和的粉、绿形成互补对比;鱼缸同时用正面和俯视两个视点呈现,压平空间,体现他对装饰性与空间张力的探索。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/goldfish",
+    "https://en.wikipedia.org/wiki/Goldfish_(Matisse)",
+    "https://www.arts-museum.ru/data/fonds/europe_and_america/j/2001_3000/6063_Krasnye_ryby_Zolotye_rybki/index.php?lang=en"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3791123",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Goldfish_(Matisse)",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AI_pesci_rossi.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q3791123",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/I_pesci_rossi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:I_pesci_rossi.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 2052,
+    "height": 3200,
+    "bytes": 1772697,
+    "sha256": "63a7965ad280aa580d5c5d76a42573cbdb563579184bceebc524b0f3708294bf"
+  }
+}

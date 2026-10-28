@@ -1,0 +1,53 @@
+{
+  "no": 7,
+  "title_en": "Rain, Steam and Speed - The Great Western Railway",
+  "title_ja": "《雨、蒸気、速度─グレート・ウェスタン鉄道》",
+  "title_zh": "雨、蒸汽和速度——大西部铁路",
+  "year": "1844",
+  "year_sort": 1844,
+  "technique": "油画",
+  "medium": "布面油画",
+  "dimensions": "91 x 121.8 cm",
+  "museum": "National Gallery",
+  "museum_city": "London",
+  "accession": "NG538",
+  "museum_url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-rain-steam-and-speed-the-great-western-railway",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Turner - Rain, Steam and Speed - National Gallery file.jpg",
+    "direct_url": "",
+    "width": 5661,
+    "height": 4226,
+    "license": "Public domain",
+    "license_url": "https://commons.wikimedia.org/wiki/File:Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg"
+  },
+  "hd_available": "是(Commons 5661x4226,公有领域)",
+  "exhibited_history": [
+    "1844 Royal Academy of Arts, London(首次展出)",
+    "近年曾在 Tate Britain 与 Science Museum 展出(National Gallery 页面)",
+    "2025-26 Tate Britain 'Turner and Constable' 展览页未提及本作"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到。现常设于 National Gallery Room 40。",
+  "summary": "特纳1844年的油画,画一列火车在雨中驶过泰晤士河上的梅登黑德铁路桥,雨、蒸汽与速度融成一片光雾。它被视为把工业现代性当作崇高题材的开创之作。",
+  "story": "画面表现布鲁内尔设计、1838年完工的梅登黑德铁路桥,火车向伦敦方向驶来,桥拱以夸张透视急速收向远方。特纳把火车画得模糊,让它融入雨、雾和蒸汽的大气之中,画名的三要素分别是雨、蒸汽与机车本身。画中铁轨上有一只野兔,据乔治·莱斯利之说象征速度本身,但因颜料透明度变化如今几乎看不见。前景河上小船和田里的犁,与机械化的火车形成慢与快的对比。该作与《战舰无畏号》同样处理新旧交替的主题。它于1856年随特纳遗赠入藏国家美术馆。",
+  "technique_note": "据 Wikipedia:短笔触铺色,以调色刀堆厚颜料,用腻子点出雨点,并用铬黄表现阳光;强调大气而非精确再现。",
+  "sources": [
+    "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-rain-steam-and-speed-the-great-western-railway",
+    "https://en.wikipedia.org/wiki/Rain,_Steam_and_Speed_%E2%80%93_The_Great_Western_Railway",
+    "https://commons.wikimedia.org/wiki/File:Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg",
+    "https://www.tate.org.uk/whats-on/tate-britain/turner-and-constable"
+  ],
+  "favorite": true,
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Turner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 5661,
+    "height": 4226,
+    "bytes": 4056296,
+    "sha256": "b391ff3e06a23557c8afd006691236ab1d68d2a4357d9b0944bb97d2389fda85"
+  }
+}

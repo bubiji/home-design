@@ -1,0 +1,59 @@
+{
+  "no": 403,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/rainstorm-beneath-the-summit"
+  ],
+  "title_en": "Rainstorm Beneath the Summit",
+  "title_ja": "",
+  "title_zh": "山下白雨",
+  "year": "c.1831",
+  "year_sort": 1831,
+  "technique": "版画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Rainstorm Beneath the Summit by Hokusai (Shimane Art Museum).jpg",
+    "note": ""
+  },
+  "medium": "多色木版画(錦絵),纸本;《冨岳三十六景》之一(大判横绘)",
+  "dimensions": "25.4 × 37.6 cm",
+  "museum": "島根県立美術館(Shimane Art Museum,本图印本,Commons 所标);另有大都会艺术博物馆等多处印本",
+  "museum_city": "日本岛根县松江市",
+  "accession": "未查到",
+  "museum_url": "https://www.shimane-art-museum.jp/",
+  "hd_available": "是:Commons 文件 3650×2504 像素(公有领域)",
+  "exhibited_history": [
+    "本图印本的具体展览史:未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "Dulwich「井内藏品」展(2026-10-20 至 2027-01-17)展出整套《富岳三十六景》共 46 幅,理论上含本作之井内印本,非岛根印本;是否含此幅须以展览名单为准。",
+  "summary": "《山下白雨》画面上方是晴空中的富士山顶,下方山腰却电闪雷鸣、乌云翻滚。它与《凯风快晴》是姊妹篇,一红一黑,常被并列讨论。",
+  "story": "富士山的山顶晴朗、山腰下起骤雨,这是登山者才见的现象,日语“山下白雨”即山下阵雨。(未核对)北斋用黑色的暗部加锯齿般的闪电把山脚做成了动荡的下半部,而山顶保持着红褐色的静态,这种上下反差是构图的核心。它与《凯风快晴》一起属于《冨岳三十六景》的名作,常被视为同一天气现象的“晴”与“雨”两面。(未核对)由于使用同一套版木重复刷印,不同馆藏的印本颜色和天空渐变差异很大。(未核对)",
+  "technique_note": "多色木版:山顶红褐色平涂,山腰用浓墨与深蓝作暗部,闪电以留白线条刻出;云的轮廓是刻版线条加渐变刷色。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/rainstorm-beneath-the-summit",
+    "https://commons.wikimedia.org/wiki/File:Rainstorm_Beneath_the_Summit_by_Hokusai_(Shimane_Art_Museum).jpg"
+  ],
+  "links": [
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3ARainstorm_Beneath_the_Summit_by_Hokusai_%28Shimane_Art_Museum%29.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Rainstorm_Beneath_the_Summit_by_Hokusai_%28Shimane_Art_Museum%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Rainstorm_Beneath_the_Summit_by_Hokusai_(Shimane_Art_Museum).jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 3650,
+    "height": 2504,
+    "bytes": 7669258,
+    "sha256": "c214eee728b8ad430305ddd5b34565899d33f9912a1468731e40f98bc38c2b83"
+  }
+}

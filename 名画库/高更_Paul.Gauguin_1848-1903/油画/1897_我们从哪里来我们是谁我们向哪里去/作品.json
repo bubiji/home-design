@@ -1,0 +1,84 @@
+{
+  "no": 402,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/where-do-we-come-from"
+  ],
+  "title_en": "Where Do We Come From? What Are We? Where Are We Going?",
+  "title_ja": "",
+  "title_zh": "我们从哪里来?我们是谁?我们向哪里去?",
+  "year": "1897–1898",
+  "year_sort": 1897,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Gauguin - Where Do We Come From? What Are We? Where Are We Going? (1897-98).jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "139.1 × 374.6 cm",
+  "museum": "Museum of Fine Arts, Boston",
+  "museum_city": "美国波士顿",
+  "accession": "36.270",
+  "museum_url": "https://collections.mfa.org/objects/32558",
+  "hd_available": "是:MFA 开放图像;Commons 亦有高清图",
+  "exhibited_history": [
+    "1898 年 11 月巴黎 Vollard 画廊(未核对)"
+  ],
+  "exhibited_future": [],
+  "future_note": "MFA 常设展出,未查到 2026-09-30 之后的外借展出信息",
+  "summary": "这幅宽近 3.75 米的巨作自右向左展开人生从诞生到死亡的寓言,高更称之为自己的“遗嘱”。",
+  "story": "1897 年高更得知爱女 Aline 去世、自己又病重,便在塔希提画下这幅大作,并在完成后据称服砒霜自杀未遂。(未核对)画面从右侧的婴儿、中间的摘果者到左侧的老妇,安排了蓝色神像与各年龄的人物。画名三个问句写在左上角。1898 年 11 月送到巴黎 Vollard 画廊展出,1936 年波士顿美术馆购入。(未核对)",
+  "technique_note": "粗麻布(非细画布)上快速作画,色彩平涂,画幅横长,按阅读顺序从右至左排列人物,类似壁画或卷轴。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/where-do-we-come-from",
+    "https://commons.wikimedia.org/wiki/File:Gauguin_-_Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F_(1897-98).jpg",
+    "https://collections.mfa.org/objects/32558"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q890678",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Museum of Fine Arts, Boston object ID",
+      "url": "https://collections.mfa.org/objects/32558",
+      "status": 403,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E6%88%91%E4%BB%AC%E4%BB%8E%E4%BD%95%E5%A4%84%E6%9D%A5%EF%BC%9F%E6%88%91%E4%BB%AC%E6%98%AF%E8%B0%81%EF%BC%9F%E6%88%91%E4%BB%AC%E5%90%91%E4%BD%95%E5%A4%84%E5%8E%BB%EF%BC%9F",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AGauguin_-_Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F_%281897-98%29.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q890678",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Gauguin_-_Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F_%281897-98%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Gauguin_-_Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F_(1897-98).jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 5400,
+    "height": 1987,
+    "bytes": 3362814,
+    "sha256": "da51e8a654c7df621c1a42d3ea63f75e3fcccc779d5181e757fc2f9ceffa9813"
+  }
+}

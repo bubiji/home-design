@@ -1,0 +1,54 @@
+{
+  "no": 201,
+  "favorite": true,
+  "favorite_reason": "周杰伦《最伟大的作品》(2022) 引用的作品",
+  "culture_relation": [
+    "周杰伦《最伟大的作品》(2022):歌词提及——歌词提及桥上呐喊。(置信度:来源明确点名)"
+  ],
+  "title_en": "The Scream",
+  "title_ja": "",
+  "title_zh": "呐喊",
+  "year": "1893",
+  "year_sort": 1893,
+  "technique": "油画",
+  "book_relation": "《The Story of Art》1951 英文初版 fig.349 为同构图的石版画《Shouting》(1895),不是本件 1893 年油画——16 版未核对",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Edvard Munch - The Scream - NG.M.00939 - National Museum of Art, Architecture and Design.jpg",
+    "note": ""
+  },
+  "medium": "纸板上蛋彩、油彩、粉彩与蜡笔(馆方数据:oil, tempera, pastel and crayon on cardboard)",
+  "dimensions": "73.5 x 91 cm",
+  "museum": "挪威国家博物馆(Nasjonalmuseet)",
+  "museum_city": "奥斯陆,挪威",
+  "accession": "NG.M.00939",
+  "museum_url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00939",
+  "hd_available": "是(作者1944年去世,已进入公有领域;Commons 有该版本文件)。注意:本条是1893年国家博物馆版,非蒙克博物馆(约1910年后)版或1895年粉彩版",
+  "exhibited_history": [
+    "1893年:柏林「Eduard Munch Gemälde-Ausstellung」(据馆藏记录)",
+    "1894年:斯德哥尔摩「Edvard Munchs utställning」",
+    "1994年该作被盗后追回,无损",
+    "现于国家博物馆 060 厅「Edvard Munch」常设展陈列(光线调暗以保护脆弱的纸板)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开的2026-09-30之后展出安排(馆藏页 403 无法直接读取,信息来自搜索摘要)",
+  "summary": "《呐喊》共有四个主要版本,这里指1893年挪威国家博物馆所藏的版本,被认为是最早的一幅。画面以血红的天空与扭曲的人形传达焦虑感。",
+  "story": "蒙克1892年1月的日记提到,他感到一声尖叫穿过自然。关于血红天空的成因,学界有1883年喀拉喀托火山喷发、贝母云,以及他姐姐被关进附近精神病院等说法。他共创作四个主要版本(两幅绘画、两幅粉彩)外加一幅石版画,国家博物馆的1893年版是其中最早的。画面左上角有一行几乎看不见的铅笔字,意为「只有疯子才画得出」,红外分析确认是蒙克本人所写,可能是对1895年负面评价的回应。该版本1994年曾被盗、随后无损追回;2004年被盗的是蒙克博物馆的版本,与此无关。",
+  "technique_note": "纸板上混合使用蛋彩、蜡笔与粉彩,基底极脆弱,展厅须保持较暗光线。背面另有草图(NG.M.00939VERSO)。",
+  "sources": [
+    "https://news.qq.com/rain/a/20220706A05CMF00",
+    "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00939",
+    "https://en.wikipedia.org/wiki/The_Scream"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Edvard_Munch_-_The_Scream_-_NG.M.00939_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_The_Scream_-_NG.M.00939_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 6703,
+    "height": 8322,
+    "bytes": 12490847,
+    "sha256": "a822bce9558bb02b36db10d4fa5e533c077feeb267798bce57c61fe3bc8d534d"
+  }
+}

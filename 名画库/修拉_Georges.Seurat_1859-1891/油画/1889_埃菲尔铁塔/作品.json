@@ -1,0 +1,62 @@
+{
+  "no": 404,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-eiffel-tower"
+  ],
+  "title_en": "The Eiffel Tower",
+  "title_ja": "",
+  "title_zh": "埃菲尔铁塔",
+  "year": "1889",
+  "year_sort": 1889,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "Commons 未找到忠实翻拍的原图"
+  },
+  "medium": "木板油画(点彩)",
+  "dimensions": "24.1 × 15.2 cm",
+  "museum": "Fine Arts Museums of San Francisco(据馆方说明现于 Legion of Honor 展出)",
+  "museum_city": "美国旧金山",
+  "accession": "1979.48(William H. Noble Bequest Fund 购入)",
+  "museum_url": "未查到",
+  "hd_available": "否:Commons 暂未找到忠实翻拍;作者 1891 年逝世,版权不是障碍,需向 FAMSF 的开放获取图库查询(本次未核实)。",
+  "exhibited_history": [
+    "未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。",
+  "summary": "一幅仅 24 × 15 厘米的小油画,画下 1889 年尚未封顶的埃菲尔铁塔。点彩使铁塔仿佛披着粉色玫瑰色的轻纱。",
+  "story": "1889 年为世博会修建的埃菲尔铁塔在开幕前夕仍未封顶,修拉抓住这一时刻画下了尚未完成的塔身。小幅木板画是他在户外或画室里快速完成的色彩研究。铁塔以点彩呈现为柔和的粉橙色,像披了一层薄纱。作品在 1979 年由旧金山美术馆(FAMSF)的 William H. Noble 遗赠基金购入,现于荣誉军团宫展出。",
+  "technique_note": "木板上油彩点彩,尺寸小而色点清晰,用互补色小点营造轻盈的大气感;小幅木板常用作户外写生或大画的预备。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/the-eiffel-tower",
+    "https://www.wikiart.org/en/georges-seurat/the-eiffel-tower-1889",
+    "https://commons.wikimedia.org/wiki/Category:Eiffel_Tower_by_Georges_Seurat"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3821251",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.famsf.org/artworks/eiffel-tower",
+      "status": 403,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E5%9F%83%E8%8F%B2%E5%B0%94%E9%93%81%E5%A1%94_(%E4%BF%AE%E6%8B%89)",
+      "status": 200,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q3821251",
+  "downloaded": null
+}

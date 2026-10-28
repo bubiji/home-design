@@ -1,0 +1,102 @@
+{
+  "no": 402,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-milkmaid"
+  ],
+  "title_en": "The Milkmaid",
+  "title_ja": "",
+  "title_zh": "倒牛奶的女仆",
+  "year": "c.1658–1660",
+  "year_sort": 1658,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Johannes Vermeer - Het melkmeisje - rijksmuseum - 001.jpg",
+    "note": ""
+  },
+  "medium": "布面油画(oil on canvas)",
+  "dimensions": "45.5 × 41 cm",
+  "museum": "Rijksmuseum, Amsterdam",
+  "museum_city": "阿姆斯特丹(荷兰)",
+  "accession": "SK-A-2344",
+  "museum_url": "https://www.rijksmuseum.nl/en/collection/SK-A-2344",
+  "hd_available": "是:Commons 有 4814×5537 px 文件;作者去世已逾 350 年,公有领域,国立博物馆线上藏品库提供下载。",
+  "exhibited_history": [
+    "1872 阿姆斯特丹 Arti et Amicitiae(该目录所列最早)",
+    "1900 阿姆斯特丹 Stedelijk Museum;1921 巴黎 Jeu de Paume;1929 伦敦皇家艺术研究院",
+    "1939 纽约世博会、底特律艺术学院;1941–42 战时赴美展:底特律、蒙特利尔、纽约、芝加哥",
+    "1966 海牙/巴黎;1996 海牙 Mauritshuis;2001 纽约大都会与伦敦国家美术馆",
+    "2007 东京国立新美术馆;2009 纽约大都会「Vermeer's Masterpiece」;2017 巴黎卢浮宫「Vermeer and the Masters of Genre Painting」;2018–19 东京上野之森美术馆",
+    "2022 阿姆斯特丹 Hermitage Amsterdam;2023-02-10 至 06-04 本馆「Vermeer」特展"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开外展安排;该画为国立博物馆荣誉厅长期展品。",
+  "summary": "维米尔约 1658–1660 年的作品,一名女仆专注地向陶钵倒牛奶,桌上面包被画成闪烁的小光点。它被视为荷兰风俗画里把平凡劳动升华为纪念碑式形象的代表。",
+  "story": "这幅画很可能曾属于维米尔的赞助人范·勒伊芬(Pieter van Ruijven)一家,1696 年 Jacob Dissius 的拍卖中以 175 荷兰盾售出。1908 年国立博物馆在 Six 家族藏品出售后购入,并得到 Vereniging Rembrandt 的资助。X 光检查显示画家曾在女仆身后画过一幅地图,又在墙脚画过一只衣篮,最后都涂掉以突出人物。画布上还发现一个针孔,说明他可能用粉线弹出透视线,而不是靠暗箱描摹。二战期间它随藏品疏散并在美国展出,战后回到阿姆斯特丹。",
+  "technique_note": "主要颜料为天然群青(研碎青金石)与铅锡黄;白墙用铅白、棕土与炭黑。女仆面部用厚涂(impasto),面包与陶器表面用「点彩」(pointillé)式小亮点表现反光。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/the-milkmaid",
+    "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)",
+    "https://www.wikidata.org/wiki/Q167605",
+    "https://www.essentialvermeer.com/references/vermeer_exhibitions_by_pictures.html"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q167605",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.rijksmuseum.nl/nl/collectie/SK-A-2344",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Collectie Nederland ID",
+      "url": "https://data.collectienederland.nl/page/aggregation/rijksmuseum/oai-rijksmuseum.nl-SK-A-2344",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Rijksmuseum ID",
+      "url": "https://id.rijksmuseum.nl/200108369",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E5%80%92%E7%89%9B%E5%A5%B6%E7%9A%84%E5%A5%B3%E5%83%95",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AJohannes_Vermeer_-_Het_melkmeisje_-_rijksmuseum_-_001.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q167605",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Johannes_Vermeer_-_Het_melkmeisje_-_rijksmuseum_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Het_melkmeisje_-_rijksmuseum_-_001.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 4814,
+    "height": 5537,
+    "bytes": 5283752,
+    "sha256": "2e5f6cb9e8f7fc6b498ae8c7383f15a427d2760bd0bb5f6c82f0002a674282a1"
+  }
+}

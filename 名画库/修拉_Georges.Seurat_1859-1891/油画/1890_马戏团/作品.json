@@ -1,0 +1,85 @@
+{
+  "no": 403,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-circus"
+  ],
+  "title_en": "The Circus (Le Cirque)",
+  "title_ja": "",
+  "title_zh": "马戏团",
+  "year": "1890–1891",
+  "year_sort": 1890,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Georges Seurat - The Circus - Google Art Project.jpg",
+    "note": ""
+  },
+  "medium": "布面油画(未完成)",
+  "dimensions": "185.5 × 152.5 cm(馆方著录约 186 × 152 cm)",
+  "museum": "Musée d'Orsay, Paris",
+  "museum_city": "法国巴黎",
+  "accession": "RF 2511",
+  "museum_url": "https://www.musee-orsay.fr/en/artworks/le-cirque-542",
+  "hd_available": "是:Commons 有 Google Art Project 高清翻拍;作者 1891 年逝世,公有领域。",
+  "exhibited_history": [
+    "未查到(未能访问奥赛馆方展览史页面)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。",
+  "summary": "修拉去世时未完成的最后大作,表现费尔南多马戏团中女骑手的表演。画面采用上扬的线条与明亮的色彩传达欢快与动感。",
+  "story": "画作表现费尔南多马戏团(后来的梅德拉诺马戏团)中的女骑手一幕,是继《游行》《康康舞》之后他以都市娱乐为题的第三幅大画。修拉 1891 年 3 月去世时画面尚未完成,这也是他最后的作品。他在画中大量使用向上的线条和暖色以表达欢乐,与此前沉静的画面形成对照。现藏巴黎奥赛博物馆,馆藏编号 RF 2511。",
+  "technique_note": "点彩与线条走向的结合:他受查尔斯·亨利等人的理论影响,用上扬的线条和暖色表示欢快,下垂线条和冷色表示悲伤。画面由于去世而未完成,边缘仍可见素描痕迹。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/the-circus",
+    "https://www.musee-orsay.fr/en/artworks/le-cirque-542",
+    "https://en.wikipedia.org/wiki/The_Circus_(Seurat)",
+    "https://fr.wikipedia.org/wiki/Le_Cirque_(Seurat)"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2275610",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Musée d'Orsay artwork ID",
+      "url": "http://www.musee-orsay.fr/en/collections/index-of-works/notice.html?nnumid=542",
+      "status": 403,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/The_Circus_(Seurat)",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E9%A9%AC%E6%88%8F_(%E4%BF%AE%E6%8B%89)",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AGeorges_Seurat_-_The_Circus_-_Google_Art_Project.jpg",
+      "status": 200,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q2275610",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Georges_Seurat_-_The_Circus_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Georges_Seurat_-_The_Circus_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 3918,
+    "height": 4855,
+    "bytes": 8798784,
+    "sha256": "8a699751950810ec92b23676d0bf6b907ca533ec3626ef166c3eea1ad66af777"
+  }
+}

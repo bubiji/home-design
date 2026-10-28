@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>22TB 外置硬盘完整检测教程（macOS 实战记录）</title>
+<style>
+  :root {
+    --bg: #ffffff; --fg: #1c1e21; --muted: #5c6370;
+    --card: #f6f8fa; --border: #d8dde3; --accent: #0b6bcb;
+    --ok: #1a7f37; --warn: #9a6700; --bad: #cf222e;
+    --code-bg: #0d1117; --code-fg: #c9d1d9;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0d1117; --fg: #e6edf3; --muted: #9aa4b2;
+      --card: #161b22; --border: #30363d; --accent: #58a6ff;
+      --ok: #3fb950; --warn: #d29922; --bad: #f85149;
+      --code-bg: #010409; --code-fg: #c9d1d9;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--fg);
+    font-family: -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    line-height: 1.75; font-size: 16px;
+  }
+  .wrap { max-width: 920px; margin: 0 auto; padding: 2rem 1.2rem 5rem; }
+  h1 { font-size: 1.9rem; line-height: 1.3; margin: 0.5rem 0 0.3rem; }
+  h2 { font-size: 1.45rem; margin-top: 3rem; padding-bottom: .4rem; border-bottom: 2px solid var(--border); }
+  h2 .num { color: var(--accent); margin-right: .5rem; }
+  h3 { font-size: 1.12rem; margin-top: 1.8rem; }
+  .subtitle { color: var(--muted); margin-bottom: 1.5rem; }
+  .toc { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 1rem 1.5rem; }
+  .toc ol { margin: .5rem 0; padding-left: 1.4rem; }
+  .toc a { color: var(--accent); text-decoration: none; }
+  .toc a:hover { text-decoration: underline; }
+  pre {
+    background: var(--code-bg); color: var(--code-fg);
+    padding: 1rem 1.2rem; border-radius: 8px; overflow-x: auto;
+    font-size: .87rem; line-height: 1.6;
+  }
+  code { font-family: "SF Mono", Menlo, Consolas, monospace; }
+  p code, li code, td code {
+    background: var(--card); border: 1px solid var(--border);
+    padding: .1em .35em; border-radius: 4px; font-size: .88em;
+  }
+  .box { border-left: 4px solid var(--accent); background: var(--card); padding: .8rem 1.2rem; border-radius: 0 8px 8px 0; margin: 1.2rem 0; }
+  .box.ok   { border-left-color: var(--ok); }
+  .box.warn { border-left-color: var(--warn); }
+  .box.bad  { border-left-color: var(--bad); }
+  .box .tag { font-weight: 700; display: block; margin-bottom: .2rem; }
+  .box.ok .tag   { color: var(--ok); }
+  .box.warn .tag { color: var(--warn); }
+  .box.bad .tag  { color: var(--bad); }
+  .box .tag      { color: var(--accent); }
+  .tablewrap { overflow-x: auto; margin: 1.2rem 0; }
+  table { border-collapse: collapse; width: 100%; font-size: .92rem; }
+  th, td { border: 1px solid var(--border); padding: .5rem .8rem; text-align: left; vertical-align: top; }
+  th { background: var(--card); }
+  .ok-t   { color: var(--ok); font-weight: 600; }
+  .warn-t { color: var(--warn); font-weight: 600; }
+  .bad-t  { color: var(--bad); font-weight: 600; }
+  .muted { color: var(--muted); }
+  hr { border: none; border-top: 1px solid var(--border); margin: 3rem 0; }
+  .kbd { border: 1px solid var(--border); border-bottom-width: 2px; border-radius: 4px; padding: 0 .35em; background: var(--card); font-size: .85em; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<h1>22TB 外置硬盘完整检测教程</h1>
+<p class="subtitle">macOS 实战记录：真伪鉴定 · 坏道检查 · 后门排查 · SMART 深度读取<br>
+实测设备：代购「WD D10 22TB」外置盘 · 检测时间：2026-07-26 ~ 2026-07-27</p>
+
+<div class="toc">
+<strong>目录</strong>
+<ol>
+  <li><a href="#ch0">背景与检测目标</a></li>
+  <li><a href="#ch1">第一步：基础信息收集（不需要任何权限）</a></li>
+  <li><a href="#ch2">第二步：USB 身份鉴定与后门排查</a></li>
+  <li><a href="#ch3">第三步：盘上文件安全检查</a></li>
+  <li><a href="#ch4">第四步：数据完整性抽样校验</a></li>
+  <li><a href="#ch5">macOS 的三堵权限墙（踩坑实录）</a></li>
+  <li><a href="#ch6">第五步：物理抽读 + 真实容量验证</a></li>
+  <li><a href="#ch7">第六步：Linux 虚拟机直通读取 SMART（终极手段）</a></li>
+  <li><a href="#ch8">SMART 数据解读方法</a></li>
+  <li><a href="#ch9">二手/翻新盘的全部可能性与应对</a></li>
+  <li><a href="#ch10">最终结论与日常维护清单</a></li>
+</ol>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="ch0"><span class="num">0</span>背景与检测目标</h2>
+<p>这块 22TB 外置硬盘是托人代购的，商品页写着「WD西数D10 8T 12T 14T 16T 18T 20T 22T移动硬盘 氦气 ps4游戏 Xbox」。因为盘上存放着重要备份（且盘主从事金融/加密货币相关工作），需要回答四个问题：</p>
+<ol>
+  <li><strong>是不是假容量盘？</strong>（虚标容量，写满真实容量后数据静默损坏）</li>
+  <li><strong>有没有坏道？</strong></li>
+  <li><strong>有没有安全问题/后门？</strong>（BadUSB、预置恶意程序等）</li>
+  <li><strong>是不是二手/翻新盘冒充新盘？</strong></li>
+</ol>
+
+<div class="box">
+<span class="tag">先建立一个正确的威胁模型</span>
+机械硬盘本身<strong>没有任何联网能力</strong>，物理上不可能「偷偷上传」数据——电影里的固件后门属于国家级攻击，不会出现在电商代购硬盘上。现实中的风险按概率排序是：① 假容量盘 → ② 二手翻新盘 → ③ 盘上预装恶意软件 → ④ USB 设备伪装（BadUSB）。本教程的检测顺序就是按这个模型设计的。
+</div>
+
+<div class="box warn">
+<span class="tag">⚠ 一个常见误区</span>
+macOS 磁盘工具的「急救」(First Aid) <strong>只检查文件系统目录结构，完全不检测坏道</strong>。急救通过 ≠ 硬盘健康。同理，Finder 里能看到容量 ≠ 容量是真的。
+</div>
+
+<!-- ============================================================ -->
+<h2 id="ch1"><span class="num">1</span>第一步：基础信息收集（不需要任何权限）</h2>
+
+<h3>1.1 找到目标盘</h3>
+<pre><code>diskutil list</code></pre>
+<p><strong>讲解</strong>：列出所有磁盘。外置盘会标注 <code>(external, physical)</code>。本例中目标是 <code>/dev/disk20</code>，22.0 TB，上面有一个 APFS 容器，卷名 WD_BLACK。</p>
+
+<h3>1.2 读取详细信息</h3>
+<pre><code>diskutil info disk20</code></pre>
+<p>关键输出：</p>
+<pre><code>Device / Media Name:  Game Drive
+Protocol:             USB
+SMART Status:         Not Supported        ← macOS 对 USB 盘一律显示这个,不代表盘不支持
+Disk Size:            22.0 TB (22000969973760 Bytes)
+Device Block Size:    512 Bytes</code></pre>
+
+<div class="box ok">
+<span class="tag">✓ 第一个鉴定点：精确容量数字</span>
+<code>22,000,969,973,760 字节</code> 正好是 WD 22TB 平台（Ultrastar HC570 系）的<strong>标准精确值</strong>。假容量盘的虚标数字通常是凑整的（如 22,000,000,000,000）。数字对得上不是终审判决，但对不上就可以直接判死刑。
+</div>
+
+<!-- ============================================================ -->
+<h2 id="ch2"><span class="num">2</span>第二步：USB 身份鉴定与后门排查</h2>
+
+<h3>2.1 查 USB Vendor/Product ID</h3>
+<pre><code>ioreg -p IOUSB -l -w0 | grep -iE '"USB Product Name"|"USB Vendor Name"|idVendor|idProduct|"USB Serial Number"'</code></pre>
+<p>本例关键结果：</p>
+<pre><code>"USB Product Name"  = "Game Drive"
+"USB Vendor Name"   = "Western Digital"
+"idVendor"          = 4184        ← 十进制,即 0x1058 = WD 官方注册的厂商 ID
+"idProduct"         = 9786        ← 0x263A
+"USB Serial Number" = "325447393830324A"   ← 十六进制 ASCII,解码 = "2TG9802J"</code></pre>
+<p><strong>讲解</strong>：Vendor ID 是花钱向 USB-IF 注册的，0x1058 确认桥接板是 WD 原厂。序列号 <code>2TG9802J</code> 是 WD/HGST 企业氦气盘的序列号格式——这里已经开始露出「企业裸盘装进消费级外壳」的线索。</p>
+
+<h3>2.2 排查 BadUSB（伪装键盘/网卡）</h3>
+<pre><code>ioreg -r -n "Game Drive" -l -w0 | grep -E '"bInterfaceClass"|"bInterfaceSubClass"|"bInterfaceProtocol"|"bNumInterfaces"'</code></pre>
+<p>本例结果：</p>
+<pre><code>"bInterfaceClass"    = 8     ← Mass Storage(大容量存储)
+"bInterfaceSubClass" = 6     ← SCSI 透明命令集
+"bInterfaceProtocol" = 80    ← 0x50, Bulk-Only 传输
+(仅此一个接口,单一配置)</code></pre>
+
+<div class="box ok">
+<span class="tag">✓ 第二个鉴定点：接口类别</span>
+BadUSB 攻击的本质是 U 盘/硬盘<strong>额外暴露</strong>一个 HID 接口（class 3，伪装键盘自动敲命令）或网络接口。这块盘只暴露了唯一一个 class 8 存储接口 → BadUSB 排除。这是「后门排查」里最有实操价值的一步。
+</div>
+
+<h3>2.3 核对官方产品线（识破组装货）</h3>
+<p><strong>讲解</strong>：查 WD 官网发现 D10 Game Drive 官方只出过 8TB 和 12TB。商品页却卖 14T~22T——结合 2.1 里企业盘格式的序列号，可以断定：<strong>卖家把 22TB 企业裸盘装进了 D10 的桥接板/外壳</strong>。这类组装货容量通常是真的，但没有 WD 官方保修，盘体可能是白标新盘也可能是二手，需要后续 SMART 定论。</p>
+
+<!-- ============================================================ -->
+<h2 id="ch3"><span class="num">3</span>第三步：盘上文件安全检查</h2>
+<pre><code>ls -laO@ /Volumes/WD_BLACK/          # 含隐藏文件、扩展属性
+find /Volumes/WD_BLACK -maxdepth 2 \( -name "*.app" -o -name "*.pkg" -o -name "*.dmg" \
+  -o -name "*.command" -o -name "*.sh" -o -name "autorun*" -o -name "*.exe" \) | head -20</code></pre>
+<p><strong>讲解</strong>：检查卖家有没有预置可执行文件、安装包或自启动脚本。本例中找到的可执行文件全部位于用户自己的备份目录（downloads、BaiduDisk 等），没有卖家预置内容。</p>
+<div class="box warn">
+<span class="tag">⚠ 顺带的安全提醒</span>
+检查中发现备份里有「Win10激活工具(需要联网).exe」这类文件——此类「激活工具」是恶意软件的头号载体。对于接触加密货币钱包的电脑，永远不要运行来路不明的激活/破解工具。
+</div>
+
+<!-- ============================================================ -->
+<h2 id="ch4"><span class="num">4</span>第四步：数据完整性抽样校验</h2>
+<p><strong>思路</strong>：如果你平时维护了校验清单（本例盘上有约 9 万条记录的 <code>checksums.sha256</code>），随机抽取一批文件实际读盘核对哈希，可以同时检验「已用区域有无坏道」和「数据有无静默损坏」，且完全不需要管理员权限。</p>
+<pre><code>cd /Volumes/WD_BLACK
+# 随机抽 40 条
+awk 'BEGIN{srand()} rand()&lt;0.001' checksums.sha256 | head -40 &gt; /tmp/sample.sha256
+# 实际读盘校验
+shasum -a 256 -c /tmp/sample.sha256</code></pre>
+<p><strong>本例结果</strong>：40/40 全部 <code>OK</code>，抽中的文件横跨 2011–2025 年，零读取错误。</p>
+<div class="box">
+<span class="tag">没有校验清单怎么办？</span>
+第一次可以现场生成：<code>find . -type f -exec shasum -a 256 {} + &gt; checksums.sha256</code>（耗时取决于数据量）。以后定期重跑 <code>-c</code> 校验，坏道和位腐烂 (bit rot) 都能第一时间发现。
+</div>
+
+<!-- ============================================================ -->
+<h2 id="ch5"><span class="num">5</span>macOS 的三堵权限墙（踩坑实录）</h2>
+<p>这是全过程中最有「教程价值」的部分——三个坑全部踩过一遍：</p>
+
+<div class="tablewrap"><table>
+<tr><th>坑</th><th>现象</th><th>原因</th><th>解法</th></tr>
+<tr>
+  <td><strong>① smartctl 读不了 USB 盘</strong></td>
+  <td><code>smartctl -d sat</code> 报<br><code>Not a device of type 'scsi'</code></td>
+  <td>macOS (Darwin) 内核不提供 USB 的 SCSI/SAT 直通接口。<strong>换任何硬盘盒都没用</strong>，这是系统限制</td>
+  <td>Linux 虚拟机 USB 直通（见第 6 章），或裸盘接 SATA，或 Windows 机器跑 CrystalDiskInfo</td>
+</tr>
+<tr>
+  <td><strong>② root 也读不了 /dev/rdisk</strong></td>
+  <td><code>dd</code> 报 <code>Operation not permitted</code>（已经是 root）</td>
+  <td>TCC「完全磁盘访问权限」按<strong>发起 App</strong> 管控。用 <code>osascript ... with administrator privileges</code> 弹窗授权走的是独立辅助进程，<strong>不继承</strong>终端的磁盘权限</td>
+  <td>系统设置 → 隐私与安全性 → 完全磁盘访问权限 → 打开「终端」，然后<strong>在普通终端窗口里直接跑 sudo 命令</strong></td>
+</tr>
+<tr>
+  <td><strong>③ 无 TTY 时 sudo 要不到密码</strong></td>
+  <td><code>sudo: a terminal is required to read the password</code></td>
+  <td>非交互 shell 里 sudo 没有终端可以提示输密码</td>
+  <td>新开一个普通终端窗口（<span class="kbd">⌘N</span>）手动执行</td>
+</tr>
+</table></div>
+
+<!-- ============================================================ -->
+<h2 id="ch6"><span class="num">6</span>第五步：物理抽读 + 真实容量验证</h2>
+<p>核心脚本（<strong>全程只读</strong>，绝不写入；请把 <code>rdisk20</code> 换成你的实际盘号）：</p>
+<pre><code>#!/bin/bash
+RDISK=/dev/rdisk20      # rdisk(原始设备)绕过缓存,比 disk 快数倍
+
+echo "== 1. 分布抽读: 盘头/25%/50%/75%/盘尾 各 64MiB =="
+for skip in 0 5245000 10490000 15735000 20981500; do
+  echo "--- 偏移 ${skip} MiB ---"
+  /usr/bin/time dd if=$RDISK of=/dev/null bs=1m count=64 skip=$skip
+done
+
+echo "== 2. 盘尾最后 100MiB 精确实读(验证真实容量) =="
+# 总扇区数来自 diskutil info: 42970644480,读最后 204800 个扇区
+/usr/bin/time dd if=$RDISK of=/dev/null bs=512 count=204800 skip=42970439680
+
+echo "== 3. 随机深位置抽读 20 处,每处 8MiB =="
+for i in $(seq 1 20); do
+  skip=$(( (RANDOM * 32768 + RANDOM) % 20900000 ))
+  printf "位置 %8s MiB: " "$skip"
+  dd if=$RDISK of=/dev/null bs=1m count=8 skip=$skip 2&gt;&amp;1 | tail -1
+done</code></pre>
+
+<h3>结果解读（本例实测数据）</h3>
+<div class="tablewrap"><table>
+<tr><th>位置</th><th>实测速度</th><th>解读</th></tr>
+<tr><td>盘头 (0%)</td><td>247 MB/s</td><td rowspan="5">速度从外圈到内圈<strong>平滑递减</strong>——机械盘外圈线速度快、内圈慢，这条曲线本身就是「真实 22TB 机械盘几何结构」的物理证据，闪存拼装的假盘伪造不出来</td></tr>
+<tr><td>25%</td><td>248 MB/s</td></tr>
+<tr><td>50%</td><td>233 MB/s</td></tr>
+<tr><td>75%</td><td>192 MB/s</td></tr>
+<tr><td>盘尾附近</td><td>125 MB/s</td></tr>
+<tr><td>最后 100MiB</td><td>204800 扇区全部读出,零错误</td><td class="ok-t">假容量盘的「死刑判决区」——假盘在这里必然报错或数据回绕。完整通过 = 容量为真</td></tr>
+<tr><td>随机 20 处</td><td>90–222 MB/s,零错误</td><td class="ok-t">无坏道典型的超长延迟(单次读卡住数秒)或 I/O error</td></tr>
+</table></div>
+
+<div class="box warn">
+<span class="tag">⚠ 脚本编写的一个教训</span>
+第 2 步用 <code>bs=512</code> 读原始设备,实测耗时 338 秒(约 0.3 MB/s)——原始设备无缓存,每个 512 字节块都是一次独立 USB 事务(约 1.6ms 延迟)累加出来的。<strong>这是脚本的问题不是盘慢</strong>。改进:用 <code>bs=1m</code> 配合扇区换算,同样的验证几秒就能跑完。
+</div>
+<div class="box bad">
+<span class="tag">✗ 绝对不要做</span>
+任何「写入式」测试(如 <code>badblocks -w</code>)会<strong>清空整盘数据</strong>。健康检查一律只读。另外第三方工具的「修复坏道」功能不要用——扇区重映射是硬盘固件自己的事,工具能做的只是标记跳过,解决不了盘体劣化。
+</div>
+
+<!-- ============================================================ -->
+<h2 id="ch7"><span class="num">7</span>第六步：Linux 虚拟机直通读取 SMART（终极手段）</h2>
+<p>macOS 读不了 USB 盘的 SMART(第 5 章坑①)，最干净的绕行方案是把 USB 设备直通给 Linux 虚拟机：</p>
+<ol>
+  <li>Finder 里<strong>先推出</strong> WD_BLACK 卷（安全卸载）；</li>
+  <li>启动 VMware Fusion 的 Ubuntu 虚拟机，菜单 <strong>虚拟机 → USB 和蓝牙 → 连接 Western Digital Game Drive</strong>；</li>
+  <li>Ubuntu 里执行：</li>
+</ol>
+<pre><code>sudo apt update && sudo apt install -y smartmontools
+lsblk -d -o NAME,SIZE,MODEL     # 找到 20T 的盘,如 /dev/sda
+sudo smartctl -a /dev/sda</code></pre>
+<div class="box">
+<span class="tag">注意</span>
+UTM 的 <strong>macOS 客户机</strong>走 Apple 虚拟化框架，<strong>不支持 USB 直通</strong>，此路不通；必须是 Linux 客户机（VMware Fusion / UTM-QEMU 均可）。文件系统无关紧要——SMART 直接与硬盘固件对话，Ubuntu 不需要认识 APFS，数据零接触。
+</div>
+
+<!-- ============================================================ -->
+<h2 id="ch8"><span class="num">8</span>SMART 数据解读方法</h2>
+<p>本例实测输出（节选）与逐项解读：</p>
+<pre><code>Model Family:   Western Digital Ultrastar DC HC570
+Device Model:   WDC  WUH722222ALE6L4          ← 裸盘真身:WD 旗舰数据中心盘
+Serial Number:  2TG9802J                      ← 与 USB 层读到的一致
+User Capacity:  22,000,969,973,760 bytes      ← 与 diskutil 一致
+Rotation Rate:  7200 rpm
+
+  ID# 属性                     实测值        解读
+  9   Power_On_Hours           353          通电仅 353 小时
+ 12   Power_Cycle_Count        288          288 次通断电
+  5   Reallocated_Sector_Ct    0            重映射扇区 = 0
+197   Current_Pending_Sector   0            待处理扇区 = 0
+198   Offline_Uncorrectable    0            不可修复扇区 = 0
+199   UDMA_CRC_Error_Count     0            线缆/桥接传输错误 = 0
+ 22   Helium_Level             100/100      氦气密封完好
+194   Temperature              30℃ (Min/Max 17/60)   ← 历史最高 60℃ 偏高
+      SMART Error Log: No Errors Logged</code></pre>
+
+<h3>判读逻辑（通用方法论）</h3>
+<div class="tablewrap"><table>
+<tr><th>指标</th><th>判读标准</th></tr>
+<tr><td><strong>ID 9 通电小时</strong></td><td>&lt;100h ≈ 新盘；数千~数万 = 二手/退役盘；为 0 但盘况像旧盘 = SMART 清零翻新</td></tr>
+<tr><td><strong>ID 9 × ID 12 交叉验证</strong></td><td>本例 353h ÷ 288 次 ≈ 每次通电 1.2 小时——典型外置盘使用模式，与盘主 10 个月的自用史吻合 → <strong>到手时是新盘</strong>。数据中心退役盘特征相反：数万小时 + 个位数通断电。清零盘常抹了 ID 9 却漏掉 ID 12/温度史/磁头加载数，数值互相矛盾即露馅</td></tr>
+<tr><td><strong>ID 5 / 197 / 198</strong></td><td>核心健康三项。197 非 0 = 有读不出的扇区(最危险信号)；5 持续增长 = 坏道雪崩前兆，立即换盘。三项全 0 = 无坏道</td></tr>
+<tr><td><strong>ID 199</strong></td><td>非 0 且增长 = 数据线/桥接板问题，不是盘坏</td></tr>
+<tr><td><strong>ID 22 氦气</strong></td><td>氦气盘专属。低于阈值(25)会直接死盘，二手氦气盘重点看这项</td></tr>
+</table></div>
+
+<!-- ============================================================ -->
+<h2 id="ch9"><span class="num">9</span>二手/翻新盘的全部可能性与应对</h2>
+<div class="tablewrap"><table>
+<tr><th>可能性</th><th>是什么</th><th>影响</th></tr>
+<tr><td>① 全新白标盘</td><td>OEM 大单溢出货，无零售标</td><td class="ok-t">与正品新盘无差别(本例即此类)</td></tr>
+<tr><td>② 全新拆机盘</td><td>从成品阵列拆出，通电几十小时</td><td class="ok-t">可视同新盘</td></tr>
+<tr><td>③ 官方认证翻新</td><td>WD 返修检测再售，盘标带 R</td><td class="warn-t">寿命打折但有出厂检测</td></tr>
+<tr><td>④ 数据中心退役盘</td><td>跑了 2~4 万小时的企业盘</td><td class="warn-t">设计寿命 4.4 万小时，剩余寿命有限；氦气渗漏风险随年龄上升</td></tr>
+<tr><td>⑤ 矿场退役盘</td><td>Chia 矿潮高强度写入</td><td class="warn-t">磁头/马达损耗大，二手盘里较差一类</td></tr>
+<tr><td>⑥ SMART 清零翻新</td><td>奸商抹掉通电记录冒充新盘</td><td class="bad-t">失去判断依据，可能已在报废边缘，发现即退货</td></tr>
+</table></div>
+<p><strong>关键认知</strong>：翻新盘不构成安全威胁（无后门问题），它只影响「能用多久」而非「怎么用」。且不论是哪一类，应对方式完全相同：<strong>双副本备份 + 定期 SMART 监控</strong>，用这两招把不确定性对冲掉。</p>
+
+<!-- ============================================================ -->
+<h2 id="ch10"><span class="num">10</span>最终结论与日常维护清单</h2>
+
+<h3>本例检测总表</h3>
+<div class="tablewrap"><table>
+<tr><th>检查项</th><th>手段</th><th>结论</th></tr>
+<tr><td>假容量</td><td>精确容量值 + 盘尾 100MiB 实读 + 5.7TB 真实数据在盘</td><td class="ok-t">✅ 排除，容量为真</td></tr>
+<tr><td>坏道</td><td>SMART 5/197/198 全 0 + 25 处物理抽读 + 40 文件哈希校验</td><td class="ok-t">✅ 三条独立证据一致：零坏道迹象</td></tr>
+<tr><td>后门/BadUSB</td><td>USB 接口枚举 + 文件排查</td><td class="ok-t">✅ 排除</td></tr>
+<tr><td>二手/翻新</td><td>SMART 通电 353h/288 次，数值自洽</td><td class="ok-t">✅ 到手时接近全新(白标盘)</td></tr>
+<tr><td>身份</td><td>USB ID + SMART 型号</td><td class="warn-t">⚠ D10 桥接板 + Ultrastar HC570 裸盘的组装货，<strong>无 WD 官方保修</strong></td></tr>
+<tr><td>散热</td><td>SMART 温度历史 Max 60℃</td><td class="warn-t">⚠ 曾贴近工作上限(65℃)，需改善通风</td></tr>
+</table></div>
+
+<h3>日常维护清单</h3>
+<ol>
+  <li><strong>双副本</strong>：22TB 单盘无冗余，重要数据永远不让它当唯一副本（NAS/云各留一份）；</li>
+  <li><strong>每 1~2 个月复查 SMART</strong>：直通进 Ubuntu 跑 <code>smartctl -a</code>，盯 ID 5/197/198——保持 0 就继续用，开始增长立即换盘迁数据；</li>
+  <li><strong>定期重跑校验</strong>：<code>shasum -a 256 -c checksums.sha256</code>（可抽样），数据损坏第一时间暴露；</li>
+  <li><strong>散热</strong>：长时间大量拷贝时保持周围通风，不叠放、不塞密闭角落——这是该盘寿命最主要的可控因素；</li>
+  <li><strong>用途纪律</strong>：备份盘不兼任虚拟机/下载等活跃工作盘，避免长时间满转与空间失控。</li>
+</ol>
+
+<hr>
+<p class="muted">本教程由实际检测过程整理而成。配套元数据见同目录 <code>22T硬盘检测教程-元数据.md</code>。所有检测命令均为只读操作；执行前请将盘号(<code>disk20</code>/<code>rdisk20</code>)替换为你自己的实际盘号——认错盘号是此类操作唯一真正的危险。</p>
+
+</div>
+</body>
+</html>

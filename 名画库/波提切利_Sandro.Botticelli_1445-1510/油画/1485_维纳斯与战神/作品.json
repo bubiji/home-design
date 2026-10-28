@@ -1,0 +1,87 @@
+{
+  "no": 404,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/venus-and-mars"
+  ],
+  "title_en": "Venus and Mars",
+  "title_ja": "",
+  "title_zh": "维纳斯与战神",
+  "year": "c.1485",
+  "year_sort": 1485,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Botticelli-Venus and Mars.jpg",
+    "note": ""
+  },
+  "medium": "杨木板蛋彩加油彩(egg tempera and oil on poplar,可能)",
+  "dimensions": "69.2 × 173.4 cm",
+  "museum": "National Gallery, London",
+  "museum_city": "伦敦(英国)",
+  "accession": "NG915",
+  "museum_url": "https://www.nationalgallery.org.uk/paintings/sandro-botticelli-venus-and-mars",
+  "hd_available": "是:Commons 有 7689×3073 px(约 18 MB)文件;公有领域。",
+  "exhibited_history": [
+    "1874 年 Barker 拍卖(lot 88)以 1,050 英镑被国家美术馆购入",
+    "2010-06-30 至 09-12 伦敦国家美术馆「Close Examination: Fakes, Mistakes and Discoveries」",
+    "2024-05-10 至 09-10 剑桥 Fitzwilliam Museum「National Treasures」",
+    "首次展出情况未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "国家美术馆官网目前未列出 2026-09-30 之后的外借或展览信息;现于馆内 Room 62 展出。",
+  "summary": "波提切利约 1485 年所绘的横长形画板:战神马尔斯赤裸酣睡,维纳斯清醒地凝视他,小萨提尔们在旁嬉戏。画面长条形状暗示它原本嵌在家具或墙板上。",
+  "story": "据国家美术馆,这件作品属于「spalliera」,即嵌在卧室墙板或家具上的横长装饰画,很可能为纪念一场婚礼而作。画中马尔斯是波提切利画得最完美的男性裸体(Lightbown 语)。一群黄蜂盘旋在马尔斯头上,可能寓意爱情带来的痛苦,也可能暗指维斯普奇家族(名字意为「小黄蜂」)。小萨提尔们拿着战神的盔甲和长矛玩耍,象征爱战胜战争。该画于 1874 年从 Alexander Barker 藏品拍卖中被国家美术馆以 1,050 英镑购入,2017 年馆方将年代定为约 1485 年。",
+  "technique_note": "国家美术馆标注为蛋彩与油彩并用、画在木板(可能是杨木)上;保留十六世纪意大利画框。横向板形即「spalliera」格式。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/venus-and-mars",
+    "https://en.wikipedia.org/wiki/Venus_and_Mars_(Botticelli)",
+    "https://www.wikidata.org/wiki/Q2293953"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2293953",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "National Gallery ID",
+      "url": "https://www.nationalgallery.org.uk/paintings/sandro-botticelli-venus-and-mars",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Venus_and_Mars_(Botticelli)",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E7%BA%B3%E6%96%AF%E4%B8%8E%E6%88%98%E7%A5%9E",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3ABotticelli-Venus_and_Mars.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q2293953",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Botticelli-Venus_and_Mars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Botticelli-Venus_and_Mars.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 7689,
+    "height": 3073,
+    "bytes": 18685900,
+    "sha256": "4a943b0ac0e86d1ed1e99c217c947aea5edbd86f1e20fa96496237c56161108c"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "no": 404,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/la-fornarina"
+  ],
+  "title_en": "La Fornarina",
+  "title_ja": "",
+  "title_zh": "弗尔纳丽娜",
+  "year": "c.1518–1519",
+  "year_sort": 1518,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Raffaello (1483-1520) - La Fornarina - 2333 - Galleria Nazionale d'Arte Antica.jpg",
+    "note": ""
+  },
+  "medium": "木板油画(oil on wood panel)",
+  "dimensions": "87 × 63 cm(沿用;维基百科与 Wikidata 另记 85 × 60 cm,存在不同著录)",
+  "museum": "Gallerie Nazionali di Arte Antica, Palazzo Barberini, Rome",
+  "museum_city": "罗马(意大利)",
+  "accession": "Inv. 2333",
+  "museum_url": "https://www.barberinicorsini.org/artwork/?id=WE4772",
+  "hd_available": "是:Commons 有 6471×9376 px 文件;公有领域。",
+  "exhibited_history": [
+    "未查到系统的展览记录"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开外展安排。",
+  "summary": "拉斐尔晚年(约 1518–1519 年)的半身女像,女子裸露上身,臂环上刻有「Raphael Vrbinas」。传统上认为她是拉斐尔的情人玛格丽塔·卢蒂。",
+  "story": "画作大约在拉斐尔 1520 年去世时仍留在他的工作室,后来可能经助手朱利奥·罗马诺修改后售出。女子手臂上的臂环刻着「Raphael Vrbinas」(乌尔比诺的拉斐尔),这是少见的在画面内签名。传统说法称她是面包师之女玛格丽塔·卢蒂,即所谓的「La Fornarina」(面包师的女儿)。X 光检查发现背景原本是带达·芬奇风格的风景,后被改成爱神维纳斯的圣物桃金娘灌木。第三根左手指上曾被涂掉一枚红宝石戒指,引出两人可能秘密成婚的猜测。女子身份至今仍有「情人」「高级交际花」「理想化美人」等不同读法。",
+  "technique_note": "据 X 光研究:背景风景被桃金娘灌木覆盖,左手戒指被涂去,说明画面经历过后期修改。载体为木板。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/la-fornarina",
+    "https://en.wikipedia.org/wiki/La_fornarina",
+    "https://www.wikidata.org/wiki/Q153441"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q153441",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.barberinicorsini.org/artwork/?id=WE4772",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/La_Fornarina",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E5%B9%B4%E8%BC%95%E5%A5%B3%E5%AD%90%E8%82%96%E5%83%8F",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3ARaffaello_%281483-1520%29_-_La_Fornarina_-_2333_-_Galleria_Nazionale_d%27Arte_Antica.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q153441",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Raffaello_%281483-1520%29_-_La_Fornarina_-_2333_-_Galleria_Nazionale_d%27Arte_Antica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Raffaello_(1483-1520)_-_La_Fornarina_-_2333_-_Galleria_Nazionale_d%27Arte_Antica.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 6471,
+    "height": 9376,
+    "bytes": 7258919,
+    "sha256": "8fdd22485d1c03f33cc304575a44833052b371918fbfda69e6d8fc2af4c1e75c"
+  }
+}

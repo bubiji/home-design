@@ -1,0 +1,52 @@
+{
+  "no": 211,
+  "favorite": true,
+  "favorite_reason": "周杰伦《最伟大的作品》(2022)MV/歌词 引用的作品",
+  "culture_relation": [
+    "周杰伦《最伟大的作品》(2022)MV/歌词:MV 为莫奈变出睡莲的场景,解析延伸到睡莲池与桥(置信度:2 篇)"
+  ],
+  "title_en": "The Water-Lily Pond",
+  "title_ja": "",
+  "title_zh": "睡莲池(日本桥)",
+  "year": "1899",
+  "year_sort": 1899,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Claude Monet, The Water-Lily Pond (National Gallery, London).jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "88.3 x 93.1 cm",
+  "museum": "伦敦国家美术馆 National Gallery, London",
+  "museum_city": "伦敦,英国",
+  "accession": "NG4240",
+  "museum_url": "https://www.nationalgallery.org.uk/paintings/claude-monet-the-water-lily-pond",
+  "hd_available": "是(作者1926年去世,已入公有领域;国家美术馆网站有在线图像,可下载分辨率未核)",
+  "exhibited_history": [
+    "1900年12月在巴黎 Durand-Ruel 画廊展出(与同题材共12幅一起)",
+    "1900年1月17日经 Durand-Ruel 售出(据馆方出处记录)",
+    "1927年经 Reid and Lefevre 与 Tate 交换、Courtauld 补款,后于1961年转入国家美术馆;现陈列于46厅"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开的2026-09-30之后展出安排(检索无结果,不代表没有)",
+  "summary": "1899年的睡莲池:日本桥横跨画面,水面浮着睡莲与倒影,是莫奈吉维尼水园系列中的一幅。藏于伦敦国家美术馆。",
+  "story": "1893年莫奈买下吉维尼住宅旁的土地,建起带日式桥的水园,种入杂交睡莲。1895年他曾画过三幅桥景,1899年回到这个主题,画了约十八幅,其中十二幅于1900年12月在 Durand-Ruel 画廊展出。国家美术馆这幅构图接近对称,画面同时有仰视桥、俯视水面的错位感,用绿、紫、蓝的厚笔触画出倒影与花朵。此后他的兴趣逐步从桥与岸转向纯水面,最终发展为橘园美术馆的大幅装饰画。它经交换于1927年到 Tate,再于1961年转入国家美术馆。",
+  "technique_note": "布面油画,厚笔触叠加绿、紫、蓝色调表现倒影;构图上桥拱占据画面,几乎没有地平线,视角有意造成迷失感。",
+  "sources": [
+    "https://www.nationalgallery.org.uk/paintings/claude-monet-the-water-lily-pond",
+    "https://en.wikipedia.org/wiki/Water_Lilies_(Monet_series)"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Claude_Monet%2C_The_Water-Lily_Pond_%28National_Gallery%2C_London%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_The_Water-Lily_Pond_(National_Gallery,_London).jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 6000,
+    "height": 5821,
+    "bytes": 14837073,
+    "sha256": "e7c401f199b74ce7b0f736363190ea4743f9b2d6027b362b53ee13795f2e06e4"
+  }
+}

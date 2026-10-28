@@ -1,0 +1,53 @@
+{
+  "no": 3,
+  "title_en": "Fishermen at Sea",
+  "title_ja": "海の漁師たち",
+  "title_zh": "海上渔夫",
+  "year": "1796",
+  "year_sort": 1796,
+  "technique": "油画",
+  "medium": "Oil on canvas",
+  "dimensions": "91.4 x 122.2 cm",
+  "museum": "Tate Britain",
+  "museum_city": "London",
+  "accession": "T01585 (搜索结果转述,Tate官网页未能直接核实;N00458 是特纳1799年自画像的编号,不属本作)",
+  "museum_url": "https://artuk.org/discover/artworks/fishermen-at-sea-117749",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Joseph Mallord William Turner - Fishermen at Sea - Google Art Project.jpg",
+    "direct_url": "",
+    "width": 2258,
+    "height": 1678,
+    "license": "Public domain",
+    "license_url": "未查到"
+  },
+  "hd_available": "部分:Commons 仅 2258x1678(Google Art Project);未发现更高分辨率",
+  "exhibited_history": [
+    "1796 皇家艺术学院展(特纳首次展出油画)",
+    "1972 入藏Tate(自Fairfax-Cholmeley,Beatrice Lizzie Benson Fund)",
+    "2025-11-27至2026-04-12 Tate Britain《Turner & Constable》(仅搜索摘要转述,官网未核实)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到。",
+  "summary": "特纳首件在皇家艺术学院展出的油画,描绘月夜下怀特岛Needles岩附近的渔船。月光与提灯光对比,凸显人在自然面前的脆弱。",
+  "story": "1796年特纳21岁,首次以油画参加皇家艺术学院展。记者Anthony Pasquin称其'原创头脑的最大证明之一',称船'游得很好'。左侧锯齿状岩石为怀特岛外的Needles。画中受Vernet、de Loutherbourg与Wright of Derby影响。Andrew Wilton(1987)称其为'18世纪艺术家关于海所言之总结'。1972年入藏Tate。",
+  "technique_note": "月光冷色与灯笼暖光的明暗对比,受夜景传统(Vernet、Wright of Derby)影响;更详细技法未查到。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fishermen_at_Sea",
+    "https://victorianweb.org/painting/turner/paintings/33.html",
+    "https://artuk.org/discover/artworks/fishermen-at-sea-117749",
+    "https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_-_Fishermen_at_Sea_-_Google_Art_Project.jpg"
+  ],
+  "favorite": true,
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Joseph_Mallord_William_Turner_-_Fishermen_at_Sea_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_-_Fishermen_at_Sea_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 2258,
+    "height": 1678,
+    "bytes": 1135756,
+    "sha256": "1d17b43107206aa6e48c9886b7aedd67760f36478075325bc2169675a3f95a1e"
+  }
+}

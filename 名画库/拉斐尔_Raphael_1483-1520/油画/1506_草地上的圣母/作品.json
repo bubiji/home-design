@@ -1,0 +1,91 @@
+{
+  "no": 403,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/madonna-of-the-meadow"
+  ],
+  "title_en": "Madonna of the Meadow",
+  "title_ja": "",
+  "title_zh": "草地上的圣母",
+  "year": "1506",
+  "year_sort": 1506,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Raphael - Madonna in the Meadow - Google Art Project.jpg",
+    "note": ""
+  },
+  "medium": "木板油画(杨木板,oil on poplar panel)",
+  "dimensions": "113 × 88.5 cm",
+  "museum": "Kunsthistorisches Museum, Vienna",
+  "museum_city": "维也纳(奥地利)",
+  "accession": "GG 175",
+  "museum_url": "https://www.khm.at/",
+  "hd_available": "是:Commons 有 6116×7832 px 文件;公有领域。",
+  "exhibited_history": [
+    "未查到系统的展览记录",
+    "1983 年维也纳艺术史博物馆修复,去除变黄清漆与旧补笔(修复记录,非展览)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开外展安排。",
+  "summary": "拉斐尔 1506 年在佛罗伦萨绘制的圣母子与幼年圣约翰,三人呈金字塔形坐在草地上。它是他「佛罗伦萨时期」圣母像的代表。",
+  "story": "画作成于拉斐尔 23 岁前后抵达佛罗伦萨(约 1504–1505 年)不久,又称《草地上的圣母》或「Madonna del Belvedere」,后一称呼来自它曾长期存放在维也纳 Belvedere 的皇家收藏中。构图借用了达·芬奇的金字塔式布局,三位人物通过目光彼此呼应。圣母蓝袍外披红衣,分别象征教会与基督之死,地上的罂粟暗示受难,圣约翰手里的十字杖预示十字架。1983 年维也纳艺术史博物馆的修复让半透明的油彩罩染与底层构图线重新显现。",
+  "technique_note": "据维基百科:使用半透明油彩罩染(glazes)、不透明的底层与石膏底(gesso ground);肤色里冷暖色调的微妙变化是技术亮点。1983 年修复中去除了累积的清漆和后加修补。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/madonna-of-the-meadow",
+    "https://en.wikipedia.org/wiki/Madonna_del_Prato_(Raphael)",
+    "https://www.wikidata.org/wiki/Q2452858"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2452858",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.khm.at/objektdb/detail/1502/",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Kunsthistorisches Museum Wien ID",
+      "url": "https://www.khm.at/de/object/77f959f119/",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Madonna_del_Prato_(Raphael)",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E8%8D%89%E5%9C%B0%E4%B8%8A%E7%9A%84%E8%81%96%E6%AF%8D",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3ARaphael_-_Madonna_in_the_Meadow_-_Google_Art_Project.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q2452858",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Raphael_-_Madonna_in_the_Meadow_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Raphael_-_Madonna_in_the_Meadow_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 6116,
+    "height": 7832,
+    "bytes": 8502223,
+    "sha256": "1bc22ec379fe5e1f81207dcab0eee7e9d607fd1a94e0007aa77c239fc0bc0b9f"
+  }
+}

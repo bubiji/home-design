@@ -1,0 +1,97 @@
+{
+  "no": 402,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/cafe-terrace-at-night"
+  ],
+  "title_en": "Café Terrace at Night",
+  "title_ja": "",
+  "title_zh": "夜晚露天咖啡座",
+  "year": "1888",
+  "year_sort": 1888,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Van Gogh - Terrace of a Café at Night (Place du Forum) 1888.jpg",
+    "note": ""
+  },
+  "medium": "布面油画(oil on canvas)",
+  "dimensions": "80.7 × 65.3 cm",
+  "museum": "Kröller-Müller Museum",
+  "museum_city": "奥特洛(荷兰)",
+  "accession": "KM 108.565",
+  "museum_url": "未查到作品专页(馆方总站 https://krollermuller.nl;推测的作品页链接返回 404,未采用)",
+  "hd_available": "是:维基共享资源有公有领域大图(Google Art Project 或同类来源,分辨率本次未逐一核对);馆方下载条款未核",
+  "exhibited_history": [
+    "首次展览:1891年,题为《Café, le soir》(咖啡馆,夜晚)(据维基)",
+    "入藏 Kröller-Müller 的年份与具体展览史本次未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开来源的未来展览(本次联网检索额度用尽,未检索馆方展讯;仅核对维基/维基数据)。",
+  "summary": "《夜晚露天咖啡座》是梵高1888年9月在阿尔勒画的夜景,位于福鲁姆广场的一家咖啡馆。他在信中称这是一幅「没有黑色的夜景」。",
+  "story": "1888年9月中旬梵高在阿尔勒画下此画,没有签名,但他在三封信中提到。他对妹妹写道:一盏巨大的黄灯照亮露台、墙面与人行道,街道的鹅卵石带上紫粉色调,而星空下的房屋山墙是深蓝或紫色,「这是一幅没有黑色的夜景,只有美丽的蓝、紫和绿」。这是他第一次在画里使用星空背景,同月又画了《罗讷河上的星夜》。他很享受直接在现场夜间作画,而不是先画素描再白天作画。天文学者 Albert Boime 根据水瓶座位置把创作时间推定为9月初晚上11点左右。1891年首次展出时题为《Café, le soir》。",
+  "technique_note": "不用黑色:用蓝、紫、绿画夜色,用浅硫黄色和柠檬绿表现被灯光照亮的广场;现场直接作画,黄灯与深蓝星空形成强烈的互补色对比。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/cafe-terrace-at-night",
+    "https://en.wikipedia.org/wiki/Café_Terrace_at_Night",
+    "https://www.wikidata.org/wiki/Q1025704"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1025704",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://krollermuller.nl/en/vincent-van-gogh-terrace-of-a-cafe-at-night-place-du-forum-1",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "http://www.vggallery.com/painting/p_0467.htm",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://vangoghworldwide.org/artwork/F467",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Caf%C3%A9_Terrace_at_Night",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E5%A4%9C%E6%99%9A%E9%9C%B2%E5%A4%A9%E5%92%96%E5%95%A1%E5%BA%A7",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AVan_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_%28Place_du_Forum%29_1888.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q1025704",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_%28Place_du_Forum%29_1888.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_(Place_du_Forum)_1888.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 6415,
+    "height": 8000,
+    "bytes": 6325135,
+    "sha256": "e8d9e2799359752d119d4080464b7c8e4d14797daeb70e767f2ca851016b192e"
+  }
+}

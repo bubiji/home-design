@@ -1,0 +1,62 @@
+{
+  "no": 404,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/self-portrait-with-thorn-necklace"
+  ],
+  "title_en": "Self-Portrait with Thorn Necklace and Hummingbird",
+  "title_ja": "",
+  "title_zh": "戴荆棘项链与蜂鸟的自画像",
+  "year": "1940",
+  "year_sort": 1940,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者去世未满 70 年(或在美国仍受版权保护),只记资料不下载"
+  },
+  "medium": "油画(据通行著录为 Masonite 板,本次未核实)",
+  "dimensions": "61.25 × 47 cm",
+  "museum": "Harry Ransom Center, University of Texas at Austin(Nickolas Muray Collection)",
+  "museum_city": "美国德克萨斯州奥斯汀",
+  "accession": "未查到",
+  "museum_url": "https://www.hrc.utexas.edu",
+  "hd_available": "否:卡罗 1954 年逝世;终身+70 年在部分地区已过期,但墨西哥为终身+100 年(至 2054),馆方也不提供公开下载;只记资料不下载(各国期限未逐条核实)。",
+  "exhibited_history": [
+    "1990 年以来在国际上多次展出,包括洛杉矶县立美术馆(LACMA)、费城美术馆、纽约植物园等"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。",
+  "summary": "1940 年自画像,荆棘项链上挂着死去的蜂鸟,身边有黑猫和猴子。画于她与里维拉离婚、与摄影师尼古拉斯·穆雷结束关系之后。",
+  "story": "1940 年卡罗在与迭戈·里维拉离婚、与摄影师尼古拉斯·穆雷的恋情结束之后画下这幅自画像。她正面凝视观者,脖子被荆棘项链划出血迹,死去的蜂鸟像坠饰挂在胸前。蜂鸟在墨西哥民间被视为爱情护身符,也可能指向阿兹特克战神;荆棘则让人想到耶稣的荆冠。猴子是里维拉送给她的,被解读为他的象征,黑猫则常被联系到不祥。作品现藏于德州大学奥斯汀分校的哈利·兰瑟姆中心,属于穆雷收藏。",
+  "technique_note": "画面采用正面半身像与浓密的热带叶丛背景,叶片平涂并重复,使人物轮廓清晰地凸显;并置民间象征与基督教图像。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/self-portrait-with-thorn-necklace",
+    "https://en.wikipedia.org/wiki/Self-Portrait_with_Thorn_Necklace_and_Hummingbird",
+    "https://en.wikipedia.org/wiki/Frida_Kahlo"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5880026",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.fridakahlo.org/self-portrait-with-thorn-necklace-and-hummingbird.jsp",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Self-Portrait_with_Thorn_Necklace_and_Hummingbird",
+      "status": 200,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q5880026",
+  "downloaded": null
+}

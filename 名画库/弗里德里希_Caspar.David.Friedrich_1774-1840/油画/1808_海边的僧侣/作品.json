@@ -1,0 +1,98 @@
+{
+  "no": 402,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-monk-by-the-sea"
+  ],
+  "title_en": "The Monk by the Sea",
+  "title_ja": "",
+  "title_zh": "海边的僧侣",
+  "year": "1808–1810",
+  "year_sort": 1808,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Caspar David Friedrich - Der Mönch am Meer - Google Art Project.jpg",
+    "note": ""
+  },
+  "medium": "布面油画(oil on canvas)",
+  "dimensions": "110 × 171.5 cm",
+  "museum": "Alte Nationalgalerie(Staatliche Museen zu Berlin)",
+  "museum_city": "柏林",
+  "accession": "NG 9/85(旧编号 GK I 1810)",
+  "museum_url": "未查到作品专页(馆方在线馆藏 https://recherche.smb.museum 未核)",
+  "hd_available": "是:维基共享资源有公有领域大图(Google Art Project 或同类来源,分辨率本次未逐一核对);馆方下载条款未核",
+  "exhibited_history": [
+    "首次展览:1810年10月柏林学院展,与《橡树林中的修道院》同展,应画家要求《僧侣》挂在《修道院》之上",
+    "展后两画均被普鲁士国王腓特烈·威廉三世买下",
+    "今与《橡树林中的修道院》并排悬挂于老国家美术馆"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开来源的未来展览(本次联网检索额度用尽,未检索馆方展讯;仅核对维基/维基数据)。",
+  "summary": "《海边的僧侣》作于1808–1810年,一个背对观者的小小人影站在沙丘上,面对灰色的天空和大海。它是弗里德里希最激进的构图,被誉为抽象感的先声。",
+  "story": "画约1808年在德累斯顿开始创作,1810年在柏林学院展出,引发强烈争议。科学检测发现,弗里德里希起初在地平线画了两艘小帆船,后来涂掉了;展出前他还在灰色天空里加了蓝色、星星和月亮。作家克莱斯特改写了布伦塔诺的评论,写出了名句:画里除了画框没有前景,看它时「仿佛眼睑被割掉了」。歌德认为这幅画「倒着看也行」。艺术史学者博依姆认为那个僧侣是弗里德里希本人,罗森布鲁姆则把它与特纳、罗斯科联系起来。展后与《橡树林中的修道院》一同被腓特烈·威廉三世买下。",
+  "technique_note": "极简构图:天空占约四分之三,沙丘三角形、深色海、窄带的浪花,没有传统的框景前景(repoussoir),使观者无法「进入」画面;画面经过减法,先画后抹去船只。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/the-monk-by-the-sea",
+    "https://en.wikipedia.org/wiki/The_Monk_by_the_Sea",
+    "https://www.wikidata.org/wiki/Q693746"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q693746",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://fotothek.spsg.de/detail/fotoViewerWeb?eadb_frame=_new&easydb=bugh56298bav8tusn0nvob4hu6&grid_id=24627&table_id=155&select_id=2479&currframe=mainframe&cid=search_1375_mainframe&parent_select_id=2479",
+      "status": 403,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.smb.museum/ausstellungen/detail/der-moench-ist-zurueck/",
+      "status": "URLError",
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "SMB-digital ID",
+      "url": "https://id.smb.museum/object/965511",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/The_Monk_by_the_Sea",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E6%B5%B7%E9%82%8A%E4%BF%AE%E5%A3%AB",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3ACaspar_David_Friedrich_-_Der_M%C3%B6nch_am_Meer_-_Google_Art_Project.jpg",
+      "status": 200,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q693746",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Caspar_David_Friedrich_-_Der_M%C3%B6nch_am_Meer_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Der_M%C3%B6nch_am_Meer_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 3543,
+    "height": 2254,
+    "bytes": 5066769,
+    "sha256": "a882c8d24e4f68e1040de9079f6dea679c6e957547cc117d27d8db0aa044db7b"
+  }
+}

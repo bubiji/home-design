@@ -1,0 +1,52 @@
+{
+ "author": {
+  "name_zh": "皮埃尔·博纳尔",
+  "name_en": "Pierre Bonnard",
+  "life": "1867–1947",
+  "dir": "博纳尔_Pierre.Bonnard_1867-1947",
+  "bio": "皮埃尔·博纳尔(1867–1947)是法国画家,早年参与那比派,后以描绘家庭内景、浴室和地中海光线的「亲密派」(intimisme)作品闻名。他的画常出现妻子玛尔特与家中的猫狗,色彩明亮而含蓄。"
+ },
+ "source_article": "https://spice.eplus.jp/articles/347404",
+ "works": [
+  {
+   "no": 101,
+   "favorite": true,
+   "favorite_reason": "奥赛东京展报道作品(SPICE)",
+   "title_en": "Interior (Intérieur)",
+   "title_ja": "室内",
+   "title_zh": "室内",
+   "year": "c.1920",
+   "year_sort": 1920,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "报道只写《室内》1920年頃,奥赛藏博纳尔室内画不止一幅,原题未能确定,未下载"
+   },
+   "medium": "布面油画",
+   "dimensions": "53.0 × 57.0",
+   "museum": "Musée d'Orsay",
+   "museum_city": "Paris",
+   "accession": "RF 1973 8(Max 与 Rosy Kaganovitch 夫妇1973年捐赠,1986年转入奥赛)",
+   "museum_url": "https://www.musee-orsay.fr/en/artworks/interieur-8050",
+   "hd_available": "否:未在 Commons 查到该作文件(按标题与编号检索均无);奥赛官网页本次抓取被拒 403,开放许可未核",
+   "exhibited_history": [
+    "首次展览:未查到(Joconde 记录该作参展:1942–1943年瑞士日内瓦、苏黎世、伯尔尼、卢塞恩、巴塞尔;1966年巴黎;1949年苏黎世美术馆展览图录列有该作第85号)",
+    "2026-11-14 至 2027-03-28 东京都美术馆(见 exhibited_future)"
+   ],
+   "exhibited_future": [
+    "2026-11-14 至 2027-03-28 东京都美术馆「東京都美術館開館100周年記念 オルセー美術館所蔵 いまを生きる歓び」(来源:https://spice.eplus.jp/articles/347404)"
+   ],
+   "future_note": "作品识别:东京展《室内》1920年頃,SPICE 报道称画的是博纳尔的妻子玛尔特与爱犬;奥赛符合的是《Intérieur》(又名《La femme au chien》,约1920,RF 1973 8),馆藏记录为女子与狗、餐桌场景。依据是标题、年代与内容吻合,未见东京展官方目录逐条确认。东京展官方页说明本展不巡回,仅东京一站;本作入展依据为 SPICE 报道(已记录)。2026-09-30 前未查到其他公开的后续借展安排。",
+   "summary": "《室内》(又名《狗与女人》,约1920)画一位低头坐在桌边的女子与身旁的狗,俯视视角。东京展报道称这是博纳尔的妻子玛尔特与他家的狗。",
+   "story": "这件作品奥赛的馆藏名是《Intérieur》,又名《La femme au chien》,约1920年。据奥赛与文化部 Joconde 记录,它此前在艾克斯的 Emmanuel Belval 收藏中,1942年拍卖后进入 Max 与 Rosy Kaganovitch 夫妇收藏,1968年起寄存苏黎世美术馆。1973年夫妇把它捐给法国国家,1986年转入奥赛。画面描述为一位女子、餐桌、面包和狗的俯视场景,并有光线效果。SPICE 报道说画的是玛尔特和爱犬,狗在博纳尔画中经常出现,是亲密的家中伙伴。",
+   "technique_note": "布面油画。Joconde 描述为俯视视角的家庭内景,含人物、餐食与狗,并突出光线效果,属博纳尔典型的亲密派题材。具体笔法与颜料未查到。",
+   "sources": [
+    "https://spice.eplus.jp/articles/347404",
+    "https://www.musee-orsay.fr/en/artworks/interieur-8050",
+    "https://pop.culture.gouv.fr/notice/joconde/000PE003700"
+   ]
+  }
+ ]
+}

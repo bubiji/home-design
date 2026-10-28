@@ -1,0 +1,98 @@
+{
+  "no": 402,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/sistine-madonna"
+  ],
+  "title_en": "Sistine Madonna",
+  "title_ja": "",
+  "title_zh": "西斯廷圣母",
+  "year": "1512–1513",
+  "year_sort": 1512,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Raphael - The Sistine Madonna - Google Arts & Culture.jpg",
+    "note": ""
+  },
+  "medium": "布面油画(oil on canvas)",
+  "dimensions": "265 × 196 cm",
+  "museum": "Gemäldegalerie Alte Meister, Dresden",
+  "museum_city": "德累斯顿(德国)",
+  "accession": "Gal.-Nr. 93",
+  "museum_url": "https://skd-online-collection.skd.museum/",
+  "hd_available": "是:Commons 有 7029×9546 px(约 38 MB)文件;公有领域。馆方在线藏品库的下载条件未能核实。",
+  "exhibited_history": [
+    "原为皮亚琴察 San Sisto 教堂祭坛画;1754 年被波兰国王奥古斯特三世购入,移至德累斯顿",
+    "二战末期藏于萨克森瑞士的隧道,被苏联红军取走;1946–1955 年暂存/展于莫斯科普希金博物馆,之后归还德国",
+    "此外的外借展览未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "该画极少外借,未查到公开的 2026-09-30 之后外展安排。",
+  "summary": "拉斐尔为圣西斯都教堂所绘的祭坛画,圣母抱着圣婴自云中走出,两侧是圣西斯都与圣芭芭拉。画底部那对倚着边框的小天使后来成了流行形象。",
+  "story": "据维基百科,教皇尤利乌斯二世为纪念叔父西斯都四世,于 1512 年委托此画给皮亚琴察的 San Sisto 教堂(绘制年代各说在 1512–1514 年间)。1754 年奥古斯特三世以 11–12 万法郎购入,运往德累斯顿。二战中它被藏入隧道,1945 年为苏联红军取走,1946–1955 年在莫斯科展出,之后归还。汉斯·贝尔廷评论说,没有哪件艺术品像它这样点燃过德国人的想象。传说那对天使是拉斐尔看见模特的孩子们在旁观画而添加的。",
+  "technique_note": "颜料分析:绿色衣褶用孔雀石混雌黄,圣母蓝袍用天然群青加铅白,圣芭芭拉黄袖用铅锡黄、朱砂与铅白。画在大幅布面上,而非拉斐尔常用的木板。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/sistine-madonna",
+    "https://en.wikipedia.org/wiki/Sistine_Madonna",
+    "https://www.wikidata.org/wiki/Q328079"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q328079",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "http://www.skd.museum/en/museums-institutions/zwinger-with-semperbau/gemaeldegalerie-alte-meister/sistine-madonna/index.html",
+      "status": 404,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "http://colourlex.com/project/raphael-sistine-madonna/",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "SKD artwork ID",
+      "url": "https://skd-online-collection.skd.museum/Details/Index/372144",
+      "status": 403,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Sistine_Madonna",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%96%AF%E5%BB%B7%E8%81%96%E6%AF%8D",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3ARaphael_-_The_Sistine_Madonna_-_Google_Arts_%26_Culture.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q328079",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Raphael_-_The_Sistine_Madonna_-_Google_Arts_%26_Culture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Raphael_-_The_Sistine_Madonna_-_Google_Arts_%26_Culture.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 7029,
+    "height": 9546,
+    "bytes": 38190063,
+    "sha256": "c6c51625c0e46a459688c2c343a749cba8bc29dfff888240ceb07ccebd4d00aa"
+  }
+}

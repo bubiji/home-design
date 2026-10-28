@@ -1,0 +1,86 @@
+{
+  "no": 402,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/broadway-boogie-woogie"
+  ],
+  "title_en": "Broadway Boogie Woogie",
+  "title_ja": "",
+  "title_zh": "百老汇爵士乐",
+  "year": "1942–1943",
+  "year_sort": 1942,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Piet Mondrian, 1942 - Broadway Boogie Woogie.jpg",
+    "note": ""
+  },
+  "medium": "布面油画(oil on canvas)",
+  "dimensions": "127 × 127 cm(50 × 50 in)",
+  "museum": "Museum of Modern Art (MoMA), New York",
+  "museum_city": "纽约(美国)",
+  "accession": "73.1943",
+  "museum_url": "https://www.moma.org/collection/works/78682",
+  "hd_available": "是:Commons 有 4104×4111 px 文件。版权:欧盟自 2015-01-01 公有领域。美国方面,1942–43 年的作品属 1931–1977 年出版区间:Commons 以「出版时无版权标记」为由标为公有领域(PD US no notice),但若实际带标记并续期,保护期为出版后 95 年(至 2038 年底);此点我未能独立核实,商用请自行复核。",
+  "exhibited_history": [
+    "1943 年在纽约 Valentine Gallery 展出,展后巴西雕塑家 Maria Martins 以 800 美元购得,后赠予 MoMA(据维基百科)",
+    "此后 MoMA 馆内长期展出;外借展览记录未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开外展安排(MoMA 官网拒绝访问,未能核实)。",
+  "summary": "蒙德里安 1942–43 年在纽约完成的最后一批完整作品之一:黄色底线上跳动着大量红、蓝、灰色小方块,以曼哈顿街格与布吉乌吉音乐为灵感。它标志着他从冷静的网格转向更具节奏感的画面。",
+  "story": "1940 年蒙德里安移居纽约后,深受曼哈顿整齐严格的街区和布吉乌吉(boogie-woogie)爵士乐吸引。这幅画与他以前的作品不同,出现了「多得多的方块」,把线条也换成了彩色格子。他描述自己的目标是「破坏自然的外观,并通过纯粹手段的持续对立来建构——动态节奏」。作品先在 1943 年于纽约 Valentine Gallery 展出,巴西雕塑家 Maria Martins 以 800 美元买下并捐给了 MoMA。此后他又开始画《胜利布吉乌吉》,但 1944 年去世时尚未完成。",
+  "technique_note": "布面油画,127×127 cm 的正方形。据维基百科,画面由比他早期作品多得多的方块构成;关于是否先用彩色胶带试排再上色等工作方法,本次未能核实。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/broadway-boogie-woogie",
+    "https://en.wikipedia.org/wiki/Broadway_Boogie_Woogie",
+    "https://www.wikidata.org/wiki/Q2915406",
+    "https://commons.wikimedia.org/wiki/File:Piet_Mondrian,_1942_-_Broadway_Boogie_Woogie.jpg"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2915406",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Museum of Modern Art work ID",
+      "url": "https://www.moma.org/collection/works/78682",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Broadway_Boogie_Woogie",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E7%99%BE%E8%80%81%E5%8C%AF%E7%88%B5%E5%A3%AB%E6%A8%82",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3APiet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q2915406",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Piet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Piet_Mondrian,_1942_-_Broadway_Boogie_Woogie.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 4104,
+    "height": 4111,
+    "bytes": 1266424,
+    "sha256": "2a2ed27a24e64f6d3eabef9badd7988de4e04ce558b9a8e971582da9006ada59"
+  }
+}

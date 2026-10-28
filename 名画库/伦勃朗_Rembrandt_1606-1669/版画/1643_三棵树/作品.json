@@ -1,0 +1,50 @@
+{
+  "no": 101,
+  "favorite": true,
+  "favorite_reason": "客厅画墙 F5",
+  "title_en": "The Three Trees",
+  "title_ja": "",
+  "title_zh": "三棵树",
+  "year": "1643",
+  "year_sort": 1643,
+  "technique": "版画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:The three trees) - Rembrandt f 1643 LCCN96507706.jpg",
+    "note": ""
+  },
+  "medium": "蚀刻、干刻与雕版(etching, drypoint and engraving),laid paper(本图取自美国国会图书馆藏 Hubbard 收藏之一份印本)",
+  "dimensions": "纸张约 20 × 28 cm(LOC 记载);版面约 21.3 × 27.9 cm(Wikipedia)",
+  "museum": "Library of Congress, Prints and Photographs Division(Hubbard Collection)",
+  "museum_city": "华盛顿",
+  "accession": "LCCN 96507706;Call No. FP - XVII - R385, no. 212 (A size)",
+  "museum_url": "https://www.loc.gov/item/96507706/",
+  "hd_available": "是:LOC 提供多种数字文件(彩色/黑白原件扫描)可下载;版画存世多份印本,Rijksmuseum(RP-P-OB-444)、加拿大国家美术馆、法国国家图书馆等亦藏",
+  "exhibited_history": [
+    "LOC 藏本来自 Hubbard 收藏;具体展览史未查到",
+    "其他馆的印本(如 Rijksmuseum RP-P-OB-444、Saint Louis Art Museum、Philadelphia Museum of Art)各有自己的展出记录,本条未逐一核对"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 LOC 这份印本 2026-09-30 之后的公开展出或外借信息。另:皇家艺术学院官宣 2027 春季办「Rembrandt: Radical Printmaker」,但未确认是否含《三棵树》及哪份印本",
+  "summary": "《三棵树》是伦勃朗 1643 年的蚀刻加干刻与雕版风景,画面由三棵高大的树、远景的雨云与阳光构成。它是他最大幅、最具绘画感的风景版画,并非真实地形写生,而是依阿姆斯特丹郊外意象自由构图。",
+  "story": "此版画作于 1643 年,常被认为取景于阿姆斯特丹近郊(LOC 称视角大致在 Diemerdijk 一带)。画面下方有钓鱼者、林间藏身的一对情侣,远处还有一个画速写的小小画家。左上方密集的平行排线既像倾盆大雨,又像穿云而下的光线,令天空产生戏剧性的不确定。学者 Christopher White 指出,它是伦勃朗少数对天空作出「正面描绘」的风景蚀刻。有学者从中读出浪漫或情色意味,也有人认为三棵树暗指十字架等宗教象征,至今没有定论。此作有多份印本流传,各馆所藏在墨色与擦拭程度上有所不同。",
+  "technique_note": "蚀刻为底,以干刻针刮出天空与暗部的毛边厚重黑色,并局部用雕刻刀(burin)加强。左上方的排线与前景的深色对比,是「暴雨与光」效果的来源。",
+  "sources": [
+    "https://www.loc.gov/item/96507706/",
+    "https://en.wikipedia.org/wiki/The_Three_Trees",
+    "https://www.rijksmuseum.nl/en/collection/RP-P-OB-444",
+    "https://www.royalacademy.org.uk/article/2027-annual-programme"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/The_three_trees%29_-_Rembrandt_f_1643_LCCN96507706.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:The_three_trees)_-_Rembrandt_f_1643_LCCN96507706.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 9280,
+    "height": 6768,
+    "bytes": 14460420,
+    "sha256": "4986cae4a00e4dbeeccaad67f6fa8499e1dd412466412df1d4395f67a5ba087a"
+  }
+}

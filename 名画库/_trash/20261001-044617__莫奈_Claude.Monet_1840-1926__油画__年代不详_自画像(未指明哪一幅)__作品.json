@@ -1,0 +1,40 @@
+{
+  "no": 212,
+  "favorite": true,
+  "favorite_reason": "周杰伦《最伟大的作品》(2022)MV/歌词 引用的作品",
+  "culture_relation": [
+    "周杰伦《最伟大的作品》(2022)MV/歌词:MV 中出现莫奈自画像(置信度:3 篇)"
+  ],
+  "title_en": "Self-Portrait (unspecified)",
+  "title_ja": "",
+  "title_zh": "自画像(未指明哪一幅)",
+  "year": "",
+  "year_sort": 0,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "解析文章未指明具体哪一幅,无法确定下载对象"
+  },
+  "medium": "未确定具体作品",
+  "dimensions": "未确定具体作品",
+  "museum": "未确定(候选:巴黎奥赛博物馆 Musée d'Orsay,1917年自画像)",
+  "museum_city": "未确定(候选:巴黎)",
+  "accession": "未确定(候选 Orsay 1917 自画像为 RF 2623,来源:检索摘要,待核)",
+  "museum_url": "https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-1173",
+  "hd_available": "未确定具体作品(莫奈1926年去世,作品已入公有领域;若为候选的奥赛作品,可查馆方图像)",
+  "exhibited_history": [
+    "未确定具体作品,无法给出展览史"
+  ],
+  "exhibited_future": [],
+  "future_note": "未确定具体作品,故未查到展出安排",
+  "summary": "MV中出现的莫奈自画像未指明是哪一幅;莫奈留下的自画像很少,奥赛博物馆藏的1917年自画像是候选之一。",
+  "story": "解析只说MV里出现莫奈自画像,没有指明具体哪一幅,所以无法确定。莫奈很少画自画像,常被提到的是奥赛博物馆藏的1917年一幅,尺寸约 55 x 70 cm,检索到的摘要称其为 Georges Clemenceau 于1927年赠予。也有报道(The Art Newspaper 2020)提到 Marmottan 藏的一件「自画像」被降级,可见自画像的归属并不简单。以上仅为候选与背景,不能断定就是MV所指。",
+  "technique_note": "未确定具体作品;此处不写技法细节,以免与候选作品混淆。",
+  "sources": [
+    "https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-1173",
+    "https://www.theartnewspaper.com/2020/02/21/monet-for-nothing-musee-marmottans-self-portrait-is-downgraded"
+  ],
+  "downloaded": null
+}

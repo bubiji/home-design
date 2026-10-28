@@ -1,0 +1,41 @@
+{
+  "no": 306,
+  "favorite": true,
+  "favorite_reason": "周杰伦《太阳之子》(2026)MV 名画重现",
+  "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:自由时报「30 幅」表所列(置信度:1 篇)"
+  ],
+  "title_en": "Circle Limit IV",
+  "title_ja": "",
+  "title_zh": "圆极限 IV",
+  "year": "1960",
+  "year_sort": 1960,
+  "technique": "版画",
+  "book_relation": "",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者去世未满 70 年,仍在版权期内,只记资料不下载"
+  },
+  "medium": "木刻版画(赭色与黑色,两块版套印)",
+  "dimensions": "画面直径约 41.91 cm;纸张 47.94 × 48.1 cm(据加拿大国家美术馆印本)",
+  "museum": "无单一馆藏(版画有多份印本,分藏各馆;荷兰海牙 Escher in Het Paleis 等);例:加拿大国家美术馆(渥太华)藏一印本(部分校样)",
+  "museum_city": "渥太华(例:加拿大国家美术馆)",
+  "accession": "1982.90.9(加拿大国家美术馆印本)",
+  "museum_url": "https://www.gallery.ca/collection/artwork/circle-limit-iv-heaven-and-hell",
+  "hd_available": "否(版权期内)",
+  "exhibited_history": [
+    "未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到2026-09-30之后的公开展出信息",
+  "summary": "《圆极限 IV(天堂与地狱)》是埃舍尔1960年7月的木刻,白天使与黑蝙蝠状恶魔在圆盘中互相镶嵌,越靠边缘越小。灵感来自数学家考克斯特的双曲几何图形。",
+  "story": "埃舍尔受加拿大数学家 H.S.M. 考克斯特1957年著作《晶体对称及其推广》中一幅图启发,该图基于庞加莱圆盘模型。两人通信往来,考克斯特给他关于双曲镶嵌的建议,也从他那里学到新的解法。他以1941年的「正则分割绘图 no. 45」为基础,用四重与六重对称交替的排列(在平面上不可能实现)完成圆盘内的镶嵌。天使与恶魔互为背景,他写道:「善与恶彼此需要才能被看见,直到无限。」",
+  "technique_note": "木刻,两块版套印(赭色与黑色);庞加莱圆盘上的双曲镶嵌使图案向边缘无限缩小。",
+  "sources": [
+    "https://escherinhetpaleis.nl/en/about-escher/escher-today/circle-limit-iv-heaven-and-hell",
+    "https://www.gallery.ca/collection/artwork/circle-limit-iv-heaven-and-hell",
+    "https://www.nga.gov/artworks/61282-circle-limit-iv"
+  ],
+  "downloaded": null
+}

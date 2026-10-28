@@ -1,0 +1,55 @@
+{
+  "no": 10,
+  "title_en": "Slave Ship (Slavers Throwing Overboard the Dead and Dying, Typhoon Coming On)",
+  "title_ja": "Slave Ship (Slavers Throwing Overboard the Dead and Dying, Typhoon Coming On)(文章原文表记)",
+  "title_zh": "奴隶船(奴隶贩子将死者与垂死者抛入海中,台风将至)",
+  "year": "1840",
+  "year_sort": 1840,
+  "technique": "油画",
+  "medium": "布面油画(oil on canvas)",
+  "dimensions": "90.8 x 122.6",
+  "museum": "波士顿美术馆(Museum of Fine Arts, Boston)",
+  "museum_city": "波士顿",
+  "accession": "99.22",
+  "museum_url": "https://collections.mfa.org/objects/31003",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Slave-ship.jpg",
+    "direct_url": "",
+    "width": 2152,
+    "height": 1616,
+    "license": "Public domain(Commons 标注,来源署 Museum of Fine Arts, Boston)",
+    "license_url": ""
+  },
+  "hd_available": "否:Commons 最大为 2152x1616;另有 CC0 的 PNG(1254x932)更小。MFA 官网页抓取被 403,未确认其开放获取下载链接(未查到)",
+  "exhibited_history": [
+    "1840 皇家美术院夏季展(附透纳自撰诗句,后归拉斯金;1869年售往纽约,1872年入波士顿)",
+    "2022-03-27至07-10 波士顿美术馆 'Turner's Modern World'(与 Tate Britain、Kimbell 合办),为核心展品",
+    "2024-11-09至2025-11-09 波士顿美术馆 'Deep Waters: Four Artists and the Sea'"
+  ],
+  "exhibited_future": [],
+  "future_note": "2026-09-30 之后的公开展出信息未查到。",
+  "summary": "1840年作,描绘台风将至时奴隶船将死者与垂死者抛入海中,血红夕阳与翻涌的海浪吞没镣铐与残肢。取材于1781年 Zong 号事件,现藏波士顿美术馆。",
+  "story": "该画1840年在皇家美术院首展,展览目录附透纳自作诗句,结尾为'Hope, Hope, fallacious Hope! Where is thy market now?'。画作取材于1781年 Zong 号事件——船长为骗取保险下令将132名奴隶抛入海中,透纳可能受克拉克森废奴著作启发,并适逢伦敦的反奴隶制大会。批评家拉斯金曾拥有此画,称赞其色彩'绝对完美',甚至认为可能是透纳最伟大的作品;美国画家 George Inness 则斥之为'最可恶的哗众取宠之作'。画作1869年售往纽约,1872年入波士顿。评论界至今争论其崇高的自然景象是强化还是削弱了道德控诉。",
+  "technique_note": "布面油画,以炽热翻滚的色彩与光线使海天交融,笔触松动、重色彩轻细节(据MFA说明的转述);画面前景有鲨鱼、镣铐与人体残肢。颜料成分未查到。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_Slave_Ship",
+    "https://victorianweb.org/painting/turner/paintings/slaveship.html",
+    "https://www.mfa.org/exhibition/turners-modern-world",
+    "https://www.mfa.org/exhibition/deep-waters-four-artists-and-the-sea",
+    "https://commons.wikimedia.org/w/api.php?action=query&titles=File:Slave-ship.jpg&prop=imageinfo",
+    "https://collections.mfa.org/objects/31003 (403,未取得)"
+  ],
+  "favorite": true,
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Slave-ship.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Slave-ship.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 2152,
+    "height": 1616,
+    "bytes": 465140,
+    "sha256": "1d5ff66e04f1d899c764234f7633f6a299475af058012feed0a28ab3b1247de4"
+  }
+}

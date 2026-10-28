@@ -1,0 +1,98 @@
+{
+  "no": 403,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/wheatfield-with-crows"
+  ],
+  "title_en": "Wheatfield with Crows",
+  "title_ja": "",
+  "title_zh": "麦田群鸦",
+  "year": "1890",
+  "year_sort": 1890,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Van Gogh, Wheatfield with crows.jpg",
+    "note": ""
+  },
+  "medium": "布面油画(oil on canvas,双方形画布)",
+  "dimensions": "50.5 × 103 cm(Wikidata 记 50.2 × 103)",
+  "museum": "Van Gogh Museum",
+  "museum_city": "阿姆斯特丹",
+  "accession": "s0149V1962(Van Gogh Museum 作品页编号;Wikidata 另记 s0149V19558,未核)",
+  "museum_url": "https://www.vangoghmuseum.nl/en/collection/s0149V1962",
+  "hd_available": "是:Van Gogh Museum 提供在线馆藏大图(本次仅确认页面存在,下载条款未核);维基共享资源亦有大图",
+  "exhibited_history": [
+    "首次展览:未查到",
+    "1991年被盗,与另外19幅梵高画一同被盗,很快追回,但此画在盗窃中严重受损(据维基)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开来源的未来展览(本次联网检索额度用尽,未检索馆方展讯;仅核对维基/维基数据)。",
+  "summary": "《麦田群鸦》是梵高1890年7月在奥维尔画的双方形画布风景,常被误称为他的最后一幅作品。画面是乌云密布的天空、麦田与一条通向无处的小路。",
+  "story": "梵高约在1890年7月10日写信给提奥和乔,说他在奥维尔又画了三幅大幅画布,其中两幅是风暴天空下的无边麦田,他特意表现了悲伤与「极度的孤独」,同时又认为这些画表现了乡野健康有益的一面。这幅画常被说成他的绝笔,这一印象来自文森特·明奈利1956年的传记片《渴望生活》。其实信件显示它约在7月10日完成,早于7月14日的《奥维尔市政厅》与《多比尼的花园》,他的最后一幅画更可能是《树根》。沃尔特与梅茨格提醒:梵高自己的话并不支持简单的绝望解读,画中乌鸦是与他个人生活相关的象征。1991年此画被盗后追回,受损严重。",
+  "technique_note": "双方形(double-square)长幅画布,梵高在1890年6至7月最后几周专门使用;小路、起伏的地平线和乌鸦飞行方向不定,增强了孤寂与不安的感觉。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/wheatfield-with-crows",
+    "https://en.wikipedia.org/wiki/Wheatfield_with_Crows",
+    "https://www.wikidata.org/wiki/Q634122",
+    "https://www.vangoghmuseum.nl/en/collection/s0149V1962"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q634122",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "http://www.vangoghmuseum.nl/nl/collectie/s0149V1962",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "http://www.vggallery.com/painting/p_0779.htm",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://vangoghworldwide.org/artwork/F779",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Wheatfield_with_Crows",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E9%BA%A5%E7%94%B0%E7%BE%A4%E9%B4%89",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AVan_Gogh%2C_Wheatfield_with_crows.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q634122",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Van_Gogh%2C_Wheatfield_with_crows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Van_Gogh,_Wheatfield_with_crows.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 4921,
+    "height": 2361,
+    "bytes": 8641311,
+    "sha256": "8c2ed44374af88e212d9e392a3e796956b8f16f46cf13b466057f797cf1349c9"
+  }
+}

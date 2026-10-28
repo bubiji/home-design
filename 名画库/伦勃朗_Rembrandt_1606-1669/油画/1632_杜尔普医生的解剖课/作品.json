@@ -1,0 +1,87 @@
+{
+  "no": 301,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录;周杰伦《太阳之子》(2026)MV 名画重现",
+  "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:验尸场景,发现咬痕(置信度:11 篇)",
+    "周杰伦《太阳之子》(2026)MV 名画重现:VERSE(2026-03-22)列为六支前导预告对应的六幅核心名画之一",
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/anatomy-lesson"
+  ],
+  "title_en": "The Anatomy Lesson of Dr Nicolaes Tulp",
+  "title_ja": "",
+  "title_zh": "杜尔普医生的解剖课",
+  "year": "1632",
+  "year_sort": 1632,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Rembrandt van Rijn - The Anatomy Lesson of Dr Nicolaes Tulp - 146 - Mauritshuis.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "169.5 × 216.5 cm",
+  "museum": "Mauritshuis",
+  "museum_city": "海牙(荷兰)",
+  "accession": "inv. 146",
+  "museum_url": "https://www.mauritshuis.nl/en/our-collection/artworks/146-the-anatomy-lesson-of-dr-nicolaes-tulp",
+  "hd_available": "是(Mauritshuis 与 Commons 均有高清文件;详细下载条款未逐一核实)",
+  "exhibited_history": [
+    "1632 年为阿姆斯特丹外科医师公会委托而作(Mauritshuis)",
+    "后由荷兰国家以 32,000 荷兰盾购入并入藏 Mauritshuis(馆方页面);现于 9 厅展出"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的外借展出;常设于 Mauritshuis",
+  "summary": "1632 年伦勃朗初到阿姆斯特丹时完成的集体肖像,画出杜尔普医生解剖尸体手臂并向同行讲解。此作确立了他的名声。",
+  "story": "1632 年 1 月 31 日,阿姆斯特丹外科医师公会的行政长官杜尔普医生公开解剖了刚被处以绞刑的抢劫犯阿里斯·金特(Aris Kindt)。伦勃朗随后接受委托,画下这次课。围观者出资入画,构图一改传统的呆板并列,将他们围拢在尸体周围,视线各异。他没有画解剖刀,而是先展示手臂肌肉,并在右下角放了一本大解剖书。画面上署有「Rembrant. f[ecit] 1632」,被认为是他首次用全名而非字母缩写签名。尸体面部的阴影被解读为死亡的投影。",
+  "technique_note": "强烈的侧光使苍白的尸体成为画面视觉中心,深色背景和黑色服装衬托脸与手;人物排布呈金字塔构图。笔触在人物面部细腻,在衣物处较松。",
+  "sources": [
+    "https://www.mauritshuis.nl/en/our-collection/artworks/146-the-anatomy-lesson-of-dr-nicolaes-tulp",
+    "https://en.wikipedia.org/wiki/The_Anatomy_Lesson_of_Dr._Nicolaes_Tulp",
+    "https://www.verse.com.tw/article/jay-chou-children-of-the-sun"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q661378",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.mauritshuis.nl/nl-nl/verdiep/de-collectie/kunstwerken/de-anatomische-les-van-dr-nicolaes-tulp-146/",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/The_Anatomy_Lesson_of_Dr._Nicolaes_Tulp",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%A4%E6%8B%89%E6%96%AF%C2%B7%E6%9D%9C%E7%88%BE%E5%8D%9A%E5%A3%AB%E7%9A%84%E8%A7%A3%E5%89%96%E5%AD%B8%E8%AA%B2",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3ARembrandt_van_Rijn_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp_-_146_-_Mauritshuis.jpg",
+      "status": 200,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q661378",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Rembrandt_van_Rijn_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp_-_146_-_Mauritshuis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Rembrandt_van_Rijn_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp_-_146_-_Mauritshuis.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 6000,
+    "height": 4520,
+    "bytes": 7740569,
+    "sha256": "21560e5d676a578fe9dc4911f0b6f89bf99b21d89bd49525b377b442e24e03e4"
+  }
+}

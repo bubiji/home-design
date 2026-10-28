@@ -1,0 +1,94 @@
+{
+  "no": 402,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/luncheon-of-the-boating-party"
+  ],
+  "title_en": "Luncheon of the Boating Party",
+  "title_ja": "",
+  "title_zh": "游船上的午宴",
+  "year": "1880–1881",
+  "year_sort": 1880,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Pierre-Auguste Renoir - Luncheon of the Boating Party - Google Art Project.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "130.2 × 175.6 cm",
+  "museum": "The Phillips Collection",
+  "museum_city": "美国华盛顿特区",
+  "accession": "1637(Commons 标注的馆藏号);1923 年入藏",
+  "museum_url": "https://www.phillipscollection.org/",
+  "hd_available": "是:Commons 有 Google Art Project 高清图;Phillips 官网亦有图像",
+  "exhibited_history": [
+    "1882 年第七届印象派联展(未核对)",
+    "2026-03-17 至 2026-07-19 巴黎奥赛「雷诺阿与爱情」展(出借自 Phillips,2026 年 8 月返回)"
+  ],
+  "exhibited_future": [
+    "Feast for the Eyes: Celebrating Renoir at the Phillips,华盛顿 Phillips Collection,2027 年 6–10 月,与奥赛出借的《煎饼磨坊的舞会》同展(据馆方公告)"
+  ],
+  "future_note": "展期仅公告到月份。",
+  "summary": "《游船上的午宴》描绘塞纳河畔 Chatou 的 Fournaise 餐馆阳台上,一群朋友在午后聚餐。画面里有静物、人群与河景,是雷诺阿印象派时期最复杂的群像之一。",
+  "story": "作品在 1880–81 年画成,地点是巴黎西郊 Chatou 的 Maison Fournaise。画中人物包括雷诺阿后来的妻子 Aline Charigot(左前持小狗者)、Gustave Caillebotte 以及收藏家 Charles Ephrussi 等朋友,左边靠栏杆的是店主之子。(未核对)1882 年第七届印象派联展展出此画。(未核对)画作后由画商 Durand-Ruel 持有,1923 年被 Duncan Phillips 买下,成为 Phillips Collection 的核心藏品。(未核对)2026 年作为出借品参加了奥赛的雷诺阿大展。",
+  "technique_note": "多处用薄涂与流畅笔触表现桌面静物的反光;人物以暖色为主、背景遮阳篷的红白条纹带来强烈节奏;近景处理精细,背景较松散。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/luncheon-of-the-boating-party",
+    "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg",
+    "https://www.phillipscollection.org/press/phillips-collection-announces-2026-27-exhibition-schedule",
+    "https://www.phillipscollection.org/press/phillips-collection-announces-loan-renoirs-luncheon-boating-party-musee-dorsay"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1167907",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.phillipscollection.org/collection/browse-the-collection?id=1637",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Salons ID",
+      "url": "https://salons.musee-orsay.fr/Detail/objects/59370",
+      "status": 403,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Luncheon_of_the_Boating_Party",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E5%88%92%E8%88%B9%E4%BA%BA%E7%9A%84%E5%8D%88%E5%AE%B4",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3APierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q1167907",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 9025,
+    "height": 6684,
+    "bytes": 20272414,
+    "sha256": "2d205e710d6e4ee39bee5c3f892117569590459921b553a254b86b24b106c4eb"
+  }
+}

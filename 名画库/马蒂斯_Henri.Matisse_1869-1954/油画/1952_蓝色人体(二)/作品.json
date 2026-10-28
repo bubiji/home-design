@@ -1,0 +1,69 @@
+{
+  "no": 404,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/blue-nude-ii"
+  ],
+  "title_en": "Blue Nude II",
+  "title_ja": "",
+  "title_zh": "蓝色人体(二)",
+  "year": "1952",
+  "year_sort": 1952,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者去世未满 70 年(或在美国仍受版权保护),只记资料不下载"
+  },
+  "medium": "剪纸:上过水粉的纸剪贴在白纸上,再裱于画布(本件为水粉剪纸,不是油画)",
+  "dimensions": "116.2 × 88.9 cm(含托裱;Pompidou 另有页面著录 103.8 × 86 cm,可能为不同量法,待核)",
+  "museum": "Centre Pompidou (MNAM), Paris",
+  "museum_city": "法国巴黎",
+  "accession": "AM 1984-1(1984 年购入)",
+  "museum_url": "https://www.centrepompidou.fr/en/pompidou-plus/magazine/article/focus-on-blue-nude-ii-nu-bleu-ii-by-henri-matisse",
+  "hd_available": "否:1952 年作品,作者 1954 年逝世;终身+70 年在欧盟等地 2025 年起已过期,但各国期限不一(美国等地仍可能受保护),本次未逐国核实,不下载。",
+  "exhibited_history": [
+    "2026 年 3 月 24 日–7 月 26 日巴黎大皇宫《马蒂斯,1941–1954》(Matisse, 1941–1954)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。",
+  "summary": "1952 年春的四幅《蓝色裸女》之一,以蓝色水粉纸直接剪出坐姿裸体,是马蒂斯剪纸晚期的代表。属于蓬皮杜中心国家现代艺术博物馆。",
+  "story": "1952 年春,马蒂斯在尼斯的雷吉纳酒店画室,以重新审视坐姿裸女的主题创作了四件《蓝色裸女》。传说《蓝色裸女二号》是一剪刀完成的,流畅的轮廓成为其剪纸技法的象征。作品把人体拆成相互咬合的蓝色块,块间留出空白,让形体既有体积感又能「呼吸」。1984 年由蓬皮杜中心收藏。2026 年它出现在大皇宫的马蒂斯晚期大展上。",
+  "technique_note": "先把纸用水粉涂上蓝色,再用剪刀剪出形体并剪贴到白纸上,最后裱于画布;人物的肢体靠块与块之间的空隙连接,强调负空间的作用。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/blue-nude-ii",
+    "https://www.centrepompidou.fr/en/pompidou-plus/magazine/article/focus-on-blue-nude-ii-nu-bleu-ii-by-henri-matisse",
+    "https://www.meer.com/moma/artworks/51656",
+    "https://en.wikipedia.org/wiki/Blue_Nudes"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q882587",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.centrepompidou.fr/fr/ressources/oeuvre/CtQ1tcy",
+      "status": 404,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Centre Pompidou ID",
+      "url": "https://www.centrepompidou.fr/fr/id/CtQ1tcy",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "MNAM artwork ID",
+      "url": "https://collection.centrepompidou.fr/#/artwork/150000000029841",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q882587",
+  "downloaded": null
+}

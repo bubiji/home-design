@@ -1,0 +1,92 @@
+{
+  "no": 401,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/wanderer-above-the-sea-of-fog"
+  ],
+  "title_en": "Wanderer above the Sea of Fog",
+  "title_ja": "",
+  "title_zh": "雾海上的旅人",
+  "year": "c.1818",
+  "year_sort": 1818,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Caspar David Friedrich - Wanderer above the Sea of Fog.jpeg",
+    "note": ""
+  },
+  "medium": "布面油画(oil on canvas)",
+  "dimensions": "94.8 × 74.8 cm(保留原值;Wikidata 记 67 × 74.8,疑有误)",
+  "museum": "Hamburger Kunsthalle",
+  "museum_city": "汉堡(德国)",
+  "accession": "HK-5161(Wikidata)",
+  "museum_url": "未查到作品专页(馆方在线馆藏网址本次未核)",
+  "hd_available": "是:维基共享资源有公有领域大图(Google Art Project 或同类来源,分辨率本次未逐一核对);馆方下载条款未核",
+  "exhibited_history": [
+    "首次展览:未查到",
+    "19世纪流传情况不明;1939年已在柏林 Wilhelm August Luz 画廊展出,之后辗转私人收藏",
+    "1970年被汉堡美术馆购入,此后一直在馆内展出"
+  ],
+  "exhibited_future": [],
+  "future_note": "常设于 Hamburger Kunsthalle(据维基)。未查到公开来源的未来展览(本次联网检索额度用尽,未检索馆方展讯;仅核对维基/维基数据)。",
+  "summary": "《雾海上的旅人》作于约1818年,一个背对观者的男子站在岩石上俯瞰云雾笼罩的山谷。它是德国浪漫主义的代表作,可能是艺术史上最著名的背影人物画。",
+  "story": "画中的风景由萨克森与波希米亚易北砂岩山地的多个地点拼合而成:远方右侧是 Zirkelstein,前景岩石来自 Kaiserkrone,这是弗里德里希惯用的室内重组写生的方法。1817–1818年间他结识了卡鲁斯和达尔,并在1818年1月结婚。画中人物的身份不明,有学者认为可能是画家自己。它被解读为自我反思与人生道路的象征,也有人从中读出他的德国自由派与民族主义情感。罗伯特·麦克法兰认为这幅画影响了西方对登山的看法。画作19世纪的流传不清,1970年由汉堡美术馆购入。",
+  "technique_note": "背影人物(Rückenfigur)把观者引入画内;景物是写生素材在画室里重新组合,前景清晰、远景在雾中逐渐融化,形成崇高感。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/wanderer-above-the-sea-of-fog",
+    "https://en.wikipedia.org/wiki/Wanderer_Above_the_Sea_of_Fog",
+    "https://www.wikidata.org/wiki/Q311243"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q311243",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://online-sammlung.hamburger-kunsthalle.de/de/objekt/HK-5161",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://cdfriedrich.de/intro/",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Wanderer_Above_the_Sea_of_Fog",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E9%9B%BE%E6%B5%B7%E4%B8%8A%E7%9A%84%E6%97%85%E4%BA%BA",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3ACaspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg",
+      "status": 200,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q311243",
+  "downloaded": {
+    "file": "原图.jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 5256,
+    "height": 6742,
+    "bytes": 31235405,
+    "sha256": "9fcbd879894eb450d8435ed03ae0561df60d91d3fda1e10b4a8b68bb1ecf0fef"
+  }
+}

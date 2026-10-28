@@ -1,0 +1,52 @@
+{
+  "no": 101,
+  "favorite": true,
+  "favorite_reason": "奥赛东京展报道作品(SPICE)",
+  "title_en": "Henri Samary",
+  "title_ja": "アンリ・サマリー",
+  "title_zh": "亨利·萨马里",
+  "year": "c.1890",
+  "year_sort": 1890,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Louis anquetin, herny samary, 1880 ca.JPG",
+    "note": "Commons 上只有展厅实拍(可能带画框/反光),无馆方高清图"
+  },
+  "medium": "布面油画",
+  "dimensions": "71.0 × 59.3",
+  "museum": "Musée d'Orsay",
+  "museum_city": "Paris",
+  "accession": "RF 2010 3(2010年奥赛购入)",
+  "museum_url": "https://www.musee-orsay.fr/en/artworks/henri-samary-153928",
+  "hd_available": "否:Commons 上只有展厅实拍(带框/可能反光),未见馆方高清图;奥赛官网页本次抓取被拒 403,开放许可未核",
+  "exhibited_history": [
+    "首次展览:未查到",
+    "2010年奥赛购入;此后展览记录未查到",
+    "2026-11-14 至 2027-03-28 东京都美术馆(见 exhibited_future)"
+  ],
+  "exhibited_future": [
+    "2026-11-14 至 2027-03-28 东京都美术馆「東京都美術館開館100周年記念 オルセー美術館所蔵 いまを生きる歓び」(来源:https://spice.eplus.jp/articles/347404)"
+  ],
+  "future_note": "东京展官方页说明本展不巡回,仅东京一站;本作入展依据为 SPICE 报道(已记录)。2026-09-30 前未查到其他公开的后续借展安排。",
+  "summary": "《亨利·萨马里》(约1890)是安克坦为喜剧演员亨利·萨马里画的正面肖像,色彩平涂、轮廓分明,像放大的时装画。奥赛2010年购入。",
+  "story": "亨利·萨马里(1865–1902)出身演员世家,是喜剧院(Comédie-Française)成员,祖母与姨母也在该剧院任职。据奥赛介绍,安克坦大概是通过图卢兹-劳特累克认识他,劳特累克1889年也画过他在喜剧院舞台上的肖像。安克坦这幅约1890年的肖像为正面,几乎没有体积与阴影,色彩强烈、平涂,轮廓线坚硬。东京展报道称其平面化构图显示日本艺术的影响。奥赛于2010年购入这件作品。",
+  "technique_note": "布面油画。特点是平涂的强烈色彩、不加阴影的正面形象和封闭轮廓线,近似放大的时装插画,与安克坦、贝尔纳的分隔主义风格一致。",
+  "sources": [
+    "https://spice.eplus.jp/articles/347404",
+    "https://www.musee-orsay.fr/en/artworks/henri-samary-153928",
+    "https://useum.org/artwork/Henri-Samary-Louis-Anquetin-1890"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Louis_anquetin%2C_herny_samary%2C_1880_ca.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Louis_anquetin,_herny_samary,_1880_ca.JPG",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 2032,
+    "height": 2376,
+    "bytes": 2245060,
+    "sha256": "1d5a30320f98dc40672ffc7087b333fa0ab9e13ec30cf1a21c91798a2ae14cca"
+  }
+}

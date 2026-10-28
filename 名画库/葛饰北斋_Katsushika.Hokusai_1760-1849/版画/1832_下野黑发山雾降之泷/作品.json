@@ -1,0 +1,65 @@
+{
+  "no": 402,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/kirifuri-waterfall"
+  ],
+  "title_en": "Kirifuri Waterfall at Mount Kurokami",
+  "title_ja": "",
+  "title_zh": "下野黑发山雾降之泷",
+  "year": "c.1832",
+  "year_sort": 1832,
+  "technique": "版画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Kirifuri Waterfall at Kurokami Mountain in Shimotsuke MET DP141256.jpg",
+    "note": ""
+  },
+  "medium": "多色木版画(錦絵),纸本;《诸国瀑布巡览》之一(大判竖绘)",
+  "dimensions": "37.1 × 26.2 cm",
+  "museum": "The Metropolitan Museum of Art(本图印本,Henry L. Phillips 遗赠);另有其他馆藏印本",
+  "museum_city": "美国纽约",
+  "accession": "JP2924",
+  "museum_url": "https://www.metmuseum.org/art/collection/search?q=JP2924",
+  "hd_available": "是:大都会开放图像,Commons 文件 2716×3844 像素(CC0)",
+  "exhibited_history": [
+    "本图印本的具体展览史:未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开的 2026-09-30 之后展出信息",
+  "summary": "《下野黑发山雾降之泷》是《诸国瀑布巡览》八幅中的一幅,描绘日光一带的雾降瀑布。竖幅构图中水流像白色的丝线从多层岩壁分段落下,游人在瀑前观看。",
+  "story": "《诸国瀑布巡览》约 1832–33 年刊行,共 8 幅,与《冨岳三十六景》大致同期,同为晚年盛期的风景系列。(未核对)下野国黑发山的雾降瀑布在现今栃木县日光市。(未核对)北斋没有照实写生,而是把瀑布拆成几段阶梯状的水幕,强调水流的节奏与几何感。(未核对)画面下方一小群人影让观者感到瀑布的尺度。此图的蓝色使用与《冨岳三十六景》一样得益于进口普鲁士蓝颜料。(未核对)大都会收藏的这一枚为 Henry L. Phillips 1939 年遗赠。",
+  "technique_note": "多色木版:瀑布的白线是留白与浅蓝线的组合;岩层用墨线与渐变色块表现;竖构图让水流自上而下贯穿整个画面。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/kirifuri-waterfall",
+    "https://commons.wikimedia.org/wiki/File:Kirifuri_Waterfall_at_Kurokami_Mountain_in_Shimotsuke_MET_DP141256.jpg"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q18686020",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AKirifuri_Waterfall_at_Kurokami_Mountain_in_Shimotsuke_MET_DP141256.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q18686020",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Kirifuri_Waterfall_at_Kurokami_Mountain_in_Shimotsuke_MET_DP141256.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Kirifuri_Waterfall_at_Kurokami_Mountain_in_Shimotsuke_MET_DP141256.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 2716,
+    "height": 3844,
+    "bytes": 3687202,
+    "sha256": "3daae2dea679605cbd14e8d4f46a809c0c60ed7a0bdf637f99a3ccf884b2cec9"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "no": 306,
+  "favorite": true,
+  "favorite_reason": "周杰伦《太阳之子》(2026)MV 名画重现",
+  "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:梵高手持此画,侦探走进教堂(置信度:8 篇)"
+  ],
+  "title_en": "The Church at Auvers",
+  "title_ja": "",
+  "title_zh": "奥维尔教堂",
+  "year": "1890",
+  "year_sort": 1890,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Vincent van Gogh - The Church in Auvers-sur-Oise, View from the Chevet - Google Art Project.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "93 × 74.5 cm(馆方);英文维基记 94 × 74 cm",
+  "museum": "Musée d'Orsay(奥赛博物馆)",
+  "museum_city": "巴黎,法国",
+  "accession": "RF 1951 42",
+  "museum_url": "https://www.musee-orsay.fr/en/artworks/leglise-dauvers-sur-oise-vue-du-chevet-755",
+  "hd_available": "是(公有领域,Commons 有对应文件;最大像素未核对);Google Art Project 版",
+  "exhibited_history": [
+    "未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到2026-09-30之后的公开展出信息",
+  "summary": "《奥维尔教堂》是梵高1890年6月在奥维尔画的教堂后殿景观,紫色的教堂矗立在深钴蓝的天空下。前景沐浴阳光,教堂本身却处于阴影中。现藏巴黎奥赛博物馆。",
+  "story": "据奥赛馆方,画作于1890年6月4至8日左右。梵高在写给妹妹的信中说,教堂「在纯钴蓝的天空下呈紫色」,彩色玻璃窗是「群青色的斑块」。前景被阳光照亮,教堂却「既不反光也不发光」,因此被读作带有象征意味。他借此画表达对北方荷兰纽南时期的怀旧。此画曾属保罗·加歇医生家,后来留在其子保罗·加歇手中,至1951年;奥赛于1952年在加歇之子和一位加拿大匿名捐赠者的协助下入藏。因2010年《神秘博士》「文森特与博士」一集而在流行文化中有名。",
+  "technique_note": "布面油画,扭曲的建筑轮廓与流动的笔触表现动荡感,教堂与路径的蓝、紫、橙对比强烈。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_Church_at_Auvers",
+    "https://www.musee-orsay.fr/en/artworks/leglise-dauvers-sur-oise-vue-du-chevet-755",
+    "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_The_Church_in_Auvers-sur-Oise,_View_from_the_Chevet_-_Google_Art_Project.jpg"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vincent_van_Gogh_-_The_Church_in_Auvers-sur-Oise%2C_View_from_the_Chevet_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_The_Church_in_Auvers-sur-Oise,_View_from_the_Chevet_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 3434,
+    "height": 4433,
+    "bytes": 6441079,
+    "sha256": "58e4cdd551b9c2147ac668d4e1c0c837a3e49d937ff90bfa59462ad540b83dba"
+  }
+}

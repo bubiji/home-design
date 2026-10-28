@@ -1,0 +1,83 @@
+{
+  "no": 403,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-yellow-christ"
+  ],
+  "title_en": "The Yellow Christ",
+  "title_ja": "",
+  "title_zh": "黄色的基督",
+  "year": "1889",
+  "year_sort": 1889,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Paul Gauguin - The Yellow Christ (Le Christ jaune) 1889.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "92.1 × 73.3 cm",
+  "museum": "Buffalo AKG Art Museum(原 Albright-Knox 美术馆)",
+  "museum_city": "美国纽约州布法罗",
+  "accession": "1946:4",
+  "museum_url": "https://buffaloakg.org/",
+  "hd_available": "是:Commons 有高清图;馆方有开放图像",
+  "exhibited_history": [
+    "未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开的 2026-09-30 之后展出信息",
+  "summary": "黄色的基督被放在布列塔尼的田野上,周围是跪拜的农妇。画面用黄、橙、红的平涂色块,没有立体感。",
+  "story": "1889 年高更在布列塔尼的 Pont-Aven 创作此画,灵感来自当地礼拜堂里的木雕基督像(未核对),并带有综合主义的风格。他把耶稣与当地农妇放在同一个田野背景里,画面表达了农村宗教感。后来在 1946 年被 Albright 艺术馆收购。(未核对)",
+  "technique_note": "综合主义:大块平涂的黄、橙、红,粗黑轮廓线,取消透视与明暗,受日本版画与彩色玻璃影响。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/the-yellow-christ",
+    "https://commons.wikimedia.org/wiki/File:Paul_Gauguin_-_The_Yellow_Christ_(Le_Christ_jaune)_1889.jpg"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q500951",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://buffaloakg.org/artworks/19464-le-christ-jaune-yellow-christ",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/The_Yellow_Christ",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E9%BB%84%E8%89%B2%E7%9A%84%E5%9F%BA%E7%9D%A3",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3APaul_Gauguin_-_The_Yellow_Christ_%28Le_Christ_jaune%29_1889.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q500951",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Paul_Gauguin_-_The_Yellow_Christ_%28Le_Christ_jaune%29_1889.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Gauguin_-_The_Yellow_Christ_(Le_Christ_jaune)_1889.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 3152,
+    "height": 3965,
+    "bytes": 4208174,
+    "sha256": "4e149f2fbecda44dc2fa7f5fcb130f7da28495ae5ed7542857097c76558be96d"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "no": 202,
+  "favorite": true,
+  "favorite_reason": "周杰伦《最伟大的作品》(2022) 引用的作品",
+  "culture_relation": [
+    "周杰伦《最伟大的作品》(2022):歌词提及——歌词提及「睡莲」。(置信度:来源明确点名);歌词只说睡莲系列,此处以芝加哥艺术博物馆 1906 年版(馆方 CC0)作代表"
+  ],
+  "title_en": "Water Lilies",
+  "title_ja": "",
+  "title_zh": "睡莲(1906,芝加哥艺术博物馆)",
+  "year": "1897-1926",
+  "year_sort": 1906,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Claude Monet - Water Lilies - 1933.1157 - Art Institute of Chicago.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "89.9 x 94.1 cm",
+  "museum": "芝加哥艺术博物馆(Art Institute of Chicago)",
+  "museum_city": "芝加哥,美国",
+  "accession": "1933.1157(Mr. and Mrs. Martin A. Ryerson Collection)",
+  "museum_url": "https://www.artic.edu/artworks/16568/water-lilies",
+  "hd_available": "是(作者1926年去世,公有领域;馆方 CC0 开放高清)",
+  "exhibited_history": [
+    "1909年5月-6月:巴黎 Durand-Ruel 画廊「睡莲:水景系列」个展,约48件同主题作品同展(首展;月份据馆方「1909年不到一年前」表述与该展通例,具体日期未核)",
+    "1914年2月10日:Durand-Ruel 纽约售予芝加哥收藏家 Martin A. Ryerson",
+    "1933年:Ryerson 遗赠芝加哥艺术博物馆"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开的2026-09-30之后展出安排",
+  "summary": "1906年的《睡莲》,近方形构图,画面只剩水面与睡莲。现藏芝加哥艺术博物馆。歌词只提睡莲系列,本条以该馆1906年版代表。",
+  "story": "1903至1908年间莫奈在吉维尼自家的水景花园里反复画睡莲,这一幅出自那一组。近乎方形的画幅让他不再画岸、天、水的分区,而只画水面本身。1909年,他把包括这幅在内的近五十件睡莲作品送到巴黎 Durand-Ruel 画廊展出。1914年芝加哥收藏家 Martin A. Ryerson 从 Durand-Ruel 纽约处买下,他1933年去世时将其遗赠给芝加哥艺术博物馆,馆藏编号即1933.1157。",
+  "technique_note": "布面油画,以水面为唯一主题、近方形画幅;馆方另有关于其色彩与颜料化学的研究文章(artic.edu/articles/862)。",
+  "sources": [
+    "https://news.qq.com/rain/a/20220706A05CMF00",
+    "https://www.artic.edu/artworks/16568/water-lilies",
+    "https://publications.artic.edu/monet/api/epub/135466/135621/print_view",
+    "https://www.artic.edu/articles/862/color-chemistry-and-creativity-in-monets-water-lilies"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Claude_Monet_-_Water_Lilies_-_1933.1157_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Water_Lilies_-_1933.1157_-_Art_Institute_of_Chicago.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 3000,
+    "height": 2887,
+    "bytes": 3929524,
+    "sha256": "fa27f5bd28790b35cdd4e4ca044562c4e391bc64dd7c3165dcf8ac056adb75e2"
+  }
+}

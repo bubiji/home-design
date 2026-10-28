@@ -1,0 +1,322 @@
+{
+ "author": {
+  "dir": "拉斐尔_Raphael_1483-1520",
+  "name_zh": "拉斐尔·桑西",
+  "name_en": "Raphael",
+  "life": "1483–1520",
+  "bio": "拉斐尔·桑西(Raffaello Sanzio,1483–1520)生于乌尔比诺,父亲是宫廷画师,早年受佩鲁吉诺影响,1504–1508 年在佛罗伦萨吸收达·芬奇等人的成果。1508 年起受教皇尤利乌斯二世之召在罗马梵蒂冈创作拉斐尔画室(Stanze)壁画,并接替伯拉孟特主持圣彼得大教堂设计。他 37 岁英年早逝,葬于罗马万神殿,与达·芬奇、米开朗基罗并称文艺复兴盛期三杰。",
+  "wikidata": "Q5597"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 401,
+   "favorite": true,
+   "favorite_reason": "画框之外 The Living Gallery 收录",
+   "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/school-of-athens"
+   ],
+   "title_en": "The School of Athens",
+   "title_ja": "",
+   "title_zh": "雅典学院",
+   "year": "1509–1511",
+   "year_sort": 1509,
+   "technique": "其他",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:The School of Athens by Raphael (Vatican).jpg",
+    "note": "壁画现场照(CC BY-SA 4.0)"
+   },
+   "medium": "湿壁画(fresco)",
+   "dimensions": "约 500 × 770 cm(维基百科;Wikidata 记 550 × 770 cm,各源略有出入)",
+   "museum": "Vatican Museums — Stanza della Segnatura, Apostolic Palace",
+   "museum_city": "梵蒂冈",
+   "accession": "未查到(原位壁画,无常规馆藏号;Wikidata 记 6306a.,未经馆方核实)",
+   "museum_url": "https://www.museivaticani.va/",
+   "hd_available": "有限:Commons 现场照 6000×3368 px(CC BY-SA 4.0,需署名并相同方式共享);壁画本身为公有领域,但摄影作品受许可约束。馆方高清下载未查到。",
+   "exhibited_history": [
+    "原位壁画,1509–1511 年绘于梵蒂冈 Stanza della Segnatura,未外借展出",
+    "预备草图(cartoon)藏于米兰 Pinacoteca Ambrosiana,比壁画少了建筑背景与部分人物"
+   ],
+   "exhibited_future": [],
+   "future_note": "壁画无法外借,不存在外展计划。",
+   "summary": "拉斐尔为教皇尤利乌斯二世的签字厅所绘的壁画,以宏伟拱廊汇集古希腊哲学家,中心是柏拉图与亚里士多德。它是文艺复兴盛期理想的集中表达。",
+   "story": "画作约 1509–1511 年绘制,位于教皇图书室兼签字厅 Stanza della Segnatura。中央手指向天的是柏拉图,手掌向下的是亚里士多德,据说柏拉图的面容取自达·芬奇,赫拉克利特常被认为取自米开朗基罗。拉斐尔把自己画在托勒密旁边的人群边缘。预备草图保存在米兰 Ambrosiana,说明他先以实尺草图推敲人物,再转到墙面。画面的宏大拱廊展示了严格的线性透视,被看作文艺复兴盛期对古典文明「重生」的宣言。",
+   "technique_note": "采用湿壁画技法:在新抹的灰泥(intonaco)上趁湿作画,分块(giornata)完成,每天只画一块。Ambrosiana 的草图用于把构图转移到墙面。",
+   "sources": [
+    "https://huakuangzhiwai.space/collection/school-of-athens",
+    "https://en.wikipedia.org/wiki/The_School_of_Athens",
+    "https://www.wikidata.org/wiki/Q186953",
+    "https://commons.wikimedia.org/wiki/File:The_School_of_Athens_by_Raphael_(Vatican).jpg"
+   ],
+   "links": [
+    {
+     "label": "Wikidata",
+     "url": "https://www.wikidata.org/wiki/Q186953",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Wikipedia(英)",
+     "url": "https://en.wikipedia.org/wiki/The_School_of_Athens",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "维基百科(中)",
+     "url": "https://zh.wikipedia.org/wiki/%E9%9B%85%E5%85%B8%E5%AD%B8%E9%99%A2_(%E7%95%AB%E4%BD%9C)",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Commons 原图页",
+     "url": "https://commons.wikimedia.org/wiki/File%3AThe_School_of_Athens_by_Raphael_%28Vatican%29.jpg",
+     "status": 200,
+     "checked": "2026-10-02"
+    }
+   ],
+   "wikidata": "Q186953"
+  },
+  {
+   "no": 402,
+   "favorite": true,
+   "favorite_reason": "画框之外 The Living Gallery 收录",
+   "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/sistine-madonna"
+   ],
+   "title_en": "Sistine Madonna",
+   "title_ja": "",
+   "title_zh": "西斯廷圣母",
+   "year": "1512–1513",
+   "year_sort": 1512,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Raphael - The Sistine Madonna - Google Arts & Culture.jpg",
+    "note": ""
+   },
+   "medium": "布面油画(oil on canvas)",
+   "dimensions": "265 × 196 cm",
+   "museum": "Gemäldegalerie Alte Meister, Dresden",
+   "museum_city": "德累斯顿(德国)",
+   "accession": "Gal.-Nr. 93",
+   "museum_url": "https://skd-online-collection.skd.museum/",
+   "hd_available": "是:Commons 有 7029×9546 px(约 38 MB)文件;公有领域。馆方在线藏品库的下载条件未能核实。",
+   "exhibited_history": [
+    "原为皮亚琴察 San Sisto 教堂祭坛画;1754 年被波兰国王奥古斯特三世购入,移至德累斯顿",
+    "二战末期藏于萨克森瑞士的隧道,被苏联红军取走;1946–1955 年暂存/展于莫斯科普希金博物馆,之后归还德国",
+    "此外的外借展览未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "该画极少外借,未查到公开的 2026-09-30 之后外展安排。",
+   "summary": "拉斐尔为圣西斯都教堂所绘的祭坛画,圣母抱着圣婴自云中走出,两侧是圣西斯都与圣芭芭拉。画底部那对倚着边框的小天使后来成了流行形象。",
+   "story": "据维基百科,教皇尤利乌斯二世为纪念叔父西斯都四世,于 1512 年委托此画给皮亚琴察的 San Sisto 教堂(绘制年代各说在 1512–1514 年间)。1754 年奥古斯特三世以 11–12 万法郎购入,运往德累斯顿。二战中它被藏入隧道,1945 年为苏联红军取走,1946–1955 年在莫斯科展出,之后归还。汉斯·贝尔廷评论说,没有哪件艺术品像它这样点燃过德国人的想象。传说那对天使是拉斐尔看见模特的孩子们在旁观画而添加的。",
+   "technique_note": "颜料分析:绿色衣褶用孔雀石混雌黄,圣母蓝袍用天然群青加铅白,圣芭芭拉黄袖用铅锡黄、朱砂与铅白。画在大幅布面上,而非拉斐尔常用的木板。",
+   "sources": [
+    "https://huakuangzhiwai.space/collection/sistine-madonna",
+    "https://en.wikipedia.org/wiki/Sistine_Madonna",
+    "https://www.wikidata.org/wiki/Q328079"
+   ],
+   "links": [
+    {
+     "label": "Wikidata",
+     "url": "https://www.wikidata.org/wiki/Q328079",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "描述页(P973)",
+     "url": "http://www.skd.museum/en/museums-institutions/zwinger-with-semperbau/gemaeldegalerie-alte-meister/sistine-madonna/index.html",
+     "status": 404,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "描述页(P973)",
+     "url": "http://colourlex.com/project/raphael-sistine-madonna/",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "SKD artwork ID",
+     "url": "https://skd-online-collection.skd.museum/Details/Index/372144",
+     "status": 403,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Wikipedia(英)",
+     "url": "https://en.wikipedia.org/wiki/Sistine_Madonna",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "维基百科(中)",
+     "url": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%96%AF%E5%BB%B7%E8%81%96%E6%AF%8D",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Commons 原图页",
+     "url": "https://commons.wikimedia.org/wiki/File%3ARaphael_-_The_Sistine_Madonna_-_Google_Arts_%26_Culture.jpg",
+     "status": 200,
+     "checked": "2026-10-02"
+    }
+   ],
+   "wikidata": "Q328079"
+  },
+  {
+   "no": 403,
+   "favorite": true,
+   "favorite_reason": "画框之外 The Living Gallery 收录",
+   "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/madonna-of-the-meadow"
+   ],
+   "title_en": "Madonna of the Meadow",
+   "title_ja": "",
+   "title_zh": "草地上的圣母",
+   "year": "1506",
+   "year_sort": 1506,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Raphael - Madonna in the Meadow - Google Art Project.jpg",
+    "note": ""
+   },
+   "medium": "木板油画(杨木板,oil on poplar panel)",
+   "dimensions": "113 × 88.5 cm",
+   "museum": "Kunsthistorisches Museum, Vienna",
+   "museum_city": "维也纳(奥地利)",
+   "accession": "GG 175",
+   "museum_url": "https://www.khm.at/",
+   "hd_available": "是:Commons 有 6116×7832 px 文件;公有领域。",
+   "exhibited_history": [
+    "未查到系统的展览记录",
+    "1983 年维也纳艺术史博物馆修复,去除变黄清漆与旧补笔(修复记录,非展览)"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后的公开外展安排。",
+   "summary": "拉斐尔 1506 年在佛罗伦萨绘制的圣母子与幼年圣约翰,三人呈金字塔形坐在草地上。它是他「佛罗伦萨时期」圣母像的代表。",
+   "story": "画作成于拉斐尔 23 岁前后抵达佛罗伦萨(约 1504–1505 年)不久,又称《草地上的圣母》或「Madonna del Belvedere」,后一称呼来自它曾长期存放在维也纳 Belvedere 的皇家收藏中。构图借用了达·芬奇的金字塔式布局,三位人物通过目光彼此呼应。圣母蓝袍外披红衣,分别象征教会与基督之死,地上的罂粟暗示受难,圣约翰手里的十字杖预示十字架。1983 年维也纳艺术史博物馆的修复让半透明的油彩罩染与底层构图线重新显现。",
+   "technique_note": "据维基百科:使用半透明油彩罩染(glazes)、不透明的底层与石膏底(gesso ground);肤色里冷暖色调的微妙变化是技术亮点。1983 年修复中去除了累积的清漆和后加修补。",
+   "sources": [
+    "https://huakuangzhiwai.space/collection/madonna-of-the-meadow",
+    "https://en.wikipedia.org/wiki/Madonna_del_Prato_(Raphael)",
+    "https://www.wikidata.org/wiki/Q2452858"
+   ],
+   "links": [
+    {
+     "label": "Wikidata",
+     "url": "https://www.wikidata.org/wiki/Q2452858",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "描述页(P973)",
+     "url": "https://www.khm.at/objektdb/detail/1502/",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Kunsthistorisches Museum Wien ID",
+     "url": "https://www.khm.at/de/object/77f959f119/",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Wikipedia(英)",
+     "url": "https://en.wikipedia.org/wiki/Madonna_del_Prato_(Raphael)",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "维基百科(中)",
+     "url": "https://zh.wikipedia.org/wiki/%E8%8D%89%E5%9C%B0%E4%B8%8A%E7%9A%84%E8%81%96%E6%AF%8D",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Commons 原图页",
+     "url": "https://commons.wikimedia.org/wiki/File%3ARaphael_-_Madonna_in_the_Meadow_-_Google_Art_Project.jpg",
+     "status": 200,
+     "checked": "2026-10-02"
+    }
+   ],
+   "wikidata": "Q2452858"
+  },
+  {
+   "no": 404,
+   "favorite": true,
+   "favorite_reason": "画框之外 The Living Gallery 收录",
+   "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/la-fornarina"
+   ],
+   "title_en": "La Fornarina",
+   "title_ja": "",
+   "title_zh": "弗尔纳丽娜",
+   "year": "c.1518–1519",
+   "year_sort": 1518,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Raffaello (1483-1520) - La Fornarina - 2333 - Galleria Nazionale d'Arte Antica.jpg",
+    "note": ""
+   },
+   "medium": "木板油画(oil on wood panel)",
+   "dimensions": "87 × 63 cm(沿用;维基百科与 Wikidata 另记 85 × 60 cm,存在不同著录)",
+   "museum": "Gallerie Nazionali di Arte Antica, Palazzo Barberini, Rome",
+   "museum_city": "罗马(意大利)",
+   "accession": "Inv. 2333",
+   "museum_url": "https://www.barberinicorsini.org/artwork/?id=WE4772",
+   "hd_available": "是:Commons 有 6471×9376 px 文件;公有领域。",
+   "exhibited_history": [
+    "未查到系统的展览记录"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后的公开外展安排。",
+   "summary": "拉斐尔晚年(约 1518–1519 年)的半身女像,女子裸露上身,臂环上刻有「Raphael Vrbinas」。传统上认为她是拉斐尔的情人玛格丽塔·卢蒂。",
+   "story": "画作大约在拉斐尔 1520 年去世时仍留在他的工作室,后来可能经助手朱利奥·罗马诺修改后售出。女子手臂上的臂环刻着「Raphael Vrbinas」(乌尔比诺的拉斐尔),这是少见的在画面内签名。传统说法称她是面包师之女玛格丽塔·卢蒂,即所谓的「La Fornarina」(面包师的女儿)。X 光检查发现背景原本是带达·芬奇风格的风景,后被改成爱神维纳斯的圣物桃金娘灌木。第三根左手指上曾被涂掉一枚红宝石戒指,引出两人可能秘密成婚的猜测。女子身份至今仍有「情人」「高级交际花」「理想化美人」等不同读法。",
+   "technique_note": "据 X 光研究:背景风景被桃金娘灌木覆盖,左手戒指被涂去,说明画面经历过后期修改。载体为木板。",
+   "sources": [
+    "https://huakuangzhiwai.space/collection/la-fornarina",
+    "https://en.wikipedia.org/wiki/La_fornarina",
+    "https://www.wikidata.org/wiki/Q153441"
+   ],
+   "links": [
+    {
+     "label": "Wikidata",
+     "url": "https://www.wikidata.org/wiki/Q153441",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "描述页(P973)",
+     "url": "https://www.barberinicorsini.org/artwork/?id=WE4772",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Wikipedia(英)",
+     "url": "https://en.wikipedia.org/wiki/La_Fornarina",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "维基百科(中)",
+     "url": "https://zh.wikipedia.org/wiki/%E5%B9%B4%E8%BC%95%E5%A5%B3%E5%AD%90%E8%82%96%E5%83%8F",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Commons 原图页",
+     "url": "https://commons.wikimedia.org/wiki/File%3ARaffaello_%281483-1520%29_-_La_Fornarina_-_2333_-_Galleria_Nazionale_d%27Arte_Antica.jpg",
+     "status": 200,
+     "checked": "2026-10-02"
+    }
+   ],
+   "wikidata": "Q153441"
+  }
+ ]
+}

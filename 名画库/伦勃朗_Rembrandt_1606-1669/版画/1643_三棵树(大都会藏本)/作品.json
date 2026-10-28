@@ -1,0 +1,50 @@
+{
+  "no": 404,
+  "favorite": true,
+  "favorite_reason": "客厅画墙 F5 的第二份印本:用户 2026-10-28 看过西洋美术馆展出的印本后嫌 LOC 藏本纸色偏粉、右下角压得太黑,点名要大都会藏本比较",
+  "title_en": "The Three Trees (Met impression)",
+  "title_ja": "",
+  "title_zh": "三棵树(大都会藏本)",
+  "year": "1643",
+  "year_sort": 1643,
+  "technique": "版画",
+  "medium": "Etching, engraving and drypoint(蚀刻、雕版与干刻)",
+  "dimensions": "版面 21.3 × 27.8 cm;纸张 21.3 × 28.3 cm;托纸 36.2 × 48.9 cm(Met 记载)",
+  "museum": "The Metropolitan Museum of Art(H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929)",
+  "museum_city": "纽约",
+  "accession": "29.107.31",
+  "museum_url": "https://www.metmuseum.org/art/collection/search/354633",
+  "hd_available": "是:Met Open Access(CC0),原图直链 DP814596.jpg;另有 3 张旧翻拍 MM2814 / MM10558 / DP108235",
+  "book_relation": "",
+  "image": {
+    "source": "museum",
+    "direct_url": "https://images.metmuseum.org/CRDImages/dp/original/DP814596.jpg",
+    "page": "https://www.metmuseum.org/art/collection/search/354633",
+    "license": "CC0 1.0(Met Open Access)",
+    "license_url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+    "note": "同一版的另一份印本;LOC 藏本见 no.101"
+  },
+  "exhibited_history": [
+    "Met 藏品页未列展览史(2026-10-28 查 API)"
+  ],
+  "exhibited_future": [],
+  "future_note": "",
+  "summary": "《三棵树》是伦勃朗 1643 年的蚀刻加干刻与雕版风景,画面由三棵高大的树、远景的雨云与阳光构成。它是他最大幅、最具绘画感的风景版画,并非真实地形写生,而是依阿姆斯特丹郊外意象自由构图。",
+  "story": "此版画作于 1643 年,常被认为取景于阿姆斯特丹近郊(LOC 称视角大致在 Diemerdijk 一带)。画面下方有钓鱼者、林间藏身的一对情侣,远处还有一个画速写的小小画家。左上方密集的平行排线既像倾盆大雨,又像穿云而下的光线,令天空产生戏剧性的不确定。学者 Christopher White 指出,它是伦勃朗少数对天空作出「正面描绘」的风景蚀刻。有学者从中读出浪漫或情色意味,也有人认为三棵树暗指十字架等宗教象征,至今没有定论。此作有多份印本流传,各馆所藏在墨色与擦拭程度上有所不同。",
+  "technique_note": "蚀刻为底,以干刻针刮出天空与暗部的毛边厚重黑色,并局部用雕刻刀(burin)加强。左上方的排线与前景的深色对比,是「暴雨与光」效果的来源。",
+  "sources": [
+    "https://www.metmuseum.org/art/collection/search/354633",
+    "https://collectionapi.metmuseum.org/public/collection/v1/objects/354633"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://images.metmuseum.org/CRDImages/dp/original/DP814596.jpg",
+    "source_page": "https://www.metmuseum.org/art/collection/search/354633",
+    "license": "CC0 1.0(Met Open Access)",
+    "license_url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+    "width": 3730,
+    "height": 2863,
+    "bytes": 3370500,
+    "sha256": "58ec95812fbefc94116a5c15cbf4693e74d8268e18bba0733e98cb253f52d756"
+  }
+}

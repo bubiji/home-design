@@ -1,0 +1,53 @@
+{
+  "no": 101,
+  "favorite": true,
+  "favorite_reason": "奥赛东京展报道作品(SPICE)",
+  "title_en": "La Liseuse (Woman Reading)",
+  "title_ja": "読書する人",
+  "title_zh": "读书的女子",
+  "year": "1874–76",
+  "year_sort": 1874,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Auguste Renoir La Liseuse.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "46.5 × 38.5(带框 72.2 × 63.7)",
+  "museum": "Musée d'Orsay",
+  "museum_city": "Paris",
+  "accession": "RF 3757(古斯塔夫·卡耶博特遗赠,1896年国家接受入卢森堡博物馆;1986年转入奥赛)",
+  "museum_url": "https://www.musee-orsay.fr/en/artworks/la-liseuse-495",
+  "hd_available": "是:Commons 有 File:Auguste Renoir La Liseuse.jpg(2338×2952);奥赛官网页本次抓取被拒 403,开放许可未核",
+  "exhibited_history": [
+    "首次展览:未查到确证。1876年第二回印象派展有一件雷诺阿《Liseuse》(目录第213号,属 Victor Chocquet),但未查到能证明它就是本作(奥赛藏本来自卡耶博特遗赠),不作断言",
+    "1896年卡耶博特遗赠入卢森堡博物馆(至1933);1933–1947年卢浮宫;1947–1986年网球场(Jeu de Paume)馆;1986年转奥赛",
+    "2026-11-14 至 2027-03-28 东京都美术馆(见 exhibited_future)"
+  ],
+  "exhibited_future": [
+    "2026-11-14 至 2027-03-28 东京都美术馆「東京都美術館開館100周年記念 オルセー美術館所蔵 いまを生きる歓び」(来源:https://spice.eplus.jp/articles/347404)"
+  ],
+  "future_note": "东京展官方页说明本展不巡回,仅东京一站;本作入展依据为 SPICE 报道(已记录)。2026-09-30 前未查到其他公开的后续借展安排。",
+  "summary": "《读书的女子》画一位半身、四分之三侧面的女子在读书,光线柔和,是雷诺阿1870年代印象派时期的小幅作品。画作来自卡耶博特遗赠,1986年起属奥赛。",
+  "story": "这幅小尺寸油画的创作时间在奥赛记为1874至1876年,正是雷诺阿与印象派同伴共同举办展览的时期。东京展的报道把它放在战后巴黎复兴、小说阅读走向大众的背景下介绍。作品曾属收藏家古斯塔夫·卡耶博特,他1894年去世,遗嘱把藏品赠给国家,1896年入卢森堡博物馆。此后依次转入卢浮宫、网球场馆,1986年随奥赛开馆转入奥赛。1876年第二回印象派展目录里有一件雷诺阿的《Liseuse》,但与本作的对应关系未查到证据。",
+  "technique_note": "布面油画,尺幅小。用轻快的笔触处理光线与人物半身,细节较松,属雷诺阿印象派时期风格。具体材料分析未查到。",
+  "sources": [
+    "https://spice.eplus.jp/articles/347404",
+    "https://www.musee-orsay.fr/en/artworks/la-liseuse-495",
+    "https://www.pop.culture.gouv.fr/notice/joconde/000PE004078",
+    "https://fr.wikipedia.org/wiki/Liste_des_%C5%93uvres_pr%C3%A9sent%C3%A9es_%C3%A0_la_deuxi%C3%A8me_exposition_des_impressionnistes"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Auguste_Renoir_La_Liseuse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Auguste_Renoir_La_Liseuse.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 2338,
+    "height": 2952,
+    "bytes": 4660763,
+    "sha256": "b4380c68a668f5ed906abaf15ff1cd0eb7363f0fbcbfbd40ab8d57fa53b6c366"
+  }
+}

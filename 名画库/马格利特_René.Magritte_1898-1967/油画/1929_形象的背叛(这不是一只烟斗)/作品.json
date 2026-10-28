@@ -1,0 +1,44 @@
+{
+  "no": 201,
+  "favorite": true,
+  "favorite_reason": "周杰伦《最伟大的作品》(2022) 引用的作品",
+  "culture_relation": [
+    "周杰伦《最伟大的作品》(2022):歌词提及——歌词以「烟斗」关键词指向该作。(置信度:来源明确点名)"
+  ],
+  "title_en": "The Treachery of Images",
+  "title_ja": "",
+  "title_zh": "形象的背叛(这不是一只烟斗)",
+  "year": "1929",
+  "year_sort": 1929,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者 1967 年去世,作品仍在版权期内,只记资料不下载"
+  },
+  "medium": "布面油画",
+  "dimensions": "约 60.3 x 81.1 cm(馆方标 23 3/4 x 31 15/16 in)",
+  "museum": "洛杉矶郡立艺术博物馆 LACMA",
+  "museum_city": "洛杉矶,美国",
+  "accession": "78.7",
+  "museum_url": "https://collections.lacma.org/object/31931",
+  "hd_available": "否(作者1967年去世,作品仍在版权期内,只记资料不下载)",
+  "exhibited_history": [
+    "1929年完成,据 Wikipedia 转述首次公开展出为1933年布鲁塞尔美术宫(Palais des Beaux-Arts)",
+    "1932年前曾经手布鲁塞尔 Galerie Le Centaure(仅见于来源的出处记录,展出情况未查到)",
+    "LACMA 自1978年起收藏并陈列;LACMA 曾办「Magritte and Contemporary Art: The Treachery of Images」专题展(年份未核)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开的2026-09-30之后展出安排(馆页显示当前陈列于 BCAM 三楼现代艺术厅)",
+  "summary": "画着一只烟斗、下面写着「这不是一只烟斗」的1929年油画,常被用来讨论文字、图像与实物的关系。现藏洛杉矶 LACMA。",
+  "story": "画面像广告插图般画出一只烟斗,并在下方用法文写下「这不是一只烟斗」。LACMA 把它称为一篇关于文字、图像与物体无法互相对应的论述。作品1929年完成,首次公开展出被记为1933年的布鲁塞尔展。之后在艺术界的影响很大,LACMA 页面列举了约翰·巴尔德萨里、马塞尔·布罗塔尔斯、贾斯珀·约翰斯、罗伊·利希滕斯坦、埃德·鲁沙等受其启发的艺术家。它自1978年起归 LACMA(馆藏号78.7)。",
+  "technique_note": "布面油画;风格上仿照教科书或广告的平实图示,以画面与文字的矛盾制造效果。",
+  "sources": [
+    "https://news.qq.com/rain/a/20220706A05CMF00",
+    "https://www.thepaper.cn/newsDetail_forward_18895563",
+    "https://collections.lacma.org/object/31931",
+    "https://en.wikipedia.org/wiki/The_Treachery_of_Images"
+  ],
+  "downloaded": null
+}

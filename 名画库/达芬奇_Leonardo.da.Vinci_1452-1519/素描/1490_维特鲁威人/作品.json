@@ -1,0 +1,87 @@
+{
+  "no": 403,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/vitruvian-man"
+  ],
+  "title_en": "Vitruvian Man",
+  "title_ja": "",
+  "title_zh": "维特鲁威人",
+  "year": "c.1490",
+  "year_sort": 1490,
+  "technique": "素描",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Vitruvian Man by Leonardo da Vinci.jpg",
+    "note": "纸本素描翻拍(CC BY-SA 4.0)"
+  },
+  "medium": "钢笔与浅褐墨水,淡水彩,铅尖笔底稿,纸本(pen, light brown ink and watercolor over metalpoint on paper)",
+  "dimensions": "34.6 × 25.5 cm(保留原值,与 Wikidata 一致;维基百科正文作 34.4 × 25.5)",
+  "museum": "Gallerie dell'Accademia",
+  "museum_city": "威尼斯(意大利)",
+  "accession": "inv. 228(Wikidata 记 228,另记 69;哪一个为现行馆藏号本次未核)",
+  "museum_url": "未查到作品专页(馆方总站 https://www.gallerieaccademia.it)",
+  "hd_available": "否/受限:图纸极脆弱极少展出;维基共享资源有大图,但馆方对复制权主张保护(2022年意大利法院判决 Ravensburger 案)",
+  "exhibited_history": [
+    "首次展览:未查到",
+    "1822年入藏威尼斯学院美术馆",
+    "因怕光,平时锁在四楼专门房间,极少展出",
+    "2019年出借卢浮宫《达·芬奇》500周年大展:经 Italia Nostra 起诉,2019年10月16日法院裁定可借,同时限定光照总量并设休息期"
+  ],
+  "exhibited_future": [],
+  "future_note": "因脆弱极少展出,无公开的未来展期(未查到)。未查到公开来源的未来展览(本次联网检索额度用尽,未检索馆方展讯;仅核对维基/维基数据)。",
+  "summary": "《维特鲁威人》约绘于1490年,是达·芬奇依据罗马建筑师维特鲁威的比例理论所作的钢笔画,把一个男性裸体的两种姿态叠合在圆与方之中。它常被视为文艺复兴盛期的象征性图像,现藏威尼斯学院美术馆。",
+  "story": "画上的文字题为《依据维特鲁威的人体比例》,创作于达·芬奇第一次米兰时期。他不只照搬维特鲁威的文本,还结合自己的观察与阿尔贝蒂《论绘画》作了修正。画作可能在他去世后传给学生弗朗切斯科·梅尔齐,后经几位藏家,到 Venanzio de Pagave 手中,并促成雕版师 Gerli 刊印,让它广为人知。1822年威尼斯学院美术馆购入。因为光照会令其褪色,它极少展出,2019年出借卢浮宫曾引发诉讼。2022年美术馆又起诉拼图厂商 Ravensburger,意大利法院判后者停止商业复制,2024年3月德国法院则作出相反判决。",
+  "technique_note": "主要用钢笔和浅褐墨水,有少量褐色水彩,铅尖笔打底;人物两种姿态同时呈现(X 形与 T 形),手指脚趾都小心不越出圆与方的边线。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/vitruvian-man",
+    "https://en.wikipedia.org/wiki/Vitruvian_Man",
+    "https://www.wikidata.org/wiki/Q215486"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q215486",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "http://www.gallerieaccademia.it/node/1582",
+      "status": 404,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Vitruvian_Man",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E7%89%B9%E9%B2%81%E5%A8%81%E4%BA%BA",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AVitruvian_Man_by_Leonardo_da_Vinci.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q215486",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitruvian_Man_by_Leonardo_da_Vinci.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Vitruvian_Man_by_Leonardo_da_Vinci.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 4386,
+    "height": 6233,
+    "bytes": 34685238,
+    "sha256": "31764d799752e55c89197c648b9192d42835066b3aa427e064c7ad0e4491962c"
+  }
+}

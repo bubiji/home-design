@@ -1,0 +1,83 @@
+{
+  "no": 404,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-large-bathers"
+  ],
+  "title_en": "The Large Bathers Philadelphia",
+  "title_ja": "",
+  "title_zh": "大浴女",
+  "year": "1898–1905",
+  "year_sort": 1898,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Paul Cézanne, French - The Large Bathers - Google Art Project.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "210.5 × 250.8 cm",
+  "museum": "Philadelphia Museum of Art(三幅《大浴女》中最大的一幅,另两幅在伦敦国家美术馆与巴恩斯基金会)",
+  "museum_city": "美国费城",
+  "accession": "W1937-1-1(Wilstach 基金购入,据 Commons 标注)",
+  "museum_url": "https://philamuseum.org/",
+  "hd_available": "是:Commons Google Art Project 图;费城美术馆开放图像",
+  "exhibited_history": [
+    "未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "Cézanne et nous 展(2026-09-23 至 2027-01-17)是否含本作未查到",
+  "summary": "《大浴女》是塞尚晚年最大的作品,裸体女子在树下围成金字塔形,像一座自然中的建筑。它到他去世时仍被视为未完成。",
+  "story": "塞尚从 1870 年代起画浴女主题,晚年在 Les Lauves 画室里画了三幅大尺寸版本,费城这一幅最大(未核对),画于 1898–1905 年。他没有模特,靠回忆与旧画稿画出人体(未核对),人物更像是几何化的形体而不是个人。画面的树干与女子的倾斜线条构成哥特式拱门般的结构。这幅画 1937 年由费城美术馆购得。它对马蒂斯、毕加索《亚威农少女》有明显的影响。(未核对)",
+  "technique_note": "蓝绿色调为主,人体与树木、天空用同样的笔触和色块处理;人物轮廓以蓝线勾出,局部画布裸露。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/the-large-bathers",
+    "https://commons.wikimedia.org/wiki/File:Paul_Cézanne,_French_-_The_Large_Bathers_-_Google_Art_Project.jpg"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2270938",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.cezannecatalogue.com/catalogue/entry.php?id=832",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Philadelphia Museum of Art work ID",
+      "url": "https://www.philamuseum.org/objects/104464",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/The_Bathers_(C%C3%A9zanne)",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3APaul_C%C3%A9zanne%2C_French_-_The_Large_Bathers_-_Google_Art_Project.jpg",
+      "status": 200,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q2270938",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Paul_C%C3%A9zanne%2C_French_-_The_Large_Bathers_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paul_C%C3%A9zanne,_French_-_The_Large_Bathers_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 6385,
+    "height": 5337,
+    "bytes": 8775832,
+    "sha256": "d6ed9b23507f81fa4740d5a6c544ef4bfb3ca43d319f4fb058149070a7f03033"
+  }
+}

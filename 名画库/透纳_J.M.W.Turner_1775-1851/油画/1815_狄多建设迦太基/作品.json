@@ -1,0 +1,52 @@
+{
+  "no": 12,
+  "favorite": true,
+  "favorite_reason": "The Story of Art 收录",
+  "title_en": "Dido Building Carthage; or the Rise of the Carthaginian Empire",
+  "title_ja": "",
+  "title_zh": "狄多建设迦太基",
+  "year": "1815",
+  "year_sort": 1815,
+  "technique": "油画",
+  "book_relation": "《The Story of Art》1951 英文初版 fig.315(第 24 章)——16 版编号未核对",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Turner - Dido.jpg",
+    "note": ""
+  },
+  "medium": "Oil on canvas(布面油画)",
+  "dimensions": "155.5 x 230(National Gallery 官网;维基百科记 260、Lancaster 页记 232,以馆方为准)",
+  "museum": "National Gallery",
+  "museum_city": "London",
+  "accession": "NG498(1856 年 Turner 遗赠)",
+  "museum_url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-dido-building-carthage",
+  "hd_available": "未查到:NG 官网提供图像,开放获取/下载许可本次未核实",
+  "exhibited_history": [
+    "1815 伦敦皇家艺术学院夏季展(首展)",
+    "1835 Turner's Gallery(据 Lancaster 大学 Ruskin 页)",
+    "2009–2010 Tate Britain《Turner and the Masters》",
+    "2012 National Gallery《Turner Inspired: In the Light of Claude》",
+    "2025–2026 Tate Britain《Turner and Constable: Rivals and Originals》(据 NG 页面摘要,未在 Tate 展览页核实)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开外借/展览计划。按 Turner 遗嘱条件,本画须与两幅克劳德挂在一起,平时在 NG 36 室陈列。",
+  "summary": "1815 年透纳在皇家艺术学院展出的历史风景画,取材维吉尔《埃涅阿斯纪》,表现狄多女王建造迦太基。这是他首次明确要与 17 世纪法国画家克劳德比肩的作品,并被他视为杰作。现藏伦敦国家美术馆。",
+  "story": "据 NG,画面主题取自德莱顿英译《埃涅阿斯纪》,画中蓝衣戴冠者是狄多,面前披斗篷戴头盔者很可能是埃涅阿斯。传说 1799 年透纳在安格斯坦(Angerstein)收藏中看到克劳德《示巴女王登船》,当场流泪说自己永远画不出这样的画(维基百科)。透纳终生拒绝出售此画,视之为自己的 chef d'oeuvre。他 1831 年遗嘱要求此画连同《雾中升起的太阳》永久与克劳德的《海港》和《以撒与利百加的婚礼》并排挂在国家美术馆(NG)。维基百科称他 1829 年遗嘱曾要求以此画裹身入葬,后改为捐赠。画作经衡平法院处理遗嘱纠纷后于 1856 年入藏 NG,至今依其遗愿与克劳德并置。罗斯金后来批评它前景沉重,近乎「涂成褐色的学院生轮廓堆砌」(Lancaster 页)。",
+  "technique_note": "布面油画,明确仿效克劳德的海港构图:对称的建筑与树木框住画面,中央逆光与水面反光营造深远空间。具体材料与工序未查到。",
+  "sources": [
+    "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-dido-building-carthage",
+    "https://en.wikipedia.org/wiki/Dido_building_Carthage",
+    "https://www.lancaster.ac.uk/fass/ruskin/empi/notes/gsoil02.htm"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Turner_-_Dido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Turner_-_Dido.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 6288,
+    "height": 4226,
+    "bytes": 3577436,
+    "sha256": "f06e45be98d14b2e102377103594d4d12d7724dad256621733ee99a0afa83b1c"
+  }
+}

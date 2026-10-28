@@ -1,0 +1,56 @@
+{
+  "no": 11,
+  "title_en": "The Fighting Temeraire tugged to her last berth to be broken up, 1838",
+  "title_ja": "The Fighting Temeraire, tugged to her last berth to be broken up(文章原文表记)",
+  "title_zh": "被拖去解体的战舰泰梅莱尔号(1838年)",
+  "year": "1838-1839",
+  "year_sort": 1839,
+  "technique": "油画",
+  "medium": "布面油画(oil on canvas)",
+  "dimensions": "90.7 x 121.6",
+  "museum": "英国国家美术馆(National Gallery)",
+  "museum_city": "伦敦",
+  "accession": "NG524",
+  "museum_url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-fighting-temeraire",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Turner, J. M. W. - The Fighting Téméraire tugged to her last Berth to be broken.jpg",
+    "direct_url": "",
+    "width": 6000,
+    "height": 4455,
+    "license": "Public domain(Commons 标注;来源署 nationalgallery.org.uk)",
+    "license_url": ""
+  },
+  "hd_available": "是:Commons 6000x4455(备选 File:The Fighting Temeraire, JMW Turner, National Gallery.jpg 5684x4223)。选前者因其分辨率更高且来源署国家美术馆;两者均未逐一比对色彩。国家美术馆官网无开放获取直链(未查到)",
+  "exhibited_history": [
+    "1839 皇家美术院夏季展(附诗句 'The flag which braved the battle and the breeze, No longer owns her.')",
+    "1856年随透纳遗赠入国家美术馆,1857年公开展出",
+    "1947-48 英国文化协会巡展(阿姆斯特丹至罗马);1952 开普敦;1995 国家美术馆专题展",
+    "曾借泰特:1910-14、1951-56、1960-61、1987年4月(克洛尔馆开馆)",
+    "2024-05-10至09-07 纽卡斯尔 Laing 美术馆 'National Treasures'(国家美术馆200周年,主题 Art, Industry & Nostalgia)"
+  ],
+  "exhibited_future": [],
+  "future_note": "2026-09-30 之后的公开展出信息未查到;常设于国家美术馆40室。",
+  "summary": "1838-39年作,描绘参加过特拉法尔加海战的老战舰泰梅莱尔号在夕阳中被蒸汽拖轮拖往罗瑟希德拆解。象征帆船时代让位于蒸汽时代,是英国国民最爱的画作之一。",
+  "story": "泰梅莱尔号是特拉法尔加海战中的98炮战舰,1838年8月被出售拆解,船商 John Beatson 雇用蒸汽拖轮 Sampson 与 London,于9月5-6日将其从希尔内斯拖往罗瑟希德。透纳并非亲眼所见,而是据报道作画,并故意画上部分桅杆,历史上并不准确,却赋予战舰尊严;落日与幽灵般的白金色船身对照肮脏的拖轮。透纳称它为自己的'Darling',拒绝了包括莱诺克斯上校5000英镑在内的高价,打算留给国家,画一直留在他昆恩安街的画廊。1856年随透纳遗赠入国家美术馆。2005年BBC广播四台评选为英国国民最爱画作,并出现在2020年起发行的20英镑聚合物钞票上。",
+  "technique_note": "布面油画;X光检查显示拖轮下方有一幅大帆的图像,说明透纳重用了废弃画布。画面自透纳遗赠以来未上过光油,1945年曾表面清洁,状态极佳(据国家美术馆 Egerton 2000 目录)。",
+  "sources": [
+    "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-fighting-temeraire",
+    "https://www.nationalgallery.org.uk/paintings/catalogues/egerton-2000/the-fighting-temeraire",
+    "https://en.wikipedia.org/wiki/The_Fighting_Temeraire",
+    "https://www.northeastmuseums.org.uk/laing/less-than-200-days-until-national-treasure-j-m-w-turner-painting-goes-on-display",
+    "https://commons.wikimedia.org/w/api.php?action=query&titles=File:Turner,_J._M._W._-_The_Fighting_T%C3%A9m%C3%A9raire_tugged_to_her_last_Berth_to_be_broken.jpg&prop=imageinfo"
+  ],
+  "favorite": false,
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Turner%2C_J._M._W._-_The_Fighting_T%C3%A9m%C3%A9raire_tugged_to_her_last_Berth_to_be_broken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Turner,_J._M._W._-_The_Fighting_T%C3%A9m%C3%A9raire_tugged_to_her_last_Berth_to_be_broken.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 6000,
+    "height": 4455,
+    "bytes": 6487560,
+    "sha256": "c2d93bced825a2b6bce93701281309cc07b95eaf946780c330e48fd2e0d05ca2"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "no": 301,
+  "favorite": true,
+  "favorite_reason": "周杰伦《太阳之子》(2026)MV 名画重现",
+  "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:线索剪报(Juksy 一篇认为是 Lethière 作品)(置信度:4 篇)"
+  ],
+  "title_en": "Death of Cleopatra",
+  "title_ja": "",
+  "title_zh": "克利奥帕特拉之死",
+  "year": "1796",
+  "year_sort": 1796,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Jean-Baptiste Regnault - Death of Cleopatra - Google Art Project.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "约 64 × 80 cm(据 Museum Kunstpalast 相关检索结果;Wikipedia 误记为 800×645 cm,不采用)",
+  "museum": "Museum Kunstpalast, Düsseldorf",
+  "museum_city": "杜塞尔多夫(德国)",
+  "accession": "M 2352",
+  "museum_url": "未查到",
+  "hd_available": "是(Commons 与 Google Arts & Culture 有图像;馆方条款未核实)",
+  "exhibited_history": [
+    "未查到首次展出记录(标为共和国第五年,即 1796–97)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开展出信息",
+  "summary": "勒尼奥在 1796–97 年画的埃及艳后之死,画面里只有克利奥帕特拉与侍女们的三具苍白遗体,蛇在左侧。作品现藏杜塞尔多夫。",
+  "story": "画面取自罗马史:亚克兴海战失败、安东尼自杀后,克利奥帕特拉宁可选择被毒蛇咬死也不愿被罗马俘虏。勒尼奥没有画垂死挣扎,只有左边的蛇暗示死因,三名死者像石头般苍白。据 Wikipedia,画中王后垂下的手臂被认为呼应了大卫的《马拉之死》,而创作于共和国第五年,也被解读为对革命暴力的沉默回应。作品现存杜塞尔多夫,馆藏号 M 2352。关于作者归属:一篇 Juksy 文章认为是 Lethière 的作品,但检索到的博物馆和艺术数据库均署名勒尼奥,此点仅作背景说明。",
+  "technique_note": "新古典主义的平面化处理:近乎浮雕的水平构图,肤色苍白,情绪克制,缺少巴洛克式的戏剧性。",
+  "sources": [
+    "https://artsandculture.google.com/asset/death-of-cleopatra-jean-baptiste-regnault/JAGApfjTnZDPyA?hl=en",
+    "https://www.wikidata.org/wiki/Q17443044",
+    "https://commons.wikimedia.org/wiki/File:Regnault-Der_Tod_der_Kleopatra.jpg"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Jean-Baptiste_Regnault_-_Death_of_Cleopatra_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste_Regnault_-_Death_of_Cleopatra_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 2944,
+    "height": 2353,
+    "bytes": 3527463,
+    "sha256": "57a0126a53ad23b402ca8949d3cd3dba28d3ee25a0f2c0696f6e99b7799494c8"
+  }
+}

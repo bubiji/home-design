@@ -1,0 +1,180 @@
+{
+ "author": {
+  "name_zh": "詹姆斯·麦克尼尔·惠斯勒",
+  "name_en": "James Abbott McNeill Whistler",
+  "life": "1834–1903",
+  "dir": "惠斯勒_James.McNeill.Whistler_1834-1903",
+  "bio": "美国出生、主要活跃于伦敦与巴黎的画家兼版画家,提倡「为艺术而艺术」,以《夜曲》系列和以音乐术语命名的「协奏曲/编排」式画题闻名。1878 年与批评家罗斯金的诽谤诉讼使其成为唯美主义运动的标志人物,作品同时受日本浮世绘影响。"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 101,
+   "favorite": true,
+   "favorite_reason": "客厅画墙 F1",
+   "title_en": "Nocturne: Blue and Silver – Chelsea",
+   "title_ja": "",
+   "title_zh": "夜曲:蓝与银——切尔西",
+   "year": "1871",
+   "year_sort": 1871,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:James Abbott McNeill Whistler - Nocturne- Blue and Silver - Chelsea - Google Art Project.jpg",
+    "note": ""
+   },
+   "medium": "Oil on wood panel(木板油画)",
+   "dimensions": "50.2 x 60.8",
+   "museum": "Tate Britain",
+   "museum_city": "London",
+   "accession": "T01571(注:提示中的 N03418 与 Tate 官网不符,以 T01571 为准;1972 年 Rachel and Jean Alexander 捐赠)",
+   "museum_url": "https://www.tate.org.uk/art/artworks/whistler-nocturne-blue-and-silver-chelsea-t01571",
+   "hd_available": "是:Commons 有 Google Art Project 高清版(见 image 字段);Tate 官网页面的开放获取许可条款本次未能核实",
+   "exhibited_history": [
+    "1871 伦敦 Dudley Gallery(首展,据 Glasgow 大学惠斯勒油画目录 YMSM 103 与维基百科;当时展出时的原题未核实)",
+    "2026-05-21至09-27 Tate Britain《James McNeill Whistler》(据搜索摘要转述本件在展,Tate 展览页未能逐件核实)"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后的公开外借/展览计划;荷兰梵高博物馆巡展(2026-10-16至2027-01-10)是否含本件未查到。Tate 官网标示本件平时在 Tate Britain 陈列。",
+   "summary": "1871 年惠斯勒在泰晤士河畔画下的切尔西夜景,是他最早的《夜曲》之作。画面只用极薄的蓝灰银色层与极简构图表现暮色河面,明显受日本浮世绘影响。现藏伦敦泰特不列颠。",
+   "story": "据 Tate 与维基百科,本作与《绿与紫的变奏》构思于 1871 年 8 月的同一个傍晚,画的是从巴特西桥一带望向切尔西的泰晤士河。「夜曲」(Nocturne)这一称呼来自赞助人弗雷德里克·莱兰(Frederick Leyland)的建议,此后惠斯勒用这个名称画了一系列夜景。本作在 Dudley Gallery 展出前,惠斯勒人在莱兰位于利物浦的 Speke Hall,通过信件叮嘱助手沃尔特·格里夫斯注意画框上蝴蝶签名不要被遮住(Glasgow 目录)。银行家 W. C. Alexander 于 1872 年购入,是惠斯勒早期的支持者之一;其女儿 Rachel 与 Jean 于 1972 年将画捐给泰特。",
+   "technique_note": "据维基百科转述:使用极稀薄的调和油料,以薄层透明色叠出光感,笔触可见;传说画布有时要平放在地上作画以免颜料流淌。平面化形体与构图参考浮世绘(如广重)。木板作底。",
+   "sources": [
+    "https://www.tate.org.uk/art/artworks/whistler-nocturne-blue-and-silver-chelsea-t01571",
+    "https://en.wikipedia.org/wiki/Nocturne:_Blue_and_Silver_%E2%80%93_Chelsea",
+    "https://www.whistlerpaintings.gla.ac.uk/catalogue/display/?mid=y103&xml=tec",
+    "https://www.tate.org.uk/whats-on/tate-britain/whistler"
+   ]
+  },
+  {
+   "no": 102,
+   "favorite": true,
+   "favorite_reason": "The Story of Art 收录",
+   "title_en": "Arrangement in Grey and Black No. 1 (Whistler's Mother)",
+   "title_ja": "",
+   "title_zh": "灰与黑的协奏曲第一号(画家的母亲)",
+   "year": "1871",
+   "year_sort": 1871,
+   "technique": "油画",
+   "book_relation": "《The Story of Art》1951 英文初版 fig.334(第 25 章)——16 版编号未核对",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Whistlers Mother high res.jpg",
+    "note": ""
+   },
+   "medium": "Oil on canvas(布面油画)",
+   "dimensions": "144.3 x 162.5(Glasgow 目录;Orsay/搜索摘要有写作 163 者)",
+   "museum": "Musée d'Orsay",
+   "museum_city": "Paris",
+   "accession": "RF 699",
+   "museum_url": "https://www.musee-orsay.fr/en/artworks/arrangement-en-gris-et-noir-ndeg1-974",
+   "hd_available": "是:Commons 有高分辨率文件(见 image 字段,文件名含 high res);公有领域许可细节本次未逐项核实",
+   "exhibited_history": [
+    "1872 伦敦皇家艺术学院夏季展(首展,目录号 941)",
+    "1874 伦敦 Flemish Gallery",
+    "1881 费城宾夕法尼亚美术学院;1882 纽约美国艺术家协会",
+    "1883 巴黎沙龙(三等奖章);1888 慕尼黑国际艺术展(二等金奖)",
+    "1905 惠斯勒纪念展(伦敦 New Gallery;巴黎美术学院)",
+    "2023-06至10 费城艺术博物馆(维基百科)",
+    "2026-05-21至09-27 Tate Britain《James McNeill Whistler》(The Art Newspaper)"
+   ],
+   "exhibited_future": [
+    "2026-10-16至2027-01-10 阿姆斯特丹梵高博物馆《Whistler. Dandy and Disruptor》(梵高博物馆展览页/新闻稿及 The Art Newspaper:奥赛出借)"
+   ],
+   "future_note": "除梵高博物馆巡展外,未查到 2027-01 之后的外借计划;平时陈列于奥赛,巡展期间不在馆。",
+   "summary": "惠斯勒 1871 年为母亲安娜画的侧坐像,原题《灰与黑的编排第一号》,以极简构图与灰黑色调突出形式本身。1891 年被法国政府购入,成为艺术史上最知名的肖像之一。现藏巴黎奥赛博物馆。",
+   "story": "据 Glasgow 惠斯勒油画目录,该画 1872 年送皇家艺术学院展出时差点被评审拒收,是 William Boxall 以辞职相要挟才获通过。「编排」这类抽象标题让维多利亚观众困惑,后来加上副标题「画家母亲的肖像」,才有了「惠斯勒的母亲」的通称。此后因债务与破产,画作多次被抵押,1886 年曾押给理查德·多伊利·卡特换取 500 英镑。1891 年法国政府以 4000 法郎购入,进卢森堡博物馆,惠斯勒视之为最高荣誉,次年获荣誉军团骑士勋章;据目录转述,方丹-拉图尔打趣说他「为此把母亲卖了」。此画 1922 年转卢浮宫,1986 年起归奥赛。梵高曾很喜欢此画,1889 年 12 月写信说它让他想起自己的母亲(The Art Newspaper)。",
+   "technique_note": "布面油画,灰、黑与极少量暖色的限定色调;侧面像与直角线构成的平面布局(帘幕、墙上版画)是画面结构核心;装框为惠斯勒自己设计的样式(维基百科)。更细的材料技法未查到。",
+   "sources": [
+    "https://www.musee-orsay.fr/en/artworks/arrangement-en-gris-et-noir-ndeg1-974",
+    "https://whistlerpaintings.gla.ac.uk/catalogue/display/?mid=y101&xml=his",
+    "https://en.wikipedia.org/wiki/Whistler%27s_Mother",
+    "https://www.theartnewspaper.com/2026/05/15/van-goghs-favourite-whistler-painting-stars-in-tates-show",
+    "https://www.vangoghmuseum.nl/en/visit/whats-on/exhibitions/whistler"
+   ],
+   "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:开场老妇人尖叫(置信度:9 篇)"
+   ]
+  },
+  {
+   "no": 103,
+   "favorite": true,
+   "favorite_reason": "The Story of Art 收录",
+   "title_en": "Nocturne: Blue and Gold – Old Battersea Bridge",
+   "title_ja": "",
+   "title_zh": "夜曲:蓝与金——老巴特西桥",
+   "year": "c.1872–75",
+   "year_sort": 1872,
+   "technique": "油画",
+   "book_relation": "《The Story of Art》1951 英文初版 fig.335(第 25 章)——16 版编号未核对",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:James McNeill Whistler - Nocturne en bleu et or.jpg",
+    "note": ""
+   },
+   "medium": "Oil on canvas(布面油画)",
+   "dimensions": "68.3 x 51.2(Tate 官网,支撑体;Glasgow 目录记 66.6 x 50.2)",
+   "museum": "Tate Britain",
+   "museum_city": "London",
+   "accession": "N01959(1905 年由新成立的 National Art Collections Fund 购买并赠 Tate)",
+   "museum_url": "https://www.tate.org.uk/art/artworks/whistler-nocturne-blue-and-gold-old-battersea-bridge-n01959",
+   "hd_available": "是:Commons 有高清文件(见 image 字段);Tate 官网开放获取条款本次未核实",
+   "exhibited_history": [
+    "首展时间说法不一:维基百科称 1875 年首次展出;Glasgow 目录称首次有记录的展出是 1878 年 11 月惠斯勒诉罗斯金案庭审时的「小型回顾展」",
+    "2026-05-21至09-27 Tate Britain《James McNeill Whistler》(据搜索摘要转述本件在展,未逐件核实)"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后的公开外借/展览计划;荷兰梵高博物馆巡展是否含本件未查到。",
+   "summary": "惠斯勒约 1872–75 年所画的老巴特西桥月夜,蓝色主调中点缀金色光点与烟火。它在 1878 年惠斯勒诉罗斯金的诽谤案中被当作证据展示。1905 年由国家艺术收藏基金购买后赠予泰特。",
+   "story": "画面从桥下仰视老巴特西木桥,远处可见切尔西老教堂与尚在建设的阿尔伯特桥,桥上人影与河面小船之间有烟火点点(维基百科)。1877 年罗斯金评论惠斯勒作品「向公众脸上泼一罐颜料」,惠斯勒起诉诽谤;1878 年庭审中本作被拿出来当场讨论,惠斯勒称画是「两天内」画成,并强调画框上的蓝色也是构图的一部分(Glasgow 目录)。陪审团判他胜诉但只赔偿一法寻(维基百科)。1905 年本画成为 National Art Collections Fund 成立后的首件重要购藏,并赠泰特。据维基百科,罗斯金点名批评的实际是另一幅《黑与金的夜曲:坠落的焰火》,本作只是庭上被拿来讨论的作品之一。",
+   "technique_note": "据维基百科转述:惠斯勒用含 copal、松节油与亚麻籽油的极稀薄调和油料,画布常平放以免颜料流淌;色料含普鲁士蓝、群青、铬黄或镉黄与灯黑。构图受浮世绘启发,桥的高度被夸张。Tate 记录含框尺寸 922 x 760 x 83 mm。",
+   "sources": [
+    "https://www.tate.org.uk/art/artworks/whistler-nocturne-blue-and-gold-old-battersea-bridge-n01959",
+    "https://www.tate.org.uk/about-us/projects/whistlers-finish/nocturne-blue-and-gold--old-battersea-bridge-c18725",
+    "https://www.whistlerpaintings.gla.ac.uk/catalogue/exhibitions/display/?eid=&mid=y140&xml=tec",
+    "https://en.wikipedia.org/wiki/Nocturne:_Blue_and_Gold_%E2%80%93_Old_Battersea_Bridge"
+   ]
+  },
+  {
+   "no": 301,
+   "favorite": false,
+   "favorite_reason": "",
+   "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:资料袋/报纸剪报线索之一(置信度:1 篇)"
+   ],
+   "title_en": "The Unsafe Tenement",
+   "title_ja": "",
+   "title_zh": "危楼",
+   "year": "1858",
+   "year_sort": 1858,
+   "technique": "版画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:James McNeill Whistler, The Unsafe Tenement, 1858, NGA 10900.jpg",
+    "note": ""
+   },
+   "medium": "蚀刻与干刻,纸本(NGA 藏本为 laid paper;《法国组曲》第 iv 版中的第 ii 状态)",
+   "dimensions": "版面 15.56 × 22.23 cm;纸张 22.23 × 28.58 cm",
+   "museum": "National Gallery of Art, Washington",
+   "museum_city": "华盛顿特区(美国)",
+   "accession": "1943.3.8403(Rosenwald Collection)",
+   "museum_url": "https://www.nga.gov/artworks/10900-unsafe-tenement",
+   "hd_available": "是(NGA 开放获取项目提供大图下载;Commons 亦有 NGA 10900 文件)",
+   "exhibited_history": [
+    "1858 年 11 月随首套版画集《Douze eaux-fortes d'après nature》(「法国组曲」)出版,首批 20 套由奥古斯特·德拉特尔在巴黎印制(NGA 页面);其他展览记录未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后的公开展出信息(版画不常设展,需向 NGA 预约阅览)",
+   "summary": "惠斯勒 1858 年在阿尔萨斯-洛林与莱茵兰旅行途中蚀刻的一幅街景,画出一栋摇摇欲坠的老房子。它收入其第一套出版版画集「法国组曲」。",
+   "story": "1858 年夏天,年轻的惠斯勒带着速写本、蚀刻针和铜版,在阿尔萨斯-洛林与莱茵兰一带旅行,在户外直接对景写生。他在途中遇到这座破败不堪的房屋,把它记录了下来。同年 11 月,这幅版画与另外十一幅一起以《Douze eaux-fortes d'après nature》为名发行,通称「法国组曲」。前 20 套由巴黎的「艺术印刷」名匠奥古斯特·德拉特尔负责印制,随后惠斯勒与德拉特尔带着铜版赴伦敦,又印了 50 套。NGA 所藏这一件来自莱辛·J·罗森瓦尔德(Lessing J. Rosenwald)的收藏,1943 年捐给该馆。据惠斯勒版画全集(MacDonald 2012,第 18 号),它属于四个状态中的第二状态。",
+   "technique_note": "蚀刻加干刻:在涂蜡的铜版上用针画线、酸蚀出深浅,再以干刻针补线。图中版内刻有 Whistler 签名和「Imp Delatre. Rue St. Jacques. 171.」印刷者铭文。用线细密、明暗靠交叉排线,显示出他早期受巴比松版画与法国「以自然为师」风气的影响。",
+   "sources": [
+    "https://www.nga.gov/artworks/10900-unsafe-tenement",
+    "https://www.nga.gov/collection/art-object-page.10900.html",
+    "https://artgallery.yale.edu/collections/objects/49673"
+   ]
+  }
+ ]
+}

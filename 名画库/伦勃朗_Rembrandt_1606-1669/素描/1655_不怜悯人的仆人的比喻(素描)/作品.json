@@ -1,0 +1,36 @@
+{
+  "no": 105,
+  "favorite": true,
+  "favorite_reason": "The Story of Art 收录",
+  "title_en": "The Parable of the Unmerciful Servant (drawing)",
+  "title_ja": "",
+  "title_zh": "不怜悯人的仆人的比喻(素描)",
+  "year": "c.1655",
+  "year_sort": 1655,
+  "technique": "素描",
+  "book_relation": "《The Story of Art》1951 英文初版 fig.264(第 20 章)——16 版编号未核对",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "Commons 未找到这幅素描的可用高清图"
+  },
+  "medium": "未查到",
+  "dimensions": "未查到",
+  "museum": "未查到",
+  "museum_city": "未查到",
+  "accession": "未查到",
+  "museum_url": "未查到",
+  "hd_available": "否:Commons 未找到可用高清图(见 image.note);具体藏馆未确认,故无从判断官方图源",
+  "exhibited_history": [],
+  "exhibited_future": [],
+  "future_note": "因藏馆未确认,未查到相关信息。检索中出现几件同题材约 1655 年的素描:华沙大学图书馆藏(笔与毛笔棕墨、淡彩、白色提亮,19.2×24.8 cm)、鹿特丹博伊曼斯馆藏(编号 R 102,该馆标为「伦勃朗画派」,14.3×14 cm),均无法确认即《艺术的故事》图 264 所用者",
+  "summary": "伦勃朗约 1655 年为《马太福音》「不怜悯人的仆人」比喻所作的钢笔素描。本条目对应《艺术的故事》图 264,但具体是哪一件藏品未能核实。",
+  "story": "未查到",
+  "technique_note": "未查到",
+  "sources": [
+    "https://www.boijmans.nl/en/collection/artworks/99461/The-Unmerciful-Servant/Rembrandt-van-Rijn",
+    "https://commons.wikimedia.org/wiki/Rembrandt/Drawings/1637-1669",
+    "https://commons.wikimedia.org/wiki/Category:Drawings_by_Rembrandt_in_the_University_Library_in_Warsaw"
+  ],
+  "downloaded": null
+}

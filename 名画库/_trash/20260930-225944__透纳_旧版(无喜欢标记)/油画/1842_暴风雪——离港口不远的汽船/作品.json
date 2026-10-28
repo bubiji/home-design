@@ -1,0 +1,53 @@
+{
+  "no": 1,
+  "title_en": "Snow Storm - Steam-Boat off a Harbour's Mouth",
+  "title_ja": "港の入り口の沖合の蒸気船(吹雪)",
+  "title_zh": "暴风雪——离港口不远的汽船",
+  "year": "1842",
+  "year_sort": 1842,
+  "technique": "油画",
+  "medium": "Oil on canvas",
+  "dimensions": "91.4 x 121.9 cm",
+  "museum": "Tate Britain",
+  "museum_city": "London",
+  "accession": "N00530",
+  "museum_url": "https://www.tate.org.uk/art/artworks/turner-snow-storm-steam-boat-off-a-harbours-mouth-n00530",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:J.M.W. Turner – Snow Storm - Steam-Boat off a Harbour's Mouth.jpg",
+    "direct_url": "",
+    "width": 7247,
+    "height": 5448,
+    "license": "Public domain",
+    "license_url": "未查到(Commons API 未返回许可URL;标为 Public domain)"
+  },
+  "hd_available": "是,Commons 7247x5448 JPEG,公有领域",
+  "exhibited_history": [
+    "1842 伦敦皇家艺术学院夏季展(首展)",
+    "Tate Britain 常设陈列 'JMW Turner: The Sea, Toil and Terror'(Tate 官网页面所示,展期未查到)",
+    "2025-11-27至2026-04-12 Tate Britain《Turner & Constable: Rivals and Originals》(仅来自搜索摘要转述,Tate官网展览页未能核实具体展品,标注未确认)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开外借/展览计划(Tate 官网仅显示馆内陈列)。",
+  "summary": "特纳1842年在皇家艺术学院展出的海景,汽船陷于风雪与海浪构成的漩涡中心。画面近乎抽象,是其晚期最具代表性的作品之一。现藏泰特不列颠。",
+  "story": "该画1842年在皇家艺术学院展出,全名带有冗长副标题。据传特纳称自己曾让水手把他绑在桅杆上四小时以观察风暴,当时他67岁,'不指望能逃生,但觉得如果活下来就必须记录下来'(维基百科转述,部分评论者怀疑其字面真实性)。当时有评论家嘲讽其为'肥皂泡沫与石灰水'(soapsuds and whitewash)。据传特纳受伤后回应:'他们以为海是什么样?我真希望他们身处其中。'1843年拉斯金称之为'有史以来关于海浪运动、雾气与光线最伟大的描绘之一'。画作后于1859-61年由R. Brandard制成版画。",
+  "technique_note": "以灰、绿、褐为主的单色调多层叠涂;汽船周围银白色光晕形成视觉焦点,蒸汽与浪涛融为抽象形态,白色笔触表现浪花。(来源:维基百科;技法细节未在Tate页面查到)",
+  "sources": [
+    "https://www.tate.org.uk/art/artworks/turner-snow-storm-steam-boat-off-a-harbours-mouth-n00530",
+    "https://en.wikipedia.org/wiki/Snow_Storm:_Steam-Boat_off_a_Harbour%27s_Mouth",
+    "https://commons.wikimedia.org/wiki/File:J.M.W._Turner_–_Snow_Storm_-_Steam-Boat_off_a_Harbour's_Mouth.jpg",
+    "https://www.tate.org.uk/whats-on/tate-britain/turner-and-constable/turner-and-constable-exhibition-tour"
+  ],
+  "favorite": true,
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/J.M.W._Turner_%E2%80%93_Snow_Storm_-_Steam-Boat_off_a_Harbour%27s_Mouth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:J.M.W._Turner_%E2%80%93_Snow_Storm_-_Steam-Boat_off_a_Harbour%27s_Mouth.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 7247,
+    "height": 5448,
+    "bytes": 3722613,
+    "sha256": "3b216adbdffced2e17248371b3a4d8333ecf9936a1f3219bb2d227995cbb8b84"
+  }
+}

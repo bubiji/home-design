@@ -1,0 +1,45 @@
+{
+  "no": 402,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/color-field-maroon"
+  ],
+  "title_en": "Maroon on Maroon",
+  "title_ja": "",
+  "title_zh": "深红上的深红",
+  "year": "c.1958",
+  "year_sort": 1958,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者去世未满 70 年(或在美国仍受版权保护),只记资料不下载"
+  },
+  "medium": "未查到(Tate 对该系列通常著录为油彩与混合颜料,本次未核实)",
+  "dimensions": "266 × 239 cm(原记;与 Tate 「Black on Maroon」尺寸量级一致,待核)",
+  "museum": "Tate Modern, London",
+  "museum_city": "英国伦敦",
+  "accession": "未查到(Tate 的 Seagram 系列编号为 T01031 起,无法确认本件对应哪一编号)",
+  "museum_url": "https://www.tate.org.uk/art/artworks/rothko-black-on-maroon-t01031",
+  "hd_available": "否:罗斯科 1970 年逝世,作品仍在版权保护期(美国终身+70 年至 2040 年),只记资料不下载。",
+  "exhibited_history": [
+    "1988 年泰特利物浦把 9 件捐赠的 Seagram 壁画与另 3 件来自艺术家遗产的作品一并展出,试图还原它们在餐厅里的设想",
+    "Tate 的「Black on Maroon」(1958)目前在泰特现代美术馆 2 层「In the Studio」展出(据馆方页面)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。",
+  "summary": "泰特的罗斯科 Seagram 壁画系列中的一件。「Maroon on Maroon」这个标题我没能在 Tate 官方页面核对到,需谨慎对待。",
+  "story": "1958 年罗斯科接受委托,为纽约西格拉姆大厦的四季餐厅绘制壁画,后来他因对餐厅的奢华氛围反感而退出委托。1969 年他向泰特美术馆捐赠了其中 9 件。1988 年泰特利物浦把这 9 件与另 3 件来自罗斯科遗产的作品一起展出,试图重现原先设想的餐厅空间。本条标题「Maroon on Maroon」在 Tate 官方页面里我只确认到「Black on Maroon」(1958),所以无法确认本条究竟对应哪一件,请以泰特藏品页为准。",
+  "technique_note": "Seagram 系列以深红、栗色与黑色为主,窗框般的矩形层叠,色调沉郁;这是对作品命名与具体技法的概括,本条未核对具体件号。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/color-field-maroon",
+    "https://www.tate.org.uk/art/artworks/rothko-black-on-maroon-t01031",
+    "https://en.wikipedia.org/wiki/Seagram_murals",
+    "https://en.wikipedia.org/wiki/Mark_Rothko"
+  ],
+  "links": [],
+  "wikidata": "",
+  "downloaded": null
+}

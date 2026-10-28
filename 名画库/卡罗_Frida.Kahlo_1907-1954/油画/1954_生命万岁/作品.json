@@ -1,0 +1,56 @@
+{
+  "no": 402,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/viva-la-vida"
+  ],
+  "title_en": "Viva la Vida, Watermelons",
+  "title_ja": "",
+  "title_zh": "生命万岁",
+  "year": "1954",
+  "year_sort": 1954,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者去世未满 70 年(或在美国仍受版权保护),只记资料不下载"
+  },
+  "medium": "油画(据通行著录为 Masonite 板,本次未核实)",
+  "dimensions": "52 × 72 cm",
+  "museum": "Museo Frida Kahlo(蓝房子)",
+  "museum_city": "墨西哥城科约阿坎",
+  "accession": "未查到",
+  "museum_url": "https://www.museofridakahlo.org.mx",
+  "hd_available": "否:卡罗 1954 年逝世;终身+70 年在部分地区已过期,但墨西哥为终身+100 年(至 2054),馆方也不提供公开下载;只记资料不下载(各国期限未逐条核实)。",
+  "exhibited_history": [
+    "未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。",
+  "summary": "卡罗晚年的西瓜静物,画面上切开的红瓜与题字「VIVA LA VIDA」。常被视为她最后的作品之一。",
+  "story": "1954 年卡罗在病痛中画下一组西瓜静物,其中这幅切开的西瓜上写着「VIVA LA VIDA」(生命万岁)。她不久后于 1954 年 7 月去世。作品通常被认为是她生命的最后阶段之作,有人解读为对死亡的接受,也有人解读为对生命的肯定。现收藏于她在科约阿坎的故居、也就是弗里达·卡罗博物馆(蓝房子)。以上细节本次未能从原始馆方页面核对。",
+  "technique_note": "近距离静物构图,以高饱和的红、绿色块与简洁的轮廓线塑造西瓜;背景留白,让题字成为画面的一部分。细节未核实。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/viva-la-vida",
+    "https://www.museofridakahlo.org.mx",
+    "https://en.wikipedia.org/wiki/Frida_Kahlo"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q17629443",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "http://www.museofridakahlo.org.mx/esp/1/coleccion-permanente/colecciones/viva-la-vida-1954",
+      "status": 404,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q17629443",
+  "downloaded": null
+}

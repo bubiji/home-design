@@ -1,0 +1,51 @@
+{
+ "author": {
+  "name_zh": "威廉·哈默修伊",
+  "name_en": "Vilhelm Hammershøi",
+  "life": "1864–1916",
+  "dir": "哈默修伊_Vilhelm.Hammershøi_1864-1916",
+  "bio": "丹麦画家,生于哥本哈根。以灰蓝、灰白的克制色调描绘安静的室内、背影女子与空房间,画中常出现他的妻子伊达。作品在生前主要在北欧受重视,20 世纪末以来在国际上被重新发现,近年多有大型回顾展。"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 101,
+   "favorite": true,
+   "favorite_reason": "客厅画墙 F2",
+   "title_en": "Interior with Woman Seen from Behind",
+   "title_ja": "",
+   "title_zh": "背影女子的室内",
+   "year": "1903–04",
+   "year_sort": 1903,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Vilhelm Hammershoi - Interieur mit Rueckenansicht einer Frau - 1903-1904 - Randers Kunstmuseum.jpg",
+    "note": ""
+   },
+   "medium": "Oil on canvas(布面油画)",
+   "dimensions": "60.5 x 50.5",
+   "museum": "Randers Kunstmuseum",
+   "museum_city": "Randers, Denmark",
+   "accession": "Ny Carlsbergfondet 登记号 1136/1947(基金会 1947-12-12 购入,1948-05-21 安置于该馆);Randers 馆自身藏品号未查到",
+   "museum_url": "https://www.ny-carlsbergfondet.dk/da/interioer-ung-kvinde-set-fra-ryggen",
+   "hd_available": "是:Commons 有高清文件(见 image 字段);Randers 馆官网未查到开放下载页",
+   "exhibited_history": [
+    "首展未查到",
+    "近年展览未在馆方页面查到;是否入选 2026 起的欧美巡展《Hammershøi. The Eye That Listens》(马德里 Thyssen/苏黎世/芝加哥)未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后本件的公开外借/展览计划(巡展展品清单未核实)。",
+   "summary": "哈默修伊约 1903–04 年画的室内,一位女子背对观者站在空旷的房间里,人物为其妻伊达。画面以灰蓝为主的克制色调和对光线的细致处理为特征。现藏丹麦 Randers 美术馆。",
+   "story": "据维基百科与 Randers 馆资料,画中场景取自哈默修伊夫妇 1899–1909 年居住的哥本哈根 Strandgade 30 号公寓,模特是妻子伊达。伊达在他画中常以背影出现,评论认为背对观者的构图造成一种疏离感,迈克尔·佩林曾就此提出与其家庭状况有关的猜测,但维基百科注明这是推测。公寓陈设极简,后来常被视为斯堪的纳维亚设计美学的先声。此画由 Ny Carlsberg 基金会 1947 年购入,1948 年安置到 Randers 美术馆。",
+   "technique_note": "布面油画,灰蓝为主的限定色调、极简构图,重点在窗光在墙面与地板上的微妙变化(据维基百科与馆方描述转述)。具体材料工序未查到。",
+   "sources": [
+    "https://www.ny-carlsbergfondet.dk/da/interioer-ung-kvinde-set-fra-ryggen",
+    "https://en.wikipedia.org/wiki/Interior_with_Young_Woman_Seen_from_the_Back",
+    "https://randerskunstmuseum.dk/category/highlights/page/2/",
+    "https://www.museothyssen.org/en/exhibitions/hammershoi-eye-listens"
+   ]
+  }
+ ]
+}

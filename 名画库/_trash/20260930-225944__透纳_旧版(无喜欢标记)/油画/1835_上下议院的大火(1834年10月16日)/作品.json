@@ -1,0 +1,63 @@
+{
+  "no": 8,
+  "title_en": "The Burning of the Houses of Lords and Commons, 16 October 1834",
+  "title_ja": "《国会議事堂の火事、1834年10月16日》",
+  "title_zh": "上下议院的大火(1834年10月16日)",
+  "year": "1834-35",
+  "year_sort": 1835,
+  "technique": "油画",
+  "medium": "布面油画",
+  "dimensions": "无框 92 x 123.2 cm;带框 123.5 x 153.5 x 12 cm",
+  "museum": "The Cleveland Museum of Art",
+  "museum_city": "Cleveland, Ohio",
+  "accession": "1942.647",
+  "museum_url": "https://clevelandart.org/art/1942.647",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Joseph Mallord William Turner - The Burning of the Houses of Lords and Commons, 16 October 1834 - 1942.647 - Cleveland Museum of Art.jpg",
+    "direct_url": "",
+    "width": 15155,
+    "height": 11254,
+    "license": "CC0 (Cleveland Museum of Art Open Access)",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "note": "馆方 CC0 原件为 512MB TIFF(openaccess-cdn.clevelandart.org/1942.647/1942.647_full.tif),同分辨率 JPG 取自 Commons"
+  },
+  "hd_available": "是(full.tif 15155x11254, 约512MB;print.jpg 3400x2525:https://openaccess-cdn.clevelandart.org/1942.647/1942.647_print.jpg;Commons 有同尺寸 15155x11254 的 33MB JPG,公有领域,可作实用替代)",
+  "exhibited_history": [
+    "1835 Royal Academy, London(首展;Cleveland 记录;另一版本藏费城美术馆,于同年在 British Institution 展出)",
+    "1836 British Institution, London 'Works of British Artists'",
+    "1868 Leeds 'National Exhibition of Works of Art'(J. G. Marshall 出借)",
+    "1883 Royal Academy 老大师及英国画派已故大师展",
+    "1936 Cleveland 美术馆二十周年展",
+    "1966 MoMA New York 'Turner: Imagination and Reality'",
+    "1996 National Gallery of Australia 'Turner'",
+    "2001-02 Museum Folkwang, Essen 'J. M. Turner'",
+    "2007-08 National Gallery of Art, Washington / Dallas Museum of Art 'J.M.W. Turner'",
+    "2021-22 Kimbell Art Museum / Museum of Fine Arts Boston 'Turner's Modern World'",
+    "2025-26 (27 Nov 2025 - 12 Apr 2026) Tate Britain 'Turner and Constable'(逾百年首次回到英国)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开展出安排;Tate 页称 'Turner and Constable' 不巡展。平时展于 Cleveland 203B 英国绘画厅。",
+  "summary": "特纳表现1834年10月16日议会大火的油画,从泰晤士河下游东南岸远望,烈焰映红天空与河面。他放大了火势,把灾难化为人在自然破坏力面前无助的象征。",
+  "story": "1834年10月16日夜,伦敦著名的国会大厦被大火吞噬,人们沿泰晤士河岸围观这场景象。低潮使抽水困难,拖着消防设备的汽船受阻,大火失控燃烧数小时。特纳把火焰画得比实际更高,画面右下的船只正驶向火场。他1835年展出两幅同题作品:此幅在皇家美术院展出(Cleveland 记录),另一幅从威斯敏斯特桥方向所见的构图藏费城美术馆,展于英国学会。Cleveland 本自 J. G. Marshall 购自艺术家,后归 John L. Severance,1942年遗赠入馆。2025年它借给 Tate Britain,是逾百年来首次回英国展出。",
+  "technique_note": "以大片色彩和多变的大气效果营造,近于抽象(Cleveland 馆方描述);详细材料分析未查到。",
+  "sources": [
+    "https://openaccess-api.clevelandart.org/api/artworks/1942.647",
+    "https://clevelandart.org/art/1942.647",
+    "https://en.wikipedia.org/wiki/The_Burning_of_the_Houses_of_Lords_and_Commons",
+    "https://www.tate.org.uk/whats-on/tate-britain/turner-and-constable",
+    "https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_-_The_Burning_of_the_Houses_of_Lords_and_Commons,_16_October_1834_-_1942.647_-_Cleveland_Museum_of_Art.jpg"
+  ],
+  "favorite": false,
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Joseph_Mallord_William_Turner_-_The_Burning_of_the_Houses_of_Lords_and_Commons%2C_16_October_1834_-_1942.647_-_Cleveland_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_-_The_Burning_of_the_Houses_of_Lords_and_Commons,_16_October_1834_-_1942.647_-_Cleveland_Museum_of_Art.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 15155,
+    "height": 11254,
+    "bytes": 33214596,
+    "sha256": "3bd158b04f768dfe86d132b6c177ac57c47c41e54d318a70f8e45e0021f33f3b"
+  }
+}

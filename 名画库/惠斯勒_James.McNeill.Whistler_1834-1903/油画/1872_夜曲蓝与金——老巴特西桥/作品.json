@@ -1,0 +1,50 @@
+{
+  "no": 103,
+  "favorite": true,
+  "favorite_reason": "The Story of Art 收录",
+  "title_en": "Nocturne: Blue and Gold – Old Battersea Bridge",
+  "title_ja": "",
+  "title_zh": "夜曲:蓝与金——老巴特西桥",
+  "year": "c.1872–75",
+  "year_sort": 1872,
+  "technique": "油画",
+  "book_relation": "《The Story of Art》1951 英文初版 fig.335(第 25 章)——16 版编号未核对",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:James McNeill Whistler - Nocturne en bleu et or.jpg",
+    "note": ""
+  },
+  "medium": "Oil on canvas(布面油画)",
+  "dimensions": "68.3 x 51.2(Tate 官网,支撑体;Glasgow 目录记 66.6 x 50.2)",
+  "museum": "Tate Britain",
+  "museum_city": "London",
+  "accession": "N01959(1905 年由新成立的 National Art Collections Fund 购买并赠 Tate)",
+  "museum_url": "https://www.tate.org.uk/art/artworks/whistler-nocturne-blue-and-gold-old-battersea-bridge-n01959",
+  "hd_available": "是:Commons 有高清文件(见 image 字段);Tate 官网开放获取条款本次未核实",
+  "exhibited_history": [
+    "首展时间说法不一:维基百科称 1875 年首次展出;Glasgow 目录称首次有记录的展出是 1878 年 11 月惠斯勒诉罗斯金案庭审时的「小型回顾展」",
+    "2026-05-21至09-27 Tate Britain《James McNeill Whistler》(据搜索摘要转述本件在展,未逐件核实)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开外借/展览计划;荷兰梵高博物馆巡展是否含本件未查到。",
+  "summary": "惠斯勒约 1872–75 年所画的老巴特西桥月夜,蓝色主调中点缀金色光点与烟火。它在 1878 年惠斯勒诉罗斯金的诽谤案中被当作证据展示。1905 年由国家艺术收藏基金购买后赠予泰特。",
+  "story": "画面从桥下仰视老巴特西木桥,远处可见切尔西老教堂与尚在建设的阿尔伯特桥,桥上人影与河面小船之间有烟火点点(维基百科)。1877 年罗斯金评论惠斯勒作品「向公众脸上泼一罐颜料」,惠斯勒起诉诽谤;1878 年庭审中本作被拿出来当场讨论,惠斯勒称画是「两天内」画成,并强调画框上的蓝色也是构图的一部分(Glasgow 目录)。陪审团判他胜诉但只赔偿一法寻(维基百科)。1905 年本画成为 National Art Collections Fund 成立后的首件重要购藏,并赠泰特。据维基百科,罗斯金点名批评的实际是另一幅《黑与金的夜曲:坠落的焰火》,本作只是庭上被拿来讨论的作品之一。",
+  "technique_note": "据维基百科转述:惠斯勒用含 copal、松节油与亚麻籽油的极稀薄调和油料,画布常平放以免颜料流淌;色料含普鲁士蓝、群青、铬黄或镉黄与灯黑。构图受浮世绘启发,桥的高度被夸张。Tate 记录含框尺寸 922 x 760 x 83 mm。",
+  "sources": [
+    "https://www.tate.org.uk/art/artworks/whistler-nocturne-blue-and-gold-old-battersea-bridge-n01959",
+    "https://www.tate.org.uk/about-us/projects/whistlers-finish/nocturne-blue-and-gold--old-battersea-bridge-c18725",
+    "https://www.whistlerpaintings.gla.ac.uk/catalogue/exhibitions/display/?eid=&mid=y140&xml=tec",
+    "https://en.wikipedia.org/wiki/Nocturne:_Blue_and_Gold_%E2%80%93_Old_Battersea_Bridge"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/James_McNeill_Whistler_-_Nocturne_en_bleu_et_or.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:James_McNeill_Whistler_-_Nocturne_en_bleu_et_or.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 1926,
+    "height": 2584,
+    "bytes": 835726,
+    "sha256": "2aebac6654553a3a44311b214ffa0f6e9362d2927234d462ff1cdb6d95a6de1a"
+  }
+}

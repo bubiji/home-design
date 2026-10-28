@@ -1,0 +1,62 @@
+{
+  "no": 403,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-two-fridas"
+  ],
+  "title_en": "The Two Fridas",
+  "title_ja": "",
+  "title_zh": "两个弗里达",
+  "year": "1939",
+  "year_sort": 1939,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者去世未满 70 年(或在美国仍受版权保护),只记资料不下载"
+  },
+  "medium": "布面油画",
+  "dimensions": "173.5 × 173 cm",
+  "museum": "Museo de Arte Moderno, Mexico City",
+  "museum_city": "墨西哥城",
+  "accession": "未查到",
+  "museum_url": "https://museodeartemoderno.com",
+  "hd_available": "否:卡罗 1954 年逝世;终身+70 年在部分地区已过期,但墨西哥为终身+100 年(至 2054),馆方也不提供公开下载;只记资料不下载(各国期限未逐条核实)。",
+  "exhibited_history": [
+    "1940 年 1 月墨西哥城国际超现实主义展(首次公开展出)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。",
+  "summary": "卡罗的双人自画像,一个穿维多利亚式白裙,一个穿特万纳传统服饰,血管把两颗心脏连在一起。画于她与里维拉离婚之时。",
+  "story": "这幅画是卡罗第一件大幅作品,画于 1939 年她与迭戈·里维拉离婚期间,两人次年复婚。朋友费尔南多·加姆博亚说,它受到她在卢浮宫看到的夏塞里奥《两姐妹》的启发。画中一个弗里达手拿里维拉的小像,另一个手拿止血钳,鲜血滴在白裙上,表达被抛弃与疼痛。作品 1940 年 1 月在墨西哥城的国际超现实主义展首次公开展出。她自己保留此画至 1947 年,国立美术学院(INBA)将其购入,1966 年 12 月 28 日转交现址的现代艺术博物馆。",
+  "technique_note": "正面对称的双人构图,暴风云的背景与暴露的心脏;血管连接两人,红线贯穿整幅画,象征联系与撕裂。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/the-two-fridas",
+    "https://en.wikipedia.org/wiki/The_Two_Fridas",
+    "https://en.wikipedia.org/wiki/Frida_Kahlo"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3232010",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.fridakahlo.org/the-two-fridas.jsp",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/The_Two_Fridas",
+      "status": 200,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q3232010",
+  "downloaded": null
+}

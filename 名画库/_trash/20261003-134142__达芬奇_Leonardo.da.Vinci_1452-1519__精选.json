@@ -1,0 +1,53 @@
+{
+ "author": {
+  "dir": "达芬奇_Leonardo.da.Vinci_1452-1519",
+  "name_zh": "列奥纳多·达·芬奇",
+  "name_en": "Leonardo da Vinci",
+  "life": "1452–1519",
+  "bio": "列奥纳多·达·芬奇(1452–1519)是意大利文艺复兴盛期的画家、工程师与博物学者,曾在佛罗伦萨、米兰、罗马和法国安布瓦兹工作。传世画作不多,《蒙娜丽莎》《最后的晚餐》等以晕涂法和对自然的精密观察影响深远,留下大量笔记与解剖、机械手稿。"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 301,
+   "favorite": false,
+   "favorite_reason": "",
+   "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:脖子上的咬痕、流血泪(置信度:8 篇)"
+   ],
+   "title_en": "Mona Lisa",
+   "title_ja": "",
+   "title_zh": "蒙娜丽莎",
+   "year": "c.1503–1519",
+   "year_sort": 1503,
+   "technique": "油画",
+   "book_relation": "《The Story of Art》1951 英文初版 fig.187——16 版编号未核对",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Mona Lisa, by Leonardo da Vinci, from C2RMF natural color.jpg",
+    "note": ""
+   },
+   "medium": "白杨木板油画",
+   "dimensions": "77 × 53 cm",
+   "museum": "Louvre",
+   "museum_city": "巴黎(法国)",
+   "accession": "INV 779",
+   "museum_url": "未查到(检索到的卢浮宫藏品库 cl010066723 是 MNR 265 的 18 世纪摹本,不是原作,故不采用)",
+   "hd_available": "是(Commons 上有 C2RMF 自然色高清文件;卢浮宫馆方下载条款未核实)",
+   "exhibited_history": [
+    "1911 年被卢浮宫员工佩鲁贾偷走,约两年后追回,此事使其举世闻名",
+    "1797 年起常设于卢浮宫(据 Wikipedia)",
+    "1963 年赴美国(华盛顿、纽约)、1974 年赴日本东京与莫斯科展出(据通行史料,本次未逐条核对馆方页面)"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后的外借展出;为常设藏品,原则上不外借",
+   "summary": "达·芬奇约 1503 年起画的丽莎·德尔·焦孔多肖像,画到晚年仍在修改。它是世界上参观人数最多的单件艺术品。",
+   "story": "画中人一般认为是佛罗伦萨商人妻子丽莎·德尔·焦孔多。2005 年发现的阿戈斯蒂诺·韦斯普奇批注证实,达·芬奇在 1503 年 10 月已在画这幅像。他此后携画迁往米兰、罗马乃至法国,可能直到 1517 年前后仍在加工。他去世后,法国国王弗朗索瓦一世取得该画。1911 年,卢浮宫员工文琴佐·佩鲁贾出于意大利爱国动机偷走此画,两年后试图出售时被捕,事件的轰动使它成了全球偶像。现在它在防弹玻璃和恒温环境中展出,每年约 1020 万观众来看。",
+   "technique_note": "杨木板上油彩极薄的多层罩染,用「晕涂法(sfumato)」使明暗与轮廓柔和过渡,并把人物与想象的山水背景连接起来。",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mona_Lisa",
+    "https://collections.louvre.fr/en/ark:/53355/cl010066723"
+   ]
+  }
+ ]
+}

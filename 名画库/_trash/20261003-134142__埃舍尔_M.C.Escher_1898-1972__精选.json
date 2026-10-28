@@ -1,0 +1,249 @@
+{
+ "author": {
+  "dir": "埃舍尔_M.C.Escher_1898-1972",
+  "name_zh": "M.C. 埃舍尔",
+  "name_en": "M. C. Escher",
+  "life": "1898–1972",
+  "bio": "M.C. 埃舍尔(1898–1972)是荷兰版画家,以木刻、石版画和镶嵌图案闻名。他将数学结构、不可能空间与无限递归融入版画,曾与数学家通信交流(如与 H.S.M. 考克斯特),作品在数学与科学界影响深远。"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 301,
+   "favorite": false,
+   "favorite_reason": "",
+   "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:自由时报「30 幅」表所列(置信度:2 篇)"
+   ],
+   "title_en": "Print Gallery",
+   "title_ja": "",
+   "title_zh": "画廊",
+   "year": "1956",
+   "year_sort": 1956,
+   "technique": "版画",
+   "book_relation": "",
+   "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者去世未满 70 年,仍在版权期内,只记资料不下载"
+   },
+   "medium": "石版画(lithograph)",
+   "dimensions": "32.07 × 31.75 cm(12.625 × 12.5 英寸)",
+   "museum": "无单一馆藏(版画有多份印本,分藏各馆;荷兰海牙 Escher in Het Paleis 等)",
+   "museum_city": "未查到",
+   "accession": "未查到(各印本编号不同;Escher 编目 Bool/Locher 号未核对)",
+   "museum_url": "https://www.nga.gov/artworks/47956-print-gallery",
+   "hd_available": "否(版权期内)",
+   "exhibited_history": [
+    "未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "2026-09-30之后:海牙《Escher & Islamic Art: 20 Perspectives》展至2026年11月1日(据检索结果,是否含本作未核实)",
+   "summary": "《画廊》(荷兰语 Prentententoonstelling)是埃舍尔1956年的石版画:一个人在画廊里看一幅海港的画,而画中海港的建筑里正包含这个画廊。画面中央留白,只有他的签名。数学家后来用椭圆曲线补出了中央空白。",
+   "story": "画中人站在画廊里看一幅海港画,而画中的建筑里又有这间画廊,形成自我包含的循环。埃舍尔从「环状隆起(annular bulge),没有开头也没有结尾」的想法出发,先用直线尝试,后来改为曲线,得到旋转扩张的网格。画中海港取材于马耳他的森格莱阿,他1935年曾以木刻表现过。中央留白被认为是他解决不了的难题。2003年前后,荷兰数学家亨德里克·伦斯特拉和巴特·德斯米特指出,将其视为复数上的椭圆曲线,理想化的版本包含自身的一份副本,旋转约157.63度、缩小约22.58倍,并据此补上了中央。侯世达(Hofstadter)也以此作说明三种「包含」关系。",
+   "technique_note": "石版画,以弯曲网格造出环状膨胀的空间,使画面沿圆周循环放大;中央空白是这一构造的数学奇点。",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Print_Gallery_(M._C._Escher)",
+    "https://www.universiteitleiden.nl/en/research/research-projects/science/escher-and-the-droste-effect",
+    "https://www.nga.gov/artworks/47956-print-gallery"
+   ]
+  },
+  {
+   "no": 302,
+   "favorite": false,
+   "favorite_reason": "",
+   "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:自由时报「30 幅」表所列(置信度:2 篇)"
+   ],
+   "title_en": "Gallery",
+   "title_ja": "",
+   "title_zh": "画廊(1946)",
+   "year": "1946",
+   "year_sort": 1946,
+   "technique": "版画",
+   "book_relation": "",
+   "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者去世未满 70 年,仍在版权期内,只记资料不下载"
+   },
+   "medium": "麦索汀版画(mezzotint)",
+   "dimensions": "未查到",
+   "museum": "无单一馆藏(版画有多份印本,分藏各馆;荷兰海牙 Escher in Het Paleis 等)",
+   "museum_city": "未查到",
+   "accession": "未查到",
+   "museum_url": "https://www.nga.gov/artworks/54232-gallery",
+   "hd_available": "否(版权期内)",
+   "exhibited_history": [
+    "未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到2026-09-30之后的公开展出信息",
+   "summary": "《画廊》(Gallery,1946)是埃舍尔的麦索汀版画,画一排排拱门通向暗色中心,每边有鱼形灯笼与骷髅脸鸟。空间在视觉上无法自洽,窗外是环形山与星系。它与1956年的石版画《画廊(Print Gallery)》是两件不同的作品。",
+   "story": "据 Escher 官网,《画廊》从1946年12月到1949年4月分多个状态完成。1946年是埃舍尔对麦索汀技法产生兴趣的一年,这种北欧传统技法可以表现极细腻的明暗渐变。画中靠近观者的拱门四边都挂着鱼形灯笼,下方有一只脸似骷髅的鸟。左右墙面合理向后延伸,但观者又似乎同时仰视下方窗口、俯视上方窗口,构成不可能的空间。窗外景象包括环形山与彗星、星系和相交的环。清单中的「1946」对应的是开始制作的年份。",
+   "technique_note": "麦索汀技法:先把铜版整体打磨粗糙,再刮平局部以形成暗到亮的渐变,适合表现夜空与深暗空间。",
+   "sources": [
+    "https://www.nga.gov/artworks/54232-gallery",
+    "https://www.phillips.com/article/48953504/mc-escher-and-the-mezzotint",
+    "https://www.wikiart.org/en/m-c-escher/gallery"
+   ]
+  },
+  {
+   "no": 303,
+   "favorite": false,
+   "favorite_reason": "",
+   "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:自由时报「30 幅」表所列(置信度:1 篇)"
+   ],
+   "title_en": "Relativity",
+   "title_ja": "",
+   "title_zh": "相对性",
+   "year": "1953",
+   "year_sort": 1953,
+   "technique": "版画",
+   "book_relation": "",
+   "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者去世未满 70 年,仍在版权期内,只记资料不下载"
+   },
+   "medium": "石版画(lithograph)",
+   "dimensions": "27.7 × 29.2 cm",
+   "museum": "无单一馆藏(版画有多份印本,分藏各馆;荷兰海牙 Escher in Het Paleis 等)",
+   "museum_city": "未查到",
+   "accession": "未查到",
+   "museum_url": "未查到",
+   "hd_available": "否(版权期内)",
+   "exhibited_history": [
+    "未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到2026-09-30之后的公开展出信息",
+   "summary": "《相对性》是埃舍尔1953年12月的石版画,画多个方向的楼梯交错的空间,不同居民对「地面」与「墙」有各自的重力方向。所有人都是没有五官的球形头。它是现代艺术中最熟悉的图像之一。",
+   "story": "画面里楼梯在不同角度交错,某人的墙壁是另一人的地板,场景却是居民从容行走、在户外用餐的平静社区。所有人物都是同样「无特征的球形头」。据英文维基,同年还有一个较早的木刻版本。该作被称作「现代艺术中最熟悉的图像之一」,并影响了电影《魔王迷宫》(1986)和《盗梦空间》(2010)。",
+   "technique_note": "石版画,以三个互相垂直的重力方向组织空间,每个区域内部透视都自洽,拼在一起却不可能。",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Relativity_(M._C._Escher)"
+   ]
+  },
+  {
+   "no": 304,
+   "favorite": false,
+   "favorite_reason": "",
+   "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:自由时报「30 幅」表所列(置信度:1 篇)"
+   ],
+   "title_en": "House of Stairs",
+   "title_ja": "",
+   "title_zh": "楼梯之屋",
+   "year": "1951",
+   "year_sort": 1951,
+   "technique": "版画",
+   "book_relation": "",
+   "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者去世未满 70 年,仍在版权期内,只记资料不下载"
+   },
+   "medium": "石版画(lithograph)",
+   "dimensions": "47.2 × 23.8 cm(NGA 记画面 46.99 × 23.81 cm)",
+   "museum": "无单一馆藏(版画有多份印本,分藏各馆;荷兰海牙 Escher in Het Paleis 等);例:美国国家美术馆(华盛顿)藏一印本",
+   "museum_city": "未查到",
+   "accession": "NGA 藏印本另有其馆藏号(未核对);其他印本未查到",
+   "museum_url": "https://www.nga.gov/artworks/54249-house-stairs",
+   "hd_available": "否(版权期内)",
+   "exhibited_history": [
+    "未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到2026-09-30之后的公开展出信息",
+   "summary": "《楼梯之屋》(荷兰语 Trappenhuis)是埃舍尔1951年的石版画,画一座布满楼梯与门的高塔状建筑,爬行着46只想象出来的「wentelteefje」生物。这些生物能蜷成轮子滚动。",
+   "story": "画面是一座高塔形建筑内部,楼梯与门洞交织。据荷兰语/英文资料,其中共有46只埃舍尔虚构的生物 wentelteefje 在楼梯上爬行。此类生物在1951年的其他版画中也出现过。作品的更多创作背景与展出史本次未查到。",
+   "technique_note": "石版画,竖长构图,通过楼梯的交叠与俯视透视表现层层叠叠的空间。",
+   "sources": [
+    "https://en.wikipedia.org/wiki/House_of_Stairs",
+    "https://www.nga.gov/artworks/54249-house-stairs",
+    "https://mcescher.com/lw-375/"
+   ]
+  },
+  {
+   "no": 305,
+   "favorite": false,
+   "favorite_reason": "",
+   "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:自由时报「30 幅」表所列(置信度:1 篇)"
+   ],
+   "title_en": "Angels and Demons",
+   "title_ja": "",
+   "title_zh": "天使与恶魔",
+   "year": "1941",
+   "year_sort": 1941,
+   "technique": "版画",
+   "book_relation": "",
+   "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者去世未满 70 年,仍在版权期内,只记资料不下载"
+   },
+   "medium": "未查到(所指作品有歧义:1941年「正则分割绘图 no. 45」为平面图案手绘;版画《Circle Limit IV》才是木刻)",
+   "dimensions": "未查到",
+   "museum": "未查到(1941年 Regular Division drawing no. 45 据称属 Escher Foundation 收藏,展于海牙 Escher in Het Paleis,未核实)",
+   "museum_city": "未查到",
+   "accession": "未查到",
+   "museum_url": "https://escherinhetpaleis.nl/en/about-escher/escher-today/the-regular-division-of-the-plane-at-the-de-roos-foundation",
+   "hd_available": "否(版权期内)",
+   "exhibited_history": [
+    "未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到2026-09-30之后的公开展出信息",
+   "summary": "清单中「天使与恶魔(1941)」对应埃舍尔1941年圣诞期间的「正则分割绘图 no. 45」,是白天使与黑蝙蝠状恶魔相互镶嵌的平面图案。这是他第一个欧氏平面的天使与恶魔图案,后来才发展为1960年的《圆极限 IV》。准确指哪件作品仍有歧义。",
+   "story": "埃舍尔1941年圣诞节前后画出「正则分割绘图 no. 45」,图中白色天使与黑色蝙蝠状恶魔互相咬合。这是他此主题在平面几何中的第一个版本,也是唯一一个后来被他转化到球面(1942年)和双曲平面(1960年,《圆极限 IV》,副标题「天堂与地狱」)的图案。他说过:「善与恶彼此需要才能被看见,直到无限。」清单把此作年份记作1941,故这里按此理解;若原文章指的是《圆极限 IV》,请参见 no. 306。",
+   "technique_note": "平面镶嵌图案(正则分割),以两个形状互相补全无缝铺满平面;后续版本用双曲几何让图案向圆边缘缩小。",
+   "sources": [
+    "https://escherinhetpaleis.nl/en/about-escher/escher-today/circle-limit-iv-heaven-and-hell",
+    "https://www.d.umn.edu/~ddunham/bridges09.pdf"
+   ]
+  },
+  {
+   "no": 306,
+   "favorite": false,
+   "favorite_reason": "",
+   "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:自由时报「30 幅」表所列(置信度:1 篇)"
+   ],
+   "title_en": "Circle Limit IV",
+   "title_ja": "",
+   "title_zh": "圆极限 IV",
+   "year": "1960",
+   "year_sort": 1960,
+   "technique": "版画",
+   "book_relation": "",
+   "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者去世未满 70 年,仍在版权期内,只记资料不下载"
+   },
+   "medium": "木刻版画(赭色与黑色,两块版套印)",
+   "dimensions": "画面直径约 41.91 cm;纸张 47.94 × 48.1 cm(据加拿大国家美术馆印本)",
+   "museum": "无单一馆藏(版画有多份印本,分藏各馆;荷兰海牙 Escher in Het Paleis 等);例:加拿大国家美术馆(渥太华)藏一印本(部分校样)",
+   "museum_city": "渥太华(例:加拿大国家美术馆)",
+   "accession": "1982.90.9(加拿大国家美术馆印本)",
+   "museum_url": "https://www.gallery.ca/collection/artwork/circle-limit-iv-heaven-and-hell",
+   "hd_available": "否(版权期内)",
+   "exhibited_history": [
+    "未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到2026-09-30之后的公开展出信息",
+   "summary": "《圆极限 IV(天堂与地狱)》是埃舍尔1960年7月的木刻,白天使与黑蝙蝠状恶魔在圆盘中互相镶嵌,越靠边缘越小。灵感来自数学家考克斯特的双曲几何图形。",
+   "story": "埃舍尔受加拿大数学家 H.S.M. 考克斯特1957年著作《晶体对称及其推广》中一幅图启发,该图基于庞加莱圆盘模型。两人通信往来,考克斯特给他关于双曲镶嵌的建议,也从他那里学到新的解法。他以1941年的「正则分割绘图 no. 45」为基础,用四重与六重对称交替的排列(在平面上不可能实现)完成圆盘内的镶嵌。天使与恶魔互为背景,他写道:「善与恶彼此需要才能被看见,直到无限。」",
+   "technique_note": "木刻,两块版套印(赭色与黑色);庞加莱圆盘上的双曲镶嵌使图案向边缘无限缩小。",
+   "sources": [
+    "https://escherinhetpaleis.nl/en/about-escher/escher-today/circle-limit-iv-heaven-and-hell",
+    "https://www.gallery.ca/collection/artwork/circle-limit-iv-heaven-and-hell",
+    "https://www.nga.gov/artworks/61282-circle-limit-iv"
+   ]
+  }
+ ]
+}

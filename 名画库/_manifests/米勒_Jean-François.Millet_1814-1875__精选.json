@@ -1,0 +1,100 @@
+{
+ "author": {
+  "name_zh": "让-弗朗索瓦·米勒",
+  "name_en": "Jean-François Millet",
+  "life": "1814–1875",
+  "dir": "米勒_Jean-François.Millet_1814-1875",
+  "bio": "让-弗朗索瓦·米勒(1814–1875)是法国巴比松画派代表画家,以《拾穗者》《晚钟》等农民劳作题材闻名。晚年他为友人弗雷德里克·哈特曼创作四季系列,未及全部完成。"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 101,
+   "favorite": true,
+   "favorite_reason": "你单独点名;亦为奥赛东京展报道作品",
+   "title_en": "Spring",
+   "title_ja": "春",
+   "title_zh": "春",
+   "year": "1868–73",
+   "year_sort": 1868,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Jean-François Millet (II) 006.jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "86 × 111",
+   "museum": "Musée d'Orsay",
+   "museum_city": "Paris",
+   "accession": "RF 509(1887年由哈特曼夫人捐赠国家入卢浮宫,1986年转入奥赛)",
+   "museum_url": "https://www.musee-orsay.fr/en/artworks/le-printemps-237",
+   "hd_available": "是:Commons 有 File:Jean-François Millet (II) 006.jpg;奥赛官网作品页(本次抓取被拒 403,开放许可未核)",
+   "exhibited_history": [
+    "首次展览:未查到(画作为委托作品,1873年完成后是否展出未核实)",
+    "1887年入藏卢浮宫(哈特曼夫人捐赠)",
+    "2026-11-14 至 2027-03-28 东京都美术馆(见 exhibited_future)"
+   ],
+   "exhibited_future": [
+    "2026-11-14 至 2027-03-28 东京都美术馆「東京都美術館開館100周年記念 オルセー美術館所蔵 いまを生きる歓び」(来源:https://spice.eplus.jp/articles/347404)"
+   ],
+   "future_note": "东京展官方页说明本展不巡回,仅东京一站;官方页未逐一列出本作,入展依据为 SPICE 报道(已记录)。",
+   "summary": "《春》是米勒为哈特曼所作四季系列之一:雨后放晴,林间小路上空挂着双重彩虹。这幅1873年5月完成,是四幅中的第一幅。",
+   "story": "1868年3月,弗雷德里克·哈特曼在 Munster(上莱茵省)向米勒订购一套四季组画。米勒于1873年5月完成《春》,1874年完成《夏》《秋》,《冬》至他去世时未完成。画面为一条穿过两棵树、通向森林的小路,天空阴云间挂着双重彩虹。1887年哈特曼夫人把《春》捐给法国国家,入藏卢浮宫,1986年转到奥赛。四季组画另外三幅分藏波士顿美术馆、纽约大都会与加的夫威尔士国家博物馆(各来源对哪幅在哪馆说法不一,未逐一核实)。里斯本古尔本基安博物馆另有一幅相似构图的小尺寸粉彩。",
+   "technique_note": "布面油画,构图为水平风景,重点在雨后光线和彩虹,与米勒以农民人物为中心的早期作品不同。奥赛页面未能抓取,技法细节未核对。",
+   "sources": [
+    "https://www.musee-orsay.fr/en/artworks/le-printemps-237",
+    "https://fr.wikipedia.org/wiki/Le_Printemps_(Millet)",
+    "https://pop.culture.gouv.fr/notice/joconde/000PE002026",
+    "https://www.tobikan.jp/exhibition/2026_orsay.html",
+    "https://art.nikkei.com/orsay2627/outline/",
+    "https://spice.eplus.jp/articles/347404"
+   ]
+  },
+  {
+   "no": 102,
+   "favorite": true,
+   "favorite_reason": "奥赛东京展报道作品(SPICE)",
+   "title_en": "The Gleaners",
+   "title_ja": "落穂拾い",
+   "title_zh": "拾穗者",
+   "year": "1857",
+   "year_sort": 1857,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Jean-François Millet - Gleaners - Google Art Project.jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "83.5 × 110(奥赛官方数据经检索摘要转引;法语维基作 83.5 × 111,英语维基作 83.8 × 111.8)",
+   "museum": "Musée d'Orsay",
+   "museum_city": "Paris",
+   "accession": "RF 592(Pommery 夫人1890年购得并赠国家入卢浮宫〔英语维基作1891年遗赠,来源说法不一〕,1986年转入奥赛)",
+   "museum_url": "https://www.musee-orsay.fr/en/artworks/des-glaneuses-342",
+   "hd_available": "是:Commons 有 File:Jean-François Millet - Gleaners - Google Art Project.jpg(5357×4009);奥赛官网页本次抓取被拒 403,开放许可未核",
+   "exhibited_history": [
+    "首次展览:1857年巴黎沙龙(Salon de 1857),遭中上层批评,有评论称其让人联想到1793年的断头台",
+    "1867年巴黎万国博览会(据检索到的二手来源:与《晚钟》同展,共展米勒9幅作品;未核官方目录)",
+    "1890年经 Pommery 夫人购得入卢浮宫;1986年转奥赛",
+    "2026-11-14 至 2027-03-28 东京都美术馆(见 exhibited_future);报道称相隔23年再度来日(前次具体展览未核实)"
+   ],
+   "exhibited_future": [
+    "2026-11-14 至 2027-03-28 东京都美术馆「東京都美術館開館100周年記念 オルセー美術館所蔵 いまを生きる歓び」(来源:https://spice.eplus.jp/articles/347404)"
+   ],
+   "future_note": "东京展官方页说明本展不巡回,仅东京一站;本作入展依据为 SPICE 报道(已记录)。2026-09-30 前未查到其他公开的后续借展安排。",
+   "summary": "《拾穗者》(1857)画三位弯腰在收割后田里拾取遗穗的农妇,是米勒十年间探索这一题材的成果。1857年沙龙展出时,因把贫苦农民放进大尺幅画面而引发政治争议。1890年入藏卢浮宫,1986年转奥赛。",
+   "story": "米勒把这幅画送到1857年沙龙,画的是被允许在收割后田里捡拾遗落麦穗的贫苦农妇。据法语维基,画面灵感与圣经中路得与波阿斯的故事有关。当时的批评分成两派:右派视之为民众起义的威胁,左派则看到第二帝国下贫困的乡村人民;有评论说它让人想起1793年的断头台。据法语维基,买家宾德(Binder)最初以2000法郎购得。1875年米勒去世后声誉大涨,据维基,1889年该画以约30万法郎成交(另有来源称553,000法郎,说法不一),香槟商 Pommery 夫人买下并把它给了国家,1890年入卢浮宫,1986年转入奥赛。后来皮沙罗、雷诺阿、修拉、梵高等都借鉴过它的形象。",
+   "technique_note": "布面油画,横幅大尺寸。三位农妇前景并排弯腰、背景是远处的堆麦与监工骑马者,以此对比劳动者与丰收的富足。米勒此前有相关素描与蚀刻,1857年后还制作过同构图的蚀刻版画(据法语维基)。逐层笔触细节未核。",
+   "sources": [
+    "https://spice.eplus.jp/articles/347404",
+    "https://www.musee-orsay.fr/en/artworks/des-glaneuses-342",
+    "https://fr.wikipedia.org/wiki/Des_glaneuses",
+    "https://en.wikipedia.org/wiki/The_Gleaners",
+    "https://bijutsutecho.com/magazine/news/exhibition/32737"
+   ]
+  }
+ ]
+}

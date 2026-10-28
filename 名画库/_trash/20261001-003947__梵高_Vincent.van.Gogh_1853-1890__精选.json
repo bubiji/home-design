@@ -1,0 +1,102 @@
+{
+ "author": {
+  "name_zh": "文森特·梵高",
+  "name_en": "Vincent van Gogh",
+  "life": "1853–1890",
+  "dir": "梵高_Vincent.van.Gogh_1853-1890",
+  "bio": "文森特·梵高(1853–1890)是荷兰后印象派画家,生前仅卖出很少作品。1888年他到法国阿尔勒,在那里与高更共同生活并创作了大量作品,1890年在奥维尔去世。"
+ },
+ "source_article": "https://spice.eplus.jp/articles/347404",
+ "works": [
+  {
+   "no": 101,
+   "favorite": true,
+   "favorite_reason": "奥赛东京展报道作品(SPICE)",
+   "title_en": "Starry Night over the Rhône",
+   "title_ja": "星月夜(ローヌ川の星月夜)",
+   "title_zh": "罗讷河上的星夜",
+   "year": "1888",
+   "year_sort": 1888,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Starry Night Over the Rhone.jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "73 × 92(英语维基作 72.5 × 92)",
+   "museum": "Musée d'Orsay",
+   "museum_city": "Paris",
+   "accession": "RF 1975 19(1975年 Kahn-Sriber 夫妇为纪念 Moch 夫妇保留用益权捐赠)",
+   "museum_url": "https://www.musee-orsay.fr/fr/oeuvres/la-nuit-etoilee-78696",
+   "hd_available": "是:Commons 有 File:Starry Night Over the Rhone.jpg(5407×4191);奥赛官网页本次抓取被拒 403,开放许可未核",
+   "exhibited_history": [
+    "首次展览:1889年巴黎独立艺术家沙龙(Société des Artistes Indépendants),与《鸢尾花》同展,由提奥安排",
+    "2024-06-01 起 阿尔勒梵高基金会「梵高与星空」展(奥赛出借,为首次回到阿尔勒;据 The Art Newspaper)",
+    "2010年国立新美术馆「オルセー美術館展2010 ポスト印象派」:据2026年报道本作相隔16年再度来日;该展总体已核实,本作在展一节为由报道推算,未见当年目录",
+    "2026-11-14 至 2027-03-28 东京都美术馆(见 exhibited_future)"
+   ],
+   "exhibited_future": [
+    "2026-11-14 至 2027-03-28 东京都美术馆「東京都美術館開館100周年記念 オルセー美術館所蔵 いまを生きる歓び」(来源:https://spice.eplus.jp/articles/347404)"
+   ],
+   "future_note": "东京展官方页说明本展不巡回,仅东京一站;本作入展依据为 SPICE 报道(已记录)。2026-09-30 前未查到其他公开的后续借展安排。",
+   "summary": "《罗讷河上的星夜》(1888年9月)画阿尔勒夜晚罗讷河岸,煤气灯的橙黄倒影与星光相映。这是梵高在阿尔勒的夜景之作,早于圣雷米的《星月夜》。",
+   "story": "1888年9月梵高在阿尔勒的罗讷河岸,靠近他租住的黄房子,画下这幅夜景。他在给妹妹的信中说想画星空,觉得夜晚比白天颜色更丰富。画面有河对岸的煤气灯和水面反光,前景有一对散步的人。大熊座出现在向西南望去本不可能见到的位置,是他有意把地面景与天空叠合。1889年提奥安排它与《鸢尾花》同展于巴黎独立艺术家沙龙。此画经约翰娜·梵高-邦格及多位荷兰、巴黎藏家,1975年经捐赠入奥赛。2024年它首次回到阿尔勒参加展览。",
+   "technique_note": "布面油画,普鲁士蓝、群青、钴蓝构成夜空与河水,煤气灯倒影用强对比的橙黄(据日语维基)。星星画成带放射花瓣的花状形体(据法语维基)。梵高信中写:天空是水蓝色,水是宝蓝色,地面是淡紫色,气灯是黄色,倒影是赤金色(据英语维基引信)。",
+   "sources": [
+    "https://spice.eplus.jp/articles/347404",
+    "https://www.musee-orsay.fr/fr/oeuvres/la-nuit-etoilee-78696",
+    "https://fr.wikipedia.org/wiki/La_Nuit_%C3%A9toil%C3%A9e_(1888)",
+    "https://en.wikipedia.org/wiki/Starry_Night_Over_the_Rh%C3%B4ne",
+    "https://ja.wikipedia.org/wiki/ローヌ川の星月夜",
+    "https://www.theartnewspaper.com/2023/12/08/van-goghs-starry-night-over-the-rhone-will-return-to-arles",
+    "https://www.nact.jp/exhibition_special/2010/orsay/index.html",
+    "https://www.wikidata.org/wiki/Q1464531"
+   ]
+  },
+  {
+   "no": 201,
+   "favorite": true,
+   "favorite_reason": "周杰伦《最伟大的作品》(2022) 引用的作品",
+   "culture_relation": [
+    "周杰伦《最伟大的作品》(2022):歌词提及——歌词以「星空」关键词指向。(置信度:来源明确点名)"
+   ],
+   "title_en": "The Starry Night",
+   "title_ja": "",
+   "title_zh": "星月夜",
+   "year": "1889",
+   "year_sort": 1889,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Van Gogh - Starry Night 2.jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "73.7 x 92.1 cm",
+   "museum": "纽约现代艺术博物馆 MoMA(The Museum of Modern Art)",
+   "museum_city": "纽约,美国",
+   "accession": "472.1941",
+   "museum_url": "https://www.moma.org/collection/works/79802",
+   "hd_available": "是(作者1890年去世,已进入公有领域;Commons 有高分辨率文件)",
+   "exhibited_history": [
+    "1935:MoMA 梵高回顾展(据媒体转述 MoMA 资料,此为该作在 MoMA 首次亮相)",
+    "1941:经 Paul Rosenberg 交换(Lillie P. Bliss 遗赠置换)入藏 MoMA,此后长期陈列于 MoMA",
+    "早年(1889-1890 巴黎/布鲁塞尔)展出情况:未查到;已确认 1890 年 Les XX 布鲁塞尔展的6件参展作不含此作"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到公开的2026-09-30之后展出安排(仅查了 MoMA 馆藏页,未获访问;此作为 MoMA 常设陈列,外借罕见)",
+   "summary": "1889年6月梵高在圣雷米精神病院中画下的夜空,是他最广为人知的作品之一。画面取自病房东窗视角,村庄为想象添加。现藏纽约 MoMA。",
+   "story": "梵高1889年5月自愿住进圣雷米的圣保罗精神病院,这幅画是6月在那里完成的。画中景色取自他病房朝东的窗,黎明前的天空里最亮的星被研究者认为是金星,但左下方的村庄是凭速写想象添加的。他在给弟弟提奥的信中曾把这幅画视为失败之作。梵高去世后此画由提奥继承,再传到提奥遗孀乔手中,后来几经转手,1938年归画商 Paul Rosenberg。1941年 MoMA 用 Lillie P. Bliss 遗赠的三幅作品(据报道包括塞尚与图卢兹-劳特累克)与 Rosenberg 交换,将其收入馆藏。此后它成为 MoMA 最受欢迎的展品。",
+   "technique_note": "布面油画,厚涂与旋涡状笔触。据 MoMA 与罗切斯特理工学院的科学分析,天空使用群青与钴蓝,星与月的黄色为印度黄与锌黄。",
+   "sources": [
+    "https://news.qq.com/rain/a/20220706A05CMF00",
+    "https://www.moma.org/collection/works/79802",
+    "https://en.wikipedia.org/wiki/The_Starry_Night",
+    "https://en.wikipedia.org/wiki/Vincent_van_Gogh%27s_display_at_Les_XX,_1890"
+   ]
+  }
+ ]
+}

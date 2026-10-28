@@ -1,0 +1,43 @@
+{
+  "no": 401,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/self-portrait-frida"
+  ],
+  "title_en": "Self-Portrait c.1940",
+  "title_ja": "",
+  "title_zh": "自画像",
+  "year": "c.1940",
+  "year_sort": 1940,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者去世未满 70 年(或在美国仍受版权保护),只记资料不下载"
+  },
+  "medium": "未查到",
+  "dimensions": "61 × 47 cm(与第 404 件《戴荆棘项链与蜂鸟的自画像》尺寸 61.25 × 47 cm 几乎相同,身份待确认)",
+  "museum": "未能确认(见 story 说明)",
+  "museum_city": "未查到",
+  "accession": "未查到",
+  "museum_url": "未查到",
+  "hd_available": "否:卡罗 1954 年逝世;终身+70 年在部分地区已过期,但墨西哥为终身+100 年(至 2054),馆方也不提供公开下载;只记资料不下载(各国期限未逐条核实)。",
+  "exhibited_history": [
+    "未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。",
+  "summary": "本条「自画像 c.1940 61×47」无法确定是哪一件:尺寸与第 404 件《戴荆棘项链与蜂鸟的自画像》几乎相同,可能是同一作品或误录。需要用户据原站条目再确认。",
+  "story": "本地原始记录只有「Self-Portrait c.1940,61 × 47 cm」,没有馆名。1940 年卡罗至少有三件常被提到的自画像:《戴荆棘项链与蜂鸟的自画像》(哈利·兰瑟姆中心,61.25 × 47 cm)、《剪发自画像》(Self-Portrait with Cropped Hair,据记忆藏纽约 MoMA,约 40 × 28 cm,尺寸不符)、以及带猴子的自画像。只有第一件的尺寸吻合,但它已在本表的第 404 条单独列出。因此本条可能是重复条目,或指向另一件尺寸相近的作品,目前无法确定,不做猜测。拿不到可靠信息的字段统一记为「未查到」。",
+  "technique_note": "未查到(作品身份未确定)",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/self-portrait-frida",
+    "https://en.wikipedia.org/wiki/Self-Portrait_with_Thorn_Necklace_and_Hummingbird",
+    "https://en.wikipedia.org/wiki/Frida_Kahlo"
+  ],
+  "links": [],
+  "wikidata": "",
+  "downloaded": null
+}

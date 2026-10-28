@@ -1,0 +1,39 @@
+{
+  "no": 212,
+  "favorite": true,
+  "favorite_reason": "周杰伦《最伟大的作品》(2022)MV/歌词 引用的作品",
+  "culture_relation": [
+    "周杰伦《最伟大的作品》(2022)MV/歌词:解析提到马蒂斯 1918 年自画像(置信度:2 篇)"
+  ],
+  "title_en": "Self-Portrait",
+  "title_ja": "",
+  "title_zh": "自画像",
+  "year": "1918",
+  "year_sort": 1918,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "解析仅提及,Commons 未核对到可用高清图"
+  },
+  "medium": "布面油画",
+  "dimensions": "65 x 54 cm",
+  "museum": "马蒂斯博物馆 Musée départemental Matisse(勒卡托-康布雷西)",
+  "museum_city": "勒卡托-康布雷西,法国",
+  "accession": "D 1978-1(Wikimedia Commons 所记,另记 Orsay RF 1978 33,关系未核)",
+  "museum_url": "未查到(馆方页面未定位)",
+  "hd_available": "是(作者1954年去世,已入公有领域;Commons 有该作图像,馆方高清渠道未核)",
+  "exhibited_history": [
+    "未查到具体展览史"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开的2026-09-30之后展出安排(检索无结果,不代表没有)",
+  "summary": "1918年1月在尼斯画的自画像:马蒂斯戴眼镜、穿棕色西装,一手持画笔、一手拿调色板。藏于他的故乡勒卡托的马蒂斯博物馆。",
+  "story": "据 Commons 的记录,该画作于1918年1月,创作地是尼斯。画中的马蒂斯坐姿端正,戴眼镜、穿棕色西装,右手拿画笔,左手拿调色板,呈现的是画家本人的形象。作品现藏于他出生地附近的勒卡托-康布雷西的马蒂斯博物馆。Commons 同时标注了 Orsay 的编号,说明它与奥赛博物馆有管理上的关联,具体关系(寄存或其他)本次未核实。解析称此作与MV有关,这一点只有2篇文章支持。",
+  "technique_note": "布面油画,以较简化的形体与克制的色彩塑造人物,与野兽派时期的强烈用色不同。",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Henri_Matisse,_1918,_Portrait_du_peintre_(Autoportrait,_Self-portrait),_oil_on_canvas,_65_x_54_cm,_Matisse_Museum_(Le_Cateau).jpg"
+  ],
+  "downloaded": null
+}

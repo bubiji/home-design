@@ -1,0 +1,41 @@
+{
+  "no": 302,
+  "favorite": true,
+  "favorite_reason": "周杰伦《太阳之子》(2026)MV 名画重现",
+  "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:自由时报「30 幅」表所列(置信度:2 篇)"
+  ],
+  "title_en": "Gallery",
+  "title_ja": "",
+  "title_zh": "画廊(1946)",
+  "year": "1946",
+  "year_sort": 1946,
+  "technique": "版画",
+  "book_relation": "",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者去世未满 70 年,仍在版权期内,只记资料不下载"
+  },
+  "medium": "麦索汀版画(mezzotint)",
+  "dimensions": "未查到",
+  "museum": "无单一馆藏(版画有多份印本,分藏各馆;荷兰海牙 Escher in Het Paleis 等)",
+  "museum_city": "未查到",
+  "accession": "未查到",
+  "museum_url": "https://www.nga.gov/artworks/54232-gallery",
+  "hd_available": "否(版权期内)",
+  "exhibited_history": [
+    "未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到2026-09-30之后的公开展出信息",
+  "summary": "《画廊》(Gallery,1946)是埃舍尔的麦索汀版画,画一排排拱门通向暗色中心,每边有鱼形灯笼与骷髅脸鸟。空间在视觉上无法自洽,窗外是环形山与星系。它与1956年的石版画《画廊(Print Gallery)》是两件不同的作品。",
+  "story": "据 Escher 官网,《画廊》从1946年12月到1949年4月分多个状态完成。1946年是埃舍尔对麦索汀技法产生兴趣的一年,这种北欧传统技法可以表现极细腻的明暗渐变。画中靠近观者的拱门四边都挂着鱼形灯笼,下方有一只脸似骷髅的鸟。左右墙面合理向后延伸,但观者又似乎同时仰视下方窗口、俯视上方窗口,构成不可能的空间。窗外景象包括环形山与彗星、星系和相交的环。清单中的「1946」对应的是开始制作的年份。",
+  "technique_note": "麦索汀技法:先把铜版整体打磨粗糙,再刮平局部以形成暗到亮的渐变,适合表现夜空与深暗空间。",
+  "sources": [
+    "https://www.nga.gov/artworks/54232-gallery",
+    "https://www.phillips.com/article/48953504/mc-escher-and-the-mezzotint",
+    "https://www.wikiart.org/en/m-c-escher/gallery"
+  ],
+  "downloaded": null
+}

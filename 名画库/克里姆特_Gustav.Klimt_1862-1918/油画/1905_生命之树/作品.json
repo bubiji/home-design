@@ -1,0 +1,79 @@
+{
+  "no": 402,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-tree-of-life"
+  ],
+  "title_en": "The Tree of Life, Stoclet Frieze",
+  "title_ja": "",
+  "title_zh": "生命之树",
+  "year": "1905–1911",
+  "year_sort": 1905,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Klimt - Nine Cartoons for the Stoclet Frieze- Part 4, Part of the tree of life (1910-11).jpg",
+    "note": "Commons 图为斯托克莱饰带九幅草图中的第四幅「生命之树」局部"
+  },
+  "medium": "草图:粉笔、铅笔、水粉(含青铜、银、金、铂金材料)于透明纸与草图纸(MAK 著录,Google Arts & Culture)",
+  "dimensions": "195 × 102 cm(本地原记;Google Arts 著录此片为 200 × 102 cm,待与 MAK 核对)",
+  "museum": "MAK – Museum of Applied Arts, Vienna(维也纳应用艺术博物馆)",
+  "museum_city": "奥地利维也纳",
+  "accession": "MAL 226-3(Google Arts 著录的「生命之树」部分之一;各幅草图编号不同,Commons 标为 Part 4,具体对应关系未能核实)",
+  "museum_url": "https://artsandculture.google.com/asset/nine-cartoons-for-the-execution-of-a-frieze-for-the-dining-room-of-stoclet-house-in-brussels-part-3-part-of-the-tree-of-life/8gGR9_6GJQUPng",
+  "hd_available": "是:Commons 有此草图局部的高清图;作者 1918 年逝世,公有领域。注意:这是草图(Karton),不是最终的马赛克。",
+  "exhibited_history": [
+    "MAK 曾举办《古斯塔夫·克里姆特:期待与满足》展览,展出斯托克莱饰带草图(年份未核实)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。",
+  "summary": "这是克里姆特为布鲁塞尔斯托克莱宫餐厅制作饰带的九幅实尺草图之一,表现盘旋的生命之树。最终饰带由维也纳工坊制成大理石、金属和珐琅镶嵌。",
+  "story": "斯托克莱宫由约瑟夫·霍夫曼设计,位于布鲁塞尔,是维也纳工坊的集大成之作。克里姆特约于 1905–1911 年间设计了餐厅墙面饰带,中间是盘旋的生命之树,两侧是「期待」与「满足」的人物。他先制作九幅大幅实尺草图,供工坊在大理石上镶嵌金属、宝石和珐琅。草图保存于维也纳应用艺术博物馆(MAK),而饰带本身仍在斯托克莱宫。本地记录里「油画」的写法不准确,这是草图而不是油画作品。",
+  "technique_note": "草图混合粉笔、铅笔、水粉及金属色颜料(青铜、银、金、铂金),绘于纸上;生命之树的螺旋枝蔓具有强烈的新艺术运动装饰性,并为后续镶嵌的材料(大理石、金、珐琅)预留了设计依据。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/the-tree-of-life",
+    "https://artsandculture.google.com/asset/nine-cartoons-for-the-execution-of-a-frieze-for-the-dining-room-of-stoclet-house-in-brussels-part-3-part-of-the-tree-of-life/8gGR9_6GJQUPng",
+    "https://en.wikipedia.org/wiki/The_Tree_of_Life,_Stoclet_Frieze",
+    "https://en.wikipedia.org/wiki/Stoclet_Frieze"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q17029800",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://sammlung.mak.at/sammlung_online?id=collect-158521",
+      "status": 403,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/The_Tree_of_Life,_Stoclet_Frieze",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AKlimt_-_Nine_Cartoons_for_the_Stoclet_Frieze-_Part_4%2C_Part_of_the_tree_of_life_%281910-11%29.jpg",
+      "status": 200,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q17029800",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Klimt_-_Nine_Cartoons_for_the_Stoclet_Frieze-_Part_4%2C_Part_of_the_tree_of_life_%281910-11%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Klimt_-_Nine_Cartoons_for_the_Stoclet_Frieze-_Part_4,_Part_of_the_tree_of_life_(1910-11).jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 4746,
+    "height": 9000,
+    "bytes": 16814644,
+    "sha256": "57ea4154dbd802bbf844c72ffee0dd2dabdf50bad509bb7d7b66822798ec1d24"
+  }
+}

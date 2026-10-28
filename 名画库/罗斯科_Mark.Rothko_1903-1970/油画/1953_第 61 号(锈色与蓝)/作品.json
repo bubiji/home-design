@@ -1,0 +1,62 @@
+{
+  "no": 403,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/no61-rust-and-blue"
+  ],
+  "title_en": "No. 61 (Rust and Blue)",
+  "title_ja": "",
+  "title_zh": "第 61 号(锈色与蓝)",
+  "year": "1953",
+  "year_sort": 1953,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者去世未满 70 年(或在美国仍受版权保护),只记资料不下载"
+  },
+  "medium": "布面油画",
+  "dimensions": "292.74 × 233.68 cm(MOCA 著录 115 1/4 × 92 in)",
+  "museum": "The Museum of Contemporary Art, Los Angeles (MOCA)",
+  "museum_city": "美国洛杉矶",
+  "accession": "84.9(The Panza Collection)",
+  "museum_url": "https://www.moca.org/collection/work/no-61-rust-and-blue-brown-blue-brown-on-blue",
+  "hd_available": "否:罗斯科 1970 年逝世,作品仍在版权保护期(美国终身+70 年至 2040 年),只记资料不下载。",
+  "exhibited_history": [
+    "未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。 MOCA 页面标注位置为 Grand Avenue。",
+  "summary": "1953 年的大幅色域绘画,锈色和蓝色块堆叠在棕色底上。MOCA 著录的另一标题为「Brown, Blue, Brown on Blue」。",
+  "story": "MOCA 页面显示,这幅画的完整名称为「No. 61 (Rust and Blue)(Brown Blue, Brown on Blue)」。它属于 MOCA 的帕尼扎收藏(The Panza Collection),登录号 84.9,推断是 1984 年随该收藏入藏。作品画于 1953 年,是罗斯科成熟期色域绘画的代表之一,尺寸近 3 米高,把观者置于色彩之中。展览史馆方页面未能核对到。",
+  "technique_note": "大幅布面油画,多层稀薄颜料交叠,色块边缘柔和;尺寸近 3 × 2.3 米,有意让观者靠近、被色彩包围。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/no61-rust-and-blue",
+    "https://www.moca.org/collection/work/no-61-rust-and-blue-brown-blue-brown-on-blue",
+    "https://en.wikipedia.org/wiki/Mark_Rothko"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4540018",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "http://www.moca.org/collection/work/no-61-rust-and-blue-brown-blue-brown-on-blue",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/No._61_(Rust_and_Blue)",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q4540018",
+  "downloaded": null
+}

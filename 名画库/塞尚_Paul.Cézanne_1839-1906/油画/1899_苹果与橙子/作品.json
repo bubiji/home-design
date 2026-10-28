@@ -1,0 +1,83 @@
+{
+  "no": 402,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/apples-and-oranges"
+  ],
+  "title_en": "Apples and Oranges",
+  "title_ja": "",
+  "title_zh": "苹果与橙子",
+  "year": "c.1899",
+  "year_sort": 1899,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Pommes et oranges - Paul Cézanne.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "74 × 93 cm",
+  "museum": "Musée d'Orsay",
+  "museum_city": "法国巴黎",
+  "accession": "RF 1972(Camondo 遗赠,据 Commons 标注)",
+  "museum_url": "https://www.musee-orsay.fr/en/collections",
+  "hd_available": "是:Commons 与奥赛官网均有在线图像",
+  "exhibited_history": [
+    "未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "Cézanne et nous 展(2026-09-23 至 2027-01-17)是否含本作未查到",
+  "summary": "《苹果与橙子》是塞尚静物画的集大成之作:桌布、水果、瓷器都被处理成稳固的几何体块,桌面像在倾斜。",
+  "story": "塞尚认为画一个苹果也能“震惊巴黎”。(未核对)此画约 1899 年,桌布的褶皱、水果的圆形与背景的壁纸被拉成统一的构成,而桌面与物体各自采用不同的视角,形成多视点效果。它由 Isaac de Camondo 收藏并于 1911 年遗赠给法国国家(Commons 馆藏号 RF 1972 在同一批遗赠序列)。(未核对)后来马蒂斯、毕加索都受到这类静物的启发。(未核对)",
+  "technique_note": "厚实的短笔触与明暗对比色(红橙对蓝绿),桌面和物体多视角叠合,边缘不求闭合。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/apples-and-oranges",
+    "https://commons.wikimedia.org/wiki/File:Pommes_et_oranges_-_Paul_Cézanne.jpg"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3873326",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.cezannecatalogue.com/catalogue/entry.php?id=822",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Musée d'Orsay artwork ID",
+      "url": "http://www.musee-orsay.fr/en/collections/index-of-works/notice.html?nnumid=1470",
+      "status": 403,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Still_Life_with_Apples_and_Oranges",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3APommes_et_oranges_-_Paul_C%C3%A9zanne.jpg",
+      "status": 200,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q3873326",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Pommes_et_oranges_-_Paul_C%C3%A9zanne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Pommes_et_oranges_-_Paul_C%C3%A9zanne.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 3141,
+    "height": 2410,
+    "bytes": 5122363,
+    "sha256": "adc718743af90a6a1140d8464625902ff84725c66006e3f10cea8f97db1affd9"
+  }
+}

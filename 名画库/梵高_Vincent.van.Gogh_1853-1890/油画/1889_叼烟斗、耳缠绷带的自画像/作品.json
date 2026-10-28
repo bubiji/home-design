@@ -1,0 +1,60 @@
+{
+  "no": 305,
+  "favorite": true,
+  "favorite_reason": "周杰伦《太阳之子》(2026)MV 名画重现",
+  "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:梵高角色耳朵被吸血鬼咬掉(置信度:10 篇)",
+    "周杰伦《太阳之子》(2026)MV 名画重现:VERSE(2026-03-22)列为六支前导预告对应的六幅核心名画之一;VERSE 特别指出 MV 里梵高与周杰伦同框",
+    "周杰伦《太阳之子》(2026)MV 名画重现:易混提醒——本作(割耳后约三周的自画像)只出现在《太阳之子》,《最伟大的作品》MV 里的自画像是莫奈的,两者不要混淆(2026-10-01 核对)"
+  ],
+  "title_en": "Self-Portrait with Bandaged Ear and Pipe",
+  "title_ja": "",
+  "title_zh": "叼烟斗、耳缠绷带的自画像",
+  "year": "1889",
+  "year_sort": 1889,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Van Gogh - Selbstbildnis mit verbundenem Ohr und Pfeife.jpeg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "51 × 45 cm",
+  "museum": "私人收藏(尼亚尔霍斯家族 Niarchos Collection;长期借存苏黎世美术馆 Kunsthaus Zürich)",
+  "museum_city": "私人藏品;借展地苏黎世,瑞士",
+  "accession": "F 529 / JH 1658(梵高作品编目号;无博物馆馆藏号)",
+  "museum_url": "未查到",
+  "hd_available": "是(公有领域,Commons 有文件;最大像素未核对)",
+  "exhibited_history": [
+    "1893 巴黎「Les Portraits du Prochain siècle」(下一世纪的肖像)展",
+    "1990 最后一次临时展览(此前)",
+    "多年借存苏黎世美术馆常设展(标为「私人收藏」)"
+  ],
+  "exhibited_future": [
+    "2026年10月9日–2027年3月8日 巴黎路易威登基金会《Gustave Fayet, Collector-Designer: Icons of Modern Art》(据 The Art Newspaper,2026-09-04)"
+  ],
+  "future_note": "据报道,这是该画35年来首次参加临时展览;借展方官方保持匿名",
+  "summary": "1889年1月,梵高在割耳事件约三周后画下这幅耳缠绷带、叼着烟斗的自画像。橙红与绿的分割背景与深绿外套形成强烈对比。此画为私人收藏,属尼亚尔霍斯家族。",
+  "story": "1888年圣诞前夜梵高割下自己的耳垂并送给一名妓女,此画约在三周后的1889年1月画成。他在画中以烟斗自慰,称烟斗给他安慰。1893年,即他去世三年后,此画被选入「下一世纪的肖像」展以代表他。此画曾属埃米尔·许弗内克、古斯塔夫·法耶等人,其后由斯塔夫罗斯·尼亚尔霍斯购入(约20世纪70年代),传给儿子菲利普,并借存苏黎世美术馆。2014年曾有书籍质疑其真伪,但美术馆保持立场,本次未核实结论。2026年秋,它将在巴黎路易威登基金会的法耶展上出现。",
+  "technique_note": "布面油画,画中人物取侧半身,橙与红的分割背景与深绿外套形成互补色对比,轮廓线与平涂色块有日本版画影响(据一般美术史论述,未逐条核对)。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Self-Portrait_with_Bandaged_Ear_and_Pipe",
+    "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Selbstbildnis_mit_verbundenem_Ohr_und_Pfeife.jpeg",
+    "https://www.theartnewspaper.com/2026/09/04/one-of-van-goghs-most-important-self-portraits-to-star-in-exhibition-for-first-time-in-35-years",
+    "https://www.theartnewspaper.com/2026/01/16/van-goghs-self-portrait-with-a-bandaged-ear-and-pipe-shows-that-the-painter-had-lost-none-of-his-artistic-skill",
+    "https://www.dutchnews.nl/2014/01/is_this_a_van_gogh_self-portra/",
+    "https://www.verse.com.tw/article/jay-chou-children-of-the-sun"
+  ],
+  "downloaded": {
+    "file": "原图.jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Van_Gogh_-_Selbstbildnis_mit_verbundenem_Ohr_und_Pfeife.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Selbstbildnis_mit_verbundenem_Ohr_und_Pfeife.jpeg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 3876,
+    "height": 4326,
+    "bytes": 9859161,
+    "sha256": "9c319b89e9a33ef0b49b8fd29a349cb619409228877b0bd9129a5f87dbe25180"
+  }
+}

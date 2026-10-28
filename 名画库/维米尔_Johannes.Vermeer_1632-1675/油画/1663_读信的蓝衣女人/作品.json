@@ -1,0 +1,90 @@
+{
+  "no": 404,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/woman-in-blue-reading-a-letter"
+  ],
+  "title_en": "Woman Reading a Letter",
+  "title_ja": "",
+  "title_zh": "读信的蓝衣女人",
+  "year": "c.1663",
+  "year_sort": 1663,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Vermeer, Johannes - Woman reading a letter - ca. 1662-1663.jpg",
+    "note": ""
+  },
+  "medium": "布面油画(oil on canvas)",
+  "dimensions": "46.5 × 39 cm",
+  "museum": "Rijksmuseum, Amsterdam",
+  "museum_city": "阿姆斯特丹(荷兰)",
+  "accession": "SK-C-251",
+  "museum_url": "https://www.rijksmuseum.nl/en/collection/SK-C-251",
+  "hd_available": "是:Commons 有 4457×5341 px 文件;公有领域。注意该画为阿姆斯特丹市(A. van der Hoop 遗赠)借展给国立博物馆,馆内标注归属为 On loan。",
+  "exhibited_history": [
+    "该目录所列最早为 1929 伦敦皇家艺术研究院",
+    "1935 阿姆斯特丹国立博物馆、鹿特丹 Boijmans",
+    "1995–96 华盛顿国家美术馆与海牙 Mauritshuis",
+    "2011–2012 日本巡展(京都、仙台、东京);2012 上海;2012–13 圣保罗;2013 洛杉矶 Getty",
+    "2015 明尼阿波利斯、圣迭戈 Timken、华盛顿国家美术馆;2017–18 悉尼新南威尔士美术馆",
+    "2020–21 堪培拉国家美术馆;2021 德累斯顿 Gemäldegalerie Alte Meister;2023-02-10 至 06-04 本馆「Vermeer」特展",
+    "2026-03-05 至 06-29 都灵 Palazzo Madama(已结束)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开外展安排;该画外借记录颇多(见展出史),后续可再查国立博物馆官网。",
+  "summary": "维米尔约 1663 年的作品,一位身穿蓝色睡衣外套的女子站在窗边读信,背后挂着一张地图。画面极度安静,蓝色与灰蓝的墙面构成主调。",
+  "story": "该画由收藏家 Adriaan van der Hoop 于 1839 年从伦敦画商 John Smith 处以 73 镑 10 先令买入。他去世后遗赠给阿姆斯特丹美术学院,1885 年转归阿姆斯特丹市,自那年起一直借展于国立博物馆。国立博物馆开馆时它是馆内最早的一件维米尔。学界对画中人的状态有多种读法,最常被提起的是女子可能已怀孕(蓝色外套的轮廓)。信、地图与空椅子共同构成一个关于远方与等待的场景。它是近年外借最频繁的维米尔作品之一,先后到过日本、中国、美国、澳大利亚与意大利。",
+  "technique_note": "国立博物馆介绍指出蓝色外套使用青金石制成的天然群青;女子肤色用「浅灰」,墙面阴影用「浅蓝」,以冷色调营造光影。馆方页面未给出更详细的技术研究。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/woman-in-blue-reading-a-letter",
+    "https://en.wikipedia.org/wiki/Woman_Reading_a_Letter_(Vermeer)",
+    "https://www.essentialvermeer.com/references/vermeer_exhibitions_by_pictures.html"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q166937",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.rijksmuseum.nl/nl/collectie/SK-C-251",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Rijksmuseum ID",
+      "url": "https://id.rijksmuseum.nl/200108372",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Woman_Reading_a_Letter_(Vermeer)",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AVermeer%2C_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q166937",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Vermeer%2C_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Vermeer,_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 4457,
+    "height": 5341,
+    "bytes": 6448254,
+    "sha256": "efa93a29fe451023dafccdb9af28a6183efd002c6f565841e9a3b5068edae073"
+  }
+}

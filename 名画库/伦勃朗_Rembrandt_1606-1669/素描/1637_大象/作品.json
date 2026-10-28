@@ -1,0 +1,50 @@
+{
+  "no": 103,
+  "favorite": true,
+  "favorite_reason": "The Story of Art 收录",
+  "title_en": "An Elephant",
+  "title_ja": "",
+  "title_zh": "大象",
+  "year": "1637",
+  "year_sort": 1637,
+  "technique": "素描",
+  "book_relation": "《The Story of Art》1951 英文初版 fig.10(第 1 章)——16 版编号未核对",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Rembrandt Harmenszoon van Rijn - An Elephant, 1637 - Google Art Project.jpg",
+    "note": ""
+  },
+  "medium": "黑色粉笔(black chalk)素描",
+  "dimensions": "23.3 × 35.4 cm",
+  "museum": "Albertina",
+  "museum_city": "维也纳",
+  "accession": "Inv. 17558",
+  "museum_url": "https://sammlungenonline.albertina.at/objects/32307/ein-elefant",
+  "hd_available": "是:Commons 有 Google Art Project 高清图;Albertina 线上藏品库有图(下载授权条款未核对)",
+  "exhibited_history": [
+    "签名并署年份「Rembrandt ft. 1637」",
+    "被视为伦勃朗现存四幅大象素描中最具代表性的一幅(另有大英博物馆、摩根图书馆等所藏)",
+    "Albertina 展览史未在所抓页面中列出,具体展览年份未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开外借或展出信息",
+  "summary": "1637 年的黑粉笔素描,以侧面写生一头亚洲象。据信描绘的是当时在欧洲巡回展出的母象「汉斯肯」(Hansken)。",
+  "story": "汉斯肯于 1633 年从锡兰运抵阿姆斯特丹,1636 年售出,之后在欧洲各地巡展,1637 年回到阿姆斯特丹的集市,伦勃朗就在此时对着它写生。他爱画动物,据说藏有一本满是活体动物素描的册子。这幅签名并署 1637 年,画面里象皮的皱褶、毛刺的头部和重叠的褶层都用粉笔明暗表现。汉斯肯 1655 年死于佛罗伦萨,骨架至今保存在当地自然史博物馆。这幅素描后来成为《艺术的故事》中的插图之一。",
+  "technique_note": "用黑色粉笔以轻重不同的压力塑造皮肤褶皱,大面积用侧锋擦出柔和的明暗,轮廓线较少,体量感靠光影过渡获得。",
+  "sources": [
+    "https://sammlungenonline.albertina.at/objects/32307/ein-elefant",
+    "https://www.rembrandthuis.nl/en/kronieken/on-rembrandt-and-elephant-buttocks-from-life/",
+    "https://artinwords.de/bosch-bruegel-rubens-rembrandt/rembrandt-elefant/"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Rembrandt_Harmenszoon_van_Rijn_-_An_Elephant%2C_1637_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmenszoon_van_Rijn_-_An_Elephant,_1637_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 3440,
+    "height": 2270,
+    "bytes": 2742332,
+    "sha256": "56b331ab9bb82f01f1133d9df14dd786321218564a81ebc82a6b55d7f116c625"
+  }
+}

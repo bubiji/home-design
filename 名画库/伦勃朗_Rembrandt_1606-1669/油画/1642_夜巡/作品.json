@@ -1,0 +1,101 @@
+{
+  "no": 401,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-night-watch"
+  ],
+  "title_en": "The Night Watch",
+  "title_ja": "",
+  "title_zh": "夜巡",
+  "year": "1642",
+  "year_sort": 1642,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:The Nightwatch by Rembrandt - Rijksmuseum.jpg",
+    "note": ""
+  },
+  "medium": "布面油画(oil on canvas)",
+  "dimensions": "363 × 437 cm",
+  "museum": "Rijksmuseum(画作所有权属 Amsterdam Museum,存放展出于国立博物馆)",
+  "museum_city": "阿姆斯特丹",
+  "accession": "SK-C-5(Rijksmuseum);Amsterdam Museum 编号 SA 7392(Wikidata)",
+  "museum_url": "https://www.rijksmuseum.nl/en/collection/object/The-Night-Watch-Militia-Company-of-District-II-under-the-Command-of-Captain-Frans-Banninck-Cocq--3137deb45cd7765f9a76084a16c99544",
+  "hd_available": "是:Rijksmuseum 公有领域馆藏有官方在线高清图(具体下载条款本次未逐页核对);维基共享资源亦有大图",
+  "exhibited_history": [
+    "首次展出:约1642年起挂于阿姆斯特丹 Kloveniersdoelen(火枪手会所)大厅",
+    "1715年移至阿姆斯特丹市政厅,为嵌入两柱之间被裁去四边(损失两名人物)",
+    "拿破仑占领时市政厅成为王宫,画移至 Trippenhuis;1813年后再回 Trippenhuis",
+    "1885年随新 Rijksmuseum 落成入驻",
+    "1911年被失业鞋匠持刀袭击,厚清漆保护使画未受损;1975年9月14日被持面包刀者划出数道裂口,历时四年修复",
+    "2019年7月起「夜巡行动」(Operation Night Watch)在馆内玻璃展柜中公开修复与研究(直播)"
+  ],
+  "exhibited_future": [],
+  "future_note": "常设于 Rijksmuseum(据维基)。未查到公开来源的未来展览(本次联网检索额度用尽,未检索馆方展讯;仅核对维基/维基数据)。",
+  "summary": "《夜巡》作于1642年,正式名称为《弗朗斯·班宁·科克上尉的民兵连》,表现阿姆斯特丹火枪民兵连整装出发的场面。它是荷兰黄金时代的代表作,也是国立博物馆最著名的藏品。",
+  "story": "画作约1639年由班宁·科克上尉与十七名民兵连成员委托,共绘34个人物,伦勃朗得酬1600荷兰盾,每人出资约一百盾。它原挂在 Kloveniersdoelen 大厅,1715年迁往市政厅时被裁去四边。画面长期被深色清漆覆盖,让人误以为是夜景,所以得名「夜巡」。1911年与1975年画作两度遭袭,1975年的裂口修复了四年,近看仍可见痕迹。2019年7月起的「夜巡行动」让公众看到修复和科学研究过程,研究者在颜料层中发现了此前未见于历史油画的甲酸铅。修复中馆员还注意到画中的狗可能参考了 Adriaen van de Venne 的插图。",
+  "technique_note": "大幅布面油画,以戏剧化的光影和动态群像打破传统民兵群像的排排站;2019年起的研究在颜料层中检出了此前未见于历史油画的甲酸铅。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/the-night-watch",
+    "https://en.wikipedia.org/wiki/The_Night_Watch",
+    "https://www.wikidata.org/wiki/Q219831"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q219831",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.rijksmuseum.nl/nl/collectie/object/De-Nachtwacht--3137deb45cd7765f9a76084a16c99544",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.rijksmuseum.nl/nl/collectie/SK-C-5",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Rijksmuseum ID",
+      "url": "https://id.rijksmuseum.nl/200107928",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/The_Night_Watch",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E5%A4%9C%E5%B7%A1",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AThe_Nightwatch_by_Rembrandt_-_Rijksmuseum.jpg",
+      "status": 200,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q219831",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_Nightwatch_by_Rembrandt_-_Rijksmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:The_Nightwatch_by_Rembrandt_-_Rijksmuseum.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 14168,
+    "height": 11528,
+    "bytes": 36661073,
+    "sha256": "2b82fc052b702baebd4f5476c29e7639b34c8dbfac2ba96ed8ecdb9d8d369c86"
+  }
+}

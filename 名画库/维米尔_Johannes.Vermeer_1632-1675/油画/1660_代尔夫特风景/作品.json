@@ -1,0 +1,88 @@
+{
+  "no": 403,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/view-of-delft"
+  ],
+  "title_en": "View of Delft",
+  "title_ja": "",
+  "title_zh": "代尔夫特风景",
+  "year": "c.1660–1661",
+  "year_sort": 1660,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Johannes Vermeer - View of Delft - 92 - Mauritshuis.jpg",
+    "note": ""
+  },
+  "medium": "布面油画(oil on canvas)",
+  "dimensions": "96.5 × 115.7 cm",
+  "museum": "Mauritshuis, The Hague",
+  "museum_city": "海牙(荷兰)",
+  "accession": "Inv. 92",
+  "museum_url": "https://www.mauritshuis.nl/nl-nl/verdiep/de-collectie/kunstwerken/gezicht-op-delft-92/",
+  "hd_available": "是:Commons 有 6000×5002 px 文件;公有领域。馆方页面因网站拒绝访问未能核实。",
+  "exhibited_history": [
+    "该目录所列最早为 1921 巴黎 Jeu de Paume(更早展出未查到)",
+    "1929 伦敦皇家艺术研究院;1950 代尔夫特 Prinsenhof;1966 海牙/巴黎橘园",
+    "1986 巴黎大皇宫;1995–96 华盛顿国家美术馆;1996 海牙 Mauritshuis",
+    "2012-04-28 至 2014-06-30 馆舍改建期间在海牙 Gemeentemuseum 展出",
+    "2021-10-07 至 2022-01-09 Mauritshuis 展览;2023-02-10 至 06-04 阿姆斯特丹国立博物馆「Vermeer」特展"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开外展安排。",
+  "summary": "维米尔约 1660–1661 年所绘的故乡代尔夫特城景:阴云下的运河对岸、红屋顶与城门,水面与建筑上浮着细碎高光。普鲁斯特称它为「世界上最美的画」。",
+  "story": "该画原为范·勒伊芬(Pieter Claeszoon van Ruijven)所有,他去世后传给女儿,1696 年被其夫 Jacob Dissius 在拍卖会上以 200 荷兰盾售出。此后长期留在荷兰私人手中,1822 年由荷兰政府购入并成为 Mauritshuis 的藏品。普鲁斯特 1902 年 10 月在海牙看到它后写下「自从在海牙美术馆看过《代尔夫特风景》,我就知道自己见过世界上最美的画」,并把它写进《追忆似水年华》。它被收入 1980 年 BBC 系列《100 Great Paintings》,并于 2011 年出现在荷兰皇家造币厂纪念币上。",
+  "technique_note": "分析显示用到方解石、铅白、黄赭石、天然群青与茜草红色淀(madder lake)。建筑与水面上的「漫射高光」(diffused highlights)被认为暗示画家可能借助光学辅助工具,但这是学界推测而非定论。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/view-of-delft",
+    "https://en.wikipedia.org/wiki/View_of_Delft",
+    "https://www.essentialvermeer.com/references/vermeer_exhibitions_by_pictures.html"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q523974",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.mauritshuis.nl/nl-nl/verdiep/de-collectie/kunstwerken/gezicht-op-delft-92/",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/View_of_Delft",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%A4%AB%E7%89%B9%E9%A2%A8%E6%99%AF",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AJohannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q523974",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 6000,
+    "height": 5002,
+    "bytes": 9814795,
+    "sha256": "e1b5779c392ccfb73f294d74cb8bb703ce0e8e650e155441517206d04aebb6af"
+  }
+}

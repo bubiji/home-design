@@ -1,0 +1,79 @@
+{
+  "no": 403,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/madonna-of-the-magnificat"
+  ],
+  "title_en": "Madonna of the Magnificat",
+  "title_ja": "",
+  "title_zh": "圣母颂歌",
+  "year": "c.1481",
+  "year_sort": 1481,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Madonna of the Magnificat.png",
+    "note": ""
+  },
+  "medium": "木板蛋彩(tempera on panel,圆形画 tondo)",
+  "dimensions": "直径约 118 cm(维基百科记 118 × 119 cm)",
+  "museum": "Uffizi Gallery, Florence",
+  "museum_city": "佛罗伦萨(意大利)",
+  "accession": "Inv. 1609(Wikidata 记录)",
+  "museum_url": "https://www.uffizi.it/",
+  "hd_available": "是:Commons 有 3212×3216 px(约 28 MB)文件;公有领域。",
+  "exhibited_history": [
+    "1784 年乌菲齐从私人收藏购入(可能原属被利奥波德大公取缔的某修道院;入藏,非展览)",
+    "外借展览记录未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开外展安排。",
+  "summary": "波提切利约 1481 年的圆形圣母像,圣母正在书写《圣母颂歌》(Magnificat),圣婴引导她的手。五位天使环绕,其中两位为她加冕。",
+  "story": "画面中圣母一手持石榴,一手在书中写下《圣母颂歌》,圣婴扶着她的手。两位天使为圣母加冕,另有三位天使在左侧,背景是明亮宁静的风景。圆形画框在视觉上把天国与人间分开。画家把圣母和圣婴画得苍白如瓷,鼻、颊、唇略泛粉红,结合宫廷绘画特点与古典影响。乌菲齐于 1784 年自私人收藏购得,可能出自被大公彼得·利奥波德取缔的修道院。卢浮宫与纽约摩根图书馆都藏有该构图的版本,其中卢浮宫版去掉了左侧为圣母加冕的天使。",
+  "technique_note": "以蛋彩画在圆形木板上,人物面部以极淡的粉彩晕染,呈瓷器般质感。更详细的材料分析未查到。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/madonna-of-the-magnificat",
+    "https://en.wikipedia.org/wiki/Madonna_of_the_Magnificat",
+    "https://www.wikidata.org/wiki/Q2551625"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2551625",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Uffizi artwork ID",
+      "url": "https://www.uffizi.it/en/artworks/botticelli-madonna-of-the-magnificat",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Madonna_of_the_Magnificat",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AMadonna_of_the_Magnificat.png",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q2551625",
+  "downloaded": {
+    "file": "原图.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Madonna_of_the_Magnificat.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Madonna_of_the_Magnificat.png",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 3212,
+    "height": 3216,
+    "bytes": 28005929,
+    "sha256": "099b151b3e1ea399df272cac684f03e93d5d7e0e141bd03b25736902ee7e6bd5"
+  }
+}

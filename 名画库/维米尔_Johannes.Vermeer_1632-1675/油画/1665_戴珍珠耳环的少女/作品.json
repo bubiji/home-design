@@ -1,0 +1,105 @@
+{
+  "no": 401,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/girl-with-a-pearl-earring"
+  ],
+  "title_en": "Girl with a Pearl Earring",
+  "title_ja": "",
+  "title_zh": "戴珍珠耳环的少女",
+  "year": "c.1665",
+  "year_sort": 1665,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:1665 Girl with a Pearl Earring.jpg",
+    "note": ""
+  },
+  "medium": "布面油画(oil on canvas)",
+  "dimensions": "44.5 × 39 cm",
+  "museum": "Mauritshuis, The Hague",
+  "museum_city": "海牙(荷兰)",
+  "accession": "Inv. 670",
+  "museum_url": "https://www.mauritshuis.nl/ontdek-collectie/kunstwerken/670-meisje-met-de-parel/",
+  "hd_available": "是:Wikimedia Commons 有 12285×14550 px(约 71 MB)文件;作者 1675 年去世,作品为公有领域。馆方高清下载页因网站拒绝访问未能核实。",
+  "exhibited_history": [
+    "该馆外展目录所列最早为 1890 年海牙 Pulchri Studio(更早展出未查到)",
+    "1921 巴黎 Jeu de Paume;1928 罗马 Galleria Borghese;1929 伦敦皇家艺术研究院",
+    "1966 海牙 Mauritshuis / 巴黎橘园美术馆;1982 与 1995–96 华盛顿国家美术馆;1986 巴黎大皇宫",
+    "2000 大阪市立美术馆;2012–2014 馆舍改建期间巡展:东京(2012)、旧金山 de Young(2013)、亚特兰大 High Museum(2013)、纽约 Frick Collection(2013–14)、博洛尼亚 Palazzo Fava(2014)",
+    "2023-02-10 至 06-04 阿姆斯特丹国立博物馆「Vermeer」特展(28 件维米尔作品)",
+    "2026-08-21 至 09-27 大阪中之岛美术馆「Vermeer's Girl with a Pearl Earring」(Mauritshuis 因改建闭馆期间的外借,时隔 14 年再赴日本)"
+  ],
+  "exhibited_future": [],
+  "future_note": "大阪展 2026-09-27 结束(早于 9/30 的检索起点),馆方与 CODART 报道均未写明回馆日期或后续巡展;未查到 2026-09-30 之后的公开外展安排。",
+  "summary": "维米尔约 1665 年的「特洛尼」(tronie,表情习作),一名转头回望、戴蓝黄头巾与大珍珠耳环的少女。画幅仅 44.5×39 cm,却是荷兰黄金时代最广为人知的形象。",
+  "story": "这幅画不是委托肖像,而属于荷兰人称作 tronie 的人物表情习作,模特身份至今不明。它在 1881 年海牙拍卖会上以极低的价格成交(维基百科折合约 24 欧元),1902 年由收藏家德·汤贝(des Tombe)遗赠给 Mauritshuis。二战期间画作被藏入馆下防空洞,后转移到马斯特里赫特附近的圣彼得山洞,直至 1945 年 5 月解放。2012–2014 年馆舍改建时它巡展日本与美国并创造了极高人气,2018 年国际团队的无损分析又发现了画中少女睫毛和脑后一块绿色帘幕的痕迹,说明人物并非置于抽象黑底前。Tracy Chevalier 的小说与 2003 年同名电影使它成为大众文化符号。",
+  "technique_note": "底层(ground)含白垩、铅白、赭石与少量黑色;深色背景用骨黑、黄色染料(weld)、白垩、红赭石与靛蓝调成;面部与衣饰使用天然群青、炭黑与铅白。2018 年研究显示背景原本是带绿色帘幕的真实空间,现已因颜料变化而呈深黑。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/girl-with-a-pearl-earring",
+    "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
+    "https://www.wikidata.org/wiki/Q185372",
+    "https://www.essentialvermeer.com/references/vermeer_exhibitions_by_pictures.html",
+    "https://www.codart.nl/art-works/girl-with-a-pearl-earring-travels-to-japan-during-mauritshuis-closure/",
+    "https://www.mauritshuis.nl/en/press-releases/girl-with-a-pearl-earring-travels-to-japan-while-mauritshuis-is-closed",
+    "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-announces-list-of-vermeer-paintings"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q185372",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.mauritshuis.nl/ontdek-collectie/kunstwerken/670-meisje-met-de-parel/",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.mauritshuis.nl/en/our-collection/artworks/670-girl-with-a-pearl-earring/",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "http://www.essentialvermeer.com/catalogue/girl_with_a_pearl_earring.html",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E6%88%B4%E7%8F%8D%E7%8F%A0%E8%80%B3%E7%92%B0%E7%9A%84%E5%B0%91%E5%A5%B3",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3A1665_Girl_with_a_Pearl_Earring.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q185372",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:1665_Girl_with_a_Pearl_Earring.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 12285,
+    "height": 14550,
+    "bytes": 71086399,
+    "sha256": "e50b01385743b89b6a2929f4a48bb0edaf821cd296807013b714104d85007400"
+  }
+}

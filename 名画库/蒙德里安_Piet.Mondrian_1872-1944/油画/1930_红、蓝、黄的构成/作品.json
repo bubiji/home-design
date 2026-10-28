@@ -1,0 +1,73 @@
+{
+  "no": 401,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/composition-red-blue-yellow"
+  ],
+  "title_en": "Composition with Red, Blue and Yellow 1930",
+  "title_ja": "",
+  "title_zh": "红、蓝、黄的构成",
+  "year": "c.1930",
+  "year_sort": 1930,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Piet Mondriaan, 1930 - Mondrian Composition II in Red, Blue, and Yellow.jpg",
+    "note": ""
+  },
+  "medium": "布面油画(oil on canvas)",
+  "dimensions": "46 × 46 cm",
+  "museum": "Kunsthaus Zürich",
+  "museum_city": "苏黎世(瑞士)",
+  "accession": "未查到可靠馆藏号(Commons 条目标 1200-1899,与 1987 年入藏的信息不符,存疑)",
+  "museum_url": "https://www.kunsthaus.ch/en/",
+  "hd_available": "是:Commons 有 5918×6000 px 文件。版权:蒙德里安 1944 年去世,欧盟/瑞士等「作者死后 70 年」地区自 2015-01-01 起进入公有领域;美国方面,1930 年出版的作品自 2026-01-01 起进入公有领域,Commons 即按 PD 标注。商用请自行复核。",
+  "exhibited_history": [
+    "Commons 记录:1987 年 Alfred Roth 赠予 Kunsthaus Zürich",
+    "展览史未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开外展安排(Kunsthaus 官网拒绝访问,未能核实)。",
+  "summary": "蒙德里安 1930 年巴黎时期的典型构图:粗黑线将画面分成方格,填入红、蓝、黄原色与白色。画幅仅 46×46 cm 的小方形。",
+  "story": "画作属于蒙德里安 1918–1938 年的巴黎时期,当时他已把风格精炼为水平与垂直的黑线、原色矩形与白色空间。到 1930 年,他的作品以粗黑线分隔几何形状,靠有色矩形与白块的不对称取得平衡。这种「新造型主义」被他视为一种遵循古典、柏拉图式、欧几里得式世界观的方法。画作后来由 Alfred Roth 于 1987 年赠予苏黎世美术馆(据 Commons 记录)。该画也常被称为《红、蓝、黄的构成 II》。",
+  "technique_note": "布面油画;黑线粗而厚,色块边缘清晰。更详细的颜料或底稿分析未查到。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/composition-red-blue-yellow",
+    "https://en.wikipedia.org/wiki/Composition_II_in_Red,_Blue,_and_Yellow",
+    "https://commons.wikimedia.org/wiki/File:Piet_Mondriaan,_1930_-_Mondrian_Composition_II_in_Red,_Blue,_and_Yellow.jpg"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q19609193",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Composition_with_Red,_Blue_and_Yellow",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3APiet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q19609193",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Piet_Mondriaan,_1930_-_Mondrian_Composition_II_in_Red,_Blue,_and_Yellow.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 5918,
+    "height": 6000,
+    "bytes": 2983853,
+    "sha256": "00acc9e949bdadc6256f714302a3ca57da65e7a1db060fff26a72a17fd32f6f2"
+  }
+}

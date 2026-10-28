@@ -1,0 +1,43 @@
+{
+  "no": 2,
+  "title_en": "Jedburgh Abbey",
+  "title_ja": "ジェドバラ修道院",
+  "title_zh": "杰德堡修道院",
+  "year": "c.1832",
+  "year_sort": 1832,
+  "technique": "水彩",
+  "medium": "Watercolor on paper",
+  "dimensions": "未查到",
+  "museum": "Taft Museum of Art",
+  "museum_city": "Cincinnati, Ohio",
+  "accession": "1931.383 (Bequest of Charles Phelps Taft and Anna Sinton Taft)",
+  "museum_url": "https://webkiosk.taftmuseum.org/",
+  "image": {
+    "source": "",
+    "commons_file": "未查到",
+    "direct_url": "",
+    "width": 0,
+    "height": 0,
+    "license": "未查到",
+    "license_url": ""
+  },
+  "hd_available": "否/未查到:Commons 检索未找到;Taft 网站页面(webkiosk.taftmuseum.org)本次连接被拒,未能核实是否有开放获取下载",
+  "exhibited_history": [
+    "2019-01-18至04-14 Taft《Travels with Turner: Watercolors from the Taft Collection》(该展含十件水彩,未逐一确认本件在列)",
+    "2025-03-01至06-15 Taft《J.M.W. Turner: Watercolor Horizons》(展出,Ohio Magazine 确认)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到。",
+  "summary": "特纳为司各特作品集所作水彩,用作《苏格兰边境歌谣集》第二卷卷首插图。以中世纪修道院废墟与当地洗衣妇的日常劳作相对照。现藏辛辛那提塔夫特艺术博物馆。",
+  "story": "1831年特纳受出版商委托为司各特《诗集》新版绘制插图(原定24幅水彩),并前往苏格兰边境地区旅行。据Tate研究资料,他于1831年8月9日与Robert Cadell同行从阿伯茨福德前往贝里克,下午三点抵达杰德堡修道院并速写(Tate Turner Bequest CCLXVII 65a)。此水彩约1832年完成,后为《Minstrelsy of the Scottish Border》第二卷卷首。塔夫特博物馆称该作展现特纳对水彩色调的掌控与透明光感。2025年在塔夫特纪念特纳诞辰250周年展中与辛辛那提艺术博物馆的水彩并陈。(洗衣妇细节来自塔夫特/搜索摘要,Tate页未提及)",
+  "technique_note": "纸本水彩;塔夫特称其体现对水彩色调与发光感的控制。其他技法细节(如刮擦、留白)未查到。",
+  "sources": [
+    "https://www.tate.org.uk/art/research-publications/jmw-turner/tour-of-scotland-for-scotts-poetical-works-r1136022",
+    "https://www.ohiomagazine.com/arts/article/see-j.m.w.-turner-watercolor-horizons-at-cincinnati-s-taft-museum-of-art",
+    "https://fineartconnoisseur.com/2025/03/j-m-w-turner-paintings-watercolor-horizons/",
+    "https://www.taftmuseum.org/exhibitions/past",
+    "https://commons.wikimedia.org/wiki/Category:Jedburgh_Abbey"
+  ],
+  "favorite": false,
+  "downloaded": null
+}

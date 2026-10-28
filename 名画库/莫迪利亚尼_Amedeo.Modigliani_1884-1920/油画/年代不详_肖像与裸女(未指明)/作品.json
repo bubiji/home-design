@@ -1,0 +1,42 @@
+{
+  "no": 201,
+  "favorite": true,
+  "favorite_reason": "周杰伦《最伟大的作品》(2022)MV/歌词 引用的作品",
+  "culture_relation": [
+    "周杰伦《最伟大的作品》(2022)MV/歌词:MV 圆亭咖啡馆墙上挂着莫迪利亚尼的肖像与裸女(置信度:约 3 篇)"
+  ],
+  "title_en": "Portraits and nudes (unspecified)",
+  "title_ja": "",
+  "title_zh": "肖像与裸女(未指明)",
+  "year": "",
+  "year_sort": 0,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "解析文章未指明具体哪一幅,无法确定下载对象"
+  },
+  "medium": "未确定具体作品",
+  "dimensions": "未确定具体作品",
+  "museum": "未确定(莫迪利亚尼的肖像与裸女分藏于多家美术馆)",
+  "museum_city": "未确定",
+  "accession": "未查到",
+  "museum_url": "未查到",
+  "hd_available": "未确定具体作品(莫迪利亚尼1920年去世,作品已入公有领域;具体馆方图像待作品确定后再核)",
+  "exhibited_history": [
+    "未确定具体作品,无法给出展览史"
+  ],
+  "exhibited_future": [],
+  "future_note": "未确定具体作品;另据 Yale Books 报道,配合新的作品全集(catalogue raisonné)出版,2027年计划在纽约举办莫迪利亚尼展览,具体馆与作品未查到",
+  "summary": "MV圆亭咖啡馆墙上挂着莫迪利亚尼的肖像与裸女,没有指明具体作品,故只给一般背景。",
+  "story": "来源只说咖啡馆墙上有他的肖像与裸女,没有说哪一幅,所以具体作品无法确定。据检索到的资料,莫迪利亚尼的裸女只有约三十幅,不到全部作品的10%,其中约22幅是躺卧裸女系列,大部分在美术馆:纽约古根海姆、MoMA、大都会各藏有三件。肖像方面,他画过二十多幅让娜·埃比泰尔纳的像,也有《咖啡馆歌手》(Café Singer,1917,Chester Dale 收藏)、大都会藏的《让娜·埃比泰尔纳》(1919,91.4 x 73 cm)等。这些都只是候选,不能断定就是MV所指。",
+  "technique_note": "一般特点:拉长的脸与脖子、杏仁形的眼睛、简化的形体与柔和的色调;此为通论,非某一具体作品的技法。",
+  "sources": [
+    "https://www.dailyartmagazine.com/modigliani-nudes/",
+    "https://www.metmuseum.org/art/collection/search/488903",
+    "https://yalebooks.yale.edu/2026/03/19/behind-the-amedeo-modigliani-catalogue-raisonne/",
+    "https://www.wikiart.org/en/amedeo-modigliani/cafe-singer-1917"
+  ],
+  "downloaded": null
+}

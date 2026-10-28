@@ -1,0 +1,50 @@
+{
+  "no": 304,
+  "favorite": true,
+  "favorite_reason": "周杰伦《太阳之子》(2026)MV 名画重现",
+  "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:房间场景(置信度:1 篇)"
+  ],
+  "title_en": "The Bedroom",
+  "title_ja": "",
+  "title_zh": "阿尔的卧室",
+  "year": "1888–89",
+  "year_sort": 1888,
+  "technique": "油画",
+  "book_relation": "《The Story of Art》1951 英文初版 fig.344——16 版编号未核对(书中题为 The Artist's Room in Arles,当时藏神户松方收藏,即今奥赛这一版,与本条原图同一件)",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Vincent van Gogh - Van Gogh's Bedroom in Arles - Google Art Project.jpg",
+    "note": "共三个版本,此处为 Google Art Project 版"
+  },
+  "medium": "布面油画",
+  "dimensions": "57.5 × 74 cm",
+  "museum": "Musée d'Orsay(奥赛博物馆)",
+  "museum_city": "巴黎,法国",
+  "accession": "RF 1959 2(馆藏编号 746)",
+  "museum_url": "未查到(奥赛官网直链未核实,见 Commons/Google Art Project 来源)",
+  "hd_available": "是(公有领域,Commons 有对应文件;最大像素未核对);Google Art Project 版",
+  "exhibited_history": [
+    "2016 芝加哥艺术博物馆《梵高的卧室》(三个版本首次同展,并配数字重建的卧室)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到2026-09-30之后的公开展出信息",
+  "summary": "我们的图是 Google Art Project 文件,经 Commons 文件页核对,它属于三个版本中的第三版,即1889年9月末在圣雷米所画、现藏奥赛的缩小版。第一版(1888年,72×90 cm)在阿姆斯特丹梵高博物馆,第二版(1889年9月)在芝加哥艺术博物馆。",
+  "story": "梵高1888年10月中旬在阿尔勒开始画第一版,并告诉弟弟提奥,他想用色彩暗示「一般的休息或睡眠」。1889年4月第一版遭洪水损坏,提奥安排重新裱衬,梵高于是在9月画了全尺寸复制(第二版,现藏芝加哥艺术博物馆的海伦·伯奇·巴特利特纪念收藏)。9月末又为母亲和妹妹薇尔画了较小的缩小版(第三版),墙上小像与第一版不同。第三版在圣雷米画成,但描绘的仍是阿尔勒的房间;房间实际是梯形而非长方形。奥赛版于1959年入藏。三个版本2016年曾在芝加哥艺术博物馆同展。",
+  "technique_note": "布面油画,平涂式色块与清晰轮廓,透视有意夸张;梵高希望用色彩传达休息与宁静。三个版本的色彩因颜料褪色差别明显,奥赛版为缩小的第三版。",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg",
+    "https://en.wikipedia.org/wiki/Bedroom_in_Arles"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Vincent_van_Gogh_-_Van_Gogh%27s_Bedroom_in_Arles_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Van_Gogh%27s_Bedroom_in_Arles_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 4056,
+    "height": 3144,
+    "bytes": 5342519,
+    "sha256": "6dda9f09b336bfe6b0ee287ef1f4f4350c4f7a0e14e6bcf8748858727e05f514"
+  }
+}

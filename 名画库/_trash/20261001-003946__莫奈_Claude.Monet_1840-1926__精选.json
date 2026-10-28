@@ -1,0 +1,141 @@
+{
+ "author": {
+  "name_zh": "克劳德·莫奈",
+  "name_en": "Claude Monet",
+  "life": "1840–1926",
+  "dir": "莫奈_Claude.Monet_1840-1926",
+  "bio": "克劳德·莫奈(1840–1926)是法国印象派的核心人物,“印象派”一名即出自他的《印象·日出》。他以户外写生和对光与瞬间的捕捉著称,晚年在吉维尼创作《睡莲》系列。"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 101,
+   "favorite": true,
+   "favorite_reason": "你单独点名(SPICE 展讯图)",
+   "title_en": "The Rue Montorgueil in Paris. Celebration of June 30, 1878",
+   "title_ja": "パリ、モントルグイユ通り、1878年6月30日の祝祭",
+   "title_zh": "巴黎蒙托戈伊街,1878年6月30日的节庆",
+   "year": "1878",
+   "year_sort": 1878,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Claude Monet - The Rue Montorgueil in Paris. Celebration of June 30, 1878 - Google Art Project.jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "81 × 50",
+   "museum": "Musée d'Orsay",
+   "museum_city": "Paris",
+   "accession": "RF 1982 71(1982年 dation 抵税捐赠入藏)",
+   "museum_url": "https://www.musee-orsay.fr/en/artworks/la-rue-montorgueil-paris-fete-du-30-juin-1878-10896",
+   "hd_available": "是:Commons 有 Google Art Project 高清图;奥赛官网亦有作品页(Orsay 页面本次抓取被拒 403,未核对其开放许可)",
+   "exhibited_history": [
+    "1879年 第四届印象派展(Wikidata 记载目录号 145)",
+    "2026-11-14 至 2027-03-28 东京都美术馆(见 exhibited_future)"
+   ],
+   "exhibited_future": [
+    "2026-11-14 至 2027-03-28 东京都美术馆「東京都美術館開館100周年記念 オルセー美術館所蔵 いまを生きる歓び」(来源:https://spice.eplus.jp/articles/347404)"
+   ],
+   "future_note": "东京展官方页面/日经官方站均说明:本展不巡回其他会场,仅东京一站;二者页面均未逐一列出本作,本作入展依据为 SPICE 报道(已记录)。",
+   "summary": "1878年6月30日,巴黎为万国博览会举办“和平与劳动”节庆,莫奈在街头画下蒙托戈伊街满街旗帜的景象。画面用密集的笔触表现旗海与人群,是普法战争后巴黎复兴的象征。",
+   "story": "1878年6月30日,法国政府为庆祝“和平与劳动”举办节庆,恰在第三届巴黎万国博览会开幕数周后,被视作战败(1870)后复兴的象征。莫奈当天画下满街旗帜的蒙托戈伊街。它常被误认为7月14日国庆,其姊妹作《圣德尼街》现藏鲁昂美术馆。此画由乔治·德·贝利奥医生于1878年7月11日从画家处购得,后传给其女(唐诺普·德蒙希夫人),又归瓦格拉姆亲王(1906年起),1982年经 dation 入藏奥赛。1879年参加了第四届印象派展。",
+   "technique_note": "竖幅小尺寸油画,以短促、密集的笔触与红白蓝的碎点表现飘动的旗帜和人群,不描绘细节;笔触速度感是印象派“瞬间”表现的典型。以上笔触描述为通行画评,奥赛页面未能抓取核对。",
+   "sources": [
+    "https://www.musee-orsay.fr/en/artworks/la-rue-montorgueil-paris-fete-du-30-juin-1878-10896",
+    "https://www.wikidata.org/wiki/Q3212522",
+    "https://fr.wikipedia.org/wiki/La_Rue_Montorgueil",
+    "https://panoramadelart.com/analyse/la-rue-montorgueil-paris-fete-du-30-juin-1878",
+    "https://www.tobikan.jp/exhibition/2026_orsay.html",
+    "https://art.nikkei.com/orsay2627/outline/",
+    "https://spice.eplus.jp/articles/347404"
+   ]
+  },
+  {
+   "no": 201,
+   "favorite": true,
+   "favorite_reason": "周杰伦《最伟大的作品》(2022) 引用的作品",
+   "culture_relation": [
+    "周杰伦《最伟大的作品》(2022):歌词提及——歌词「印象」港口指向该作。(置信度:来源明确点名)"
+   ],
+   "title_en": "Impression, Sunrise",
+   "title_ja": "",
+   "title_zh": "印象·日出",
+   "year": "1872",
+   "year_sort": 1872,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Monet - Impression, Sunrise.jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "50 x 65 cm(不含框,马蒙丹馆官网);维基百科等处作 48 x 63 cm",
+   "museum": "马蒙丹·莫奈博物馆(Musée Marmottan Monet)",
+   "museum_city": "巴黎,法国",
+   "accession": "inv. 4014",
+   "museum_url": "https://www.marmottan.fr/en/notice/4014/",
+   "hd_available": "是(作者1926年去世,已进入公有领域;Commons 有文件)",
+   "exhibited_history": [
+    "1874年4月15日:第一届「无名艺术家协会」(后称第一届印象派展),巴黎纳达尔旧摄影室——首展,评论家 Louis Leroy 的讽刺文章由此让「印象派」得名",
+    "1985年被盗、1990年追回、1991年重新展出",
+    "近年曾外借奥赛博物馆与华盛顿国家美术馆(据维基百科;具体年份未核)"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到公开的2026-09-30之后展出安排",
+   "summary": "1872年莫奈在勒阿弗尔旅馆窗前所画的港口日出,1874年首届印象派展出时其题名被评论家借来命名了整个「印象派」。现藏巴黎马蒙丹·莫奈博物馆。",
+   "story": "莫奈从勒阿弗尔一家旅馆的窗口画下清晨的港口,雾气、船影与橙红色的太阳只用寥寥笔触交代。1874年4月他与毕沙罗、德加、雷诺阿、西斯莱、莫里索等在摄影师纳达尔的旧工作室办展,这幅画在目录里被随手题为「印象·日出」。评论家 Louis Leroy 写文章嘲讽参展者只画「印象」,却无意间给这个群体取了名字。之后批评家 Jules Castagnary 以肯定的语气使用了「印象派」一词。画作于1940年5月23日由 Donop de Monchy 夫妇捐赠给马蒙丹馆。1985年它被两名窃贼从馆内盗走,1990年被追回。",
+   "technique_note": "布面油画,笔触松快、轮廓不作细描;据哈佛神经生物学家 Margaret Livingstone 的观察,太阳与天空亮度(明度)几乎相同,转成黑白后太阳几乎消失。",
+   "sources": [
+    "https://news.qq.com/rain/a/20220706A05CMF00",
+    "https://www.marmottan.fr/en/notice/4014/",
+    "https://en.wikipedia.org/wiki/Impression,_Sunrise"
+   ]
+  },
+  {
+   "no": 202,
+   "favorite": true,
+   "favorite_reason": "周杰伦《最伟大的作品》(2022) 引用的作品",
+   "culture_relation": [
+    "周杰伦《最伟大的作品》(2022):歌词提及——歌词提及「睡莲」。(置信度:来源明确点名);歌词只说睡莲系列,此处以芝加哥艺术博物馆 1906 年版(馆方 CC0)作代表"
+   ],
+   "title_en": "Water Lilies",
+   "title_ja": "",
+   "title_zh": "睡莲(1906,芝加哥艺术博物馆)",
+   "year": "1897-1926",
+   "year_sort": 1906,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Claude Monet - Water Lilies - 1933.1157 - Art Institute of Chicago.jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "89.9 x 94.1 cm",
+   "museum": "芝加哥艺术博物馆(Art Institute of Chicago)",
+   "museum_city": "芝加哥,美国",
+   "accession": "1933.1157(Mr. and Mrs. Martin A. Ryerson Collection)",
+   "museum_url": "https://www.artic.edu/artworks/16568/water-lilies",
+   "hd_available": "是(作者1926年去世,公有领域;馆方 CC0 开放高清)",
+   "exhibited_history": [
+    "1909年5月-6月:巴黎 Durand-Ruel 画廊「睡莲:水景系列」个展,约48件同主题作品同展(首展;月份据馆方「1909年不到一年前」表述与该展通例,具体日期未核)",
+    "1914年2月10日:Durand-Ruel 纽约售予芝加哥收藏家 Martin A. Ryerson",
+    "1933年:Ryerson 遗赠芝加哥艺术博物馆"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到公开的2026-09-30之后展出安排",
+   "summary": "1906年的《睡莲》,近方形构图,画面只剩水面与睡莲。现藏芝加哥艺术博物馆。歌词只提睡莲系列,本条以该馆1906年版代表。",
+   "story": "1903至1908年间莫奈在吉维尼自家的水景花园里反复画睡莲,这一幅出自那一组。近乎方形的画幅让他不再画岸、天、水的分区,而只画水面本身。1909年,他把包括这幅在内的近五十件睡莲作品送到巴黎 Durand-Ruel 画廊展出。1914年芝加哥收藏家 Martin A. Ryerson 从 Durand-Ruel 纽约处买下,他1933年去世时将其遗赠给芝加哥艺术博物馆,馆藏编号即1933.1157。",
+   "technique_note": "布面油画,以水面为唯一主题、近方形画幅;馆方另有关于其色彩与颜料化学的研究文章(artic.edu/articles/862)。",
+   "sources": [
+    "https://news.qq.com/rain/a/20220706A05CMF00",
+    "https://www.artic.edu/artworks/16568/water-lilies",
+    "https://publications.artic.edu/monet/api/epub/135466/135621/print_view",
+    "https://www.artic.edu/articles/862/color-chemistry-and-creativity-in-monets-water-lilies"
+   ]
+  }
+ ]
+}

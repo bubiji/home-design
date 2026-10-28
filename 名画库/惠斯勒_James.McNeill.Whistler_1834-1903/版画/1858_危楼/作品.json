@@ -1,0 +1,51 @@
+{
+  "no": 301,
+  "favorite": true,
+  "favorite_reason": "周杰伦《太阳之子》(2026)MV 名画重现",
+  "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:资料袋/报纸剪报线索之一(置信度:1 篇)"
+  ],
+  "title_en": "The Unsafe Tenement",
+  "title_ja": "",
+  "title_zh": "危楼",
+  "year": "1858",
+  "year_sort": 1858,
+  "technique": "版画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:James McNeill Whistler, The Unsafe Tenement, 1858, NGA 10900.jpg",
+    "note": ""
+  },
+  "medium": "蚀刻与干刻,纸本(NGA 藏本为 laid paper;《法国组曲》第 iv 版中的第 ii 状态)",
+  "dimensions": "版面 15.56 × 22.23 cm;纸张 22.23 × 28.58 cm",
+  "museum": "National Gallery of Art, Washington",
+  "museum_city": "华盛顿特区(美国)",
+  "accession": "1943.3.8403(Rosenwald Collection)",
+  "museum_url": "https://www.nga.gov/artworks/10900-unsafe-tenement",
+  "hd_available": "是(NGA 开放获取项目提供大图下载;Commons 亦有 NGA 10900 文件)",
+  "exhibited_history": [
+    "1858 年 11 月随首套版画集《Douze eaux-fortes d'après nature》(「法国组曲」)出版,首批 20 套由奥古斯特·德拉特尔在巴黎印制(NGA 页面);其他展览记录未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开展出信息(版画不常设展,需向 NGA 预约阅览)",
+  "summary": "惠斯勒 1858 年在阿尔萨斯-洛林与莱茵兰旅行途中蚀刻的一幅街景,画出一栋摇摇欲坠的老房子。它收入其第一套出版版画集「法国组曲」。",
+  "story": "1858 年夏天,年轻的惠斯勒带着速写本、蚀刻针和铜版,在阿尔萨斯-洛林与莱茵兰一带旅行,在户外直接对景写生。他在途中遇到这座破败不堪的房屋,把它记录了下来。同年 11 月,这幅版画与另外十一幅一起以《Douze eaux-fortes d'après nature》为名发行,通称「法国组曲」。前 20 套由巴黎的「艺术印刷」名匠奥古斯特·德拉特尔负责印制,随后惠斯勒与德拉特尔带着铜版赴伦敦,又印了 50 套。NGA 所藏这一件来自莱辛·J·罗森瓦尔德(Lessing J. Rosenwald)的收藏,1943 年捐给该馆。据惠斯勒版画全集(MacDonald 2012,第 18 号),它属于四个状态中的第二状态。",
+  "technique_note": "蚀刻加干刻:在涂蜡的铜版上用针画线、酸蚀出深浅,再以干刻针补线。图中版内刻有 Whistler 签名和「Imp Delatre. Rue St. Jacques. 171.」印刷者铭文。用线细密、明暗靠交叉排线,显示出他早期受巴比松版画与法国「以自然为师」风气的影响。",
+  "sources": [
+    "https://www.nga.gov/artworks/10900-unsafe-tenement",
+    "https://www.nga.gov/collection/art-object-page.10900.html",
+    "https://artgallery.yale.edu/collections/objects/49673"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/James_McNeill_Whistler%2C_The_Unsafe_Tenement%2C_1858%2C_NGA_10900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:James_McNeill_Whistler,_The_Unsafe_Tenement,_1858,_NGA_10900.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 4000,
+    "height": 2840,
+    "bytes": 10771671,
+    "sha256": "43a702ea93e6b73ca40c5f6e6b4ad70e423e2432bc0a6122f48f0df50cb437de"
+  }
+}

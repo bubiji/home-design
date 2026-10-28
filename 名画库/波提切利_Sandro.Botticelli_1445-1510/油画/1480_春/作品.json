@@ -1,0 +1,91 @@
+{
+  "no": 402,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/primavera"
+  ],
+  "title_en": "Primavera",
+  "title_ja": "",
+  "title_zh": "春",
+  "year": "c.1480",
+  "year_sort": 1480,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Sandro Botticelli - La Primavera - Google Art Project.jpg",
+    "note": ""
+  },
+  "medium": "木板蛋彩(tempera on panel)",
+  "dimensions": "203 × 314 cm",
+  "museum": "Uffizi Gallery, Florence",
+  "museum_city": "佛罗伦萨(意大利)",
+  "accession": "Inv. 8360(Wikidata 记录)",
+  "museum_url": "https://www.uffizi.it/",
+  "hd_available": "是:Commons 有 5084×3377 px 文件;公有领域。",
+  "exhibited_history": [
+    "1499 年美第奇财产清单记载它挂在洛伦佐·迪·皮耶弗朗切斯科宅邸中;后移至 Villa di Castello",
+    "1919 年转入乌菲齐(收藏地变更,非展览);外借展览记录未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开外展安排。",
+  "summary": "波提切利约 1480 年的寓意画,橘树林中维纳斯居中,左有西风神追逐花神,右有美惠三女神与墨丘利。画面铺满花草,宛如佛兰德斯千花挂毯。",
+  "story": "作品来历不详,首次明确的文献是 1499 年美第奇家族清单。多数学者将其与 1482 年 7 月 19 日洛伦佐·迪·皮耶弗朗切斯科的婚礼联系起来。后来它挂在 Villa di Castello,1919 年转入乌菲齐。画面被读作「世界生机萌发」的神话寓意,可能得益于诗人波利齐亚诺等人文主义者的建议,典故涉及奥维德《岁时记》与卢克莱修,并受新柏拉图主义影响。画中约有 500 种植物、190 种不同的花,效果类似当时流行的佛兰德斯千花挂毯。画面随时间变暗,据维基百科 1978 年曾修复。",
+  "technique_note": "在木板上以蛋彩作画。画面植物细节极其繁复(约 500 种植物、190 种花)。作品随时间显著变暗,1978 年曾做修复(据维基百科;更晚近的修复记录未核实)。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/primavera",
+    "https://en.wikipedia.org/wiki/Primavera_(Botticelli)",
+    "https://www.wikidata.org/wiki/Q549847"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q549847",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://catalogo.uffizi.it/it/29/ricerca/detailiccd/1185170/",
+      "status": 522,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Uffizi artwork ID",
+      "url": "https://www.uffizi.it/en/artworks/botticelli-spring",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Primavera_(Botticelli)",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E6%98%A5_(%E6%B3%A2%E6%8F%90%E5%88%87%E5%88%A9)",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3ASandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q549847",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Sandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 5084,
+    "height": 3377,
+    "bytes": 16064265,
+    "sha256": "8ff339f87eac5e355105c79174f88d38691e434c85646a12f67289ad06736840"
+  }
+}

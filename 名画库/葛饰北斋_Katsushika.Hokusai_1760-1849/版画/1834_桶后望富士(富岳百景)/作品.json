@@ -1,0 +1,42 @@
+{
+  "no": 102,
+  "favorite": true,
+  "favorite_reason": "The Story of Art 收录",
+  "title_en": "Fuji seen behind a cistern (One Hundred Views of Mount Fuji)",
+  "title_ja": "富嶽百景",
+  "title_zh": "桶后望富士(富岳百景)",
+  "year": "1834",
+  "year_sort": 1834,
+  "technique": "版画",
+  "book_relation": "《The Story of Art》1951 英文初版 fig.330(第 25 章)——16 版编号未核对",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "Commons 未找到对应页的可用高清图"
+  },
+  "medium": "单色(墨与灰色版)木版画插图,书籍版面(《富岳百景》二编)",
+  "dimensions": "未查到(书籍插图,单页版面尺寸各馆不一)",
+  "museum": "未确定馆藏:本图无 Commons 高清图,亦未确认具体印本",
+  "museum_city": "未查到",
+  "accession": "未查到",
+  "museum_url": "https://www.ndl.go.jp/en/imagebank/theme/fugaku100",
+  "hd_available": "否:Commons 无可用高清图;整套《富岳百景》有多处数字化(NDL、Smithsonian、Internet Archive 等,见 sources),但本幅的日文图名与页码尚未核实",
+  "exhibited_history": [
+    "《富岳百景》初编1834年3月、二编1835年刊行(书籍出版,非展览);三编约1849年出版",
+    "英文书名《Fuji seen behind a cistern》系 Gombrich《艺术的故事》配图题(检索确认该题、1835 年);未能据此确定对应的日文图名",
+    "具体展览史:未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到。",
+  "summary": "这幅出自《富岳百景》二编(1835),Gombrich 在《艺术的故事》中用来说明北斎如何把富士山当作偶然出现在脚手架、水池之类日常物后面的风景。它是单色套印的书籍插图,不是单张彩色版画。",
+  "story": "《富岳百景》是北斎的三卷画册,初编1834年3月、二编1835年出版,三编晚至1840年代末,共约102图。前两卷以极精细的雕版和灰色渐变的单色印刷著称,被称为“单色印刷的杰作”。Gombrich 写到北斎会把富士山画成“偶然出现在脚手架后面”的样子,并附本图,英文图题为《Fuji seen behind a cistern》,注为1835年。日文图名:我未能核实。二编中有《筧の不二》(英译约为“The Flume of Fuji”,benricho 站点页面为第22图),但它是否就是 Gombrich 所指的“cistern”未经确认,请勿当作定论。",
+  "technique_note": "《富岳百景》为书籍插图,单色墨线加灰色渐变套印;“cistern/水槽”这类前景物遮挡富士的构图,体现北斎用日常物打破传统风景构图。具体到本幅的刻印细节未查到。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/One_Hundred_Views_of_Mount_Fuji",
+    "https://www.ndl.go.jp/en/imagebank/theme/fugaku100",
+    "https://www.benricho.org/Unchiku/Ukiyoe_NIshikie/Hokusai-Fugakuhyakkei/02/22.html",
+    "https://archive.org/details/fugakuhyakkei00kats",
+    "https://library.si.edu/digital-library/book/fugakuhyakkeiv2kats"
+  ],
+  "downloaded": null
+}

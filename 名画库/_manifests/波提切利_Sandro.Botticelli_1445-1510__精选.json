@@ -1,0 +1,317 @@
+{
+ "author": {
+  "dir": "波提切利_Sandro.Botticelli_1445-1510",
+  "name_zh": "桑德罗·波提切利",
+  "name_en": "Sandro Botticelli",
+  "life": "c.1445–1510",
+  "bio": "桑德罗·波提切利(约 1445–1510)一生生活在佛罗伦萨,约 1461–1462 年起师从菲利波·利皮,并在美第奇家族及其亲友圈中获得赞助。1481–1482 年参与罗马西斯廷礼拜堂壁画,代表作《春》《维纳斯的诞生》以流畅线条和神话题材著称。他去世后声誉衰落,19 世纪被拉斐尔前派重新推崇。",
+  "wikidata": "Q5669"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 401,
+   "favorite": true,
+   "favorite_reason": "画框之外 The Living Gallery 收录",
+   "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-birth-of-venus"
+   ],
+   "title_en": "The Birth of Venus",
+   "title_ja": "",
+   "title_zh": "维纳斯的诞生",
+   "year": "c.1485",
+   "year_sort": 1485,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:The Birth of Venus (Botticelli) 1.jpg",
+    "note": ""
+   },
+   "medium": "麻布蛋彩(tempera on canvas;由两块画布缝合)",
+   "dimensions": "172.5 × 278.9 cm",
+   "museum": "Uffizi Gallery, Florence",
+   "museum_city": "佛罗伦萨(意大利)",
+   "accession": "00158551(Wikidata 记录的乌菲齐编号;传统馆藏号写法未核实)",
+   "museum_url": "https://www.uffizi.it/",
+   "hd_available": "是:Commons 有 9360×5581 px(约 37 MB)文件;公有领域。",
+   "exhibited_history": [
+    "1815 年起藏于乌菲齐(馆藏位置,非展览);1919 年起一度存放于佛罗伦萨美术学院美术馆(Galleria dell'Accademia),至 20 世纪 70 年代",
+    "外借展览记录未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后的公开外展安排。",
+   "summary": "波提切利约 1485 年所绘的世俗神话画:维纳斯乘贝壳抵岸,西风神与花神迎接她。它是文艺复兴时期最早的大幅古典神话女裸体之一。",
+   "story": "该画长期被认为是洛伦佐·迪·皮耶弗朗切斯科·美第奇委托之作,但 1975 年公布的 1499 年美第奇财产清单列出了《春》却未列此画,说明它进入美第奇家族可能更晚。画面描绘维纳斯诞生后抵达海岸(可能是塞浦路斯或基西拉岛):西风神与伴侣吹送她,春之女神手持披风等候。学界读法并存:新柏拉图主义的「神圣之爱」、给新娘的婚姻劝诫,以及月桂暗指「洛伦佐」的政治读法。画中可见多处修改痕迹,如时序女神原本穿古典凉鞋、维纳斯发型曾改动。",
+   "technique_note": "不同于波提切利常用的木板,此画用较廉价的麻布,由两块画布缝合并涂淡蓝色石膏底。大量使用金色提亮头发、翅膀、织物与风景;绿色颜料(西风神翅膀、树叶)随时间显著变暗,改变了原有色彩平衡。最后罩一层冷灰色清漆,可能含蛋黄。",
+   "sources": [
+    "https://huakuangzhiwai.space/collection/the-birth-of-venus",
+    "https://en.wikipedia.org/wiki/The_Birth_of_Venus_(Botticelli)",
+    "https://www.wikidata.org/wiki/Q151047"
+   ],
+   "links": [
+    {
+     "label": "Wikidata",
+     "url": "https://www.wikidata.org/wiki/Q151047",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "描述页(P973)",
+     "url": "http://www.artchive.com/artchive/B/botticelli/venus_text.jpg.html",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Uffizi artwork ID",
+     "url": "https://www.uffizi.it/en/artworks/birth-of-venus",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Wikipedia(英)",
+     "url": "https://en.wikipedia.org/wiki/The_Birth_of_Venus",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "维基百科(中)",
+     "url": "https://zh.wikipedia.org/wiki/%E7%B6%AD%E7%B4%8D%E6%96%AF%E7%9A%84%E8%AA%95%E7%94%9F",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Commons 原图页",
+     "url": "https://commons.wikimedia.org/wiki/File%3AThe_Birth_of_Venus_%28Botticelli%29_1.jpg",
+     "status": 200,
+     "checked": "2026-10-02"
+    }
+   ],
+   "wikidata": "Q151047"
+  },
+  {
+   "no": 402,
+   "favorite": true,
+   "favorite_reason": "画框之外 The Living Gallery 收录",
+   "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/primavera"
+   ],
+   "title_en": "Primavera",
+   "title_ja": "",
+   "title_zh": "春",
+   "year": "c.1480",
+   "year_sort": 1480,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Sandro Botticelli - La Primavera - Google Art Project.jpg",
+    "note": ""
+   },
+   "medium": "木板蛋彩(tempera on panel)",
+   "dimensions": "203 × 314 cm",
+   "museum": "Uffizi Gallery, Florence",
+   "museum_city": "佛罗伦萨(意大利)",
+   "accession": "Inv. 8360(Wikidata 记录)",
+   "museum_url": "https://www.uffizi.it/",
+   "hd_available": "是:Commons 有 5084×3377 px 文件;公有领域。",
+   "exhibited_history": [
+    "1499 年美第奇财产清单记载它挂在洛伦佐·迪·皮耶弗朗切斯科宅邸中;后移至 Villa di Castello",
+    "1919 年转入乌菲齐(收藏地变更,非展览);外借展览记录未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后的公开外展安排。",
+   "summary": "波提切利约 1480 年的寓意画,橘树林中维纳斯居中,左有西风神追逐花神,右有美惠三女神与墨丘利。画面铺满花草,宛如佛兰德斯千花挂毯。",
+   "story": "作品来历不详,首次明确的文献是 1499 年美第奇家族清单。多数学者将其与 1482 年 7 月 19 日洛伦佐·迪·皮耶弗朗切斯科的婚礼联系起来。后来它挂在 Villa di Castello,1919 年转入乌菲齐。画面被读作「世界生机萌发」的神话寓意,可能得益于诗人波利齐亚诺等人文主义者的建议,典故涉及奥维德《岁时记》与卢克莱修,并受新柏拉图主义影响。画中约有 500 种植物、190 种不同的花,效果类似当时流行的佛兰德斯千花挂毯。画面随时间变暗,据维基百科 1978 年曾修复。",
+   "technique_note": "在木板上以蛋彩作画。画面植物细节极其繁复(约 500 种植物、190 种花)。作品随时间显著变暗,1978 年曾做修复(据维基百科;更晚近的修复记录未核实)。",
+   "sources": [
+    "https://huakuangzhiwai.space/collection/primavera",
+    "https://en.wikipedia.org/wiki/Primavera_(Botticelli)",
+    "https://www.wikidata.org/wiki/Q549847"
+   ],
+   "links": [
+    {
+     "label": "Wikidata",
+     "url": "https://www.wikidata.org/wiki/Q549847",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "描述页(P973)",
+     "url": "https://catalogo.uffizi.it/it/29/ricerca/detailiccd/1185170/",
+     "status": 522,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Uffizi artwork ID",
+     "url": "https://www.uffizi.it/en/artworks/botticelli-spring",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Wikipedia(英)",
+     "url": "https://en.wikipedia.org/wiki/Primavera_(Botticelli)",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "维基百科(中)",
+     "url": "https://zh.wikipedia.org/wiki/%E6%98%A5_(%E6%B3%A2%E6%8F%90%E5%88%87%E5%88%A9)",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Commons 原图页",
+     "url": "https://commons.wikimedia.org/wiki/File%3ASandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg",
+     "status": 200,
+     "checked": "2026-10-02"
+    }
+   ],
+   "wikidata": "Q549847"
+  },
+  {
+   "no": 403,
+   "favorite": true,
+   "favorite_reason": "画框之外 The Living Gallery 收录",
+   "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/madonna-of-the-magnificat"
+   ],
+   "title_en": "Madonna of the Magnificat",
+   "title_ja": "",
+   "title_zh": "圣母颂歌",
+   "year": "c.1481",
+   "year_sort": 1481,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Madonna of the Magnificat.png",
+    "note": ""
+   },
+   "medium": "木板蛋彩(tempera on panel,圆形画 tondo)",
+   "dimensions": "直径约 118 cm(维基百科记 118 × 119 cm)",
+   "museum": "Uffizi Gallery, Florence",
+   "museum_city": "佛罗伦萨(意大利)",
+   "accession": "Inv. 1609(Wikidata 记录)",
+   "museum_url": "https://www.uffizi.it/",
+   "hd_available": "是:Commons 有 3212×3216 px(约 28 MB)文件;公有领域。",
+   "exhibited_history": [
+    "1784 年乌菲齐从私人收藏购入(可能原属被利奥波德大公取缔的某修道院;入藏,非展览)",
+    "外借展览记录未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后的公开外展安排。",
+   "summary": "波提切利约 1481 年的圆形圣母像,圣母正在书写《圣母颂歌》(Magnificat),圣婴引导她的手。五位天使环绕,其中两位为她加冕。",
+   "story": "画面中圣母一手持石榴,一手在书中写下《圣母颂歌》,圣婴扶着她的手。两位天使为圣母加冕,另有三位天使在左侧,背景是明亮宁静的风景。圆形画框在视觉上把天国与人间分开。画家把圣母和圣婴画得苍白如瓷,鼻、颊、唇略泛粉红,结合宫廷绘画特点与古典影响。乌菲齐于 1784 年自私人收藏购得,可能出自被大公彼得·利奥波德取缔的修道院。卢浮宫与纽约摩根图书馆都藏有该构图的版本,其中卢浮宫版去掉了左侧为圣母加冕的天使。",
+   "technique_note": "以蛋彩画在圆形木板上,人物面部以极淡的粉彩晕染,呈瓷器般质感。更详细的材料分析未查到。",
+   "sources": [
+    "https://huakuangzhiwai.space/collection/madonna-of-the-magnificat",
+    "https://en.wikipedia.org/wiki/Madonna_of_the_Magnificat",
+    "https://www.wikidata.org/wiki/Q2551625"
+   ],
+   "links": [
+    {
+     "label": "Wikidata",
+     "url": "https://www.wikidata.org/wiki/Q2551625",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Uffizi artwork ID",
+     "url": "https://www.uffizi.it/en/artworks/botticelli-madonna-of-the-magnificat",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Wikipedia(英)",
+     "url": "https://en.wikipedia.org/wiki/Madonna_of_the_Magnificat",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Commons 原图页",
+     "url": "https://commons.wikimedia.org/wiki/File%3AMadonna_of_the_Magnificat.png",
+     "status": 200,
+     "checked": "2026-10-02"
+    }
+   ],
+   "wikidata": "Q2551625"
+  },
+  {
+   "no": 404,
+   "favorite": true,
+   "favorite_reason": "画框之外 The Living Gallery 收录",
+   "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/venus-and-mars"
+   ],
+   "title_en": "Venus and Mars",
+   "title_ja": "",
+   "title_zh": "维纳斯与战神",
+   "year": "c.1485",
+   "year_sort": 1485,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Botticelli-Venus and Mars.jpg",
+    "note": ""
+   },
+   "medium": "杨木板蛋彩加油彩(egg tempera and oil on poplar,可能)",
+   "dimensions": "69.2 × 173.4 cm",
+   "museum": "National Gallery, London",
+   "museum_city": "伦敦(英国)",
+   "accession": "NG915",
+   "museum_url": "https://www.nationalgallery.org.uk/paintings/sandro-botticelli-venus-and-mars",
+   "hd_available": "是:Commons 有 7689×3073 px(约 18 MB)文件;公有领域。",
+   "exhibited_history": [
+    "1874 年 Barker 拍卖(lot 88)以 1,050 英镑被国家美术馆购入",
+    "2010-06-30 至 09-12 伦敦国家美术馆「Close Examination: Fakes, Mistakes and Discoveries」",
+    "2024-05-10 至 09-10 剑桥 Fitzwilliam Museum「National Treasures」",
+    "首次展出情况未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "国家美术馆官网目前未列出 2026-09-30 之后的外借或展览信息;现于馆内 Room 62 展出。",
+   "summary": "波提切利约 1485 年所绘的横长形画板:战神马尔斯赤裸酣睡,维纳斯清醒地凝视他,小萨提尔们在旁嬉戏。画面长条形状暗示它原本嵌在家具或墙板上。",
+   "story": "据国家美术馆,这件作品属于「spalliera」,即嵌在卧室墙板或家具上的横长装饰画,很可能为纪念一场婚礼而作。画中马尔斯是波提切利画得最完美的男性裸体(Lightbown 语)。一群黄蜂盘旋在马尔斯头上,可能寓意爱情带来的痛苦,也可能暗指维斯普奇家族(名字意为「小黄蜂」)。小萨提尔们拿着战神的盔甲和长矛玩耍,象征爱战胜战争。该画于 1874 年从 Alexander Barker 藏品拍卖中被国家美术馆以 1,050 英镑购入,2017 年馆方将年代定为约 1485 年。",
+   "technique_note": "国家美术馆标注为蛋彩与油彩并用、画在木板(可能是杨木)上;保留十六世纪意大利画框。横向板形即「spalliera」格式。",
+   "sources": [
+    "https://huakuangzhiwai.space/collection/venus-and-mars",
+    "https://en.wikipedia.org/wiki/Venus_and_Mars_(Botticelli)",
+    "https://www.wikidata.org/wiki/Q2293953"
+   ],
+   "links": [
+    {
+     "label": "Wikidata",
+     "url": "https://www.wikidata.org/wiki/Q2293953",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "National Gallery ID",
+     "url": "https://www.nationalgallery.org.uk/paintings/sandro-botticelli-venus-and-mars",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Wikipedia(英)",
+     "url": "https://en.wikipedia.org/wiki/Venus_and_Mars_(Botticelli)",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "维基百科(中)",
+     "url": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E7%BA%B3%E6%96%AF%E4%B8%8E%E6%88%98%E7%A5%9E",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Commons 原图页",
+     "url": "https://commons.wikimedia.org/wiki/File%3ABotticelli-Venus_and_Mars.jpg",
+     "status": 200,
+     "checked": "2026-10-02"
+    }
+   ],
+   "wikidata": "Q2293953"
+  }
+ ]
+}

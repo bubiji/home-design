@@ -1,0 +1,52 @@
+{
+  "no": 302,
+  "favorite": true,
+  "favorite_reason": "周杰伦《太阳之子》(2026)MV 名画重现",
+  "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:线索剪报(置信度:4 篇)"
+  ],
+  "title_en": "Andromache Mourning Hector",
+  "title_ja": "",
+  "title_zh": "安德洛玛刻哀悼赫克托耳",
+  "year": "1783",
+  "year_sort": 1783,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Jacques-Louis David - Andromache Mourning Hector - WGA6050.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "275 × 203 cm(带框 324 × 247 cm)",
+  "museum": "Louvre",
+  "museum_city": "巴黎(法国)",
+  "accession": "DL 1969 1;MR 1433(长期寄存)",
+  "museum_url": "https://collections.louvre.fr/en/ark:/53355/cl010061833",
+  "hd_available": "是(Commons 有 WGA 与其他大图;卢浮宫藏品库提供图像)",
+  "exhibited_history": [
+    "1783 年沙龙(卢浮宫藏品库)",
+    "2025-10-15 至 2026-01-26:卢浮宫「Jacques-Louis David」大展的相关作品(展出情况未逐件核实)",
+    "2025 年 1–5 月修复(卢浮宫藏品库)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开外借信息;目前在卢浮宫德农馆 702 厅长期陈列",
+  "summary": "大卫的皇家学院「入院作品」,画出赫克托耳阵亡后安德洛玛刻与儿子哀悼的场景。此作使他于 1784 年成为学院院士。",
+  "story": "1783 年 4 月至 8 月间,大卫为皇家绘画与雕塑学院创作了这幅入院作品,8 月 22 日提交,同年在沙龙展出。题材取自《伊利亚特》:安德洛玛刻抱着儿子阿斯提阿那克斯,在赫克托耳的遗体旁哀悼。学院解散后作品归国家保管,几经辗转在大卫的画室与机构之间移动。它最终传给大卫的后人,1886 年遗赠给巴黎国立美术学院,1969 年起长期寄存卢浮宫。",
+  "technique_note": "以床榻和遗体构成的强烈水平-斜线构图,配合暗背景与聚光,显示他从洛可可转向古典的严整风格。该作并非只是复古,而是以浓烈的情感表现为主。",
+  "sources": [
+    "https://collections.louvre.fr/en/ark:/53355/cl010061833",
+    "https://en.wikipedia.org/wiki/Andromache_Mourning_Hector"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Jacques-Louis_David_-_Andromache_Mourning_Hector_-_WGA6050.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Andromache_Mourning_Hector_-_WGA6050.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 750,
+    "height": 1002,
+    "bytes": 94005,
+    "sha256": "c12031e09d05d6a5fb42d2ca4f45ac4e5cbfb5c1881efad5b72276cbe679743a"
+  }
+}

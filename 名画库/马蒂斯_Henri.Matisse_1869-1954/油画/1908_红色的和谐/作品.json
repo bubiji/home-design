@@ -1,0 +1,97 @@
+{
+  "no": 402,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-red-room"
+  ],
+  "title_en": "The Dessert: Harmony in Red (The Red Room)",
+  "title_ja": "",
+  "title_zh": "红色的和谐",
+  "year": "1908",
+  "year_sort": 1908,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:La Desserte rouge, par Henri Matisse.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "180 × 220 cm",
+  "museum": "Hermitage Museum, St Petersburg",
+  "museum_city": "俄罗斯圣彼得堡",
+  "accession": "ГЭ-9660(二手来源给出,未与艾尔米塔什馆方页面核对)",
+  "museum_url": "未查到",
+  "hd_available": "是:Commons 有高清图(见 image 字段);作者 1954 年逝世,1908 年作品公有领域。",
+  "exhibited_history": [
+    "1908 年秋季沙龙以蓝色底的《蓝色的和谐》(Harmony in Blue)展出,1909 年改为红色后再展",
+    "1948 年起由莫斯科新西方艺术博物馆转入艾尔米塔什"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。",
+  "summary": "室内餐桌静物,红色桌布与墙面融为一体,构成强烈的装饰性平面。原作是蓝色底,后来由马蒂斯重画成红色。",
+  "story": "这幅画 1908 年首次展出时是蓝色背景,题为《蓝色的和谐》,舒金在秋季沙龙上买下。1909 年马蒂斯把背景改成红色,并更名《甜点:红色的和谐》。红色让桌布与墙壁连成一体,只靠窗外绿色、椅子和线条暗示空间。这幅画确立了他之后《红色画室》等红色系室内画的路线。作品由舒金收藏,后经莫斯科新西方艺术博物馆转入艾尔米塔什。",
+  "technique_note": "近乎平面的红色底色与蓝色藤蔓花纹(阿拉伯式装饰)形成图案化的空间;只用轮廓线和色块区分桌面与墙面,是野兽派向装饰性的发展。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/the-red-room",
+    "https://en.wikipedia.org/wiki/The_Dessert:_Harmony_in_Red_(The_Red_Room)",
+    "https://www.dailyartmagazine.com/henri-matisse-harmony-red-painting-week/"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q921429",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.hermitagemuseum.org/digital-collection/28389?lng=en",
+      "status": "URLError",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "http://www.isztuka.edu.pl/i-sztuka/node/690",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Hermitage Museum work ID",
+      "url": "https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/28389",
+      "status": "URLError",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/The_Dessert:_Harmony_in_Red_(The_Red_Room)",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E7%B4%85%E8%89%B2%E7%9A%84%E5%92%8C%E8%AB%A7",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3ALa_Desserte_rouge%2C_par_Henri_Matisse.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q921429",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/La_Desserte_rouge%2C_par_Henri_Matisse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:La_Desserte_rouge,_par_Henri_Matisse.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 1999,
+    "height": 1649,
+    "bytes": 1084384,
+    "sha256": "cbaf077a6ba0b386f3008399bcea5a1b48d3d9290f88dd366b41080614c4362e"
+  }
+}

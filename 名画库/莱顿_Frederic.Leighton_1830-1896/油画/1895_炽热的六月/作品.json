@@ -1,0 +1,59 @@
+{
+  "no": 301,
+  "favorite": true,
+  "favorite_reason": "周杰伦《太阳之子》(2026)MV 名画重现",
+  "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:线索剪报(置信度:4 篇)"
+  ],
+  "title_en": "Flaming June",
+  "title_ja": "",
+  "title_zh": "炽热的六月",
+  "year": "1895",
+  "year_sort": 1895,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Frederic Leighton - Flaming June (1895) - Museo de Arte de Ponce.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "119.1 × 119.1 cm(约47 × 47 英寸)",
+  "museum": "Museo de Arte de Ponce",
+  "museum_city": "庞塞(Ponce),波多黎各",
+  "accession": "63.0406",
+  "museum_url": "https://emuseum.museoarteponce.org/objects/3669/",
+  "hd_available": "是(公有领域,Commons 有对应文件;最大像素未核对);Google Art Project 有高分辨率版本",
+  "exhibited_history": [
+    "1895年4月 伦敦皇家艺术学院夏季展首次公开",
+    "2008 马德里普拉多博物馆",
+    "2009 德国斯图加特州立美术馆",
+    "2015 纽约弗里克收藏馆",
+    "2016 伦敦莱顿之家博物馆",
+    "2023–2024 纽约大都会艺术博物馆(五幅维多利亚名作借展,展至2024年2月4日)",
+    "2024年 伦敦皇家艺术学院莱顿回顾展及莱顿之家"
+  ],
+  "exhibited_future": [],
+  "future_note": "据英文维基,因庞塞博物馆结构修复,该画目前借展于美国萨克拉门托克罗克艺术博物馆;返回时间与2026-09-30后的具体展期本次未查到公开信息",
+  "summary": "《炽热的六月》是莱顿1895年的方形油画,画一位身着橙色薄纱、蜷睡的女子,是他最广为人知的作品。画作曾失踪数十年,1960年代被重新发现后由路易斯·A·费雷购得,现为庞塞艺术馆镇馆之宝。",
+  "story": "莱顿于1894年冬完成此画,1895年4月在皇家艺术学院首次展出,买家威廉·卢森·托马斯付了一千多英镑,1896年圣诞号《The Graphic》刊载复制品。此后画作消失数十年,1962年前后据称在克拉彭公地一处房屋拆除时被发现。经画商杰里米·马斯转手,波多黎各实业家路易斯·A·费雷于1963年将其购入,成为庞塞艺术馆核心藏品,被称作「南半球的蒙娜丽莎」。构图源自他所说的「一个疲倦模特的偶然姿态」,模特身份未有定论,候选人有多萝西·迪恩与玛丽·劳埃德。莱顿在健康衰退时仍很快完成了此作。安德鲁·劳埃德-韦伯年轻时曾在国王路店里看到此画,却没买成,这是流传甚广的轶事。",
+  "technique_note": "方形布面油画,以旋转的螺旋形构图环绕睡姿人体,用高饱和的橙色衬以海面的蓝灰与薄纱的透明质感,是唯美主义的典型手法。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flaming_June",
+    "https://www.rbkc.gov.uk/museums/frederic-leightons-flaming-june-making-icon",
+    "https://commons.wikimedia.org/wiki/File:Frederic_Leighton_-_Flaming_June_(1895)_-_Museo_de_Arte_de_Ponce.jpg",
+    "https://emuseum.museoarteponce.org/objects/3669/",
+    "https://www.metmuseum.org/press-releases/last-chance-ponce-loans-2024-news"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Frederic_Leighton_-_Flaming_June_%281895%29_-_Museo_de_Arte_de_Ponce.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Frederic_Leighton_-_Flaming_June_(1895)_-_Museo_de_Arte_de_Ponce.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 10764,
+    "height": 10868,
+    "bytes": 63314753,
+    "sha256": "fa5c9318bdbad33dfee454ec5ea67a7062121d6526ed235c2e96fb0a7513c5c0"
+  }
+}

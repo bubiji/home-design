@@ -1,0 +1,72 @@
+{
+  "no": 211,
+  "favorite": true,
+  "favorite_reason": "周杰伦《最伟大的作品》(2022)MV/歌词 引用的作品;画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "周杰伦《最伟大的作品》(2022)MV/歌词:歌词「桥」意象,解析延伸至此作(置信度:约 4 篇中文 / 1 篇英文)",
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-girls-on-the-bridge"
+  ],
+  "title_en": "The Girls on the Bridge",
+  "title_ja": "",
+  "title_zh": "桥上的女孩",
+  "year": "1901",
+  "year_sort": 1901,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Edvard Munch - The Girls on the Bridge - NG.M.00844 - National Museum of Art, Architecture and Design.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "136 x 125 cm",
+  "museum": "挪威国家博物馆 Nasjonalmuseet(奥斯陆)",
+  "museum_city": "奥斯陆,挪威",
+  "accession": "NG.M.00844",
+  "museum_url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00844",
+  "hd_available": "未核实(蒙克1944年去世,作品已入公有领域;馆方开放图像与分辨率未核)",
+  "exhibited_history": [
+    "未查到该件的详细展览史"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开的2026-09-30之后展出安排(检索无结果,不代表没有)",
+  "summary": "1901年前后在奥斯高斯特兰创作的油画:几名女孩站在码头桥上,望向水中的倒影。蒙克以此题材画过多个版本,本件藏于挪威国家博物馆。",
+  "story": "据馆方页面,该画约作于1901年,蒙克自己写过它是1901年夏天画于奥斯高斯特兰。这个题材他之后反复画,另有1902、1905、1927以及1933至1935年的相关版本。所以需要注意,同名作品不止一件,藏于挪威国家博物馆的这件编号为 NG.M.00844。蒙克博物馆网站另有编号 PE.M.00255 的同名页面,与国家博物馆的这件在馆藏归属描述上不一致,本次未能核清,故以国家博物馆页面为准。",
+  "technique_note": "布面油画,画面为竖向大幅;蒙克用简化的色块与流动的笔触表现夏夜的码头与倒影。",
+  "sources": [
+    "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00844",
+    "https://www.munch.no/en/object/PE.M.00255"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q18891072",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "National Museum Norway artwork ID",
+      "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NG.M.00844",
+      "status": 403,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AEdvard_Munch_-_The_Girls_on_the_Bridge_-_NG.M.00844_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q18891072",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Edvard_Munch_-_The_Girls_on_the_Bridge_-_NG.M.00844_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_The_Girls_on_the_Bridge_-_NG.M.00844_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 3659,
+    "height": 4000,
+    "bytes": 3204156,
+    "sha256": "acb2389375cd64e8fee367b58c52b5b4c7ebdbc1ca75bd98bed7a3ffef55f62f"
+  }
+}

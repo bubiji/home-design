@@ -1,0 +1,51 @@
+{
+  "no": 102,
+  "favorite": true,
+  "favorite_reason": "画墙候选(之前推荐)",
+  "title_en": "Night View of Saruwaka-machi (One Hundred Famous Views of Edo)",
+  "title_ja": "名所江戸百景 猿わか町よるの景",
+  "title_zh": "名所江户百景·猿若町夜景",
+  "year": "1856",
+  "year_sort": 1856,
+  "technique": "版画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Saruwaka-machi yoru no kei LCCN2008660961.jpg",
+    "note": ""
+  },
+  "medium": "多色木版画(锦绘,大判竖幅)",
+  "dimensions": "LOC 印本尺寸:未查到;参考 Brooklyn Museum 藏本约 36.2 × 23.5(14 1/4 × 9 1/4 in,来自检索摘要)",
+  "museum": "Library of Congress, Prints and Photographs Division(美国国会图书馆·印刷品与照片部)",
+  "museum_city": "Washington, D.C.",
+  "accession": "LCCN 2008660961(LOC 索书号未查到)",
+  "museum_url": "https://www.loc.gov/item/2008660961/",
+  "hd_available": "是:LOC 数字馆藏(ukiyo-e.org 收录为 loc/02398v,公有领域);具体像素未核实",
+  "exhibited_history": [
+    "1856年(安政3年)9月刊行,为《名所江户百景》系列第90号(商业出版,非展览)",
+    "本 LOC 印本的展览史:未查到",
+    "同图其他印本:布鲁克林博物馆(Brooklyn Museum,No. 90,1856年9月)与 V&A 均有馆藏"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到本印本或该图的公开未来展览信息。",
+  "summary": "《猿若町夜景》描绘江户歌舞伎剧场街猿若町在满月下的夜晚,月光在街面投下淡淡的人影。这是《名所江户百景》中以光影取胜的一幅。图像取自美国国会图书馆藏印本。",
+  "story": "猿若町是江户的戏剧街,得名于江户歌舞伎的创始人猿若勘三郎,画面右侧可见三座剧场。1856年9月,秋夜的满月高悬,银白月光洒在街上。画面里的路人是灰黑的剪影,而地上的影子仿佛有自己的生命,这种影子的处理正是本幅的魅力所在。它属于系列第90号。据检索到的布鲁克林博物馆藏本记录,其尺寸约36.2×23.5厘米。LOC 印本本身的展览记录未能查到。",
+  "technique_note": "锦绘多色木版套印;满月与夜空靠渐变刷色表现,人影与地面影子用灰、黑色版叠出。LOC 印本的具体版色状态未核实。",
+  "sources": [
+    "https://www.loc.gov/item/2008660961/",
+    "https://ukiyo-e.org/image/loc/02398v",
+    "https://www.brooklynmuseum.org/objects/121704",
+    "https://collections.vam.ac.uk/item/O423306/night-view-of-saruwaka-machi-woodblock-print-utagawa-hiroshige/"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Saruwaka-machi_yoru_no_kei_LCCN2008660961.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Saruwaka-machi_yoru_no_kei_LCCN2008660961.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 4014,
+    "height": 6109,
+    "bytes": 5668290,
+    "sha256": "20f6eca8d5317ec409a18cafd9d99814aa0630bf00c48bc1321717c3e7a4f9dc"
+  }
+}

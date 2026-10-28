@@ -1,0 +1,55 @@
+{
+  "no": 101,
+  "favorite": true,
+  "favorite_reason": "你单独点名(SPICE 展讯图)",
+  "title_en": "The Rue Montorgueil in Paris. Celebration of June 30, 1878",
+  "title_ja": "パリ、モントルグイユ通り、1878年6月30日の祝祭",
+  "title_zh": "巴黎蒙托戈伊街,1878年6月30日的节庆",
+  "year": "1878",
+  "year_sort": 1878,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Claude Monet - The Rue Montorgueil in Paris. Celebration of June 30, 1878 - Google Art Project.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "81 × 50",
+  "museum": "Musée d'Orsay",
+  "museum_city": "Paris",
+  "accession": "RF 1982 71(1982年 dation 抵税捐赠入藏)",
+  "museum_url": "https://www.musee-orsay.fr/en/artworks/la-rue-montorgueil-paris-fete-du-30-juin-1878-10896",
+  "hd_available": "是:Commons 有 Google Art Project 高清图;奥赛官网亦有作品页(Orsay 页面本次抓取被拒 403,未核对其开放许可)",
+  "exhibited_history": [
+    "1879年 第四届印象派展(Wikidata 记载目录号 145)",
+    "2026-11-14 至 2027-03-28 东京都美术馆(见 exhibited_future)"
+  ],
+  "exhibited_future": [
+    "2026-11-14 至 2027-03-28 东京都美术馆「東京都美術館開館100周年記念 オルセー美術館所蔵 いまを生きる歓び」(来源:https://spice.eplus.jp/articles/347404)"
+  ],
+  "future_note": "东京展官方页面/日经官方站均说明:本展不巡回其他会场,仅东京一站;二者页面均未逐一列出本作,本作入展依据为 SPICE 报道(已记录)。",
+  "summary": "1878年6月30日,巴黎为万国博览会举办“和平与劳动”节庆,莫奈在街头画下蒙托戈伊街满街旗帜的景象。画面用密集的笔触表现旗海与人群,是普法战争后巴黎复兴的象征。",
+  "story": "1878年6月30日,法国政府为庆祝“和平与劳动”举办节庆,恰在第三届巴黎万国博览会开幕数周后,被视作战败(1870)后复兴的象征。莫奈当天画下满街旗帜的蒙托戈伊街。它常被误认为7月14日国庆,其姊妹作《圣德尼街》现藏鲁昂美术馆。此画由乔治·德·贝利奥医生于1878年7月11日从画家处购得,后传给其女(唐诺普·德蒙希夫人),又归瓦格拉姆亲王(1906年起),1982年经 dation 入藏奥赛。1879年参加了第四届印象派展。",
+  "technique_note": "竖幅小尺寸油画,以短促、密集的笔触与红白蓝的碎点表现飘动的旗帜和人群,不描绘细节;笔触速度感是印象派“瞬间”表现的典型。以上笔触描述为通行画评,奥赛页面未能抓取核对。",
+  "sources": [
+    "https://www.musee-orsay.fr/en/artworks/la-rue-montorgueil-paris-fete-du-30-juin-1878-10896",
+    "https://www.wikidata.org/wiki/Q3212522",
+    "https://fr.wikipedia.org/wiki/La_Rue_Montorgueil",
+    "https://panoramadelart.com/analyse/la-rue-montorgueil-paris-fete-du-30-juin-1878",
+    "https://www.tobikan.jp/exhibition/2026_orsay.html",
+    "https://art.nikkei.com/orsay2627/outline/",
+    "https://spice.eplus.jp/articles/347404"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Claude_Monet_-_The_Rue_Montorgueil_in_Paris._Celebration_of_June_30%2C_1878_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Rue_Montorgueil_in_Paris._Celebration_of_June_30,_1878_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 5259,
+    "height": 8753,
+    "bytes": 25110236,
+    "sha256": "9e70cb433e2fee3b81d3568f26a4f6d9b111d4e7a4ff4f43c0412e774a994fb0"
+  }
+}

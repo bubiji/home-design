@@ -1,0 +1,84 @@
+{
+  "no": 404,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/evening-the-red-tree"
+  ],
+  "title_en": "Evening; Red Tree",
+  "title_ja": "",
+  "title_zh": "黄昏:红树",
+  "year": "1908–1910",
+  "year_sort": 1908,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Piet Mondrian, 1908-10, Evening; Red Tree (Avond; De rode boom), oil on canvas, 70 x 99 cm, Gemeentemuseum Den Haag.jpg",
+    "note": ""
+  },
+  "medium": "布面油画(oil on canvas)",
+  "dimensions": "70 × 99 cm",
+  "museum": "Kunstmuseum Den Haag",
+  "museum_city": "海牙(荷兰)",
+  "accession": "17-1933(Commons 记录)",
+  "museum_url": "https://www.kunstmuseum.nl/en",
+  "hd_available": "是/偏低:Commons 文件为 2362×1667 px,分辨率偏低;作品为公有领域。",
+  "exhibited_history": [
+    "展览史未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "同《灰树》:官网列有「Mondrian & The Road to Abstraction」即将举办,但无日期、无展品清单,不能认定含本作,故不填。",
+  "summary": "蒙德里安约 1908–1910 年的作品,一棵红色的树在蓝色黄昏里伸展枝条,色彩已脱离自然。它是他「树」系列的开端。",
+  "story": "这幅画标志着蒙德里安「树」系列的开始,也是通往新造型主义的早期一步。灵感来自梵高回顾展与诗人维尔哈伦(Émile Verhaeren)的诗《L'Arbre》。他把自然看作「激烈运动与静止之间的复杂平衡」。画家只用红与蓝两个主色,排斥自然色彩,借色彩对比传达象征与暗示。笔触节奏分明而略有中断,带有点彩画的味道。作品现藏海牙 Kunstmuseum。",
+  "technique_note": "不透明、有节奏的笔触,强烈但略有断续,带点彩意味;色彩限制为红与蓝,放弃写实色彩。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/evening-the-red-tree",
+    "https://en.wikipedia.org/wiki/Evening;_Red_Tree",
+    "https://commons.wikimedia.org/wiki/File:Piet_Mondrian,_1908-10,_Evening;_Red_Tree_(Avond;_De_rode_boom),_oil_on_canvas,_70_x_99_cm,_Gemeentemuseum_Den_Haag.jpg"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3818263",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "http://www.gemeentemuseum.nl/en/collection/item/1160",
+      "status": "URLError",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.gemeentemuseum.nl/nl/collectie/avond-de-rode-boom",
+      "status": "URLError",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Evening;_Red_Tree",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3APiet_Mondrian%2C_1908-10%2C_Evening%3B_Red_Tree_%28Avond%3B_De_rode_boom%29%2C_oil_on_canvas%2C_70_x_99_cm%2C_Gemeentemuseum_Den_Haag.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q3818263",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Piet_Mondrian%2C_1908-10%2C_Evening%3B_Red_Tree_%28Avond%3B_De_rode_boom%29%2C_oil_on_canvas%2C_70_x_99_cm%2C_Gemeentemuseum_Den_Haag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Piet_Mondrian,_1908-10,_Evening;_Red_Tree_(Avond;_De_rode_boom),_oil_on_canvas,_70_x_99_cm,_Gemeentemuseum_Den_Haag.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 2362,
+    "height": 1667,
+    "bytes": 1101631,
+    "sha256": "a4b6160e2e1964897a2f27d1e31c57673512e5f27abf63cf7393ba5f9e997e85"
+  }
+}

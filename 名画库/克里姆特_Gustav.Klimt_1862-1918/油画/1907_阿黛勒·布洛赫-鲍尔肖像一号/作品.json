@@ -1,0 +1,98 @@
+{
+  "no": 401,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/portrait-of-adele-bloch-bauer"
+  ],
+  "title_en": "Portrait of Adele Bloch-Bauer I",
+  "title_ja": "",
+  "title_zh": "阿黛勒·布洛赫-鲍尔肖像一号",
+  "year": "1907",
+  "year_sort": 1907,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Gustav Klimt - Porträt der Adele Bloch-Bauer I (1907).jpg",
+    "note": ""
+  },
+  "medium": "布面油画、金箔与银箔",
+  "dimensions": "138 × 138 cm(原记 140×140,修正)",
+  "museum": "Neue Galerie New York",
+  "museum_city": "美国纽约",
+  "accession": "未查到",
+  "museum_url": "https://www.neuegalerie.org/womaningold",
+  "hd_available": "是:Commons 有高清图(见 image 字段);作者 1918 年逝世,公有领域。",
+  "exhibited_history": [
+    "2006 年 7 月起常设于纽约新画廊(Neue Galerie)",
+    "此前长期悬于维也纳美景宫(Belvedere),二战后一直在奥地利国家收藏,直至 2006 年归还给阿特曼"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。 本作为新画廊常设展品。",
+  "summary": "克里姆特黄金时期的代表作,画中的阿黛勒身着金色装饰衣袍,被大量金箔图案包裹。作品曾被纳粹掠夺,后经诉讼归还,2006 年由罗纳德·劳德购入,现为纽约新画廊的镇馆之宝。",
+  "story": "画像由费迪南德·布洛赫-鲍尔委托,于 1903–1907 年间完成,模特是维也纳社交名流阿黛勒。作品使用大量金银箔,风格受拜占庭镶嵌画(如拉文纳)启发。1938 年纳粹吞并奥地利后,布洛赫-鲍尔家族的财产被没收,作品落入奥地利国家美术馆,一度更名为《金衣女人》。2006 年仲裁判定归还给继承人玛丽亚·阿特曼,同年她以 1.35 亿美元售给罗纳德·劳德,由他的新画廊展出。作品自 2006 年 7 月起一直在新画廊展出。",
+  "technique_note": "油彩、金箔和银箔混用:面部与手部写实,衣袍与背景则大量使用平面几何和拜占庭式、埃及式眼形装饰纹样,形成写实与装饰的强烈对照。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/portrait-of-adele-bloch-bauer",
+    "https://www.neuegalerie.org/womaningold",
+    "https://en.wikipedia.org/wiki/Portrait_of_Adele_Bloch-Bauer_I",
+    "https://en.wikipedia.org/wiki/Neue_Galerie_New_York"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q354396",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.neuegalerie.org/womaningold",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://neue.emuseum.com/objects/33/adele-blochbauer--i",
+      "status": 403,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://unipub.uni-graz.at/obvugrhs/download/pdf/463173",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Portrait_of_Adele_Bloch-Bauer_I",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E8%89%BE%E8%92%82%E5%85%92%E8%82%96%E5%83%8F%E4%B8%80%E8%99%9F",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AGustav_Klimt_-_Portr%C3%A4t_der_Adele_Bloch-Bauer_I_%281907%29.jpg",
+      "status": 200,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q354396",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Gustav_Klimt_-_Portr%C3%A4t_der_Adele_Bloch-Bauer_I_%281907%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Gustav_Klimt_-_Portr%C3%A4t_der_Adele_Bloch-Bauer_I_(1907).jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 2801,
+    "height": 2801,
+    "bytes": 3368013,
+    "sha256": "48a15af31925ab37b1bffd977531b8a52d395e3a6a998f8dc9930d7c9f90a9b7"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "no": 401,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/lady-with-an-ermine"
+  ],
+  "title_en": "Lady with an Ermine",
+  "title_ja": "",
+  "title_zh": "抱银鼠的女子",
+  "year": "1489–1491",
+  "year_sort": 1489,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Lady with an Ermine - Leonardo da Vinci - Google Art Project.jpg",
+    "note": ""
+  },
+  "medium": "油彩,核桃木板(oil on walnut panel)",
+  "dimensions": "54.8 × 40.3 cm(维基百科;原记 54 × 39 cm)",
+  "museum": "Czartoryski Museum(National Museum in Kraków 分馆)",
+  "museum_city": "克拉科夫(波兰)",
+  "accession": "MNK XII-209",
+  "museum_url": "未查到作品专页(馆方所属国家博物馆克拉科夫 https://mnk.pl)",
+  "hd_available": "是:维基共享资源有公有领域大图(Google Art Project 或同类来源,分辨率本次未逐一核对);馆方下载条款未核",
+  "exhibited_history": [
+    "首次展出:未查到(维基称该画到近 20 世纪才为学界所知)",
+    "1876年随恰尔托雷斯基家族自巴黎运抵克拉科夫,1878年家族博物馆开馆",
+    "1943年纳粹占领期间在瓦维尔城堡展出;1946年归还波兰后重回克拉科夫",
+    "二战后巡展:华沙1952、莫斯科1972、华盛顿1991/92、马尔默1993/94、罗马/米兰1998、佛罗伦萨1999",
+    "2017年5月至2019年在克拉科夫国家博物馆主馆展出,2019年12月19日随恰尔托雷斯基博物馆重开回归原馆"
+  ],
+  "exhibited_future": [],
+  "future_note": "常设于 Czartoryski Museum(据维基)。未查到公开来源的未来展览(本次联网检索额度用尽,未检索馆方展讯;仅核对维基/维基数据)。",
+  "summary": "《抱银鼠的女子》约作于1489–1491年,描绘米兰公爵卢多维科·斯福尔扎的情妇切奇利亚·加莱拉尼。它是达·芬奇仅存四幅女性肖像之一,现藏克拉科夫恰尔托雷斯基博物馆,被视为波兰国宝。",
+  "story": "该画由列奥纳多在米兰斯福尔扎宫廷任画师期间所绘,模特切奇利亚·加莱拉尼是公爵的情妇。1798年亚当·耶日·恰尔托雷斯基亲王在意大利购得此画,1800年入藏普瓦维家族收藏;1830年十一月起义时,老公主在俄军逼近前将画转移藏匿。此后画作随家族流亡巴黎的朗贝尔公馆,1876年运回克拉科夫。1939年纳粹劫走此画,总督汉斯·弗兰克把它挂在瓦维尔城堡的办公室里,二战末盟军在巴伐利亚施利尔湖的弗兰克乡间住宅找回,1946年归还波兰。1992年华盛顿国家美术馆的技术分析确认,画面的损伤主要集中在背景,背景原本可能是蓝灰色,后被覆盖成黑色。2016年12月,波兰政府以1亿欧元从恰尔托雷斯基基金会买下该画及其他藏品。",
+  "technique_note": "核桃木板油画,半身像呈三分之四侧转,人物与怀中动物的扭转形成对立式平衡(contrapposto),整体构成金字塔形螺旋构图;1992年技术分析发现现今的黑色背景是后人重绘,不是达·芬奇原作。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/lady-with-an-ermine",
+    "https://en.wikipedia.org/wiki/Lady_with_an_Ermine",
+    "https://www.wikidata.org/wiki/Q474338"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q474338",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://zbiory.mnk.pl/en/catalog/157417",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://nicofranz.art/en/leonardo-da-vinci/lady-with-an-ermine",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.leonardodavinci.net/lady-with-an-ermine.jsp",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://zbiory.mnk.pl/pl/katalog/157417",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Lady_with_an_Ermine",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E6%8A%B1%E9%8A%80%E8%B2%82%E7%9A%84%E5%A5%B3%E5%AD%90",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3ALady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q474338",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 30894,
+    "height": 41545,
+    "bytes": 107119245,
+    "sha256": "865810a1905d444491e9d589821c3bade061bf2e75c57c0c5d020492595deed4"
+  }
+}

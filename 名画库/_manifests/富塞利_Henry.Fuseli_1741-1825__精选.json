@@ -1,0 +1,52 @@
+{
+ "author": {
+  "dir": "富塞利_Henry.Fuseli_1741-1825",
+  "name_zh": "亨利·富塞利",
+  "name_en": "Henry Fuseli",
+  "life": "1741–1825",
+  "bio": "亨利·富塞利(1741–1825)生于瑞士苏黎世,原名约翰·海因里希·菲斯利,后主要在伦敦活动,曾任皇家美术学院教授与院长。他以超自然、梦境与文学题材的戏剧化画面著称,是浪漫主义与哥特想象的先驱之一。"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 301,
+   "favorite": true,
+   "favorite_reason": "周杰伦《太阳之子》(2026)MV 名画重现",
+   "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:线索剪报(置信度:4 篇)"
+   ],
+   "title_en": "The Nightmare",
+   "title_ja": "",
+   "title_zh": "梦魇",
+   "year": "1781",
+   "year_sort": 1781,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Johann Heinrich Füssli - The Nightmare 55.5.A-d1-2019-04-15.jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "101.6 × 127 cm",
+   "museum": "Detroit Institute of Arts",
+   "museum_city": "底特律(美国)",
+   "accession": "55.5.A",
+   "museum_url": "https://dia.org/collection/nightmare/45573",
+   "hd_available": "是(Commons 有 DIA 提供的大图;馆方条款未逐条核实)",
+   "exhibited_history": [
+    "1782 年伦敦皇家美术学院首展,引起轰动",
+    "另有 1790 年前后的后期版本藏于法兰克福歌德博物馆(不是本件)"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后的外借展出",
+   "summary": "富塞利 1781 年的成名作:一名熟睡的女子胸口蹲着恶魔,身后马头从帷幕间探出。1782 年展出后引起轰动,并被广泛翻印。",
+   "story": "富塞利此前在皇家美术学院的展出并不成功,直到 1782 年展出此画才成名。画面里的女子仰躺、头垂在床沿,一只猿形的梦魇魔(incubus)蹲在她的胸口,马头从红色帘幕后露出——英语 nightmare 一词中「mare」即与此有关。评论界既震惊又着迷,尤其因其露骨的性暗示。1783 年托马斯·伯克的版画出版,出版商约翰·拉斐尔·史密斯获利超过 500 英镑,远高于原作卖出的 20 几尼。他此后至少画了另外几个版本,画面被卡里卡图作者(如克鲁克香克、罗兰森)用于政治讽刺,也影响了玛丽·雪莱和爱伦·坡等人,荣格等人也谈过它。",
+   "technique_note": "强烈的明暗对比(chiaroscuro):苍白的女体在红、黄、赭的暗背景中被聚光照亮,夸张的姿势和阴影构造出梦魇的情绪。",
+   "sources": [
+    "https://dia.org/collection/nightmare/45573",
+    "https://en.wikipedia.org/wiki/The_Nightmare"
+   ]
+  }
+ ]
+}

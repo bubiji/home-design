@@ -1,0 +1,51 @@
+{
+  "no": 211,
+  "favorite": true,
+  "favorite_reason": "周杰伦《最伟大的作品》(2022)MV/歌词 引用的作品",
+  "culture_relation": [
+    "周杰伦《最伟大的作品》(2022)MV/歌词:歌词提到马蒂斯,解析举此作为代表(置信度:约 4 篇)"
+  ],
+  "title_en": "Open Window, Collioure",
+  "title_ja": "",
+  "title_zh": "敞开的窗户,科利乌尔",
+  "year": "1905",
+  "year_sort": 1905,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Matisse-Open-Window.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "55.3 x 46 cm",
+  "museum": "美国国家美术馆 National Gallery of Art",
+  "museum_city": "华盛顿特区,美国",
+  "accession": "1998.74.7(Collection of Mr. and Mrs. John Hay Whitney)",
+  "museum_url": "https://www.nga.gov/artworks/106384-open-window-collioure",
+  "hd_available": "是(作者1954年去世,已入公有领域;NGA 提供在线图像,可下载分辨率未核)",
+  "exhibited_history": [
+    "1905年巴黎秋季沙龙(Salon d'Automne)展出,野兽派得名的那届展览",
+    "1998年 Mrs. John Hay Whitney 遗赠美国国家美术馆"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开的2026-09-30之后展出安排(检索无结果,不代表没有)",
+  "summary": "1905年夏在科利乌尔画的窗景:敞开的窗外是停着帆船的地中海港口,窗台上有花盆。是野兽派的代表作之一,藏于华盛顿。",
+  "story": "1905年夏天,马蒂斯与德朗在南法小城科利乌尔工作,这幅画取景自他住处的窗户,窗外可见港口里的帆船。画面以纯色色块处理天空、海面和窗框,是野兽派解放色彩的典型例子。同年画作在巴黎秋季沙龙展出。开窗这个主题此后他在巴黎、尼斯、埃特勒塔,以及1940年代晚期反复回到。1998年,Whitney 夫人的遗产将它捐赠给了美国国家美术馆。",
+  "technique_note": "布面油画,以未经调和的纯色与松散的笔触画出窗、花盆与海景,不追求透视和明暗的写实。",
+  "sources": [
+    "https://www.nga.gov/artworks/106384-open-window-collioure",
+    "https://en.wikipedia.org/wiki/The_Open_Window_(Matisse)"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Matisse-Open-Window.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Matisse-Open-Window.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 2012,
+    "height": 2424,
+    "bytes": 3056166,
+    "sha256": "d11af904825bc692ac10e9392f2d65183d4f49a8daf8c5cc88891bda7f5e4ae6"
+  }
+}

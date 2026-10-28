@@ -1,0 +1,104 @@
+{
+  "no": 401,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/a-sunday-on-la-grande-jatte"
+  ],
+  "title_en": "A Sunday on La Grande Jatte",
+  "title_ja": "",
+  "title_zh": "大碗岛的星期天下午",
+  "year": "1884–1886",
+  "year_sort": 1884,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Georges Seurat - A Sunday on La Grande Jatte -- 1884 - Google Art Project.jpg",
+    "note": ""
+  },
+  "medium": "布面油画(点彩/色彩并置)",
+  "dimensions": "207.5 × 308.1 cm",
+  "museum": "Art Institute of Chicago",
+  "museum_city": "美国芝加哥",
+  "accession": "1926.224(Helen Birch Bartlett Memorial Collection)",
+  "museum_url": "https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884",
+  "hd_available": "是:Commons 有 Google Art Project 高清翻拍(见 image 字段);作者 1891 年逝世,已进入公有领域。",
+  "exhibited_history": [
+    "1886 年第八届印象派展(巴黎),为其首次公开亮相(据通行史料,本次未逐条核对馆方页面)",
+    "2004 年芝加哥艺术博物馆《修拉与〈大碗岛〉的诞生》(Seurat and the Making of “La Grande Jatte”)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。 本作为芝加哥艺术博物馆镇馆之宝,极少外借。",
+  "summary": "修拉最著名的大幅作品,描绘巴黎近郊塞纳河大碗岛上各阶层人物的周日休闲。画面以密集的小色点构成,是新印象派的宣言之作。1924 年入藏芝加哥艺术博物馆。",
+  "story": "这幅画画于 1884–1886 年,修拉先在岛上做了大量油画速写和素描,再回画室逐步合成。画中人物多取侧面或正面的僵直姿态,被评论者视为对古埃及浮雕与古典饰带的现代回应。1886 年作品在第八届印象派展上亮相,成为新印象派的标志。画面外缘的色点边框是 1888–1889 年后加的,用来与画框协调。作品 1924 年入藏芝加哥艺术博物馆,1926 年完成登录,是该馆最受欢迎的藏品之一,被认为改变了现代艺术的方向。",
+  "technique_note": "修拉依据谢弗勒尔等人的色彩对比理论,把纯色小点并置在画布上,让色彩在观者眼中光学混合;画面构图严谨,人物以几何化轮廓表现。1888–1889 年另加了点彩边框。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/a-sunday-on-la-grande-jatte",
+    "https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884",
+    "https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte",
+    "https://en.wikipedia.org/wiki/Georges_Seurat"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1044742",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.npr.org/2006/07/11/5550190/a-pointillist-masterpiece-comes-alive",
+      "status": "ConnectionResetError",
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.bbc.co.uk/sounds/play/m0002z3g",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "ARTIC artwork ID",
+      "url": "https://www.artic.edu/artworks/27992",
+      "status": 403,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Salons ID",
+      "url": "https://salons.musee-orsay.fr/Detail/objects/59610",
+      "status": 403,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%A2%97%E5%B2%9B%E7%9A%84%E6%98%9F%E6%9C%9F%E5%A4%A9%E4%B8%8B%E5%8D%88",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AGeorges_Seurat_-_A_Sunday_on_La_Grande_Jatte_--_1884_-_Google_Art_Project.jpg",
+      "status": 200,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q1044742",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Georges_Seurat_-_A_Sunday_on_La_Grande_Jatte_--_1884_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Georges_Seurat_-_A_Sunday_on_La_Grande_Jatte_--_1884_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 30000,
+    "height": 19970,
+    "bytes": 228939761,
+    "sha256": "7f1b8e3b88e82db3507a1d0bc3da135ae82e03203159b0224e0c66c27e0834f5"
+  }
+}

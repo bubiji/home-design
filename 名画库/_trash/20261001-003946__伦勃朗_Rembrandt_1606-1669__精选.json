@@ -1,0 +1,318 @@
+{
+  "author": {
+    "name_zh": "伦勃朗·哈尔曼松·范莱因",
+    "name_en": "Rembrandt Harmenszoon van Rijn",
+    "life": "1606–1669",
+    "dir": "伦勃朗_Rembrandt_1606-1669",
+    "bio": "伦勃朗(1606–1669)生于莱顿,后在阿姆斯特丹成为荷兰黄金时代最重要的画家、蚀刻版画家和素描家。他以戏剧性的明暗对比、对人物内心的刻画以及一生持续创作的自画像著称。晚年虽经济困顿,笔触反而愈发自由而深沉。"
+  },
+  "source_article": "",
+  "works": [
+    {
+      "no": 101,
+      "favorite": true,
+      "favorite_reason": "客厅画墙 F5",
+      "title_en": "The Three Trees",
+      "title_ja": "",
+      "title_zh": "三棵树",
+      "year": "1643",
+      "year_sort": 1643,
+      "technique": "版画",
+      "book_relation": "",
+      "image": {
+        "source": "commons",
+        "commons_file": "File:The three trees) - Rembrandt f 1643 LCCN96507706.jpg",
+        "note": ""
+      },
+      "medium": "蚀刻、干刻与雕版(etching, drypoint and engraving),laid paper(本图取自美国国会图书馆藏 Hubbard 收藏之一份印本)",
+      "dimensions": "纸张约 20 × 28 cm(LOC 记载);版面约 21.3 × 27.9 cm(Wikipedia)",
+      "museum": "Library of Congress, Prints and Photographs Division(Hubbard Collection)",
+      "museum_city": "华盛顿",
+      "accession": "LCCN 96507706;Call No. FP - XVII - R385, no. 212 (A size)",
+      "museum_url": "https://www.loc.gov/item/96507706/",
+      "hd_available": "是:LOC 提供多种数字文件(彩色/黑白原件扫描)可下载;版画存世多份印本,Rijksmuseum(RP-P-OB-444)、加拿大国家美术馆、法国国家图书馆等亦藏",
+      "exhibited_history": [
+        "LOC 藏本来自 Hubbard 收藏;具体展览史未查到",
+        "其他馆的印本(如 Rijksmuseum RP-P-OB-444、Saint Louis Art Museum、Philadelphia Museum of Art)各有自己的展出记录,本条未逐一核对"
+      ],
+      "exhibited_future": [],
+      "future_note": "未查到 LOC 这份印本 2026-09-30 之后的公开展出或外借信息。另:皇家艺术学院官宣 2027 春季办「Rembrandt: Radical Printmaker」,但未确认是否含《三棵树》及哪份印本",
+      "summary": "《三棵树》是伦勃朗 1643 年的蚀刻加干刻与雕版风景,画面由三棵高大的树、远景的雨云与阳光构成。它是他最大幅、最具绘画感的风景版画,并非真实地形写生,而是依阿姆斯特丹郊外意象自由构图。",
+      "story": "此版画作于 1643 年,常被认为取景于阿姆斯特丹近郊(LOC 称视角大致在 Diemerdijk 一带)。画面下方有钓鱼者、林间藏身的一对情侣,远处还有一个画速写的小小画家。左上方密集的平行排线既像倾盆大雨,又像穿云而下的光线,令天空产生戏剧性的不确定。学者 Christopher White 指出,它是伦勃朗少数对天空作出「正面描绘」的风景蚀刻。有学者从中读出浪漫或情色意味,也有人认为三棵树暗指十字架等宗教象征,至今没有定论。此作有多份印本流传,各馆所藏在墨色与擦拭程度上有所不同。",
+      "technique_note": "蚀刻为底,以干刻针刮出天空与暗部的毛边厚重黑色,并局部用雕刻刀(burin)加强。左上方的排线与前景的深色对比,是「暴雨与光」效果的来源。",
+      "sources": [
+        "https://www.loc.gov/item/96507706/",
+        "https://en.wikipedia.org/wiki/The_Three_Trees",
+        "https://www.rijksmuseum.nl/en/collection/RP-P-OB-444",
+        "https://www.royalacademy.org.uk/article/2027-annual-programme"
+      ]
+    },
+    {
+      "no": 102,
+      "favorite": true,
+      "favorite_reason": "画墙候选(之前推荐)",
+      "title_en": "Self-Portrait Leaning on a Stone Sill",
+      "title_ja": "",
+      "title_zh": "倚石栏的自画像",
+      "year": "1639",
+      "year_sort": 1639,
+      "technique": "版画",
+      "book_relation": "",
+      "image": {
+        "source": "commons",
+        "commons_file": "File:Rembrandt van Rijn, Self-Portrait Leaning on a Stone Sill, 1639, NGA 35136.jpg",
+        "note": ""
+      },
+      "medium": "蚀刻(etching),laid paper(本图取自美国国家美术馆 NGA 藏 Rosenwald 收藏之一份印本)",
+      "dimensions": "纸张(裁至版痕)21 × 16.8 cm",
+      "museum": "National Gallery of Art(Rosenwald Collection)",
+      "museum_city": "华盛顿",
+      "accession": "1943.3.9117(经搜索摘要得到,NGA 官网页面抓取被拒,未直接核对)",
+      "museum_url": "https://www.nga.gov/artworks/11626-self-portrait-leaning-stone-sill",
+      "hd_available": "是:NGA 有开放获取数字图(具体授权条款未在页面核对);此版画另有 LOC、大都会、艺术学院芝加哥、Städel、V&A、墨尔本 NGV 等多馆印本",
+      "exhibited_history": [
+        "NGA 藏本递藏:Mariette、Karl Eduard von Liphart、Siegfried Barden、Lessing J. Rosenwald,1943 年入藏 NGA",
+        "其他馆印本的展览史未逐一核对;NGA 本身的展览记录未查到"
+      ],
+      "exhibited_future": [],
+      "future_note": "未查到 2026-09-30 之后的公开展出信息;皇家艺术学院 2027 春季「Rembrandt: Radical Printmaker」是否含此作未确认",
+      "summary": "1639 年的蚀刻自画像,伦勃朗以半身姿态倚在石栏上,着十六世纪风格的服装与贝雷帽。作品刻意模仿拉斐尔与提香的肖像范式。",
+      "story": "1639 年伦勃朗在阿姆斯特丹已声名鹊起,并买下了后来的大宅。这幅版画中他倚着石栏、目光直视观者,衣着仿文艺复兴时期贵族。此构图一般被认为与他当年在拍卖中见到的拉斐尔《卡斯蒂廖内像》和提香《持手套的男子》等作品有关(此点为一般艺术史论述,本次未逐条核对馆方原文)。这类自画像既是自我展示,也是给收藏者的商品。NGA 的这份印本经 Mariette、Liphart、Barden 等著名藏家之手,最后由 Rosenwald 捐给 NGA。",
+      "technique_note": "以细密的蚀刻线为主,面部用极细的短线塑形,衣服与石栏用较粗的交叉排线表现质感。",
+      "sources": [
+        "https://www.nga.gov/artworks/11626-self-portrait-leaning-stone-sill",
+        "https://www.loc.gov/item/2004665140",
+        "https://www.metmuseum.org/art/collection/search/368058",
+        "https://www.artic.edu/artworks/29213/self-portrait-leaning-on-a-stone-sill"
+      ]
+    },
+    {
+      "no": 103,
+      "favorite": true,
+      "favorite_reason": "The Story of Art 收录",
+      "title_en": "An Elephant",
+      "title_ja": "",
+      "title_zh": "大象",
+      "year": "1637",
+      "year_sort": 1637,
+      "technique": "素描",
+      "book_relation": "《The Story of Art》1951 英文初版 fig.10(第 1 章)——16 版编号未核对",
+      "image": {
+        "source": "commons",
+        "commons_file": "File:Rembrandt Harmenszoon van Rijn - An Elephant, 1637 - Google Art Project.jpg",
+        "note": ""
+      },
+      "medium": "黑色粉笔(black chalk)素描",
+      "dimensions": "23.3 × 35.4 cm",
+      "museum": "Albertina",
+      "museum_city": "维也纳",
+      "accession": "Inv. 17558",
+      "museum_url": "https://sammlungenonline.albertina.at/objects/32307/ein-elefant",
+      "hd_available": "是:Commons 有 Google Art Project 高清图;Albertina 线上藏品库有图(下载授权条款未核对)",
+      "exhibited_history": [
+        "签名并署年份「Rembrandt ft. 1637」",
+        "被视为伦勃朗现存四幅大象素描中最具代表性的一幅(另有大英博物馆、摩根图书馆等所藏)",
+        "Albertina 展览史未在所抓页面中列出,具体展览年份未查到"
+      ],
+      "exhibited_future": [],
+      "future_note": "未查到 2026-09-30 之后的公开外借或展出信息",
+      "summary": "1637 年的黑粉笔素描,以侧面写生一头亚洲象。据信描绘的是当时在欧洲巡回展出的母象「汉斯肯」(Hansken)。",
+      "story": "汉斯肯于 1633 年从锡兰运抵阿姆斯特丹,1636 年售出,之后在欧洲各地巡展,1637 年回到阿姆斯特丹的集市,伦勃朗就在此时对着它写生。他爱画动物,据说藏有一本满是活体动物素描的册子。这幅签名并署 1637 年,画面里象皮的皱褶、毛刺的头部和重叠的褶层都用粉笔明暗表现。汉斯肯 1655 年死于佛罗伦萨,骨架至今保存在当地自然史博物馆。这幅素描后来成为《艺术的故事》中的插图之一。",
+      "technique_note": "用黑色粉笔以轻重不同的压力塑造皮肤褶皱,大面积用侧锋擦出柔和的明暗,轮廓线较少,体量感靠光影过渡获得。",
+      "sources": [
+        "https://sammlungenonline.albertina.at/objects/32307/ein-elefant",
+        "https://www.rembrandthuis.nl/en/kronieken/on-rembrandt-and-elephant-buttocks-from-life/",
+        "https://artinwords.de/bosch-bruegel-rubens-rembrandt/rembrandt-elefant/"
+      ]
+    },
+    {
+      "no": 104,
+      "favorite": true,
+      "favorite_reason": "The Story of Art 收录",
+      "title_en": "Self-Portrait (Small Self-Portrait)",
+      "title_ja": "",
+      "title_zh": "自画像(小自画像)",
+      "year": "c.1657",
+      "year_sort": 1657,
+      "technique": "油画",
+      "book_relation": "《The Story of Art》1951 英文初版 fig.263(第 20 章)——16 版编号未核对",
+      "image": {
+        "source": "commons",
+        "commons_file": "File:Rembrandt Harmensz. van Rijn 132.jpg",
+        "note": ""
+      },
+      "medium": "油彩,胡桃木板(oil on walnut wood panel)",
+      "dimensions": "48 × 40.6 cm(不含框);带框 94 × 87 × 9 cm",
+      "museum": "Kunsthistorisches Museum, Gemäldegalerie",
+      "museum_city": "维也纳",
+      "accession": "GG 414(KHM 官网);此前假设的 GG 730 有误",
+      "museum_url": "https://www.khm.at/en/artworks/small-self-portrait-1519",
+      "hd_available": "是:Commons 有可用大图;KHM 线上藏品库有图(授权条款未核对)",
+      "exhibited_history": [
+        "KHM 官网记载:自 1783 年起见于该画廊藏品记录",
+        "现于 KHM 画廊 XII 厅陈列",
+        "具体外借展览年份未查到"
+      ],
+      "exhibited_future": [],
+      "future_note": "未查到 2026-09-30 之后的公开外借或展出信息",
+      "summary": "约 1657 年的小幅油画自画像,画中的伦勃朗身着褐色外衣和红色羊毛衫。头部姿态与神情呼应他 1652 年的《大自画像》,但尺幅小得多,更显紧凑。",
+      "story": "KHM 将此画定为约 1657 年,右上角签有「Rembrandt f.」。此时伦勃朗正处于破产的边缘,1656 年被迫申请财产让渡。画中他不再穿华丽的服装,只穿日常衣物,面孔的塑造靠厚重、粘稠的颜料。馆方指出,其头部姿态与神情和 1652 年的大自画像相呼应,只是在小尺寸里显得更压缩。它自 1783 年起就有记录在维也纳皇家画廊的藏品中。后来成为《艺术的故事》里讲他晚年自画像的插图。",
+      "technique_note": "以粘稠的厚涂描绘面部高光,暗部薄涂并露出底层,笔触自由;木板选用胡桃木。",
+      "sources": [
+        "https://www.khm.at/en/artworks/small-self-portrait-1519",
+        "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_132.jpg"
+      ]
+    },
+    {
+      "no": 105,
+      "favorite": true,
+      "favorite_reason": "The Story of Art 收录",
+      "title_en": "The Parable of the Unmerciful Servant (drawing)",
+      "title_ja": "",
+      "title_zh": "不怜悯人的仆人的比喻(素描)",
+      "year": "c.1655",
+      "year_sort": 1655,
+      "technique": "素描",
+      "book_relation": "《The Story of Art》1951 英文初版 fig.264(第 20 章)——16 版编号未核对",
+      "image": {
+        "source": "none",
+        "commons_file": "",
+        "note": "Commons 未找到这幅素描的可用高清图"
+      },
+      "medium": "未查到",
+      "dimensions": "未查到",
+      "museum": "未查到",
+      "museum_city": "未查到",
+      "accession": "未查到",
+      "museum_url": "未查到",
+      "hd_available": "否:Commons 未找到可用高清图(见 image.note);具体藏馆未确认,故无从判断官方图源",
+      "exhibited_history": [],
+      "exhibited_future": [],
+      "future_note": "因藏馆未确认,未查到相关信息。检索中出现几件同题材约 1655 年的素描:华沙大学图书馆藏(笔与毛笔棕墨、淡彩、白色提亮,19.2×24.8 cm)、鹿特丹博伊曼斯馆藏(编号 R 102,该馆标为「伦勃朗画派」,14.3×14 cm),均无法确认即《艺术的故事》图 264 所用者",
+      "summary": "伦勃朗约 1655 年为《马太福音》「不怜悯人的仆人」比喻所作的钢笔素描。本条目对应《艺术的故事》图 264,但具体是哪一件藏品未能核实。",
+      "story": "未查到",
+      "technique_note": "未查到",
+      "sources": [
+        "https://www.boijmans.nl/en/collection/artworks/99461/The-Unmerciful-Servant/Rembrandt-van-Rijn",
+        "https://commons.wikimedia.org/wiki/Rembrandt/Drawings/1637-1669",
+        "https://commons.wikimedia.org/wiki/Category:Drawings_by_Rembrandt_in_the_University_Library_in_Warsaw"
+      ]
+    },
+    {
+      "no": 106,
+      "favorite": true,
+      "favorite_reason": "The Story of Art 收录",
+      "title_en": "Portrait of Jan Six",
+      "title_ja": "",
+      "title_zh": "扬·西克斯肖像",
+      "year": "1654",
+      "year_sort": 1654,
+      "technique": "油画",
+      "book_relation": "《The Story of Art》1951 英文初版 fig.265(第 20 章)——16 版编号未核对",
+      "image": {
+        "source": "commons",
+        "commons_file": "File:Jan Six - Rembrandt.jpg",
+        "note": ""
+      },
+      "medium": "油彩,画布(oil on canvas)",
+      "dimensions": "112 × 102 cm",
+      "museum": "Six Collection(六家私人收藏,由西克斯家族后代世代传承)",
+      "museum_city": "阿姆斯特丹",
+      "accession": "未查到(私人收藏,无常规馆藏号)",
+      "museum_url": "未查到",
+      "hd_available": "是:Commons 有高清图(来源与授权未核对);作品在私人手中,无馆方开放图库",
+      "exhibited_history": [
+        "Wikipedia 记载:曾于 1872 年和 1900 年在阿姆斯特丹展出",
+        "2007-10-13 至 2008-01-13 应邀外借海牙毛里茨美术馆「荷兰肖像:伦勃朗与哈尔斯的时代」展(CODART 称之为罕见的例外)",
+        "作品自画中人扬·西克斯的直系后代手中传承至今"
+      ],
+      "exhibited_future": [],
+      "future_note": "未查到 2026-09-30 之后的公开外借信息。该画极少外借",
+      "summary": "1654 年的全身式肖像,画中的阿姆斯特丹商人扬·西克斯(1618–1700)一边戴手套一边看向观者,仿佛正要出门。灰外套、红斗篷与金边的组合,配合松动、几近印象派的笔触,被誉为伦勃朗最佳肖像之一。",
+      "story": "扬·西克斯是阿姆斯特丹富商之子,后来做过市议员并于 1691 年出任市长,也是伦勃朗的朋友与赞助人,伦勃朗曾为他母亲作画。此画的年份不是靠题款而是由西克斯自己写的一首对句确定的:把诗句里的罗马数字字母(M、D、L、X、V、I)相加,得到 1654。Hofstede de Groot 曾把它列入伦勃朗六幅最佳肖像之一,称其「也许是最好、最富表现力的」。画中西克斯正欲离去,袖口与手套用粗略快速的笔法带过,纽扣孔里甚至可见拇指按出的痕迹。该画自诞生起一直由西克斯家族收藏,从未进入公共博物馆。",
+      "technique_note": "迅速、流动的笔触与近乎印象派的处理,尤其是袖口、手套和红斗篷的金边;暗色背景与人物的灰色外套形成对比。",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Portrait_of_Jan_Six",
+        "https://www.codart.nl/museums/rembrandt-s-portrait-of-jan-six-eye-catcher-in-the-mauritshuis-this-fall/",
+        "https://www.rembrandthuis.nl/en/jan-six/"
+      ]
+    },
+    {
+      "no": 107,
+      "favorite": true,
+      "favorite_reason": "The Story of Art 收录",
+      "title_en": "Christ Preaching ('La Petite Tombe')",
+      "title_ja": "",
+      "title_zh": "基督布道(小墓)",
+      "year": "c.1652",
+      "year_sort": 1652,
+      "technique": "版画",
+      "book_relation": "《The Story of Art》1951 英文初版 fig.266(第 20 章)——16 版编号未核对",
+      "image": {
+        "source": "commons",
+        "commons_file": "File:Rembrandt van Rijn - Christ Preaching ('La Petite Tombe') - 1958.306 - Cleveland Museum of Art.tif",
+        "note": ""
+      },
+      "medium": "蚀刻、干刻与雕版(etching, drypoint and burin),奶油色 laid paper;第二(最终)状态 ii/ii,本图取自克利夫兰艺术博物馆的印本",
+      "dimensions": "纸张 15.8 × 21 cm;版痕 15.5 × 20.7 cm",
+      "museum": "Cleveland Museum of Art",
+      "museum_city": "克利夫兰",
+      "accession": "1958.306(The Print Club of Cleveland 赠,纪念 William Mathewson Milliken)",
+      "museum_url": "https://www.clevelandart.org/art/1958.306",
+      "hd_available": "是:克利夫兰艺术博物馆开放获取(公有领域);此版画另有 NGA、大都会、布鲁克林、圣路易斯等馆的印本",
+      "exhibited_history": [
+        "克利夫兰此印本为 1958 年赠入;该馆页面注明目前未展出",
+        "展览史未在所抓页面中列出,未查到具体年份与地点"
+      ],
+      "exhibited_future": [],
+      "future_note": "未查到 2026-09-30 之后该印本的公开展出信息;皇家艺术学院 2027 春季「Rembrandt: Radical Printmaker」是否含此作未确认",
+      "summary": "约 1652 年的版画,基督站在高台上向村中群众布道,人群里有走神的孩子和缠头巾的商人。「小墓」的名字来自十八世纪对可能是委托人的画商 Nicolaes de La Tombe 的称呼。",
+      "story": "画面中央的基督站在石台上,双臂展开、掌心朝前,头顶有淡淡的光环。听众由各色人物组成:有神情专注的,也有分心的孩子和头裹头巾的商人。伦勃朗没有把基督放进宏伟的背景,而是放进一个平凡的村庄。「La Petite Tombe」的称呼始于十八世纪,指画商 Nicolaes de La Tombe,他很可能是这件版画的委托人。克利夫兰这份印本印刷时故意在版面上留了墨,形成背景的浓重阴影,与基督周身的灵光形成对比。",
+      "technique_note": "蚀刻为主,配合干刻与雕刻刀加深线条;此印本在版面留墨(surface tone)以制造深沉的暗部。",
+      "sources": [
+        "https://www.clevelandart.org/art/1958.306",
+        "https://www.nga.gov/collection/art-object-page.43413.html",
+        "https://www.metmuseum.org/art/collection/search/371733"
+      ]
+    },
+    {
+      "no": 108,
+      "favorite": true,
+      "favorite_reason": "The Story of Art 收录",
+      "title_en": "David and Jonathan (The Reconciliation of David and Absalom)",
+      "title_ja": "",
+      "title_zh": "大卫与约拿单(大卫与押沙龙和解)",
+      "year": "1642",
+      "year_sort": 1642,
+      "technique": "油画",
+      "book_relation": "《The Story of Art》1951 英文初版 fig.269(第 20 章)——16 版编号未核对",
+      "image": {
+        "source": "commons",
+        "commons_file": "File:Harmensz van Rijn Rembrandt - Давид и Ионафан - Google Art Project.jpg",
+        "note": ""
+      },
+      "medium": "油彩,木板(oil on panel)",
+      "dimensions": "73 × 61.5 cm",
+      "museum": "The State Hermitage Museum",
+      "museum_city": "圣彼得堡",
+      "accession": "ГЭ-713(经搜索摘要得到;Hermitage 官网页面抓取因证书错误未成功,未直接核对)",
+      "museum_url": "https://www.hermitagemuseum.org/digital-collection/43281?lng=en",
+      "hd_available": "是:Commons 有 Google Art Project 高清图;Hermitage 官网有数字藏品页(下载授权未核对)",
+      "exhibited_history": [
+        "Hermitage 页面摘要:1716 年在阿姆斯特丹为彼得大帝购入,是最早抵达俄国的伦勃朗作品",
+        "此后存于彼得霍夫的 Monplaisir 宫,1882 年移交 Hermitage",
+        "具体展览年份未查到"
+      ],
+      "exhibited_future": [],
+      "future_note": "未查到 2026-09-30 之后的公开外借或展出信息",
+      "summary": "1642 年的木板油画,描绘《撒母耳记上》中约拿单向大卫示警并与他告别的场景,背景可见耶路撒冷。约拿单克制而大卫恸哭失控。",
+      "story": "画中取材《撒母耳记上》20:35–42:扫罗王猜疑大卫想夺王位,约拿单冒险警告好友,两人在石头 Ezel 旁最后一次见面。约拿单拥抱大卫,后者放声痛哭,约拿单虽同样悲伤,却更克制。Wikipedia 提到此画作于伦勃朗妻子萨斯基亚去世(1642 年)之后不久,因此可能带着他的个人情感,不过这只是推测。该画1716 年为彼得大帝在阿姆斯特丹购得,是第一件到达俄国的伦勃朗作品。该画另有旧题「大卫与押沙龙和解」,不同来源对画题有不同解读。",
+      "technique_note": "小幅木板油画,人物集中于画面前景,暖色调和柔和的光线;具体技术分析(底层、颜料等)未查到。",
+      "sources": [
+        "https://www.hermitagemuseum.org/digital-collection/43281?lng=en",
+        "https://en.wikipedia.org/wiki/David_and_Jonathan_(Rembrandt)",
+        "https://www.academia.edu/38967677/_Rembrandt_and_the_Iconography_of_David_and_Jonathan_Die_Bibel_in_der_Kunst_Bible_in_the_Arts_2_2018"
+      ]
+    }
+  ]
+}

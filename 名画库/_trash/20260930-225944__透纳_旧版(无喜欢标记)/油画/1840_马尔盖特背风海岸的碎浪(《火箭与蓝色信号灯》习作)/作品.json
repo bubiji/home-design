@@ -1,0 +1,55 @@
+{
+  "no": 9,
+  "title_en": "Waves Breaking on a Lee Shore at Margate (Study for 'Rockets and Blue Lights')",
+  "title_ja": "Waves Breaking on a Lee Shore at Margate (Study for 'Rockets and Blue Lights')(文章原文表记)",
+  "title_zh": "马尔盖特背风海岸的碎浪(《火箭与蓝色信号灯》习作)",
+  "year": "约1840",
+  "year_sort": 1840,
+  "technique": "油画",
+  "medium": "布面油画(oil paint on canvas,油画速写/习作)",
+  "dimensions": "59.7 x 95.2",
+  "museum": "泰特不列颠美术馆(Tate Britain,透纳遗赠)",
+  "museum_city": "伦敦",
+  "accession": "N02882(Turner Bequest 1856)",
+  "museum_url": "https://www.tate.org.uk/art/artworks/turner-waves-breaking-on-a-lee-shore-at-margate-study-for-rockets-and-blue-lights-n02882",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Joseph Mallord William Turner (1775-1851) - Waves Breaking on a Lee Shore at Margate (Study for 'Rockets and Blue Lights') - N02882 - National Gallery.jpg",
+    "direct_url": "",
+    "width": 1154,
+    "height": 742,
+    "license": "Public domain(Commons 标注;来源署 Art UK)",
+    "license_url": ""
+  },
+  "hd_available": "否:Commons 上仅此一个版本(1154x742);Commons 搜索未发现更大版本;Tate 官网图非开放授权下载,未取得直链",
+  "exhibited_history": [
+    "透纳生前从未公开展出(Tate/Turner Contemporary 说明);1856年随透纳遗赠入国家藏品",
+    "2025年4月8日起 Turner Contemporary(马尔盖特)'Turner 250: Breaking Waves' 展出,Tate 出借"
+  ],
+  "exhibited_future": [
+    "Turner Contemporary 'JMW Turner: Breaking Waves' 官网标注展馆一楼展厅暂时关闭、2026年10月3日重新开放,展览在 Joseph Mallord Room 展出该作(官网未给结束日期,需届时确认)"
+  ],
+  "future_note": "依据 turnercontemporary.org 展览页;结束日期未查到。",
+  "summary": "约1840年的布面油画习作,描绘马尔盖特风暴中拍岸的巨浪,是同年大幅作品《火箭与蓝色信号灯》(克拉克艺术学院藏)的草稿。透纳生前未公开展出,现藏泰特不列颠。",
+  "story": "晚年的透纳常与情人布斯夫人在马尔盖特生活,反复描绘当地海岸在不同时刻与天气下的样子。此画站在岸上看风暴,视点朝东,左侧可见石码头与灯塔,右侧一缕浓烟暗示看不见的船只。同年他据此草稿画了完成的大画《火箭与蓝色信号灯》(美国克拉克艺术学院),表现汽船在恶劣海况下难以靠近马尔盖特港。油画速写在当时是画家试验构图与技法的通行做法,这幅作品一直留在他伦敦的画室,1856年随透纳遗赠归国家。Turner Contemporary 策展人 Ian Warrell 称其是一份未完成的、关于海浪运动的私人沉思。",
+  "technique_note": "布面油画速写,横向宽幅;笔触粗放,着重捕捉海浪运动与风暴气氛,属未完成的试验性画面(依据 Tate/Turner Contemporary 说明)。",
+  "sources": [
+    "https://www.tate.org.uk/art/artworks/turner-waves-breaking-on-a-lee-shore-at-margate-study-for-rockets-and-blue-lights-n02882",
+    "https://turnercontemporary.org/whats-on/exhibitions/turner-250-breaking-waves",
+    "https://turnercontemporary.org/news/turner-250-breaking-waves",
+    "https://commons.wikimedia.org/w/api.php?action=query&titles=File:Joseph_Mallord_William_Turner_(1775-1851)_-_Waves_Breaking_on_a_Lee_Shore_at_Margate_(Study_for_'Rockets_and_Blue_Lights')_-_N02882_-_National_Gallery.jpg&prop=imageinfo",
+    "(搜索结果摘要:59.7 x 95.2 cm、oil on canvas 来自网络搜索对 Tate/Turner Contemporary 页面的摘要;Tate 页面本身抓取未返回该字段)"
+  ],
+  "favorite": true,
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Joseph_Mallord_William_Turner_%281775-1851%29_-_Waves_Breaking_on_a_Lee_Shore_at_Margate_%28Study_for_%27Rockets_and_Blue_Lights%27%29_-_N02882_-_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_(1775-1851)_-_Waves_Breaking_on_a_Lee_Shore_at_Margate_(Study_for_%27Rockets_and_Blue_Lights%27)_-_N02882_-_National_Gallery.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 1154,
+    "height": 742,
+    "bytes": 125271,
+    "sha256": "13f336cb883db7d8b0206c03311b2a7dda2ef5c485b334e4c2be4fb6bf5e8def"
+  }
+}

@@ -1,0 +1,53 @@
+{
+ "author": {
+  "dir": "米莱_John.Everett.Millais_1829-1896",
+  "name_zh": "约翰·埃弗雷特·米莱",
+  "name_en": "John Everett Millais",
+  "life": "1829–1896",
+  "bio": "约翰·埃弗雷特·米莱(1829–1896)是英国画家,1848 年与罗塞蒂、亨特等人共同创立前拉斐尔派兄弟会,早期作品以极致的自然细节著称。后期转向更流行的肖像和风俗画,1896 年被授予准男爵并担任皇家美术学院院长不久后去世。"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 301,
+   "favorite": false,
+   "favorite_reason": "",
+   "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:第二名受害者漂在水中(置信度:12 篇)"
+   ],
+   "title_en": "Ophelia",
+   "title_ja": "",
+   "title_zh": "奥菲莉亚",
+   "year": "1851–52",
+   "year_sort": 1851,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:John Everett Millais - Ophelia - Google Art Project.jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "76.2 × 111.8 cm",
+   "museum": "Tate Britain",
+   "museum_city": "伦敦(英国)",
+   "accession": "N01506",
+   "museum_url": "https://www.tate.org.uk/art/artworks/millais-ophelia-n01506",
+   "hd_available": "是(Commons 有 Google Art Project 大图;Tate 网站另有图像)",
+   "exhibited_history": [
+    "1852 年伦敦皇家美术学院展出(首展),同年也在伯明翰艺术家协会展出",
+    "1855 年巴黎世界博览会与《鸽子回方舟》《释放令》一同展出(据 Wikipedia,未核对馆方)",
+    "1894 年作为亨利·泰特首批捐赠品入藏泰特"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后的外借展出;通常在泰特不列颠陈列",
+   "summary": "米莱 1851–52 年画的莎士比亚《哈姆雷特》中奥菲莉亚溺水场景,是前拉斐尔派代表作。画中模特是伊丽莎白·西达尔,河景取自萨里郡。",
+   "story": "米莱先用约五个月(Wikipedia 记约十一个月,资料不一)在萨里郡 Ewell 附近的霍格斯米尔河边写生河岸景色,再在伦敦高尔街画室里请 19 岁的伊丽莎白·西达尔摆姿势。她躺在注满水的浴缸里,底下的油灯熄灭而米莱专注作画,她因此着凉生病,其父后来要求赔偿医药费(Wikipedia 记 50 英镑)。首展时评论褒贬不一,《泰晤士报》挖苦「杂草沟里的奥菲莉亚」,罗斯金也对萨里的背景有疑问。作品 1851 年 12 月被画商亨利·法勒以 300 几尼买下,后转手至 B. G. 温德斯,1862 年以 748 几尼再转卖;1894 年随泰特首批赠品入馆。画中垂柳、雏菊、紫罗兰、三色堇各有寓意。",
+   "technique_note": "在明亮白底上作薄涂,几乎不混色,以此保持颜色的清亮。景物采取户外写生,再在画室补入人物,因此植物细节极为精确;不同季节的花卉同框,构成「合成」的自然。据泰特分析,画面较少改动构图。",
+   "sources": [
+    "https://www.tate.org.uk/art/artworks/millais-ophelia-n01506/story-ophelia",
+    "https://en.wikipedia.org/wiki/Ophelia_(Millais)"
+   ]
+  }
+ ]
+}

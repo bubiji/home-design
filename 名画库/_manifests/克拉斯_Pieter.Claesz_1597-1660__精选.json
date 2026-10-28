@@ -1,0 +1,53 @@
+{
+ "author": {
+  "dir": "克拉斯_Pieter.Claesz_1597-1660",
+  "name_zh": "彼得·克拉斯",
+  "name_en": "Pieter Claesz",
+  "life": "c.1597–1660",
+  "bio": "彼得·克拉斯(约 1597–1660)出生于今德国/比利时一带,后长期活跃于荷兰哈勒姆,是荷兰黄金时代静物画的重要画家。他早期以「虚空静物」和「早餐静物」闻名,1630 年后偏好灰绿金黄的单色调,以克制的构图和逼真的质感见长。"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 301,
+   "favorite": true,
+   "favorite_reason": "周杰伦《太阳之子》(2026)MV 名画重现",
+   "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:转场画面(置信度:3 篇)"
+   ],
+   "title_en": "Vanitas Still Life",
+   "title_ja": "",
+   "title_zh": "虚空静物",
+   "year": "1625",
+   "year_sort": 1625,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Pieter Claeszoon- Vanitas - Still Life (1625, 29,5 x 34,5 cm).JPG",
+    "note": ""
+   },
+   "medium": "木板油画",
+   "dimensions": "29.5 × 34.5 cm(Google Arts & Culture 记 34.4 cm)",
+   "museum": "Frans Hals Museum",
+   "museum_city": "哈勒姆(荷兰)",
+   "accession": "os 68-158(据 Frans Hals Museum 商店页面;馆方藏品页未核实)",
+   "museum_url": "未查到",
+   "hd_available": "是(Commons 有该文件;Google Arts & Culture 亦有;馆方条款未核实)",
+   "exhibited_history": [
+    "未查到首次展出记录",
+    "曾参加 Pieter Claesz. 回顾展「Pieter Claesz: Master of Haarlem Still Life」(检索结果列出该展,具体是否含此作未核实)"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后的公开展出信息",
+   "summary": "这是克拉斯 1625 年的一件小尺寸木板画(29.5×34.5 cm,现藏哈勒姆 Frans Hals Museum),桌上摆着头骨、怀表、蜡烛、信与银莲花。它是他早期虚空静物的代表,颜色比后期更鲜。",
+   "story": "确认对应作品:文件名所指的「Vanitas Still Life, 1625, 29.5×34.5 cm」即哈勒姆 Frans Hals Museum 藏的这一件小画。画面上有烛台与烛头、怀表、信、羽毛笔与墨水瓶、花、头骨和一颗核桃。这些都是虚空画的固定符号,暗示时间流逝与生命短暂。作为 1630 年前的作品,它保留了不少鲜艳色彩,如银莲花的红白和怀表蓝色丝带。这种银莲花被古罗马诗人奥维德称为「风之花」,因花期短而象征易逝。1630 年之后克拉斯更偏爱灰绿黄的单色调。",
+   "technique_note": "小尺寸木板上的细致写实:物体质感(金属、玻璃、纸、骨)各有肌理,光线从一侧落下,构图紧凑。此件处在早期阶段,尚未进入他后来的单色调时期。",
+   "sources": [
+    "https://artsandculture.google.com/asset/vanitas-still-life-pieter-claesz/lAGE-SJvVcF7Lg?hl=en",
+    "https://print.franshalsmuseum.nl/en/winkel/pieter-claesz-vanitas-still-life-1625/",
+    "https://commons.wikimedia.org/wiki/File:Pieter_Claeszoon-_Vanitas_-_Still_Life_(1625,_29,5_x_34,5_cm).JPG"
+   ]
+  }
+ ]
+}

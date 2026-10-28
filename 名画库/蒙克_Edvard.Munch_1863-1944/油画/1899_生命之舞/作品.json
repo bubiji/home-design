@@ -1,0 +1,89 @@
+{
+  "no": 401,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-dance-of-life"
+  ],
+  "title_en": "The Dance of Life",
+  "title_ja": "",
+  "title_zh": "生命之舞",
+  "year": "1899–1900",
+  "year_sort": 1899,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Edvard Munch - The Dance of Life - NG.M.00941 - National Museum of Art, Architecture and Design.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "125 × 191 cm",
+  "museum": "Nasjonalmuseet, Oslo",
+  "museum_city": "挪威奥斯陆",
+  "accession": "NG.M.00941",
+  "museum_url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00941",
+  "hd_available": "是:Commons 有高清图(见 image 字段);作者 1944 年逝世,公有领域。",
+  "exhibited_history": [
+    "1900 年德累斯顿(题为《Johannisnacht》圣约翰之夜)",
+    "1902 年柏林(列入「爱的绽放与凋零」组)",
+    "1903 年莱比锡",
+    "1904 年克里斯蒂安尼亚(奥斯陆)Dioramalokalet,题为《生命之舞》",
+    "1905 年布拉格"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。 本作由国家博物馆常设展出(据馆方,060 展厅)。",
+  "summary": "蒙克「生命之饰带」系列的核心画作:月光水边,一对对男女起舞,三个女人象征少女、成熟与衰老。1910 年由收藏家奥拉夫·舒捐赠给国家美术馆。",
+  "story": "画面描绘夏夜水边的舞蹈,白衣少女、红衣女子与黑衣老妇分别暗示生命的不同阶段。蒙克可能受到海尔格·罗德 1898 年戏剧《舞蹈继续》的启发,他的藏书中有这部剧本。作品最早 1900 年在德累斯顿展出,题为《圣约翰之夜》,在「生命之饰带」展览中被置于核心位置。1910 年收藏家奥拉夫·舒在蒙克的展览上购得此画,并直接捐赠给国立美术馆。如今它在奥斯陆国家博物馆常设展出。",
+  "technique_note": "布面油画,色块偏平、轮廓线条流畅;月亮在水面上的倒影形成垂直的光柱,被解读为性的象征。该解读来自后世评论。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/the-dance-of-life",
+    "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00941",
+    "https://en.wikipedia.org/wiki/The_Dance_of_Life_(Munch)",
+    "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_The_dance_of_life_(1899-1900).jpg"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3208135",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "http://www.nasjonalmuseet.no/en/collections_and_research/our_collections/edvard_munch_in_the_natonal_museum/The+Dance+of+Life%2C+1899–1900.b7C_wljW5c.ips",
+      "status": "UnicodeEncodeError",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "National Museum Norway artwork ID",
+      "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NG.M.00941",
+      "status": 403,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/The_Dance_of_Life_(Munch)",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AEdvard_Munch_-_The_Dance_of_Life_-_NG.M.00941_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q3208135",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Edvard_Munch_-_The_Dance_of_Life_-_NG.M.00941_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_The_Dance_of_Life_-_NG.M.00941_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 10526,
+    "height": 6856,
+    "bytes": 12595960,
+    "sha256": "ac5ec61a2fa82349ad39a93dd1b6542c8ab099575fbd78ec9e59c4fae7a7e999"
+  }
+}

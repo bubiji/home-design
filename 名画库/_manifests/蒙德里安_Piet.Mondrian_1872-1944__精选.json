@@ -1,0 +1,296 @@
+{
+ "author": {
+  "dir": "蒙德里安_Piet.Mondrian_1872-1944",
+  "name_zh": "皮特·蒙德里安",
+  "name_en": "Piet Mondrian",
+  "life": "1872–1944",
+  "bio": "皮特·蒙德里安(Piet Mondrian,1872–1944)生于荷兰阿默斯福特,早期受海牙画派与印象派影响,1912 年赴巴黎接触立体主义后逐步走向抽象。他与杜斯堡等人共同创立风格派(De Stijl),发展出只用三原色、黑白灰与水平垂直线的「新造型主义」。1940 年起定居纽约,晚期作品转向更具律动的《百老汇爵士乐》等,1944 年因肺炎在纽约去世。",
+  "wikidata": "Q151803"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 401,
+   "favorite": true,
+   "favorite_reason": "画框之外 The Living Gallery 收录",
+   "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/composition-red-blue-yellow"
+   ],
+   "title_en": "Composition with Red, Blue and Yellow 1930",
+   "title_ja": "",
+   "title_zh": "红、蓝、黄的构成",
+   "year": "c.1930",
+   "year_sort": 1930,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Piet Mondriaan, 1930 - Mondrian Composition II in Red, Blue, and Yellow.jpg",
+    "note": ""
+   },
+   "medium": "布面油画(oil on canvas)",
+   "dimensions": "46 × 46 cm",
+   "museum": "Kunsthaus Zürich",
+   "museum_city": "苏黎世(瑞士)",
+   "accession": "未查到可靠馆藏号(Commons 条目标 1200-1899,与 1987 年入藏的信息不符,存疑)",
+   "museum_url": "https://www.kunsthaus.ch/en/",
+   "hd_available": "是:Commons 有 5918×6000 px 文件。版权:蒙德里安 1944 年去世,欧盟/瑞士等「作者死后 70 年」地区自 2015-01-01 起进入公有领域;美国方面,1930 年出版的作品自 2026-01-01 起进入公有领域,Commons 即按 PD 标注。商用请自行复核。",
+   "exhibited_history": [
+    "Commons 记录:1987 年 Alfred Roth 赠予 Kunsthaus Zürich",
+    "展览史未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后的公开外展安排(Kunsthaus 官网拒绝访问,未能核实)。",
+   "summary": "蒙德里安 1930 年巴黎时期的典型构图:粗黑线将画面分成方格,填入红、蓝、黄原色与白色。画幅仅 46×46 cm 的小方形。",
+   "story": "画作属于蒙德里安 1918–1938 年的巴黎时期,当时他已把风格精炼为水平与垂直的黑线、原色矩形与白色空间。到 1930 年,他的作品以粗黑线分隔几何形状,靠有色矩形与白块的不对称取得平衡。这种「新造型主义」被他视为一种遵循古典、柏拉图式、欧几里得式世界观的方法。画作后来由 Alfred Roth 于 1987 年赠予苏黎世美术馆(据 Commons 记录)。该画也常被称为《红、蓝、黄的构成 II》。",
+   "technique_note": "布面油画;黑线粗而厚,色块边缘清晰。更详细的颜料或底稿分析未查到。",
+   "sources": [
+    "https://huakuangzhiwai.space/collection/composition-red-blue-yellow",
+    "https://en.wikipedia.org/wiki/Composition_II_in_Red,_Blue,_and_Yellow",
+    "https://commons.wikimedia.org/wiki/File:Piet_Mondriaan,_1930_-_Mondrian_Composition_II_in_Red,_Blue,_and_Yellow.jpg"
+   ],
+   "links": [
+    {
+     "label": "Wikidata",
+     "url": "https://www.wikidata.org/wiki/Q19609193",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Wikipedia(英)",
+     "url": "https://en.wikipedia.org/wiki/Composition_with_Red,_Blue_and_Yellow",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Commons 原图页",
+     "url": "https://commons.wikimedia.org/wiki/File%3APiet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg",
+     "status": 200,
+     "checked": "2026-10-02"
+    }
+   ],
+   "wikidata": "Q19609193"
+  },
+  {
+   "no": 402,
+   "favorite": true,
+   "favorite_reason": "画框之外 The Living Gallery 收录",
+   "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/broadway-boogie-woogie"
+   ],
+   "title_en": "Broadway Boogie Woogie",
+   "title_ja": "",
+   "title_zh": "百老汇爵士乐",
+   "year": "1942–1943",
+   "year_sort": 1942,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Piet Mondrian, 1942 - Broadway Boogie Woogie.jpg",
+    "note": ""
+   },
+   "medium": "布面油画(oil on canvas)",
+   "dimensions": "127 × 127 cm(50 × 50 in)",
+   "museum": "Museum of Modern Art (MoMA), New York",
+   "museum_city": "纽约(美国)",
+   "accession": "73.1943",
+   "museum_url": "https://www.moma.org/collection/works/78682",
+   "hd_available": "是:Commons 有 4104×4111 px 文件。版权:欧盟自 2015-01-01 公有领域。美国方面,1942–43 年的作品属 1931–1977 年出版区间:Commons 以「出版时无版权标记」为由标为公有领域(PD US no notice),但若实际带标记并续期,保护期为出版后 95 年(至 2038 年底);此点我未能独立核实,商用请自行复核。",
+   "exhibited_history": [
+    "1943 年在纽约 Valentine Gallery 展出,展后巴西雕塑家 Maria Martins 以 800 美元购得,后赠予 MoMA(据维基百科)",
+    "此后 MoMA 馆内长期展出;外借展览记录未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后的公开外展安排(MoMA 官网拒绝访问,未能核实)。",
+   "summary": "蒙德里安 1942–43 年在纽约完成的最后一批完整作品之一:黄色底线上跳动着大量红、蓝、灰色小方块,以曼哈顿街格与布吉乌吉音乐为灵感。它标志着他从冷静的网格转向更具节奏感的画面。",
+   "story": "1940 年蒙德里安移居纽约后,深受曼哈顿整齐严格的街区和布吉乌吉(boogie-woogie)爵士乐吸引。这幅画与他以前的作品不同,出现了「多得多的方块」,把线条也换成了彩色格子。他描述自己的目标是「破坏自然的外观,并通过纯粹手段的持续对立来建构——动态节奏」。作品先在 1943 年于纽约 Valentine Gallery 展出,巴西雕塑家 Maria Martins 以 800 美元买下并捐给了 MoMA。此后他又开始画《胜利布吉乌吉》,但 1944 年去世时尚未完成。",
+   "technique_note": "布面油画,127×127 cm 的正方形。据维基百科,画面由比他早期作品多得多的方块构成;关于是否先用彩色胶带试排再上色等工作方法,本次未能核实。",
+   "sources": [
+    "https://huakuangzhiwai.space/collection/broadway-boogie-woogie",
+    "https://en.wikipedia.org/wiki/Broadway_Boogie_Woogie",
+    "https://www.wikidata.org/wiki/Q2915406",
+    "https://commons.wikimedia.org/wiki/File:Piet_Mondrian,_1942_-_Broadway_Boogie_Woogie.jpg"
+   ],
+   "links": [
+    {
+     "label": "Wikidata",
+     "url": "https://www.wikidata.org/wiki/Q2915406",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Museum of Modern Art work ID",
+     "url": "https://www.moma.org/collection/works/78682",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Wikipedia(英)",
+     "url": "https://en.wikipedia.org/wiki/Broadway_Boogie_Woogie",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "维基百科(中)",
+     "url": "https://zh.wikipedia.org/wiki/%E7%99%BE%E8%80%81%E5%8C%AF%E7%88%B5%E5%A3%AB%E6%A8%82",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Commons 原图页",
+     "url": "https://commons.wikimedia.org/wiki/File%3APiet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg",
+     "status": 200,
+     "checked": "2026-10-02"
+    }
+   ],
+   "wikidata": "Q2915406"
+  },
+  {
+   "no": 403,
+   "favorite": true,
+   "favorite_reason": "画框之外 The Living Gallery 收录",
+   "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-gray-tree"
+   ],
+   "title_en": "The Gray Tree",
+   "title_ja": "",
+   "title_zh": "灰树",
+   "year": "1911",
+   "year_sort": 1911,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Piet mondrian, l'albero girgio, 1911.jpg",
+    "note": "展厅实拍(CC BY)"
+   },
+   "medium": "布面油画(oil on canvas)",
+   "dimensions": "79.7 × 109.1 cm(沿用 Commons 馆藏标注;维基百科另记 78.5 × 107.5 cm)",
+   "museum": "Kunstmuseum Den Haag",
+   "museum_city": "海牙(荷兰)",
+   "accession": "0334314(Commons 记录)",
+   "museum_url": "https://www.kunstmuseum.nl/en",
+   "hd_available": "否/有限:Commons 仅有展厅实拍(4230×3102 px,CC BY 3.0,Sailko 2017),非正面翻拍高清。作品本身 1911 年创作,公有领域。",
+   "exhibited_history": [
+    "展览史未查到(馆方现有「Mondrian & De Stijl」常设性展示,是否含本作未核实)"
+   ],
+   "exhibited_future": [],
+   "future_note": "Kunstmuseum Den Haag 官网列有「Mondrian & The Road to Abstraction」为即将举办的展览,但页面未给出日期,也未列出展品,故不能当作本作的外展计划;不填入 exhibited_future。",
+   "summary": "蒙德里安 1911 年的树木系列代表作,灰色枝干像细密的网在椭圆形轮廓中盘绕,前景与后景互相交织。受立体主义影响,色彩极度克制。",
+   "story": "这幅画创作于蒙德里安刚开始尝试立体主义的阶段。树形略成椭圆,前景和背景的元素互相渗透,色调高度克制,体现了毕加索与布拉克的立体主义影响。在后来的《盛开的苹果树》(1912)里,抽象程度又进一步推进。这是蒙德里安从具象树木走向格子抽象的关键一步,现藏于海牙 Kunstmuseum(原海牙市立博物馆),该馆是世界上收藏蒙德里安最多的机构之一。",
+   "technique_note": "布面油画,色板以灰、黑、褐为主,枝干以弯曲的线条构成网状;立体主义式的浅空间。详细材料分析未查到。",
+   "sources": [
+    "https://huakuangzhiwai.space/collection/the-gray-tree",
+    "https://en.wikipedia.org/wiki/Gray_Tree",
+    "https://commons.wikimedia.org/wiki/File:Piet_mondrian,_l'albero_girgio,_1911.jpg"
+   ],
+   "links": [
+    {
+     "label": "Wikidata",
+     "url": "https://www.wikidata.org/wiki/Q5598238",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "描述页(P973)",
+     "url": "http://www.gemeentemuseum.nl/en/collection/item/1039",
+     "status": "URLError",
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "描述页(P973)",
+     "url": "https://www.gemeentemuseum.nl/nl/collectie/de-grijze-boom",
+     "status": "URLError",
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Wikipedia(英)",
+     "url": "https://en.wikipedia.org/wiki/Gray_Tree",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Commons 原图页",
+     "url": "https://commons.wikimedia.org/wiki/File%3APiet_mondrian%2C_l%27albero_girgio%2C_1911.jpg",
+     "status": 200,
+     "checked": "2026-10-02"
+    }
+   ],
+   "wikidata": "Q5598238"
+  },
+  {
+   "no": 404,
+   "favorite": true,
+   "favorite_reason": "画框之外 The Living Gallery 收录",
+   "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/evening-the-red-tree"
+   ],
+   "title_en": "Evening; Red Tree",
+   "title_ja": "",
+   "title_zh": "黄昏:红树",
+   "year": "1908–1910",
+   "year_sort": 1908,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Piet Mondrian, 1908-10, Evening; Red Tree (Avond; De rode boom), oil on canvas, 70 x 99 cm, Gemeentemuseum Den Haag.jpg",
+    "note": ""
+   },
+   "medium": "布面油画(oil on canvas)",
+   "dimensions": "70 × 99 cm",
+   "museum": "Kunstmuseum Den Haag",
+   "museum_city": "海牙(荷兰)",
+   "accession": "17-1933(Commons 记录)",
+   "museum_url": "https://www.kunstmuseum.nl/en",
+   "hd_available": "是/偏低:Commons 文件为 2362×1667 px,分辨率偏低;作品为公有领域。",
+   "exhibited_history": [
+    "展览史未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "同《灰树》:官网列有「Mondrian & The Road to Abstraction」即将举办,但无日期、无展品清单,不能认定含本作,故不填。",
+   "summary": "蒙德里安约 1908–1910 年的作品,一棵红色的树在蓝色黄昏里伸展枝条,色彩已脱离自然。它是他「树」系列的开端。",
+   "story": "这幅画标志着蒙德里安「树」系列的开始,也是通往新造型主义的早期一步。灵感来自梵高回顾展与诗人维尔哈伦(Émile Verhaeren)的诗《L'Arbre》。他把自然看作「激烈运动与静止之间的复杂平衡」。画家只用红与蓝两个主色,排斥自然色彩,借色彩对比传达象征与暗示。笔触节奏分明而略有中断,带有点彩画的味道。作品现藏海牙 Kunstmuseum。",
+   "technique_note": "不透明、有节奏的笔触,强烈但略有断续,带点彩意味;色彩限制为红与蓝,放弃写实色彩。",
+   "sources": [
+    "https://huakuangzhiwai.space/collection/evening-the-red-tree",
+    "https://en.wikipedia.org/wiki/Evening;_Red_Tree",
+    "https://commons.wikimedia.org/wiki/File:Piet_Mondrian,_1908-10,_Evening;_Red_Tree_(Avond;_De_rode_boom),_oil_on_canvas,_70_x_99_cm,_Gemeentemuseum_Den_Haag.jpg"
+   ],
+   "links": [
+    {
+     "label": "Wikidata",
+     "url": "https://www.wikidata.org/wiki/Q3818263",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "描述页(P973)",
+     "url": "http://www.gemeentemuseum.nl/en/collection/item/1160",
+     "status": "URLError",
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "描述页(P973)",
+     "url": "https://www.gemeentemuseum.nl/nl/collectie/avond-de-rode-boom",
+     "status": "URLError",
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Wikipedia(英)",
+     "url": "https://en.wikipedia.org/wiki/Evening;_Red_Tree",
+     "status": 200,
+     "checked": "2026-10-02"
+    },
+    {
+     "label": "Commons 原图页",
+     "url": "https://commons.wikimedia.org/wiki/File%3APiet_Mondrian%2C_1908-10%2C_Evening%3B_Red_Tree_%28Avond%3B_De_rode_boom%29%2C_oil_on_canvas%2C_70_x_99_cm%2C_Gemeentemuseum_Den_Haag.jpg",
+     "status": 200,
+     "checked": "2026-10-02"
+    }
+   ],
+   "wikidata": "Q3818263"
+  }
+ ]
+}

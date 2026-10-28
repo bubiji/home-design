@@ -1,0 +1,53 @@
+{
+ "author": {
+  "dir": "安格尔_Jean-Auguste-Dominique.Ingres_1780-1867",
+  "name_zh": "让-奥古斯特-多米尼克·安格尔",
+  "name_en": "Jean-Auguste-Dominique Ingres",
+  "life": "1780–1867",
+  "bio": "让-奥古斯特-多米尼克·安格尔(1780–1867)是法国新古典主义领军画家,大卫的学生,曾在罗马留学。他以严谨的线条、理想化的人体与肖像见长,同时也创作带「行吟诗人风格」的中世纪题材小幅画作。"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 301,
+   "favorite": true,
+   "favorite_reason": "周杰伦《太阳之子》(2026)MV 名画重现",
+   "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:线索剪报(置信度:4 篇)"
+   ],
+   "title_en": "Paolo and Francesca",
+   "title_ja": "",
+   "title_zh": "保罗与弗朗切斯卡",
+   "year": "1819",
+   "year_sort": 1819,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Jean Auguste Dominique Ingres - Paolo and Francesca - WGA11844.jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "48 × 39 cm",
+   "museum": "Musée des Beaux-Arts d'Angers(昂热美术馆)",
+   "museum_city": "昂热(Angers),法国",
+   "accession": "MTC 19",
+   "museum_url": "https://ow-mba.angers.fr/fr/notice/mtc-19-paolo-et-francesca-e3446612-9ec1-414b-b910-be5e6053be75",
+   "hd_available": "是(公有领域,Commons 有对应文件;最大像素未核对);注:Commons 该文件来自 WGA,尺寸标注(480×390)有误,实为 48×39 cm",
+   "exhibited_history": [
+    "未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到2026-09-30之后的公开展出信息",
+   "summary": "这是安格尔《保罗与弗朗切斯卡》七个已知版本中公认最精致的1819年昂热版。画中取材于但丁《神曲·地狱篇》第五章:恋人共读兰斯洛特与桂妮薇儿的故事时坠入爱河。画面带「行吟诗人风格」的中世纪细节。",
+   "story": "据法语维基,昂热版原受阿梅代·德·帕斯托雷伯爵为巴黎「艺术之友协会」委托,但他后来拒绝了此画。画家兼收藏家勒朗斯洛-泰奥多尔·蒂尔潘·德·克里塞收下此画,去世后遗赠给昂热美术馆,并附有克洛德-艾梅·舍纳瓦尔设计的行吟诗人式画框。此题材安格尔画过多个版本,最早的1814年版为拿破仑妹妹卡罗琳·缪拉订制,现藏尚蒂伊孔德博物馆。其他版本分藏伯明翰巴伯美术学院、巴约讷博纳-埃莱博物馆等地。故事本身来自但丁笔下的弗朗切斯卡,她与丈夫之弟保罗因共读骑士传奇而相爱,被丈夫发现后双双被杀。",
+   "technique_note": "小幅布面油画,以精细线条与平滑釉面呈现,人物比例带「变形」(如保罗的身形),并借鉴北方文艺复兴的正面构图与方格地板透视,属早期行吟诗人风格,融合新古典的严谨与浪漫情绪。",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Paolo_et_Francesca_(Ingres)",
+    "https://ow-mba.angers.fr/fr/notice/mtc-19-paolo-et-francesca-e3446612-9ec1-414b-b910-be5e6053be75",
+    "https://musees.angers.fr/collections/incontournables/incontournable/50-paolo-et-francesca-jean-auguste-dominique-ingres-1780-1867/index.html",
+    "https://commons.wikimedia.org/wiki/File:Jean_Auguste_Dominique_Ingres_-_Paolo_and_Francesca_-_WGA11844.jpg"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+  "no": 401,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/orange-and-yellow"
+  ],
+  "title_en": "Orange and Yellow",
+  "title_ja": "",
+  "title_zh": "橙与黄",
+  "year": "1956",
+  "year_sort": 1956,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者去世未满 70 年(或在美国仍受版权保护),只记资料不下载"
+  },
+  "medium": "布面油画",
+  "dimensions": "231.2 × 180.4 cm",
+  "museum": "Buffalo AKG Art Museum",
+  "museum_city": "美国纽约州布法罗",
+  "accession": "K1956:8(Gift of Seymour H. Knox, Jr., 1956)",
+  "museum_url": "https://buffaloakg.org/artworks/orange-and-yellow",
+  "hd_available": "否:罗斯科 1970 年逝世,作品仍在版权保护期(美国终身+70 年至 2040 年),只记资料不下载。",
+  "exhibited_history": [
+    "1987 年《抽象表现主义:关键性发展》(Abstract Expressionism: The Critical Developments)",
+    "2009 年《行动/抽象:波洛克、德库宁与美国艺术 1940–1976》(Action/Abstraction)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。",
+  "summary": "1956 年的典型成熟期色域绘画,橙色与黄色的矩形在背景上浮动。由西摩·诺克斯于同年捐赠给布法罗(Albright-Knox,现 Buffalo AKG)。",
+  "story": "作品属于罗斯科 1950 年代成熟期的两到三个矩形叠在背景上的典型构图。边缘柔和而不确定,让视线在色块间流动。1956 年西摩·H·诺克斯(Knox)当年即捐赠给布法罗的美术馆,现称 Buffalo AKG。罗斯科曾说,看画时落泪的人和他作画时有相同的宗教体验。作品出现在 1987 年《抽象表现主义》、2009 年《行动/抽象》等展览中。",
+  "technique_note": "以稀薄的颜料层层叠加,让颜色渗入画布产生发光效果,矩形的软边使色块仿佛漂浮。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/orange-and-yellow",
+    "https://buffaloakg.org/artworks/orange-and-yellow",
+    "https://en.wikipedia.org/wiki/Mark_Rothko"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3355073",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.albrightknox.org/artworks/k19568-orange-and-yellow",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q3355073",
+  "downloaded": null
+}

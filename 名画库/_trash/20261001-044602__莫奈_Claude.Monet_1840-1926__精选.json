@@ -1,0 +1,262 @@
+{
+ "author": {
+  "name_zh": "克劳德·莫奈",
+  "name_en": "Claude Monet",
+  "life": "1840–1926",
+  "dir": "莫奈_Claude.Monet_1840-1926",
+  "bio": "克劳德·莫奈(1840–1926)是法国印象派的核心人物,“印象派”一名即出自他的《印象·日出》。他以户外写生和对光与瞬间的捕捉著称,晚年在吉维尼创作《睡莲》系列。"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 101,
+   "favorite": true,
+   "favorite_reason": "你单独点名(SPICE 展讯图)",
+   "title_en": "The Rue Montorgueil in Paris. Celebration of June 30, 1878",
+   "title_ja": "パリ、モントルグイユ通り、1878年6月30日の祝祭",
+   "title_zh": "巴黎蒙托戈伊街,1878年6月30日的节庆",
+   "year": "1878",
+   "year_sort": 1878,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Claude Monet - The Rue Montorgueil in Paris. Celebration of June 30, 1878 - Google Art Project.jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "81 × 50",
+   "museum": "Musée d'Orsay",
+   "museum_city": "Paris",
+   "accession": "RF 1982 71(1982年 dation 抵税捐赠入藏)",
+   "museum_url": "https://www.musee-orsay.fr/en/artworks/la-rue-montorgueil-paris-fete-du-30-juin-1878-10896",
+   "hd_available": "是:Commons 有 Google Art Project 高清图;奥赛官网亦有作品页(Orsay 页面本次抓取被拒 403,未核对其开放许可)",
+   "exhibited_history": [
+    "1879年 第四届印象派展(Wikidata 记载目录号 145)",
+    "2026-11-14 至 2027-03-28 东京都美术馆(见 exhibited_future)"
+   ],
+   "exhibited_future": [
+    "2026-11-14 至 2027-03-28 东京都美术馆「東京都美術館開館100周年記念 オルセー美術館所蔵 いまを生きる歓び」(来源:https://spice.eplus.jp/articles/347404)"
+   ],
+   "future_note": "东京展官方页面/日经官方站均说明:本展不巡回其他会场,仅东京一站;二者页面均未逐一列出本作,本作入展依据为 SPICE 报道(已记录)。",
+   "summary": "1878年6月30日,巴黎为万国博览会举办“和平与劳动”节庆,莫奈在街头画下蒙托戈伊街满街旗帜的景象。画面用密集的笔触表现旗海与人群,是普法战争后巴黎复兴的象征。",
+   "story": "1878年6月30日,法国政府为庆祝“和平与劳动”举办节庆,恰在第三届巴黎万国博览会开幕数周后,被视作战败(1870)后复兴的象征。莫奈当天画下满街旗帜的蒙托戈伊街。它常被误认为7月14日国庆,其姊妹作《圣德尼街》现藏鲁昂美术馆。此画由乔治·德·贝利奥医生于1878年7月11日从画家处购得,后传给其女(唐诺普·德蒙希夫人),又归瓦格拉姆亲王(1906年起),1982年经 dation 入藏奥赛。1879年参加了第四届印象派展。",
+   "technique_note": "竖幅小尺寸油画,以短促、密集的笔触与红白蓝的碎点表现飘动的旗帜和人群,不描绘细节;笔触速度感是印象派“瞬间”表现的典型。以上笔触描述为通行画评,奥赛页面未能抓取核对。",
+   "sources": [
+    "https://www.musee-orsay.fr/en/artworks/la-rue-montorgueil-paris-fete-du-30-juin-1878-10896",
+    "https://www.wikidata.org/wiki/Q3212522",
+    "https://fr.wikipedia.org/wiki/La_Rue_Montorgueil",
+    "https://panoramadelart.com/analyse/la-rue-montorgueil-paris-fete-du-30-juin-1878",
+    "https://www.tobikan.jp/exhibition/2026_orsay.html",
+    "https://art.nikkei.com/orsay2627/outline/",
+    "https://spice.eplus.jp/articles/347404"
+   ]
+  },
+  {
+   "no": 201,
+   "favorite": true,
+   "favorite_reason": "周杰伦《最伟大的作品》(2022) 引用的作品",
+   "culture_relation": [
+    "周杰伦《最伟大的作品》(2022):歌词提及——歌词「印象」港口指向该作。(置信度:来源明确点名)"
+   ],
+   "title_en": "Impression, Sunrise",
+   "title_ja": "",
+   "title_zh": "印象·日出",
+   "year": "1872",
+   "year_sort": 1872,
+   "technique": "油画",
+   "book_relation": "《The Story of Art》1951 英文初版正文提到(无插图):印象派之名即来自此画在 1874 年首展时的标题——16 版未核对",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Monet - Impression, Sunrise.jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "50 x 65 cm(不含框,马蒙丹馆官网);维基百科等处作 48 x 63 cm",
+   "museum": "马蒙丹·莫奈博物馆(Musée Marmottan Monet)",
+   "museum_city": "巴黎,法国",
+   "accession": "inv. 4014",
+   "museum_url": "https://www.marmottan.fr/en/notice/4014/",
+   "hd_available": "是(作者1926年去世,已进入公有领域;Commons 有文件)",
+   "exhibited_history": [
+    "1874年4月15日:第一届「无名艺术家协会」(后称第一届印象派展),巴黎纳达尔旧摄影室——首展,评论家 Louis Leroy 的讽刺文章由此让「印象派」得名",
+    "1985年被盗、1990年追回、1991年重新展出",
+    "近年曾外借奥赛博物馆与华盛顿国家美术馆(据维基百科;具体年份未核)"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到公开的2026-09-30之后展出安排",
+   "summary": "1872年莫奈在勒阿弗尔旅馆窗前所画的港口日出,1874年首届印象派展出时其题名被评论家借来命名了整个「印象派」。现藏巴黎马蒙丹·莫奈博物馆。",
+   "story": "莫奈从勒阿弗尔一家旅馆的窗口画下清晨的港口,雾气、船影与橙红色的太阳只用寥寥笔触交代。1874年4月他与毕沙罗、德加、雷诺阿、西斯莱、莫里索等在摄影师纳达尔的旧工作室办展,这幅画在目录里被随手题为「印象·日出」。评论家 Louis Leroy 写文章嘲讽参展者只画「印象」,却无意间给这个群体取了名字。之后批评家 Jules Castagnary 以肯定的语气使用了「印象派」一词。画作于1940年5月23日由 Donop de Monchy 夫妇捐赠给马蒙丹馆。1985年它被两名窃贼从馆内盗走,1990年被追回。",
+   "technique_note": "布面油画,笔触松快、轮廓不作细描;据哈佛神经生物学家 Margaret Livingstone 的观察,太阳与天空亮度(明度)几乎相同,转成黑白后太阳几乎消失。",
+   "sources": [
+    "https://news.qq.com/rain/a/20220706A05CMF00",
+    "https://www.marmottan.fr/en/notice/4014/",
+    "https://en.wikipedia.org/wiki/Impression,_Sunrise"
+   ]
+  },
+  {
+   "no": 202,
+   "favorite": true,
+   "favorite_reason": "周杰伦《最伟大的作品》(2022) 引用的作品",
+   "culture_relation": [
+    "周杰伦《最伟大的作品》(2022):歌词提及——歌词提及「睡莲」。(置信度:来源明确点名);歌词只说睡莲系列,此处以芝加哥艺术博物馆 1906 年版(馆方 CC0)作代表"
+   ],
+   "title_en": "Water Lilies",
+   "title_ja": "",
+   "title_zh": "睡莲(1906,芝加哥艺术博物馆)",
+   "year": "1897-1926",
+   "year_sort": 1906,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Claude Monet - Water Lilies - 1933.1157 - Art Institute of Chicago.jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "89.9 x 94.1 cm",
+   "museum": "芝加哥艺术博物馆(Art Institute of Chicago)",
+   "museum_city": "芝加哥,美国",
+   "accession": "1933.1157(Mr. and Mrs. Martin A. Ryerson Collection)",
+   "museum_url": "https://www.artic.edu/artworks/16568/water-lilies",
+   "hd_available": "是(作者1926年去世,公有领域;馆方 CC0 开放高清)",
+   "exhibited_history": [
+    "1909年5月-6月:巴黎 Durand-Ruel 画廊「睡莲:水景系列」个展,约48件同主题作品同展(首展;月份据馆方「1909年不到一年前」表述与该展通例,具体日期未核)",
+    "1914年2月10日:Durand-Ruel 纽约售予芝加哥收藏家 Martin A. Ryerson",
+    "1933年:Ryerson 遗赠芝加哥艺术博物馆"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到公开的2026-09-30之后展出安排",
+   "summary": "1906年的《睡莲》,近方形构图,画面只剩水面与睡莲。现藏芝加哥艺术博物馆。歌词只提睡莲系列,本条以该馆1906年版代表。",
+   "story": "1903至1908年间莫奈在吉维尼自家的水景花园里反复画睡莲,这一幅出自那一组。近乎方形的画幅让他不再画岸、天、水的分区,而只画水面本身。1909年,他把包括这幅在内的近五十件睡莲作品送到巴黎 Durand-Ruel 画廊展出。1914年芝加哥收藏家 Martin A. Ryerson 从 Durand-Ruel 纽约处买下,他1933年去世时将其遗赠给芝加哥艺术博物馆,馆藏编号即1933.1157。",
+   "technique_note": "布面油画,以水面为唯一主题、近方形画幅;馆方另有关于其色彩与颜料化学的研究文章(artic.edu/articles/862)。",
+   "sources": [
+    "https://news.qq.com/rain/a/20220706A05CMF00",
+    "https://www.artic.edu/artworks/16568/water-lilies",
+    "https://publications.artic.edu/monet/api/epub/135466/135621/print_view",
+    "https://www.artic.edu/articles/862/color-chemistry-and-creativity-in-monets-water-lilies"
+   ]
+  },
+  {
+   "no": 211,
+   "favorite": true,
+   "favorite_reason": "周杰伦《最伟大的作品》(2022)MV/歌词 引用的作品",
+   "culture_relation": [
+    "周杰伦《最伟大的作品》(2022)MV/歌词:MV 为莫奈变出睡莲的场景,解析延伸到睡莲池与桥(置信度:2 篇)"
+   ],
+   "title_en": "The Water-Lily Pond",
+   "title_ja": "",
+   "title_zh": "睡莲池(日本桥)",
+   "year": "1899",
+   "year_sort": 1899,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Claude Monet, The Water-Lily Pond (National Gallery, London).jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "88.3 x 93.1 cm",
+   "museum": "伦敦国家美术馆 National Gallery, London",
+   "museum_city": "伦敦,英国",
+   "accession": "NG4240",
+   "museum_url": "https://www.nationalgallery.org.uk/paintings/claude-monet-the-water-lily-pond",
+   "hd_available": "是(作者1926年去世,已入公有领域;国家美术馆网站有在线图像,可下载分辨率未核)",
+   "exhibited_history": [
+    "1900年12月在巴黎 Durand-Ruel 画廊展出(与同题材共12幅一起)",
+    "1900年1月17日经 Durand-Ruel 售出(据馆方出处记录)",
+    "1927年经 Reid and Lefevre 与 Tate 交换、Courtauld 补款,后于1961年转入国家美术馆;现陈列于46厅"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到公开的2026-09-30之后展出安排(检索无结果,不代表没有)",
+   "summary": "1899年的睡莲池:日本桥横跨画面,水面浮着睡莲与倒影,是莫奈吉维尼水园系列中的一幅。藏于伦敦国家美术馆。",
+   "story": "1893年莫奈买下吉维尼住宅旁的土地,建起带日式桥的水园,种入杂交睡莲。1895年他曾画过三幅桥景,1899年回到这个主题,画了约十八幅,其中十二幅于1900年12月在 Durand-Ruel 画廊展出。国家美术馆这幅构图接近对称,画面同时有仰视桥、俯视水面的错位感,用绿、紫、蓝的厚笔触画出倒影与花朵。此后他的兴趣逐步从桥与岸转向纯水面,最终发展为橘园美术馆的大幅装饰画。它经交换于1927年到 Tate,再于1961年转入国家美术馆。",
+   "technique_note": "布面油画,厚笔触叠加绿、紫、蓝色调表现倒影;构图上桥拱占据画面,几乎没有地平线,视角有意造成迷失感。",
+   "sources": [
+    "https://www.nationalgallery.org.uk/paintings/claude-monet-the-water-lily-pond",
+    "https://en.wikipedia.org/wiki/Water_Lilies_(Monet_series)"
+   ]
+  },
+  {
+   "no": 212,
+   "favorite": true,
+   "favorite_reason": "周杰伦《最伟大的作品》(2022)MV/歌词 引用的作品",
+   "culture_relation": [
+    "周杰伦《最伟大的作品》(2022)MV/歌词:MV 中出现莫奈自画像(置信度:3 篇)",
+    "两篇新读的解析(知乎、B 站)都确认 MV 这一场是莫奈自画像,拍摄地为巴黎埃弗勒酒店"
+   ],
+   "title_en": "Self-Portrait (unspecified)",
+   "title_ja": "",
+   "title_zh": "自画像(未指明哪一幅)",
+   "year": "",
+   "year_sort": 0,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "解析文章未指明具体哪一幅,无法确定下载对象"
+   },
+   "medium": "未确定具体作品",
+   "dimensions": "未确定具体作品",
+   "museum": "未确定(候选:巴黎奥赛博物馆 Musée d'Orsay,1917年自画像)",
+   "museum_city": "未确定(候选:巴黎)",
+   "accession": "未确定(候选 Orsay 1917 自画像为 RF 2623,来源:检索摘要,待核)",
+   "museum_url": "https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-1173",
+   "hd_available": "未确定具体作品(莫奈1926年去世,作品已入公有领域;若为候选的奥赛作品,可查馆方图像)",
+   "exhibited_history": [
+    "未确定具体作品,无法给出展览史"
+   ],
+   "exhibited_future": [],
+   "future_note": "未确定具体作品,故未查到展出安排",
+   "summary": "MV中出现的莫奈自画像未指明是哪一幅;莫奈留下的自画像很少,奥赛博物馆藏的1917年自画像是候选之一。",
+   "story": "解析只说MV里出现莫奈自画像,没有指明具体哪一幅,所以无法确定。莫奈很少画自画像,常被提到的是奥赛博物馆藏的1917年一幅,尺寸约 55 x 70 cm,检索到的摘要称其为 Georges Clemenceau 于1927年赠予。也有报道(The Art Newspaper 2020)提到 Marmottan 藏的一件「自画像」被降级,可见自画像的归属并不简单。以上仅为候选与背景,不能断定就是MV所指。",
+   "technique_note": "未确定具体作品;此处不写技法细节,以免与候选作品混淆。",
+   "sources": [
+    "https://www.musee-orsay.fr/en/artworks/portrait-de-lartiste-1173",
+    "https://www.theartnewspaper.com/2020/02/21/monet-for-nothing-musee-marmottans-self-portrait-is-downgraded"
+   ]
+  },
+  {
+   "no": 213,
+   "favorite": true,
+   "favorite_reason": "周杰伦《最伟大的作品》(2022)MV/歌词 引用的作品",
+   "culture_relation": [
+    "周杰伦《最伟大的作品》(2022)MV/歌词:歌词写到日出、花叶与草地,知乎、B 站两篇解析都指向《日出·印象》《睡莲》与本作(置信度:2 篇明确点名)"
+   ],
+   "title_en": "Le Déjeuner sur l'herbe",
+   "title_ja": "草上の昼食",
+   "title_zh": "草地上的午餐",
+   "year": "1866",
+   "year_sort": 1866,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Claude Monet - Le Déjeuner sur l'herbe (1866) - Pushkin Museum Ж-3307.jpg",
+    "note": "选普希金博物馆的完整版;巴黎大幅原作已被裁成残片"
+   },
+   "medium": "布面油画(oil on canvas)",
+   "dimensions": "未查到(普希金版)",
+   "museum": "Pushkin Museum of Fine Arts",
+   "museum_city": "Moscow",
+   "accession": "Ж-3307(据 Commons 文件名)",
+   "museum_url": "未查到",
+   "hd_available": "是:Commons 有 10000×7069 的普希金馆藏图",
+   "exhibited_history": [
+    "未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后的公开展出信息",
+   "summary": "1866 年莫奈回应马奈同名画作而作的野餐群像,画一群衣着时髦的男女在枫丹白露林间用餐。普希金博物馆这件是完整构图的版本;原本为 1866 年沙龙准备的巨幅画布没能完成,后因受潮被裁开,残片藏于奥赛博物馆。",
+   "story": "1863 年马奈的《草地上的午餐》在落选者沙龙引起轰动,年轻的莫奈决定画一幅同题材、但人物全部衣着整齐、在真实户外光线下的大画,准备送 1866 年沙龙。他低估了把写生稿放大到巨幅画布的工作量,最终没能完成。画中人物有他的朋友巴齐耶(在原构图里出现了四次)和画家库尔贝。大画后来受潮损坏,莫奈把还能保留的部分裁下,今天奥赛博物馆藏着中间与左边两块残片。普希金博物馆的这件完整小幅,馆方现在认为更可能是完成后的重画,而不是事前的草稿。周杰伦《最伟大的作品》写莫奈的段落里,两篇解析都认为「草地」一句指向本作。",
+   "technique_note": "外光派的尝试:把林间斑驳的阳光直接画在人物衣服和桌布上,色块分明,为后来的印象派手法打下基础。",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Le_D%C3%A9jeuner_sur_l%27herbe_(Monet,_Moscow)",
+    "https://zhuanlan.zhihu.com/p/575939840",
+    "https://www.bilibili.com/opus/681667728744906776"
+   ]
+  }
+ ]
+}

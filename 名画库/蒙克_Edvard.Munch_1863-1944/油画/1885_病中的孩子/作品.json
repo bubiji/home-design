@@ -1,0 +1,73 @@
+{
+  "no": 402,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-sick-child"
+  ],
+  "title_en": "The Sick Child 1885",
+  "title_ja": "",
+  "title_zh": "病中的孩子",
+  "year": "1885–1886",
+  "year_sort": 1885,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Edvard Munch - The Sick Child - NG.M.00839 - National Museum of Art, Architecture and Design.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "120 × 118.5 cm",
+  "museum": "Nasjonalmuseet, Oslo",
+  "museum_city": "挪威奥斯陆",
+  "accession": "NG.M.00839",
+  "museum_url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00839",
+  "hd_available": "是:Commons 有高清图(见 image 字段);作者 1944 年逝世,公有领域。",
+  "exhibited_history": [
+    "1886 年克里斯蒂安尼亚秋季展(首次展出,受到嘲讽与严厉批评)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。 本作为奥斯陆国家博物馆馆藏。",
+  "summary": "蒙克的突破之作,描绘他因肺结核早逝的姐姐约翰娜·索菲娅临终前的情景。他一生画了六个版本,奥斯陆藏的是 1885–1886 年的第一版。",
+  "story": "画面源自蒙克姐姐约翰娜·索菲娅 1877 年因肺结核去世(15 岁)的记忆,他自己小时候也曾濒临死亡。这件作品 1886 年在克里斯蒂安尼亚秋季展出,遭到观众讥笑,批评家奥贝尔说蒙克有天赋,但「有走向毁灭的危险」。蒙克回应说,自己不是画所见,而是画「所见过的」。他此后在 1885 至 1927 年间画了六个油画版本,分藏于奥斯陆(三件)、哥德堡、斯德哥尔摩和伦敦,另有石版与蚀刻版。奥斯陆这件是最早的版本。",
+  "technique_note": "厚涂的垂直笔触与刮擦表面,线条模糊,似「隔着泪水或记忆的帷幕」;颜色象征随版本变化,白色代表虚无,绿与黄象征病态,红色指向肺结核的症状。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/the-sick-child",
+    "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00839",
+    "https://en.wikipedia.org/wiki/The_Sick_Child_(Munch)",
+    "https://colourlex.com/project/edvard-munch-sick-child/"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q55421856",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "National Museum Norway artwork ID",
+      "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NG.M.00839",
+      "status": 403,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AEdvard_Munch_-_The_Sick_Child_-_NG.M.00839_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q55421856",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Edvard_Munch_-_The_Sick_Child_-_NG.M.00839_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_The_Sick_Child_-_NG.M.00839_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 8028,
+    "height": 8143,
+    "bytes": 13329805,
+    "sha256": "bb822cd407ee31a696389cc8a043d1af92f0d824f051a2bebe0efb4edb11d983"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "no": 302,
+  "favorite": true,
+  "favorite_reason": "周杰伦《太阳之子》(2026)MV 名画重现",
+  "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:夜间咖啡馆场景(Juksy 一篇认为是《夜晚露天咖啡座》)(置信度:3 篇)"
+  ],
+  "title_en": "The Night Café",
+  "title_ja": "",
+  "title_zh": "夜间咖啡馆",
+  "year": "1888",
+  "year_sort": 1888,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Le café de nuit (The Night Café) by Vincent van Gogh.jpeg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "72.4 × 92.1 cm",
+  "museum": "Yale University Art Gallery(耶鲁大学美术馆)",
+  "museum_city": "纽黑文(New Haven),康涅狄格州,美国",
+  "accession": "1961.18.34",
+  "museum_url": "http://artgallery.yale.edu/collections/objects/12507",
+  "hd_available": "是(公有领域,Commons 有对应文件;最大像素未核对)",
+  "exhibited_history": [
+    "未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到2026-09-30之后的公开展出信息",
+  "summary": "《夜间咖啡馆》是梵高1888年9月在阿尔勒画的咖啡馆内景,以红与绿的强烈对立表现「人类可怕的激情」。画中场所为拉马丁广场的火车站咖啡馆。现藏耶鲁大学美术馆。",
+  "story": "画的是约瑟夫-米歇尔和玛丽·吉努夫妇经营的拉马丁广场30号的咖啡馆,梵高连续三夜不睡、白天补觉来完成此画。他在信中自称此画是「我画过最丑的画之一」,却又认为它与《食土豆者》同等重要,并说自己试图用红与绿表现「人类可怕的激情」。他强调色彩是为了暗示「炽烈性情的情绪」而非再现真实。此画后来属莫斯科收藏家伊万·莫罗佐夫,1930年代被苏联当局国有化,最终由斯蒂芬·卡尔顿·克拉克购得,1961年遗赠给耶鲁。学界视之为早期表现主义的例子。",
+  "technique_note": "布面油画,以血红与深绿、黄色的强对比和倾斜的透视来制造压迫感,地板的黄色和灯光的光晕用厚涂表现。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_Night_Café",
+    "https://commons.wikimedia.org/wiki/File:Le_café_de_nuit_(The_Night_Café)_by_Vincent_van_Gogh.jpeg",
+    "http://artgallery.yale.edu/collections/objects/12507"
+  ],
+  "downloaded": {
+    "file": "原图.jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Le_caf%C3%A9_de_nuit_%28The_Night_Caf%C3%A9%29_by_Vincent_van_Gogh.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Le_caf%C3%A9_de_nuit_(The_Night_Caf%C3%A9)_by_Vincent_van_Gogh.jpeg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 7408,
+    "height": 5848,
+    "bytes": 13730983,
+    "sha256": "ef0d69f46b204e41db646418d8df3b0e0c397d522294db4f2f2fbc0ead44cd67"
+  }
+}

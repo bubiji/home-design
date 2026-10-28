@@ -1,0 +1,50 @@
+{
+  "no": 102,
+  "favorite": true,
+  "favorite_reason": "画墙候选(之前推荐)",
+  "title_en": "Self-Portrait Leaning on a Stone Sill",
+  "title_ja": "",
+  "title_zh": "倚石栏的自画像",
+  "year": "1639",
+  "year_sort": 1639,
+  "technique": "版画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Rembrandt van Rijn, Self-Portrait Leaning on a Stone Sill, 1639, NGA 35136.jpg",
+    "note": ""
+  },
+  "medium": "蚀刻(etching),laid paper(本图取自美国国家美术馆 NGA 藏 Rosenwald 收藏之一份印本)",
+  "dimensions": "纸张(裁至版痕)21 × 16.8 cm",
+  "museum": "National Gallery of Art(Rosenwald Collection)",
+  "museum_city": "华盛顿",
+  "accession": "1943.3.9117(经搜索摘要得到,NGA 官网页面抓取被拒,未直接核对)",
+  "museum_url": "https://www.nga.gov/artworks/11626-self-portrait-leaning-stone-sill",
+  "hd_available": "是:NGA 有开放获取数字图(具体授权条款未在页面核对);此版画另有 LOC、大都会、艺术学院芝加哥、Städel、V&A、墨尔本 NGV 等多馆印本",
+  "exhibited_history": [
+    "NGA 藏本递藏:Mariette、Karl Eduard von Liphart、Siegfried Barden、Lessing J. Rosenwald,1943 年入藏 NGA",
+    "其他馆印本的展览史未逐一核对;NGA 本身的展览记录未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开展出信息;皇家艺术学院 2027 春季「Rembrandt: Radical Printmaker」是否含此作未确认",
+  "summary": "1639 年的蚀刻自画像,伦勃朗以半身姿态倚在石栏上,着十六世纪风格的服装与贝雷帽。作品刻意模仿拉斐尔与提香的肖像范式。",
+  "story": "1639 年伦勃朗在阿姆斯特丹已声名鹊起,并买下了后来的大宅。这幅版画中他倚着石栏、目光直视观者,衣着仿文艺复兴时期贵族。此构图一般被认为与他当年在拍卖中见到的拉斐尔《卡斯蒂廖内像》和提香《持手套的男子》等作品有关(此点为一般艺术史论述,本次未逐条核对馆方原文)。这类自画像既是自我展示,也是给收藏者的商品。NGA 的这份印本经 Mariette、Liphart、Barden 等著名藏家之手,最后由 Rosenwald 捐给 NGA。",
+  "technique_note": "以细密的蚀刻线为主,面部用极细的短线塑形,衣服与石栏用较粗的交叉排线表现质感。",
+  "sources": [
+    "https://www.nga.gov/artworks/11626-self-portrait-leaning-stone-sill",
+    "https://www.loc.gov/item/2004665140",
+    "https://www.metmuseum.org/art/collection/search/368058",
+    "https://www.artic.edu/artworks/29213/self-portrait-leaning-on-a-stone-sill"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Rembrandt_van_Rijn%2C_Self-Portrait_Leaning_on_a_Stone_Sill%2C_1639%2C_NGA_35136.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Rembrandt_van_Rijn,_Self-Portrait_Leaning_on_a_Stone_Sill,_1639,_NGA_35136.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3168,
+    "height": 4000,
+    "bytes": 10005262,
+    "sha256": "9c285ef59522a500bd425aac5cab9a59b6042b430301b671f4cb04f1cfc01714"
+  }
+}

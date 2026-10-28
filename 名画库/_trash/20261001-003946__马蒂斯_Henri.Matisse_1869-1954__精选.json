@@ -1,0 +1,54 @@
+{
+ "author": {
+  "dir": "马蒂斯_Henri.Matisse_1869-1954",
+  "name_zh": "亨利·马蒂斯",
+  "name_en": "Henri Matisse",
+  "life": "1869–1954",
+  "bio": "亨利·马蒂斯(1869–1954)是法国画家,野兽派的主将。他以纯色与简化的形体探索装饰性与表现力,晚年以剪纸拼贴创作。"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 201,
+   "favorite": true,
+   "favorite_reason": "周杰伦《最伟大的作品》(2022) 引用的作品",
+   "culture_relation": [
+    "周杰伦《最伟大的作品》(2022):歌词提及——歌词提及马蒂斯的海岸;具体作品仅为推测。(置信度:推断)"
+   ],
+   "title_en": "coastal scenes (Collioure/Antibes?)",
+   "title_ja": "",
+   "title_zh": "(海岸风景,具体作品不明)",
+   "year": "",
+   "year_sort": 0,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "歌词未指明具体作品,无法确定下载哪一幅"
+   },
+   "medium": "未确定具体作品",
+   "dimensions": "未确定具体作品",
+   "museum": "未确定具体作品",
+   "museum_city": "未确定具体作品",
+   "accession": "未确定具体作品",
+   "museum_url": "未确定具体作品",
+   "hd_available": "未确定具体作品(作者1954年去世,按2026年多数国家版权期仍未到期,视具体作品而定)",
+   "exhibited_history": [
+    "未确定具体作品"
+   ],
+   "exhibited_future": [],
+   "future_note": "未确定具体作品,不适用",
+   "summary": "歌词只提到马蒂斯的海岸,没有指明作品。以下仅是马蒂斯海岸题材的一般背景。",
+   "story": "此条未确定具体作品,只记背景。1905年夏,马蒂斯与安德烈·德朗在地中海边的渔村科利乌尔并肩画了约九周,画海湾、渔船、钟楼与山,由此形成后来称为野兽派的强烈色彩语言;他1905至1914年间多次回到科利乌尔。1917年起他大多在冬季住到尼斯,早期的「尼斯室内」系列多从他窄小的旅馆房间画出,窗外是海,地中海的光照亮白色蕾丝窗帘与敞开的窗。所以歌词的「海岸」可能指科利乌尔或尼斯任一时期,均无法确认。",
+   "technique_note": "未确定具体作品。一般背景:科利乌尔时期以纯色块与色彩对比为特点(如《科利乌尔风景》1905,冬宫,59.5 x 73 cm,仅为该时期例子,不代表指涉作品)。",
+   "sources": [
+    "https://www.thepaper.cn/newsDetail_forward_18895563",
+    "https://news.qq.com/rain/a/20220706A05CMF00",
+    "https://www.metmuseum.org/exhibitions/vertigo-of-color",
+    "https://www.musee-matisse-nice.org/en/the-artist/matisse-and-nice/",
+    "https://www.artic.edu/artworks/2816/interior-at-nice"
+   ]
+  }
+ ]
+}

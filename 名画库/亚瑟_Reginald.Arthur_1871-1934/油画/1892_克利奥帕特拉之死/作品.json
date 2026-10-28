@@ -1,0 +1,51 @@
+{
+  "no": 301,
+  "favorite": true,
+  "favorite_reason": "周杰伦《太阳之子》(2026)MV 名画重现",
+  "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:片尾画面(置信度:2 篇)"
+  ],
+  "title_en": "The Death of Cleopatra",
+  "title_ja": "",
+  "title_zh": "克利奥帕特拉之死",
+  "year": "1892",
+  "year_sort": 1892,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:The Death of Cleopatra arthur.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "121.3 × 103.2 cm",
+  "museum": "Roy Miles Gallery(经营性画廊,非公立博物馆)",
+  "museum_city": "伦敦,英国",
+  "accession": "未查到",
+  "museum_url": "未查到",
+  "hd_available": "是(公有领域 PD-old-100;Commons 有文件;最大像素未核对)",
+  "exhibited_history": [
+    "1892 伦敦皇家艺术学院夏季展(目录号 260)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到2026-09-30之后的公开展出信息(该画归属画廊/私人交易,当前所有者未核实)",
+  "summary": "《克利奥帕特拉之死》是雷金纳德·亚瑟1892年的油画,画埃及艳后在毒蛇咬后倒下的一刻。画题附有培根「我不信有人怕死,只怕死亡的一击」的引语。原图来自 Commons 的 Roy Miles Gallery 版本。",
+  "story": "此画1892年在伦敦皇家艺术学院展出(目录号260)。亚瑟给画题附上哲学家弗朗西斯·培根的话:「我不信有人怕死,只怕死亡的一击」,因此全称常作「克利奥帕特拉之死:死亡的一击等」。作品带有世纪末艺术中常见的异域情调,他可能受到1890年萨杜(Sardou)戏剧《克利奥帕特拉》及莎拉·伯恩哈特饰演的主角所启发。目前公开资料仅显示此画在 Roy Miles Gallery(伦敦)出现,后续流转及是否入藏公立博物馆本次未查到。",
+  "technique_note": "布面油画,学院派写实人物与异域装饰细节结合;这类维多利亚晚期古典题材常以半透明衣物和斜倚裸体突出戏剧性。",
+  "sources": [
+    "https://commons.wikimedia.org/wiki/File:The_Death_of_Cleopatra_arthur.jpg",
+    "https://www.artnet.com/artists/reginald-arthur/the-death-of-cleopatra-the-stroke-of-death-etc-WRyM4_p6uUfAvYLNAshD7w2",
+    "https://www.wikidata.org/wiki/Q19890776"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/The_Death_of_Cleopatra_arthur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:The_Death_of_Cleopatra_arthur.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 3840,
+    "height": 2530,
+    "bytes": 5233924,
+    "sha256": "90cc8211be6f5c0d10c7bc6fee5064e48da399d26b0c21e6ccb48a70bc1aad41"
+  }
+}

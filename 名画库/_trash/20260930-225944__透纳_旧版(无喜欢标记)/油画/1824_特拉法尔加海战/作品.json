@@ -1,0 +1,57 @@
+{
+  "no": 4,
+  "title_en": "The Battle of Trafalgar, 21 October 1805",
+  "title_ja": "トラファルガーの海戦",
+  "title_zh": "特拉法尔加海战",
+  "year": "1822–1824",
+  "year_sort": 1824,
+  "technique": "油画",
+  "medium": "Oil on canvas",
+  "dimensions": "261.5 x 368.5 cm (画心);含框 308.6 x 417.9 x 19.5 cm",
+  "museum": "National Maritime Museum / Royal Museums Greenwich(Queen's House 陈列)",
+  "museum_city": "London (Greenwich)",
+  "accession": "BHC0565",
+  "museum_url": "https://www.rmg.co.uk/collections/objects/rmgc-object-12057",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:The Battle of Trafalgar, 21 October 1805 RMG BHC0565.tiff",
+    "direct_url": "",
+    "width": 7200,
+    "height": 5093,
+    "license": "Public domain",
+    "license_url": "未查到"
+  },
+  "hd_available": "是,TIFF 7200x5093;同图JPG 仅 1200x846(File:Turner - The Battle of Trafalgar, 21 October 1805, 1822–1824, BHC0565.jpg),故用TIFF",
+  "exhibited_history": [
+    "1824-05 圣詹姆斯宫首展(乔治四世委托)",
+    "1829 乔治四世赠予格林尼治医院海军画廊",
+    "后转入国家海事博物馆(长期借展)",
+    "2024-03起因馆区工程撤展",
+    "2025-10-21 重新陈列于皇后之家(Queen's House)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到;当前为皇后之家常设陈列。",
+  "summary": "特纳唯一的皇室委托作品,也是其最大画幅。融合海战多个时刻,以象征手法暗示纳尔逊之死并突出普通水手的牺牲。",
+  "story": "1822年底在皇家艺术学院院长劳伦斯建议下,乔治四世委托特纳绘制,酬金£500,用于圣詹姆斯宫,与de Loutherbourg的《Lord Howe's action》成对。特纳借阅海军部胜利号图纸并请J.C. Schetky补充速写。1824年展出即遭批评:海军史学家William James指其有'明显失实',海军中将Hardy称船像'房子'。特纳意在表现'战斗的人性戏剧'而非事实。画中信号旗拼出'duty',纳尔逊拉丁语格言'Palmam qui meruit ferat'见于浪间,画面中央后仰的死亡水手强调普通水兵同样付出代价。1829年被转赠格林尼治医院。2025年10月21日海战220周年当天于皇后之家重新展出,Katherine Gazzard新书同期出版。",
+  "technique_note": "合并多个时刻的构图(如Redoutable实际次日才沉没);细节象征系统(旗语、断桅);详细颜料材料未查到。",
+  "sources": [
+    "https://www.rmg.co.uk/collections/objects/rmgc-object-12057",
+    "https://www.rmg.co.uk/stories/art-culture/hidden-details-turners-battle-trafalgar",
+    "https://www.rmg.co.uk/national-maritime-museum/attractions/turners-battle-trafalgar-gallery",
+    "https://enfilade18thc.com/2025/10/22/turners-battle-of-trafalgar-back-on-display-at-greenwich/",
+    "https://en.wikipedia.org/wiki/The_Battle_of_Trafalgar_(Turner)",
+    "https://commons.wikimedia.org/wiki/File:The_Battle_of_Trafalgar,_21_October_1805_RMG_BHC0565.tiff"
+  ],
+  "favorite": false,
+  "downloaded": {
+    "file": "原图.tiff",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/The_Battle_of_Trafalgar%2C_21_October_1805_RMG_BHC0565.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:The_Battle_of_Trafalgar,_21_October_1805_RMG_BHC0565.tiff",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 7200,
+    "height": 5093,
+    "bytes": 110008940,
+    "sha256": "3aac5c8bb1c92df85a4986ea0828c4a80d8d84f2bfccf63e489d85f9dec0039f"
+  }
+}

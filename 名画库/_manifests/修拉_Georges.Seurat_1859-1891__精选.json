@@ -1,0 +1,315 @@
+{
+ "author": {
+  "dir": "修拉_Georges.Seurat_1859-1891",
+  "name_zh": "乔治·修拉",
+  "name_en": "Georges Seurat",
+  "life": "1859–1891",
+  "bio": "乔治·修拉(1859–1891)生于巴黎,先后就读于市立雕塑与绘画学校和美术学院,是新印象派(点彩派)的创始人。他受谢弗勒尔等人色彩理论影响,用并置的小色点让观者眼中混合出色彩,代表作有《阿尼埃尔的浴场》《大碗岛的星期天下午》。他31岁早逝,作品数量不多,却深刻影响了后来的现代艺术。",
+  "wikidata": "Q34013"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 401,
+   "favorite": true,
+   "favorite_reason": "画框之外 The Living Gallery 收录",
+   "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/a-sunday-on-la-grande-jatte"
+   ],
+   "title_en": "A Sunday on La Grande Jatte",
+   "title_ja": "",
+   "title_zh": "大碗岛的星期天下午",
+   "year": "1884–1886",
+   "year_sort": 1884,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Georges Seurat - A Sunday on La Grande Jatte -- 1884 - Google Art Project.jpg",
+    "note": ""
+   },
+   "medium": "布面油画(点彩/色彩并置)",
+   "dimensions": "207.5 × 308.1 cm",
+   "museum": "Art Institute of Chicago",
+   "museum_city": "美国芝加哥",
+   "accession": "1926.224(Helen Birch Bartlett Memorial Collection)",
+   "museum_url": "https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884",
+   "hd_available": "是:Commons 有 Google Art Project 高清翻拍(见 image 字段);作者 1891 年逝世,已进入公有领域。",
+   "exhibited_history": [
+    "1886 年第八届印象派展(巴黎),为其首次公开亮相(据通行史料,本次未逐条核对馆方页面)",
+    "2004 年芝加哥艺术博物馆《修拉与〈大碗岛〉的诞生》(Seurat and the Making of “La Grande Jatte”)"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。 本作为芝加哥艺术博物馆镇馆之宝,极少外借。",
+   "summary": "修拉最著名的大幅作品,描绘巴黎近郊塞纳河大碗岛上各阶层人物的周日休闲。画面以密集的小色点构成,是新印象派的宣言之作。1924 年入藏芝加哥艺术博物馆。",
+   "story": "这幅画画于 1884–1886 年,修拉先在岛上做了大量油画速写和素描,再回画室逐步合成。画中人物多取侧面或正面的僵直姿态,被评论者视为对古埃及浮雕与古典饰带的现代回应。1886 年作品在第八届印象派展上亮相,成为新印象派的标志。画面外缘的色点边框是 1888–1889 年后加的,用来与画框协调。作品 1924 年入藏芝加哥艺术博物馆,1926 年完成登录,是该馆最受欢迎的藏品之一,被认为改变了现代艺术的方向。",
+   "technique_note": "修拉依据谢弗勒尔等人的色彩对比理论,把纯色小点并置在画布上,让色彩在观者眼中光学混合;画面构图严谨,人物以几何化轮廓表现。1888–1889 年另加了点彩边框。",
+   "sources": [
+    "https://huakuangzhiwai.space/collection/a-sunday-on-la-grande-jatte",
+    "https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884",
+    "https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte",
+    "https://en.wikipedia.org/wiki/Georges_Seurat"
+   ],
+   "links": [
+    {
+     "label": "Wikidata",
+     "url": "https://www.wikidata.org/wiki/Q1044742",
+     "status": 200,
+     "checked": "2026-10-01"
+    },
+    {
+     "label": "描述页(P973)",
+     "url": "https://www.npr.org/2006/07/11/5550190/a-pointillist-masterpiece-comes-alive",
+     "status": "ConnectionResetError",
+     "checked": "2026-10-01"
+    },
+    {
+     "label": "描述页(P973)",
+     "url": "https://www.bbc.co.uk/sounds/play/m0002z3g",
+     "status": 200,
+     "checked": "2026-10-01"
+    },
+    {
+     "label": "ARTIC artwork ID",
+     "url": "https://www.artic.edu/artworks/27992",
+     "status": 403,
+     "checked": "2026-10-01"
+    },
+    {
+     "label": "Salons ID",
+     "url": "https://salons.musee-orsay.fr/Detail/objects/59610",
+     "status": 403,
+     "checked": "2026-10-01"
+    },
+    {
+     "label": "Wikipedia(英)",
+     "url": "https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte",
+     "status": 200,
+     "checked": "2026-10-01"
+    },
+    {
+     "label": "维基百科(中)",
+     "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%A2%97%E5%B2%9B%E7%9A%84%E6%98%9F%E6%9C%9F%E5%A4%A9%E4%B8%8B%E5%8D%88",
+     "status": 200,
+     "checked": "2026-10-01"
+    },
+    {
+     "label": "Commons 原图页",
+     "url": "https://commons.wikimedia.org/wiki/File%3AGeorges_Seurat_-_A_Sunday_on_La_Grande_Jatte_--_1884_-_Google_Art_Project.jpg",
+     "status": 200,
+     "checked": "2026-10-01"
+    }
+   ],
+   "wikidata": "Q1044742"
+  },
+  {
+   "no": 402,
+   "favorite": true,
+   "favorite_reason": "画框之外 The Living Gallery 收录",
+   "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/bathers-at-asnieres"
+   ],
+   "title_en": "Bathers at Asnières",
+   "title_ja": "",
+   "title_zh": "阿尼埃尔的浴场",
+   "year": "1884",
+   "year_sort": 1884,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Georges Seurat - Une baignade à Asnières - National Gallery.jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "201 × 300 cm",
+   "museum": "National Gallery, London",
+   "museum_city": "英国伦敦",
+   "accession": "NG3908",
+   "museum_url": "https://www.nationalgallery.org.uk/paintings/georges-seurat-bathers-at-asnieres",
+   "hd_available": "是:国家美术馆提供 IIIF 高清图(含带框/不带框版本);Commons 亦有。",
+   "exhibited_history": [
+    "1884 年落选官方沙龙后,在新成立的独立艺术家沙龙(Salon des Artistes Indépendants)展出",
+    "2018 年 9 月–2019 年 1 月《考陶尔德印象派:从马奈到塞尚》(Courtauld Impressionists: From Manet to Cézanne)"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。 目前常设于国家美术馆 44 号展厅。",
+   "summary": "修拉首件大幅作品,描绘工业化郊区塞纳河边休息的工人与少年。1884 年遭沙龙拒绝,后在独立艺术家沙龙展出,确立了他把工人阶层休闲搬上大画幅的志向。",
+   "story": "作品表现巴黎西北郊阿尼埃尔塞纳河畔,工人和男孩在工厂烟囱的背景下休息、戏水。1884 年它被官方沙龙拒绝,修拉等人因此参与创办独立艺术家沙龙并在其首届展出此画。此画尚属他点彩法之前的阶段,画面以柔和的笔触与大块平涂为主,后来他又局部补加了色点。国家美术馆 1924 年由考陶尔德基金(Courtauld Fund)自伦敦独立画廊购入,1961 年由泰特转入。画中静止的人物与水面反光,成为他安静而纪念碑式的都市风景的起点。",
+   "technique_note": "布面油画,尚未完全采用后期的密集点彩,以柔和并置的笔触和统一的光线造成静谧感;画面为接近 2×3 米的大尺幅,按历史画的规格处理平民题材。后期补加的色点用于调和对比色。",
+   "sources": [
+    "https://huakuangzhiwai.space/collection/bathers-at-asnieres",
+    "https://www.nationalgallery.org.uk/paintings/georges-seurat-bathers-at-asnieres",
+    "https://en.wikipedia.org/wiki/Georges_Seurat"
+   ],
+   "links": [
+    {
+     "label": "Wikidata",
+     "url": "https://www.wikidata.org/wiki/Q1090837",
+     "status": 200,
+     "checked": "2026-10-01"
+    },
+    {
+     "label": "National Gallery ID",
+     "url": "https://www.nationalgallery.org.uk/paintings/georges-seurat-bathers-at-asnieres",
+     "status": 200,
+     "checked": "2026-10-01"
+    },
+    {
+     "label": "Wikipedia(英)",
+     "url": "https://en.wikipedia.org/wiki/Bathers_at_Asni%C3%A8res",
+     "status": 200,
+     "checked": "2026-10-01"
+    },
+    {
+     "label": "维基百科(中)",
+     "url": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%BC%E5%9F%83%E7%88%BE%E6%B5%B4%E5%A0%B4",
+     "status": 200,
+     "checked": "2026-10-01"
+    },
+    {
+     "label": "Commons 原图页",
+     "url": "https://commons.wikimedia.org/wiki/File%3AGeorges_Seurat_-_Une_baignade_%C3%A0_Asni%C3%A8res_-_National_Gallery.jpg",
+     "status": 200,
+     "checked": "2026-10-01"
+    }
+   ],
+   "wikidata": "Q1090837"
+  },
+  {
+   "no": 403,
+   "favorite": true,
+   "favorite_reason": "画框之外 The Living Gallery 收录",
+   "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-circus"
+   ],
+   "title_en": "The Circus (Le Cirque)",
+   "title_ja": "",
+   "title_zh": "马戏团",
+   "year": "1890–1891",
+   "year_sort": 1890,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Georges Seurat - The Circus - Google Art Project.jpg",
+    "note": ""
+   },
+   "medium": "布面油画(未完成)",
+   "dimensions": "185.5 × 152.5 cm(馆方著录约 186 × 152 cm)",
+   "museum": "Musée d'Orsay, Paris",
+   "museum_city": "法国巴黎",
+   "accession": "RF 2511",
+   "museum_url": "https://www.musee-orsay.fr/en/artworks/le-cirque-542",
+   "hd_available": "是:Commons 有 Google Art Project 高清翻拍;作者 1891 年逝世,公有领域。",
+   "exhibited_history": [
+    "未查到(未能访问奥赛馆方展览史页面)"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。",
+   "summary": "修拉去世时未完成的最后大作,表现费尔南多马戏团中女骑手的表演。画面采用上扬的线条与明亮的色彩传达欢快与动感。",
+   "story": "画作表现费尔南多马戏团(后来的梅德拉诺马戏团)中的女骑手一幕,是继《游行》《康康舞》之后他以都市娱乐为题的第三幅大画。修拉 1891 年 3 月去世时画面尚未完成,这也是他最后的作品。他在画中大量使用向上的线条和暖色以表达欢乐,与此前沉静的画面形成对照。现藏巴黎奥赛博物馆,馆藏编号 RF 2511。",
+   "technique_note": "点彩与线条走向的结合:他受查尔斯·亨利等人的理论影响,用上扬的线条和暖色表示欢快,下垂线条和冷色表示悲伤。画面由于去世而未完成,边缘仍可见素描痕迹。",
+   "sources": [
+    "https://huakuangzhiwai.space/collection/the-circus",
+    "https://www.musee-orsay.fr/en/artworks/le-cirque-542",
+    "https://en.wikipedia.org/wiki/The_Circus_(Seurat)",
+    "https://fr.wikipedia.org/wiki/Le_Cirque_(Seurat)"
+   ],
+   "links": [
+    {
+     "label": "Wikidata",
+     "url": "https://www.wikidata.org/wiki/Q2275610",
+     "status": 200,
+     "checked": "2026-10-01"
+    },
+    {
+     "label": "Musée d'Orsay artwork ID",
+     "url": "http://www.musee-orsay.fr/en/collections/index-of-works/notice.html?nnumid=542",
+     "status": 403,
+     "checked": "2026-10-01"
+    },
+    {
+     "label": "Wikipedia(英)",
+     "url": "https://en.wikipedia.org/wiki/The_Circus_(Seurat)",
+     "status": 200,
+     "checked": "2026-10-01"
+    },
+    {
+     "label": "维基百科(中)",
+     "url": "https://zh.wikipedia.org/wiki/%E9%A9%AC%E6%88%8F_(%E4%BF%AE%E6%8B%89)",
+     "status": 200,
+     "checked": "2026-10-01"
+    },
+    {
+     "label": "Commons 原图页",
+     "url": "https://commons.wikimedia.org/wiki/File%3AGeorges_Seurat_-_The_Circus_-_Google_Art_Project.jpg",
+     "status": 200,
+     "checked": "2026-10-01"
+    }
+   ],
+   "wikidata": "Q2275610"
+  },
+  {
+   "no": 404,
+   "favorite": true,
+   "favorite_reason": "画框之外 The Living Gallery 收录",
+   "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-eiffel-tower"
+   ],
+   "title_en": "The Eiffel Tower",
+   "title_ja": "",
+   "title_zh": "埃菲尔铁塔",
+   "year": "1889",
+   "year_sort": 1889,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "Commons 未找到忠实翻拍的原图"
+   },
+   "medium": "木板油画(点彩)",
+   "dimensions": "24.1 × 15.2 cm",
+   "museum": "Fine Arts Museums of San Francisco(据馆方说明现于 Legion of Honor 展出)",
+   "museum_city": "美国旧金山",
+   "accession": "1979.48(William H. Noble Bequest Fund 购入)",
+   "museum_url": "未查到",
+   "hd_available": "否:Commons 暂未找到忠实翻拍;作者 1891 年逝世,版权不是障碍,需向 FAMSF 的开放获取图库查询(本次未核实)。",
+   "exhibited_history": [
+    "未查到"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。",
+   "summary": "一幅仅 24 × 15 厘米的小油画,画下 1889 年尚未封顶的埃菲尔铁塔。点彩使铁塔仿佛披着粉色玫瑰色的轻纱。",
+   "story": "1889 年为世博会修建的埃菲尔铁塔在开幕前夕仍未封顶,修拉抓住这一时刻画下了尚未完成的塔身。小幅木板画是他在户外或画室里快速完成的色彩研究。铁塔以点彩呈现为柔和的粉橙色,像披了一层薄纱。作品在 1979 年由旧金山美术馆(FAMSF)的 William H. Noble 遗赠基金购入,现于荣誉军团宫展出。",
+   "technique_note": "木板上油彩点彩,尺寸小而色点清晰,用互补色小点营造轻盈的大气感;小幅木板常用作户外写生或大画的预备。",
+   "sources": [
+    "https://huakuangzhiwai.space/collection/the-eiffel-tower",
+    "https://www.wikiart.org/en/georges-seurat/the-eiffel-tower-1889",
+    "https://commons.wikimedia.org/wiki/Category:Eiffel_Tower_by_Georges_Seurat"
+   ],
+   "links": [
+    {
+     "label": "Wikidata",
+     "url": "https://www.wikidata.org/wiki/Q3821251",
+     "status": 200,
+     "checked": "2026-10-01"
+    },
+    {
+     "label": "描述页(P973)",
+     "url": "https://www.famsf.org/artworks/eiffel-tower",
+     "status": 403,
+     "checked": "2026-10-01"
+    },
+    {
+     "label": "维基百科(中)",
+     "url": "https://zh.wikipedia.org/wiki/%E5%9F%83%E8%8F%B2%E5%B0%94%E9%93%81%E5%A1%94_(%E4%BF%AE%E6%8B%89)",
+     "status": 200,
+     "checked": "2026-10-01"
+    }
+   ],
+   "wikidata": "Q3821251"
+  }
+ ]
+}

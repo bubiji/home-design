@@ -1,0 +1,52 @@
+{
+  "no": 301,
+  "favorite": true,
+  "favorite_reason": "周杰伦《太阳之子》(2026)MV 名画重现",
+  "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:酒吧场景(置信度:8 篇)"
+  ],
+  "title_en": "A Bar at the Folies-Bergère",
+  "title_ja": "",
+  "title_zh": "女神游乐厅的吧台",
+  "year": "1882",
+  "year_sort": 1882,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Edouard Manet, A Bar at the Folies-Bergère.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "96 × 130 cm",
+  "museum": "The Courtauld Gallery(考陶尔德美术馆)",
+  "museum_city": "伦敦,英国",
+  "accession": "P.1934.SC.234",
+  "museum_url": "未查到(馆方直链未核实,见 Art UK 页面)",
+  "hd_available": "是(公有领域,Commons 有对应文件;最大像素未核对)",
+  "exhibited_history": [
+    "1882 巴黎沙龙(据 Art UK/Wikipedia:马奈最后一件重要作品)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到2026-09-30之后的公开展出信息",
+  "summary": "《女神游乐厅的吧台》是马奈1882年的晚期杰作,画一位吧女站在镜前,镜中映出喧闹的观众席。画中镜面所造成的空间与视线关系引发了长期争论。现藏伦敦考陶尔德美术馆。",
+  "story": "画中吧女名叫苏宗,是女神游乐厅(Folies-Bergère)的真实员工,不过马奈是在画室里请她摆姿势来画的,并非在现场写生。此画1882年展于巴黎沙龙,是他最后的重要作品。马奈1883年去世后,作曲家埃马纽埃尔·沙布里耶在1884年2月的画室拍卖会上买下它,长期挂在自己钢琴上方。此画于1934年经塞缪尔·考陶尔德捐赠进入考陶尔德美术馆。镜中反射的空间是否合理曾是几十年的争议,马尔科姆·帕克2000年通过实景复原论证其透视在物理上可行。前景的橘子被部分学者解读为暗示吧女的社会角色。",
+  "technique_note": "布面油画,以镜面构成复杂空间,吧台前景精致写实(酒瓶、橘子、花),而镜中人群以松散的笔触表现,形成清晰与朦胧的对比。",
+  "sources": [
+    "https://en.wikipedia.org/wiki/A_Bar_at_the_Folies-Bergère",
+    "https://artuk.org/discover/artworks/a-bar-at-the-folies-bergere-207293",
+    "https://www.wikidata.org/wiki/Q1245354",
+    "https://commons.wikimedia.org/wiki/File:Edouard_Manet,_A_Bar_at_the_Folies-Bergère.jpg"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Edouard_Manet%2C_A_Bar_at_the_Folies-Berg%C3%A8re.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Edouard_Manet,_A_Bar_at_the_Folies-Berg%C3%A8re.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 3419,
+    "height": 2553,
+    "bytes": 3993591,
+    "sha256": "75abc86d4fa503cb9a1adb3ec44bda8a4e0e2ef9efbe853da20e5f8a3463dcbe"
+  }
+}

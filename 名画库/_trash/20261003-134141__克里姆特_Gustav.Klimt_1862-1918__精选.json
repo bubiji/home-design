@@ -1,0 +1,55 @@
+{
+ "author": {
+  "dir": "克里姆特_Gustav.Klimt_1862-1918",
+  "name_zh": "古斯塔夫·克里姆特",
+  "name_en": "Gustav Klimt",
+  "life": "1862–1918",
+  "bio": "古斯塔夫·克里姆特(1862–1918)是奥地利象征主义画家,维也纳分离派的创始人和首任主席。他以金箔装饰、平面化图案与情爱、死亡主题的结合闻名,「黄金时期」的《吻》《阿黛尔·布洛赫-鲍尔肖像》是其代表作。"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 301,
+   "favorite": false,
+   "favorite_reason": "",
+   "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:金色场景,吸血鬼藏身处/回忆(置信度:13 篇)",
+    "周杰伦《太阳之子》(2026)MV 名画重现:VERSE(2026-03-22)列为六支前导预告对应的六幅核心名画之一"
+   ],
+   "title_en": "The Kiss",
+   "title_ja": "",
+   "title_zh": "吻",
+   "year": "1907–08",
+   "year_sort": 1907,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:The Kiss - Gustav Klimt - Google Cultural Institute.jpg",
+    "note": ""
+   },
+   "medium": "布面油彩,加金箔、银箔、铂箔(馆方:leaf gold, silver, platinum leaf and resin-oil colours on primed canvas;背景为金属板与油彩罩染)",
+   "dimensions": "180 × 180 cm",
+   "museum": "Belvedere, Vienna",
+   "museum_city": "维也纳(奥地利)",
+   "accession": "inv. 912",
+   "museum_url": "https://sammlung.belvedere.at/objects/6678/liebespaar-der-kuss",
+   "hd_available": "是(Belvedere 线上馆藏提供图像;Commons 有大图;具体许可未逐条核实)",
+   "exhibited_history": [
+    "1908 年 6 月维也纳 Kunstschau 首展,题为《Liebespaar》,陈列在中央大厅正对入口处",
+    "1911 罗马;1912 德累斯顿;1956–57 阿姆斯特丹、埃因霍温、伯尔尼等(馆方页面列举)"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到 2026-09-30 之后的外借展出;为上美景宫的核心展品",
+   "summary": "克里姆特「黄金时期」的代表作,画一对在花丛边缘相拥亲吻的情侣,并大量使用金箔。作品在 1908 年展览上即被奥地利政府买走。",
+   "story": "克里姆特大约 1907 年开始画这幅画,1908 年 6 月首次在维也纳 Kunstschau 展出,当时题为《Liebespaar》(恋人),摆在中央大厅入口的正对面。奥地利文化教育部于当年 7 月以 25,000 克朗买下,这在当时是给在世艺术家的纪录价格,1909 年 7 月转入现代美术馆(今 Belvedere)。据 Wikipedia,买下时画作尚未完全完成。1909 年秋季,馆藏目录首次称之为《Der Kuss》。他使用金属箔的灵感通常认为来自 1903 年的拉文纳之行,那里的拜占庭马赛克对他影响很大。",
+   "technique_note": "在涂底的画布上,用金箔、银箔、铂箔与树脂油彩并置:男女的衣袍以几何和花卉装饰性图案区分,背景以金色和金属碎片罩染形成宇宙般的闪光,人物面部与手部则保持写实。",
+   "sources": [
+    "https://sammlung.belvedere.at/objects/6678/liebespaar-der-kuss",
+    "https://artinwords.de/gustav-klimt-der-kuss-190708/",
+    "https://en.wikipedia.org/wiki/The_Kiss_(Klimt)",
+    "https://www.verse.com.tw/article/jay-chou-children-of-the-sun"
+   ]
+  }
+ ]
+}

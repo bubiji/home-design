@@ -1,0 +1,89 @@
+{
+  "no": 401,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/tahitian-women-on-the-beach"
+  ],
+  "title_en": "Tahitian Women on the Beach",
+  "title_ja": "",
+  "title_zh": "海滩上的塔希提女人",
+  "year": "1891",
+  "year_sort": 1891,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Paul Gauguin 056.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "69 × 91.5 cm",
+  "museum": "Musée d'Orsay",
+  "museum_city": "法国巴黎",
+  "accession": "RF 2765",
+  "museum_url": "https://www.musee-orsay.fr/en/collections",
+  "hd_available": "是:Commons 有高清图;奥赛官网在线图像",
+  "exhibited_history": [
+    "未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开的 2026-09-30 之后展出信息",
+  "summary": "两位塔希提女子坐在海滩上,身形厚重,色彩平涂。这是高更第一次塔希提之行(1891–93)的代表作。",
+  "story": "高更 1891 年抵达塔希提,希望逃离欧洲文明,寻找“原始”的创作环境。(未核对)这幅画带有他此后作品的典型特点:简化的轮廓、强烈的粉橙与蓝绿色块,几乎不用透视。两位女子一人着欧式衣服,一人穿当地服饰,暗示殖民影响。(未核对)画面右下有“Gauguin 91”的签名。后人对高更的“原始主义”也多有批评。(未核对)",
+  "technique_note": "平涂色块与深色轮廓线(受日本版画与景泰蓝启发的综合主义),弱化立体感与景深。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/tahitian-women-on-the-beach",
+    "https://commons.wikimedia.org/wiki/File:Paul_Gauguin_056.jpg"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q930535",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "http://www.photo.rmn.fr/C.aspx?VP3=SearchResult&amp;IID=2C6NU0XIMSR8",
+      "status": 404,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Musée d'Orsay artwork ID",
+      "url": "http://www.musee-orsay.fr/en/collections/index-of-works/notice.html?nnumid=290",
+      "status": 403,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Tahitian_Women_on_the_Beach",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E6%B2%99%E7%81%98%E4%B8%8A%E7%9A%84%E5%A4%A7%E6%BA%AA%E5%9C%B0%E5%A5%B3%E4%BA%BA",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3APaul_Gauguin_056.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q930535",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Paul_Gauguin_056.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Gauguin_056.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 3176,
+    "height": 2369,
+    "bytes": 730689,
+    "sha256": "0cffb0ffe063f8520692b623c6f1f98eebe75e512f59cb24a5952fc47d37fc35"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "no": 401,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-dance"
+  ],
+  "title_en": "Dance (La Danse) Hermitage",
+  "title_ja": "",
+  "title_zh": "舞蹈",
+  "year": "1909–1910",
+  "year_sort": 1909,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:La Danse II, par Henri Matisse.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "260 × 391 cm",
+  "museum": "Hermitage Museum, St Petersburg",
+  "museum_city": "俄罗斯圣彼得堡",
+  "accession": "未查到(馆方页面未能打开,二手来源未给出该件编号)",
+  "museum_url": "https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.+Paintings/28411/?lng=",
+  "hd_available": "是:Commons 有高清图(见 image 字段);作者 1954 年逝世,按终身+70 年已在多数地区进入公有领域,1910 年作品在美国亦为公有领域。",
+  "exhibited_history": [
+    "1910 年 10 月 1 日–11 月 8 日巴黎秋季沙龙(Salon d'Automne)首次亮相",
+    "1910–1917 年悬于舒金莫斯科宅邸(与《音乐》同为楼梯间装饰),1917 年十月革命前后停止",
+    "1948 年起由莫斯科新西方艺术博物馆转入艾尔米塔什"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后有公开来源的展出或外借安排(检索无结果,不代表没有);常设展作品请以馆方官网为准。",
+  "summary": "受舒金之托创作的大幅装饰画,五个红色裸体人物在蓝绿背景中环舞。它被视为马蒂斯职业生涯和现代绘画发展的关键一点。",
+  "story": "俄国收藏家谢尔盖·舒金为他的莫斯科宅邸楼梯间向马蒂斯定制了《舞蹈》和《音乐》两幅大画。1909 年先有较淡的第一版(现藏纽约现代艺术博物馆),1910 年的最终版色彩更浓烈。该作于 1910 年秋季沙龙首次展出,画中的裸体曾引来争议。画作长期悬挂于舒金宅邸,1917 年后收归国有,1948 年由莫斯科新西方艺术博物馆转入艾尔米塔什。作品也反映出马蒂斯对原始艺术的兴趣,传达解放与快乐的情绪。",
+  "technique_note": "色彩被压缩到红(人体)、蓝(天空)、绿(山丘)三色;轮廓线粗而流畅,人物节奏感强,画面平面化,完全舍弃透视与明暗。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/the-dance",
+    "https://en.wikipedia.org/wiki/Dance_(Matisse)",
+    "https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.+Paintings/28411/?lng=",
+    "https://en.wikipedia.org/wiki/Sergei_Shchukin"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q21244925",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Hermitage Museum work ID",
+      "url": "https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/28411",
+      "status": "URLError",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Salons ID",
+      "url": "https://salons.musee-orsay.fr/Detail/objects/507783",
+      "status": 403,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3ALa_Danse_II%2C_par_Henri_Matisse.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q21244925",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/La_Danse_II%2C_par_Henri_Matisse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:La_Danse_II,_par_Henri_Matisse.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 2000,
+    "height": 1377,
+    "bytes": 761635,
+    "sha256": "f0ef30830e2e41656156f23e5a8701712d5055fe1fcb5be2354a15d00cab9137"
+  }
+}

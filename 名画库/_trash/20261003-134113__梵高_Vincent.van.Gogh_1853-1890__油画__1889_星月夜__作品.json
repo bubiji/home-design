@@ -1,0 +1,54 @@
+{
+  "no": 201,
+  "favorite": true,
+  "favorite_reason": "周杰伦《最伟大的作品》(2022) 引用的作品",
+  "culture_relation": [
+    "周杰伦《最伟大的作品》(2022):歌词提及——歌词以「星空」关键词指向。(置信度:来源明确点名)"
+  ],
+  "title_en": "The Starry Night",
+  "title_ja": "",
+  "title_zh": "星月夜",
+  "year": "1889",
+  "year_sort": 1889,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Van Gogh - Starry Night 2.jpg",
+    "note": "另有 Google Art Project 超高清版(44567×35291,696 MB)已下载为同目录 原图_超高清_44567x35291.jpg,预览见 预览_超高清.jpg"
+  },
+  "medium": "布面油画",
+  "dimensions": "73.7 x 92.1 cm",
+  "museum": "纽约现代艺术博物馆 MoMA(The Museum of Modern Art)",
+  "museum_city": "纽约,美国",
+  "accession": "472.1941",
+  "museum_url": "https://www.moma.org/collection/works/79802",
+  "hd_available": "是(作者1890年去世,已进入公有领域;Commons 有高分辨率文件)",
+  "exhibited_history": [
+    "1935:MoMA 梵高回顾展(据媒体转述 MoMA 资料,此为该作在 MoMA 首次亮相)",
+    "1941:经 Paul Rosenberg 交换(Lillie P. Bliss 遗赠置换)入藏 MoMA,此后长期陈列于 MoMA",
+    "早年(1889-1890 巴黎/布鲁塞尔)展出情况:未查到;已确认 1890 年 Les XX 布鲁塞尔展的6件参展作不含此作"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开的2026-09-30之后展出安排(仅查了 MoMA 馆藏页,未获访问;此作为 MoMA 常设陈列,外借罕见)",
+  "summary": "1889年6月梵高在圣雷米精神病院中画下的夜空,是他最广为人知的作品之一。画面取自病房东窗视角,村庄为想象添加。现藏纽约 MoMA。",
+  "story": "梵高1889年5月自愿住进圣雷米的圣保罗精神病院,这幅画是6月在那里完成的。画中景色取自他病房朝东的窗,黎明前的天空里最亮的星被研究者认为是金星,但左下方的村庄是凭速写想象添加的。他在给弟弟提奥的信中曾把这幅画视为失败之作。梵高去世后此画由提奥继承,再传到提奥遗孀乔手中,后来几经转手,1938年归画商 Paul Rosenberg。1941年 MoMA 用 Lillie P. Bliss 遗赠的三幅作品(据报道包括塞尚与图卢兹-劳特累克)与 Rosenberg 交换,将其收入馆藏。此后它成为 MoMA 最受欢迎的展品。",
+  "technique_note": "布面油画,厚涂与旋涡状笔触。据 MoMA 与罗切斯特理工学院的科学分析,天空使用群青与钴蓝,星与月的黄色为印度黄与锌黄。",
+  "sources": [
+    "https://news.qq.com/rain/a/20220706A05CMF00",
+    "https://www.moma.org/collection/works/79802",
+    "https://en.wikipedia.org/wiki/The_Starry_Night",
+    "https://en.wikipedia.org/wiki/Vincent_van_Gogh%27s_display_at_Les_XX,_1890"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Van_Gogh_-_Starry_Night_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 4252,
+    "height": 3367,
+    "bytes": 7727745,
+    "sha256": "35eb1392defcbc94edacb127887f41898eba5d01ef836c8ab63edebe94a8a07b"
+  }
+}

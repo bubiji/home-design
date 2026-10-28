@@ -1,0 +1,110 @@
+{
+  "no": 403,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/abbey-in-the-oakwood"
+  ],
+  "title_en": "Abbey among Oak Trees",
+  "title_ja": "",
+  "title_zh": "橡树林中的修道院",
+  "year": "1809–1810",
+  "year_sort": 1809,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Caspar David Friedrich - Abtei im Eichwald - Google Art Project.jpg",
+    "note": ""
+  },
+  "medium": "布面油画(oil on canvas)",
+  "dimensions": "110.4 × 171 cm",
+  "museum": "Alte Nationalgalerie(Staatliche Museen zu Berlin)",
+  "museum_city": "柏林",
+  "accession": "NG 8/85(Wikidata)",
+  "museum_url": "未查到作品专页(馆方在线馆藏未核)",
+  "hd_available": "是:维基共享资源有公有领域大图(Google Art Project 或同类来源,分辨率本次未逐一核对);馆方下载条款未核",
+  "exhibited_history": [
+    "首次展览:1810年柏林普鲁士艺术学院展,与《海边的僧侣》同展,按弗里德里希要求挂在后者之下",
+    "展后两画均被腓特烈·威廉三世买下",
+    "今与《海边的僧侣》并排悬挂于老国家美术馆"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开来源的未来展览(本次联网检索额度用尽,未检索馆方展讯;仅核对维基/维基数据)。",
+  "summary": "《橡树林中的修道院》作于1809–1810年,雪地里一队僧侣抬着棺材走向哥特式教堂废墟的拱门,周围是无叶的橡树。它与《海边的僧侣》同期创作并成对展出。",
+  "story": "画的是一队僧侣抬着棺木走向废墟之门,只有两支蜡烛照路,前景雪地里有新挖的墓穴与几个十字架。画面下三分之一沉在黑暗中,只有废墟顶端和橡树梢被落日照亮,天上有一弯新月。废墟取材于艾尔德纳修道院,它在三十年战争中被入侵的瑞典军队摧毁,弗里德里希把它与法军占领期间格赖夫斯瓦尔德教堂被用作兵营相类比,于是葬礼成了「德国复兴希望的埋葬」的象征。画家约1809年6月在吕根岛旅行后开始创作,1810年9月24日卡尔·弗罗曼描述了接近完成的画面。1810年两画同展后被腓特烈·威廉三世买下。",
+  "technique_note": "画家在画室里把写生素材组合成景:同样的废墟和橡树在其他作品里以略有变化的形式出现;大面积暗部与受光的废墟顶端和树梢形成强烈对比。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/abbey-in-the-oakwood",
+    "https://en.wikipedia.org/wiki/The_Abbey_in_the_Oakwood",
+    "https://www.wikidata.org/wiki/Q334360"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q334360",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.wga.hu/frames-e.html?/html/f/friedric/1/106fried.html",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://fotothek.spsg.de/detail/fotoViewerWeb?eadb_frame=_new&easydb=bugh56298bav8tusn0nvob4hu6&grid_id=24627&table_id=155&select_id=2479&currframe=mainframe&cid=search_1375_mainframe&parent_select_id=2479",
+      "status": 403,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://smb.museum-digital.de/object/144605",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://cdfriedrich.de/chronik/abtei-im-eichwald/",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "SMB-digital ID",
+      "url": "https://id.smb.museum/object/968249",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/The_Abbey_in_the_Oakwood",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E6%A9%A1%E6%A8%B9%E6%9E%97%E4%B8%AD%E7%9A%84%E4%BF%AE%E9%81%93%E9%99%A2",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3ACaspar_David_Friedrich_-_Abtei_im_Eichwald_-_Google_Art_Project.jpg",
+      "status": 200,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q334360",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Caspar_David_Friedrich_-_Abtei_im_Eichwald_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Abtei_im_Eichwald_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 4000,
+    "height": 2563,
+    "bytes": 4003291,
+    "sha256": "69ebc11d3f1de7dc0aacd00f171f5738afbbc6e8719065c2d3ce9feb362da039"
+  }
+}

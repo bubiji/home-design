@@ -1,0 +1,49 @@
+{
+  "no": 104,
+  "favorite": true,
+  "favorite_reason": "The Story of Art 收录",
+  "title_en": "Self-Portrait (Small Self-Portrait)",
+  "title_ja": "",
+  "title_zh": "自画像(小自画像)",
+  "year": "c.1657",
+  "year_sort": 1657,
+  "technique": "油画",
+  "book_relation": "《The Story of Art》1951 英文初版 fig.263(第 20 章)——16 版编号未核对",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Rembrandt Harmensz. van Rijn 132.jpg",
+    "note": ""
+  },
+  "medium": "油彩,胡桃木板(oil on walnut wood panel)",
+  "dimensions": "48 × 40.6 cm(不含框);带框 94 × 87 × 9 cm",
+  "museum": "Kunsthistorisches Museum, Gemäldegalerie",
+  "museum_city": "维也纳",
+  "accession": "GG 414(KHM 官网);此前假设的 GG 730 有误",
+  "museum_url": "https://www.khm.at/en/artworks/small-self-portrait-1519",
+  "hd_available": "是:Commons 有可用大图;KHM 线上藏品库有图(授权条款未核对)",
+  "exhibited_history": [
+    "KHM 官网记载:自 1783 年起见于该画廊藏品记录",
+    "现于 KHM 画廊 XII 厅陈列",
+    "具体外借展览年份未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开外借或展出信息",
+  "summary": "约 1657 年的小幅油画自画像,画中的伦勃朗身着褐色外衣和红色羊毛衫。头部姿态与神情呼应他 1652 年的《大自画像》,但尺幅小得多,更显紧凑。",
+  "story": "KHM 将此画定为约 1657 年,右上角签有「Rembrandt f.」。此时伦勃朗正处于破产的边缘,1656 年被迫申请财产让渡。画中他不再穿华丽的服装,只穿日常衣物,面孔的塑造靠厚重、粘稠的颜料。馆方指出,其头部姿态与神情和 1652 年的大自画像相呼应,只是在小尺寸里显得更压缩。它自 1783 年起就有记录在维也纳皇家画廊的藏品中。后来成为《艺术的故事》里讲他晚年自画像的插图。",
+  "technique_note": "以粘稠的厚涂描绘面部高光,暗部薄涂并露出底层,笔触自由;木板选用胡桃木。",
+  "sources": [
+    "https://www.khm.at/en/artworks/small-self-portrait-1519",
+    "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_132.jpg"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Rembrandt_Harmensz._van_Rijn_132.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_132.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 2455,
+    "height": 2953,
+    "bytes": 2655722,
+    "sha256": "6b8d6c7312116103b1f4f18122fae042c9d7a8eeb729c40180be063b31de4158"
+  }
+}

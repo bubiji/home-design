@@ -1,0 +1,78 @@
+{
+  "no": 401,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/mont-sainte-victoire"
+  ],
+  "title_en": "Mont Sainte-Victoire Philadelphia 1902-1904",
+  "title_ja": "",
+  "title_zh": "圣维克多山",
+  "year": "c.1902–1904",
+  "year_sort": 1902,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Paul Cézanne, Mont Sainte-Victoire.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "73 × 91.9 cm(Commons 记 69 × 89.5 cm,待与馆方核对)",
+  "museum": "Philadelphia Museum of Art",
+  "museum_city": "美国费城",
+  "accession": "E1936-1-1(Elkins 系列,据 Commons 标注)",
+  "museum_url": "https://philamuseum.org/",
+  "hd_available": "是:Commons 有图(2956×2359 像素);费城美术馆提供开放图像,条款以官网为准",
+  "exhibited_history": [
+    "未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "巴黎大皇宫「Cézanne et nous」2026-09-23 至 2027-01-17(约 180 件,含约 70 件塞尚)已开幕;本作是否在列未查到。",
+  "summary": "这幅圣维克多山是塞尚晚年在艾克斯郊外所画的系列之一,山体被拆分为蓝绿色的色块,前景的树与田地像几何拼贴。它是后来立体主义的灵感来源。",
+  "story": "圣维克多山在塞尚家乡艾克斯附近,他从 1880 年代起反复画这座山。1901 年他在 Les Lauves 山坡上建了画室(未核对),晚年以此为基地创作了不少“圣维克多山”。费城这一幅画于 1902–1904 年间,画面中山形、天空和田地彼此渗透,用色块而非线条构成空间。画家曾说要“按圆柱、球、圆锥处理自然”。毕加索、布拉克都把塞尚视为立体主义之父。(未核对)",
+  "technique_note": "用平行的短笔触和互相叠压的色块塑造空间,放弃传统的线性透视与明暗渐变;局部留有未完成的空白。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/mont-sainte-victoire",
+    "https://commons.wikimedia.org/wiki/File:Paul_Cézanne,_Mont_Sainte-Victoire.jpg",
+    "https://www.grandpalais.fr/en/program/cezanne-and-us"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q20808604",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.cezannecatalogue.com/catalogue/entry.php?id=886",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Philadelphia Museum of Art work ID",
+      "url": "https://www.philamuseum.org/objects/102997",
+      "status": 200,
+      "checked": "2026-10-01"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3APaul_C%C3%A9zanne%2C_Mont_Sainte-Victoire.jpg",
+      "status": 200,
+      "checked": "2026-10-01"
+    }
+  ],
+  "wikidata": "Q20808604",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Paul_C%C3%A9zanne%2C_Mont_Sainte-Victoire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paul_C%C3%A9zanne,_Mont_Sainte-Victoire.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 2956,
+    "height": 2359,
+    "bytes": 6247283,
+    "sha256": "a57e361aa383c3e50e7aa9bebe030d643c1de47e3fb02a9cae000834522da07c"
+  }
+}

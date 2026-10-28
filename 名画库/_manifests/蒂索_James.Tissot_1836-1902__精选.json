@@ -1,0 +1,55 @@
+{
+ "author": {
+  "name_zh": "詹姆斯·蒂索",
+  "name_en": "James Tissot",
+  "life": "1836–1902",
+  "dir": "蒂索_James.Tissot_1836-1902",
+  "bio": "詹姆斯·蒂索(1836–1902)生于法国南特,先在巴黎发展,1871年普法战争与巴黎公社后移居伦敦,以描绘上流社会时尚生活的风俗画成名。晚年回到法国,转向以《圣经》为题材的创作。"
+ },
+ "source_article": "https://spice.eplus.jp/articles/347404",
+ "works": [
+  {
+   "no": 101,
+   "favorite": true,
+   "favorite_reason": "奥赛东京展报道作品(SPICE)",
+   "title_en": "Le Bal (The Ball)",
+   "title_ja": "夜会",
+   "title_zh": "舞会(夜会)",
+   "year": "c.1878",
+   "year_sort": 1878,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Le Bal - James TISSOT.jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "91 × 51(竖幅)",
+   "museum": "Musée d'Orsay",
+   "museum_city": "Paris",
+   "accession": "RF 2253(William Vaughan 遗赠,1919年入国家;经卢森堡博物馆、外交部、国立现代美术馆,1977年划拨奥赛)",
+   "museum_url": "https://www.musee-orsay.fr/en/artworks/evening-9160",
+   "hd_available": "是:Commons 有 File:Le Bal - James TISSOT.jpg(2802×4476);奥赛官网页本次抓取被拒 403,开放许可未核",
+   "exhibited_history": [
+    "首次展览:1878年伦敦格罗夫纳画廊(Grosvenor Gallery),展品编号第33号(据检索到的转引,未核官方目录)",
+    "1919年 Vaughan 遗赠入国家,此后经卢森堡博物馆等机构,1977年划拨奥赛",
+    "2020-06-23 至 2020-09-13 奥赛「詹姆斯·蒂索(1836–1902),暧昧的现代」展(该展总体已核实;本作是否在展未核实)",
+    "2026-11-14 至 2027-03-28 东京都美术馆(见 exhibited_future)"
+   ],
+   "exhibited_future": [
+    "2026-11-14 至 2027-03-28 东京都美术馆「東京都美術館開館100周年記念 オルセー美術館所蔵 いまを生きる歓び」(来源:https://spice.eplus.jp/articles/347404)"
+   ],
+   "future_note": "核对结果:奥赛1878年蒂索作品 Evening(又名 Le Bal,RF 2253)与东京展的《夜会》1878年,应为同一件:东京展报道英文对应 Evening Reception(SPICE 概述),奥赛该作即 Evening dit aussi Le Bal,1878;Commons 文件 Le Bal - James TISSOT.jpg 亦为该作。(以上对应关系依据标题、年份与馆藏,未见东京展官方目录逐条确认。)另有 Tate 藏《船上舞会》(The Ball on Shipboard,约1874)是另一件作品,勿混淆。东京展官方页说明本展不巡回,仅东京一站;本作入展依据为 SPICE 报道(已记录)。2026-09-30 前未查到其他公开的后续借展安排。",
+   "summary": "《夜会》(奥赛馆藏名 Evening,又称 Le Bal,1878)画一位身穿黄裙、手持折扇的年轻女子在白发男子引导下步入舞会。画作由 William Vaughan 委托,1919年遗赠法国国家,1977年起属奥赛。",
+   "story": "这幅画是 William Vaughan 委托蒂索绘制的,画面为竖长构图:年轻女子背对观众,三分之四侧面,身穿黄色礼服,手持同色展开的折扇,一位白发男子引她进入舞厅,左上角能看到人群。据检索到的转引,1878年它在伦敦格罗夫纳画廊展出。蒂索1871年起长居伦敦,这段时期正是他画上流社交场景的高峰。Vaughan 一直持有此画到1919年,遗赠给法国国家,之后进入卢森堡博物馆,1977年划拨奥赛。蒂索还在1883至1885年画了以粉色裙装为主角的复制版《野心家》(L'Ambitieuse),现藏纽约州布法罗的奥尔布赖特-诺克斯美术馆。东京展报道称画中衣饰纹样被解读为女性野心的暗示。",
+   "technique_note": "布面油画,竖幅。以黄色礼服和人物姿态为视觉重心,细致描绘服装、扇子与织物纹样,体现蒂索擅长的时尚风俗画细节。画面的空间层次(近景人物、远处人群)为主要构图手段。",
+   "sources": [
+    "https://spice.eplus.jp/articles/347404",
+    "https://www.musee-orsay.fr/en/artworks/evening-9160",
+    "https://fr.wikipedia.org/wiki/Evening_(Tissot)",
+    "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/presentation/james-tissot-1836-1902-ambiguously-modern"
+   ]
+  }
+ ]
+}

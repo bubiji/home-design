@@ -1,0 +1,53 @@
+{
+ "author": {
+  "dir": "卡萨斯_Ramon.Casas_1866-1932",
+  "name_zh": "拉蒙·卡萨斯",
+  "name_en": "Ramon Casas",
+  "life": "1866–1932",
+  "bio": "拉蒙·卡萨斯(1866–1932)是加泰罗尼亚现代主义(Modernisme)代表画家,生于巴塞罗那,早年在巴黎学习并受印象派与肖像画传统影响。他以肖像、都市生活与咖啡馆场景著称,是巴塞罗那「四只猫」咖啡馆圈子的核心人物之一。"
+ },
+ "source_article": "",
+ "works": [
+  {
+   "no": 301,
+   "favorite": true,
+   "favorite_reason": "周杰伦《太阳之子》(2026)MV 名画重现",
+   "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:线索剪报(置信度:4 篇)"
+   ],
+   "title_en": "Decadent Girl (Jove decadent)",
+   "title_ja": "",
+   "title_zh": "颓废的少女",
+   "year": "1899",
+   "year_sort": 1899,
+   "technique": "油画",
+   "book_relation": "",
+   "image": {
+    "source": "commons",
+    "commons_file": "File:Jove decadent.jpg",
+    "note": ""
+   },
+   "medium": "布面油画",
+   "dimensions": "46.5 × 56 cm",
+   "museum": "Museu de Montserrat",
+   "museum_city": "蒙特塞拉特(Montserrat),加泰罗尼亚,西班牙",
+   "accession": "200.398",
+   "museum_url": "http://www.museudemontserrat.com/ca/coleccions/pinturamoderna/96/ramon-casas/507",
+   "hd_available": "是(公有领域,Commons 有对应文件;最大像素未核对)",
+   "exhibited_history": [
+    "1899年11月 巴塞罗那,《Pèl & Ploma》杂志举办的卡萨斯原作素描与部分油画个展(据加泰罗尼亚语维基)"
+   ],
+   "exhibited_future": [],
+   "future_note": "未查到2026-09-30之后的公开展出信息",
+   "summary": "《颓废的少女》(又称《舞会之后》)是卡萨斯1899年在巴黎完成的小幅油画,画一位慵懒斜倚、着黑衣的年轻女子。它标志着他从蒙马特磨坊舞会场景转向优雅、世界性的女性肖像。已确认现藏蒙特塞拉特博物馆。",
+   "story": "据加泰罗尼亚语维基与馆方资料,此画作于1899年的巴黎,同年11月在巴塞罗那为《Pèl & Ploma》杂志举办的卡萨斯个展上亮相。画名中的「颓废(decadent)」呼应了世纪末欧洲文化圈流行的颓废美学。画家此时的巴黎作品不再以磨坊舞会的咖啡馆场景为主,而开始描绘「优雅而世界性的」女性。此画于1982年随何塞普·萨拉·阿迪斯(Josep Sala Ardiz)的捐赠进入蒙特塞拉特博物馆,馆藏编号 200.398。模特身份本次未查到确切记载。",
+   "technique_note": "布面油画,构图取斜倚人物的近景,以深绿背景衬托黑色裙装,画面色调偏暗、笔触概括,属加泰罗尼亚现代主义肖像风格。",
+   "sources": [
+    "https://ca.wikipedia.org/wiki/Jove_decadent",
+    "http://www.museudemontserrat.com/ca/coleccions/pinturamoderna/96/ramon-casas/507",
+    "https://visitmuseum.gencat.cat/ca/museu/museu-de-montserrat/objecte/jove-decadent-despres-del-ball",
+    "https://commons.wikimedia.org/wiki/File:Jove_decadent.jpg"
+   ]
+  }
+ ]
+}

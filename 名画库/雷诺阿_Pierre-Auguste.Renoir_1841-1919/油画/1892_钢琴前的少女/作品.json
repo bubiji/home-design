@@ -1,0 +1,89 @@
+{
+  "no": 404,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/young-girls-at-the-piano"
+  ],
+  "title_en": "Young Girls at the Piano",
+  "title_ja": "",
+  "title_zh": "钢琴前的少女",
+  "year": "1892",
+  "year_sort": 1892,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Auguste Renoir - Young Girls at the Piano - Google Art Project.jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "116 × 90 cm",
+  "museum": "Musée d'Orsay(本图版本)",
+  "museum_city": "法国巴黎",
+  "accession": "Commons 标注 1164(早期编号);现行 RF 号未查到",
+  "museum_url": "https://www.musee-orsay.fr/en/collections",
+  "hd_available": "是:Commons Google Art Project 图,4005×5292 像素",
+  "exhibited_history": [
+    "未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开的 2026-09-30 之后展出信息",
+  "summary": "两位少女并肩坐在钢琴前翻看乐谱,背景是柔和的室内。是雷诺阿晚年向古典线条回归后的柔润代表作,也是他最受官方认可的一幅。",
+  "story": "1891 年法国政府向雷诺阿订购一幅画,他为此画了五个版本,奥赛所藏这一幅由国家于 1892 年购入,是他首次获得国家收藏。(未核对)其他版本分别在大都会艺术博物馆、橘园美术馆等处。(未核对)构图上两位少女的姿态与发色互相呼应,背景的帘子与家具用暖红色统一。这一时期雷诺阿受意大利文艺复兴影响,线条更清晰。(未核对)",
+  "technique_note": "较印象派早期更细致的笔触与更平滑的肤色过渡,轮廓线更明确;红、金暖色调主导整个画面。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/young-girls-at-the-piano",
+    "https://commons.wikimedia.org/wiki/File:Auguste_Renoir_-_Young_Girls_at_the_Piano_-_Google_Art_Project.jpg"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3808227",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "https://www.ngv.vic.gov.au/orangerie/renoirimage.html",
+      "status": 403,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Musée d'Orsay artwork ID",
+      "url": "http://www.musee-orsay.fr/en/collections/index-of-works/notice.html?nnumid=1164",
+      "status": 403,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Girls_at_the_Piano",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E5%BD%88%E9%8B%BC%E7%90%B4%E7%9A%84%E5%B0%91%E5%A5%B3",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AAuguste_Renoir_-_Young_Girls_at_the_Piano_-_Google_Art_Project.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q3808227",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Auguste_Renoir_-_Young_Girls_at_the_Piano_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Auguste_Renoir_-_Young_Girls_at_the_Piano_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 4005,
+    "height": 5292,
+    "bytes": 7745767,
+    "sha256": "ad501af2229814efe43394d5645f3af5b76957c814b42219b020d030bb907e4a"
+  }
+}

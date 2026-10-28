@@ -1,0 +1,91 @@
+{
+  "no": 401,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/the-birth-of-venus"
+  ],
+  "title_en": "The Birth of Venus",
+  "title_ja": "",
+  "title_zh": "维纳斯的诞生",
+  "year": "c.1485",
+  "year_sort": 1485,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:The Birth of Venus (Botticelli) 1.jpg",
+    "note": ""
+  },
+  "medium": "麻布蛋彩(tempera on canvas;由两块画布缝合)",
+  "dimensions": "172.5 × 278.9 cm",
+  "museum": "Uffizi Gallery, Florence",
+  "museum_city": "佛罗伦萨(意大利)",
+  "accession": "00158551(Wikidata 记录的乌菲齐编号;传统馆藏号写法未核实)",
+  "museum_url": "https://www.uffizi.it/",
+  "hd_available": "是:Commons 有 9360×5581 px(约 37 MB)文件;公有领域。",
+  "exhibited_history": [
+    "1815 年起藏于乌菲齐(馆藏位置,非展览);1919 年起一度存放于佛罗伦萨美术学院美术馆(Galleria dell'Accademia),至 20 世纪 70 年代",
+    "外借展览记录未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到 2026-09-30 之后的公开外展安排。",
+  "summary": "波提切利约 1485 年所绘的世俗神话画:维纳斯乘贝壳抵岸,西风神与花神迎接她。它是文艺复兴时期最早的大幅古典神话女裸体之一。",
+  "story": "该画长期被认为是洛伦佐·迪·皮耶弗朗切斯科·美第奇委托之作,但 1975 年公布的 1499 年美第奇财产清单列出了《春》却未列此画,说明它进入美第奇家族可能更晚。画面描绘维纳斯诞生后抵达海岸(可能是塞浦路斯或基西拉岛):西风神与伴侣吹送她,春之女神手持披风等候。学界读法并存:新柏拉图主义的「神圣之爱」、给新娘的婚姻劝诫,以及月桂暗指「洛伦佐」的政治读法。画中可见多处修改痕迹,如时序女神原本穿古典凉鞋、维纳斯发型曾改动。",
+  "technique_note": "不同于波提切利常用的木板,此画用较廉价的麻布,由两块画布缝合并涂淡蓝色石膏底。大量使用金色提亮头发、翅膀、织物与风景;绿色颜料(西风神翅膀、树叶)随时间显著变暗,改变了原有色彩平衡。最后罩一层冷灰色清漆,可能含蛋黄。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/the-birth-of-venus",
+    "https://en.wikipedia.org/wiki/The_Birth_of_Venus_(Botticelli)",
+    "https://www.wikidata.org/wiki/Q151047"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q151047",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "描述页(P973)",
+      "url": "http://www.artchive.com/artchive/B/botticelli/venus_text.jpg.html",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Uffizi artwork ID",
+      "url": "https://www.uffizi.it/en/artworks/birth-of-venus",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/The_Birth_of_Venus",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E7%B6%AD%E7%B4%8D%E6%96%AF%E7%9A%84%E8%AA%95%E7%94%9F",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AThe_Birth_of_Venus_%28Botticelli%29_1.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q151047",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Birth_of_Venus_%28Botticelli%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:The_Birth_of_Venus_(Botticelli)_1.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 9360,
+    "height": 5581,
+    "bytes": 37103252,
+    "sha256": "1bf05d829c254d346461b10bb8de25a06e69f6c469ddb544c9e48c757393696e"
+  }
+}

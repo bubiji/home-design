@@ -1,0 +1,51 @@
+{
+  "no": 303,
+  "favorite": true,
+  "favorite_reason": "周杰伦《太阳之子》(2026)MV 名画重现",
+  "culture_relation": [
+    "周杰伦《太阳之子》(2026)MV 名画重现:苦艾酒致幻(置信度:1 篇)"
+  ],
+  "title_en": "Still Life with Absinthe",
+  "title_ja": "",
+  "title_zh": "咖啡桌上的苦艾酒",
+  "year": "1887",
+  "year_sort": 1887,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:Cafétafel met absint - s0186V1962 - Van Gogh Museum.jpg",
+    "note": ""
+  },
+  "medium": "布面油画(据荷兰语条目:olieverf op doek;并用极稀释的油彩,称 peinture à l'essence)",
+  "dimensions": "46.3 × 33.2 cm",
+  "museum": "Van Gogh Museum(梵高博物馆)",
+  "museum_city": "阿姆斯特丹,荷兰",
+  "accession": "s0186V1962",
+  "museum_url": "https://www.vangoghmuseum.nl/en/collection/s0186V1962",
+  "hd_available": "是(公有领域,Commons 有对应文件;最大像素未核对)",
+  "exhibited_history": [
+    "未查到"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到2026-09-30之后的公开展出信息",
+  "summary": "《咖啡桌上的苦艾酒》是梵高1887年2至3月在巴黎所画的小幅静物,画面是咖啡馆桌上的一杯苦艾酒与水瓶,背景是街景。它用极稀薄的油彩和细笔完成。现藏阿姆斯特丹梵高博物馆。",
+  "story": "此画作于梵高在巴黎的时期(1887年2至3月),那时他常出入咖啡馆并与艺术家往来。杯中的苦艾酒是当时流行的开胃酒,酒精浓度约60至70度,常与水混合饮用。有传闻他与铃鼓咖啡馆老板阿戈斯蒂娜·塞加托里有过恋情,并至少画过她两次,但此画与她的关系本次未查到确切记载。梵高博物馆的编号 s0186V1962 表明它是该馆1962年入藏系列(梵高家族藏品移交博物馆)的一件。",
+  "technique_note": "用高度稀释的油彩和细笔完成(peinture à l'essence),笔触细而流畅,色彩明亮,体现他在巴黎接触印象派与点彩派后的转变。",
+  "sources": [
+    "https://www.vangoghmuseum.nl/en/collection/s0186V1962",
+    "https://commons.wikimedia.org/wiki/File:Cafétafel_met_absint_-_s0186V1962_-_Van_Gogh_Museum.jpg",
+    "https://www.alamy.com/caf-table-with-absinthe-date-february-march-1887-paris-dimensions-463-cm-x-332-cm-60-cm-x-47-cm-museum-van-gogh-museum-amsterdam-author-van-gogh-vincent-vincent-van-gogh-image227517104.html"
+  ],
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Caf%C3%A9tafel_met_absint_-_s0186V1962_-_Van_Gogh_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9tafel_met_absint_-_s0186V1962_-_Van_Gogh_Museum.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 5243,
+    "height": 7471,
+    "bytes": 7379760,
+    "sha256": "c5d84c3c435d5f978ec58181ae8ada8f2c9fb930e617bc05a8db908df3565b40"
+  }
+}

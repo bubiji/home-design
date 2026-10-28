@@ -1,0 +1,83 @@
+{
+  "no": 404,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/vision-after-the-sermon"
+  ],
+  "title_en": "Vision after the Sermon",
+  "title_ja": "",
+  "title_zh": "布道后的幻象",
+  "year": "1888",
+  "year_sort": 1888,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:La vision après le sermon (Paul Gauguin).jpg",
+    "note": ""
+  },
+  "medium": "布面油画",
+  "dimensions": "72.2 × 91 cm",
+  "museum": "National Galleries of Scotland(Scottish National Gallery)",
+  "museum_city": "英国爱丁堡",
+  "accession": "NG 1643",
+  "museum_url": "https://www.nationalgalleries.org/",
+  "hd_available": "是:Commons 有高清图;NGS 提供开放图像,条款以官网为准",
+  "exhibited_history": [
+    "1925 年入藏苏格兰国家美术馆(未核对)"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开的 2026-09-30 之后展出信息",
+  "summary": "《布道后的幻象》中布列塔尼妇女在听完布道后,看见雅各与天使摔跤的景象。红色的地面与斜树干把现实与幻象分开。",
+  "story": "1888 年高更在 Pont-Aven 创作,受 Émile Bernard 影响,开创综合主义。布道的内容是《创世记》中雅各与天使摔跤。高更把画献给当地教堂,但被拒绝。(未核对)构图里大树斜穿画面分割现实与幻象,红色的地面不是写实而是象征。画面看似扁平,却是后来象征主义与纳比派的出发点。",
+  "technique_note": "综合主义:大面积平涂的红、深色轮廓线、日本浮世绘式的斜切构图,色彩由情感而非自然决定。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/vision-after-the-sermon",
+    "https://commons.wikimedia.org/wiki/File:La_vision_après_le_sermon_(Paul_Gauguin).jpg"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1764395",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "National Galleries Scotland ID",
+      "url": "https://www.nationalgalleries.org/art-and-artists/4940",
+      "status": 403,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/Vision_After_the_Sermon",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E5%B8%83%E9%81%93%E5%90%8E%E7%9A%84%E5%B9%BB%E8%B1%A1",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3ALa_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q1764395",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:La_vision_apr%C3%A8s_le_sermon_(Paul_Gauguin).jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "width": 5000,
+    "height": 3918,
+    "bytes": 8460060,
+    "sha256": "0d3593af6fe887a15db9a3402937138678f475562d7c9822fe3748971ea1401e"
+  }
+}

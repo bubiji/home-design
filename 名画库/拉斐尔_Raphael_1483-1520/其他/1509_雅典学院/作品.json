@@ -1,0 +1,80 @@
+{
+  "no": 401,
+  "favorite": true,
+  "favorite_reason": "画框之外 The Living Gallery 收录",
+  "culture_relation": [
+    "画框之外 The Living Gallery 收录:https://huakuangzhiwai.space/collection/school-of-athens"
+  ],
+  "title_en": "The School of Athens",
+  "title_ja": "",
+  "title_zh": "雅典学院",
+  "year": "1509–1511",
+  "year_sort": 1509,
+  "technique": "其他",
+  "book_relation": "",
+  "image": {
+    "source": "commons",
+    "commons_file": "File:The School of Athens by Raphael (Vatican).jpg",
+    "note": "壁画现场照(CC BY-SA 4.0)"
+  },
+  "medium": "湿壁画(fresco)",
+  "dimensions": "约 500 × 770 cm(维基百科;Wikidata 记 550 × 770 cm,各源略有出入)",
+  "museum": "Vatican Museums — Stanza della Segnatura, Apostolic Palace",
+  "museum_city": "梵蒂冈",
+  "accession": "未查到(原位壁画,无常规馆藏号;Wikidata 记 6306a.,未经馆方核实)",
+  "museum_url": "https://www.museivaticani.va/",
+  "hd_available": "有限:Commons 现场照 6000×3368 px(CC BY-SA 4.0,需署名并相同方式共享);壁画本身为公有领域,但摄影作品受许可约束。馆方高清下载未查到。",
+  "exhibited_history": [
+    "原位壁画,1509–1511 年绘于梵蒂冈 Stanza della Segnatura,未外借展出",
+    "预备草图(cartoon)藏于米兰 Pinacoteca Ambrosiana,比壁画少了建筑背景与部分人物"
+  ],
+  "exhibited_future": [],
+  "future_note": "壁画无法外借,不存在外展计划。",
+  "summary": "拉斐尔为教皇尤利乌斯二世的签字厅所绘的壁画,以宏伟拱廊汇集古希腊哲学家,中心是柏拉图与亚里士多德。它是文艺复兴盛期理想的集中表达。",
+  "story": "画作约 1509–1511 年绘制,位于教皇图书室兼签字厅 Stanza della Segnatura。中央手指向天的是柏拉图,手掌向下的是亚里士多德,据说柏拉图的面容取自达·芬奇,赫拉克利特常被认为取自米开朗基罗。拉斐尔把自己画在托勒密旁边的人群边缘。预备草图保存在米兰 Ambrosiana,说明他先以实尺草图推敲人物,再转到墙面。画面的宏大拱廊展示了严格的线性透视,被看作文艺复兴盛期对古典文明「重生」的宣言。",
+  "technique_note": "采用湿壁画技法:在新抹的灰泥(intonaco)上趁湿作画,分块(giornata)完成,每天只画一块。Ambrosiana 的草图用于把构图转移到墙面。",
+  "sources": [
+    "https://huakuangzhiwai.space/collection/school-of-athens",
+    "https://en.wikipedia.org/wiki/The_School_of_Athens",
+    "https://www.wikidata.org/wiki/Q186953",
+    "https://commons.wikimedia.org/wiki/File:The_School_of_Athens_by_Raphael_(Vatican).jpg"
+  ],
+  "links": [
+    {
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q186953",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia(英)",
+      "url": "https://en.wikipedia.org/wiki/The_School_of_Athens",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "维基百科(中)",
+      "url": "https://zh.wikipedia.org/wiki/%E9%9B%85%E5%85%B8%E5%AD%B8%E9%99%A2_(%E7%95%AB%E4%BD%9C)",
+      "status": 200,
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Commons 原图页",
+      "url": "https://commons.wikimedia.org/wiki/File%3AThe_School_of_Athens_by_Raphael_%28Vatican%29.jpg",
+      "status": 200,
+      "checked": "2026-10-02"
+    }
+  ],
+  "wikidata": "Q186953",
+  "downloaded": {
+    "file": "原图.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/The_School_of_Athens_by_Raphael_%28Vatican%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_page": "https://commons.wikimedia.org/wiki/File:The_School_of_Athens_by_Raphael_(Vatican).jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 6000,
+    "height": 3368,
+    "bytes": 8422973,
+    "sha256": "fa79132c9f7e8de2cf421d78a3195b20c20b40171f3b2f1ee4830e9956429220"
+  }
+}

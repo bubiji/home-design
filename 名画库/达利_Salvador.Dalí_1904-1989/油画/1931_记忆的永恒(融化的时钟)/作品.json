@@ -1,0 +1,48 @@
+{
+  "no": 201,
+  "favorite": true,
+  "favorite_reason": "周杰伦《最伟大的作品》(2022) 引用的作品;周杰伦《太阳之子》(2026)MV 名画重现",
+  "culture_relation": [
+    "周杰伦《最伟大的作品》(2022):歌词提及——歌词以「时钟」意象指向融化的钟表。(置信度:来源明确点名)",
+    "周杰伦《太阳之子》(2026)MV 名画重现:苦艾酒幻觉中的融化时钟(置信度:7 篇)",
+    "周杰伦《最伟大的作品》(2022)MV/歌词:MV 时钟指针反向转动,呼应周杰伦《反方向的钟》",
+    "周杰伦《最伟大的作品》(2022)MV/歌词:补充——周杰伦更早的《床边故事》MV 也致敬过这幅画(知乎解析)"
+  ],
+  "title_en": "The Persistence of Memory",
+  "title_ja": "",
+  "title_zh": "记忆的永恒(融化的时钟)",
+  "year": "1931",
+  "year_sort": 1931,
+  "technique": "油画",
+  "book_relation": "",
+  "image": {
+    "source": "none",
+    "commons_file": "",
+    "note": "作者 1989 年去世,作品仍在版权期内,只记资料不下载"
+  },
+  "medium": "布面油画",
+  "dimensions": "24.1 x 33 cm(MoMA 标 9 1/2 x 13 in)",
+  "museum": "纽约现代艺术博物馆 MoMA",
+  "museum_city": "纽约,美国",
+  "accession": "162.1934",
+  "museum_url": "https://www.moma.org/collection/works/79018",
+  "hd_available": "否(作者1989年去世,作品仍在版权期内,只记资料不下载)",
+  "exhibited_history": [
+    "1931年6月3-15日:巴黎 Galerie Pierre Colle(首展)",
+    "1932年:纽约 Julien Levy 画廊,标价250美元",
+    "1934年:由一位匿名的「博物馆之友」从 Levy 处购得并赠予 MoMA,此后长期陈列"
+  ],
+  "exhibited_future": [],
+  "future_note": "未查到公开的2026-09-30之后展出安排(MoMA 页面 403,信息来自搜索摘要)",
+  "summary": "1931年的小幅油画,以软塌塌的怀表和荒凉海岸成为超现实主义的象征。现藏纽约 MoMA。",
+  "story": "1931年6月画作在巴黎 Galerie Pierre Colle 首次展出,次年在纽约 Julien Levy 画廊以250美元售出。1934年一位匿名友人把它买下赠给 MoMA。画面尺寸只有约24 x 33厘米。画中有扭曲的类自画像形象、蚂蚁和加泰罗尼亚风景。据艺术史家 Dawn Adès 的说法,软钟表指向空间与时间的相对性;达利本人则说灵感来自阳光下融化的卡门贝尔奶酪。",
+  "technique_note": "布面油画,精细写实的笔法描绘非现实的物体;与达利当时提出的「偏执狂-批判法」相关。",
+  "sources": [
+    "https://news.qq.com/rain/a/20220706A05CMF00",
+    "https://www.thepaper.cn/newsDetail_forward_18895563",
+    "https://www.moma.org/collection/works/79018",
+    "https://en.wikipedia.org/wiki/The_Persistence_of_Memory",
+    "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/478/"
+  ],
+  "downloaded": null
+}
