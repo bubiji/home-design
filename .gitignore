@@ -18,3 +18,8 @@ __pycache__/
 画墙/06_打印稿/**/*.tif
 
 _trash/
+
+# 社区原帖归档:SingleFile HTML 原件体积大,只留本地;逐字 md / INDEX / comments.jsonl 进 git
+**/reddit/html/
+**/reddit/search/
+**/reddit/.tmp_search/
